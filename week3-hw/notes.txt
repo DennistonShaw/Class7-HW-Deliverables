@@ -1,0 +1,40 @@
+CLASS 3 
+
+9/23/2025
+
+Uploading sample files from computer to a Github repository using Terminal
+Topic = command line, file management, and Github
+Gitbash on Windows or Terminal on Mac
+
+GUI = graphical User interface (*pronounced gooey)
+allows you to interact directly with the computer
+
+Quick commands
+pwd = print working directory *means show the current folder I’m in right now
+cd = change directory. Type cd and the name of directory
+cd .. = going back one directory
+ls (list storage) = allow you to view all the files inside the current directory
+Clear = clears out the screen
+
+Important to have a system to search for things
+
+How to create a file using terminal:
+touch and name ie “touch lizzo.txt” to create a file
+rm and name to remove the file “rm touch lizzo.txt”
+
+232101875+DennistonShaw@users.noreply.github.com
+
+git config --global user.name "Your Full Name"
+Git config --global user.email “your.email@example.com”
+
+git config --global user.email "your.email@example.com"
+
+Git config --global --list
+
+echo "# 9.23.25_class7_3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DennistonShaw/9.23.25_class7_3.git
+git push -u origin main

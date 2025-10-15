@@ -1,0 +1,19 @@
+WEEK 3 HW ASSIGNMENTS
+
+HW - DELIVERABLES (5 pts)
+Must be in github repo link (can be a single repo link or multiple repo links)
+Include Week 1 HW
+Include Week 2 lab notes
+Week 3 lab documents: A .txt document with your nickname, desired income, and your group leader’s name, picture of your “happy place”, and picture of your favorite hobby
+Week 3 KillerCoda screenshots
+
+
+Log into https://killercoda.com/pawelpiwosz/course/linuxFundamentals using your GitHub account, complete lessons 1-10, and upload screenshots of each exercise being completed to your repo.
+
+HW - BE A MAN CHALLENGE 3.1 (10 pts)
+Must be in github repo link
+Using Git Bash (Windows) or Terminal (Mac/Linux), point the command line to “see” only your desktop. From there, list the folder + subfolder contents of “scripts_chocolatey” (Windows), “scripts_homebrew” (Mac), or /sbin (Linux), take a screenshot, and upload the findings to your repo.
+
+HW - BE A MAN CHALLENGE 3.2 (10 pts)
+Must be in github repo link
+Create a walkthrough of how to complete a git merge request, complete with screenshots of the successful merge request and the updated content
