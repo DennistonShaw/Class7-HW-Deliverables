@@ -1,0 +1,19 @@
+Dennis' Network architecture	
+	
+region = virginia (us-east-1)	
+	10.71.0.0/16
+
+public	10.71.1.0/24	a
+public	10.71.2.0/24	b
+public	10.71.3.0/24	c
+public	10.71.4.0/24	d
+		
+private	10.71.11.0/24	a
+private	10.71.12.0/24	b
+private	10.71.13.0/24	c
+private	10.71.14.0/24	d
+		
+private	10.71.21.0/24	a
+private	10.71.22.0/24	b
+private	10.71.23.0/24	c
+private	10.71.24..0/24	d
