@@ -52,21 +52,21 @@ VPC endpoints
 
 
 Fill out VPC info
-![fill out create vpc](1-VPC.png)
+![fill out create vpc](./screen-captures/1-VPC.png)
 Create VPC
-![create vpc](2-create-vpc-workflow.png)
+![create vpc](./screen-captures/2-create-vpc-workflow.png)
 View VPC
-![view vpc ](3-view-vpc.png)
+![view vpc ](./screen-captures/3-view-vpc.png)
 
 ### Create Security Groups 
 
 #### Public
-![Public security group](4-public-security-group-bastion.png)
-![Public security group](5-public-security-bastion.png)
+![Public security group](./screen-captures/4-public-security-group-bastion.png)
+![Public security group](./screen-captures/5-public-security-bastion.png)
 
 #### Private
-![private security info](6-create-private-security.png)
-![create private security](7-created-private-security.png)
+![private security info](./screen-captures/6-create-private-security.png)
+![create private security](./screen-captures/7-created-private-security.png)
 
 ### Create Instances
 
@@ -86,7 +86,7 @@ Instance Type
 Key pair (login)
 - create key pair
 - named it get-fresh-public-bastion
-![create key pair](8-create-key-pair.png)
+![create key pair](./screen-captures/8-create-key-pair.png)
 
 Network Settings
 - choose edit 
@@ -106,11 +106,11 @@ Firewall (security groups)
 Common security groups
 - get-fresh-public-bastion
 
-![launch instance info](9-bastion-instance-info.png)
+![launch instance info](./screen-captures/9-bastion-instance-info.png)
 Launch instance
 
 
-![launched instance](10-Launched-instance.png)
+![launched instance](./screen-captures/10-Launched-instance.png)
 
 ### Launch private instance for zone 1a
 
@@ -118,7 +118,7 @@ Amazon Linux
 
 Create Key Pair
 get-fresh-private.pem
-![create private key pair](11-create-key-pair-private.png)
+![create private key pair](./screen-captures/11-create-key-pair-private.png)
 
 Network settings
 - edit
@@ -145,28 +145,28 @@ Advanced details
 
 ### Launch private instance for zone 1b
 
-![Theo's github script](12-github-theo-script.png)
-![private instance info](13-private-instance-info.png)
+![Theo's github script](./screen-captures/12-github-theo-script.png)
+![private instance info](./screen-captures/13-private-instance-info.png)
 
 Launch Instance  - private zone 1a
-![sucess](14-sucess-private-instance.png)
+![sucess](./screen-captures/14-sucess-private-instance.png)
 
 Launch Instance -private zone 1b
 
-![key pair for zone 1b](15-key-pair-get-fresh-private-zone1b.png)
-![sucess](16-success-private-instance-zone1b.png)
+![key pair for zone 1b](./screen-captures/15-key-pair-get-fresh-private-zone1b.png)
+![sucess](./screen-captures/16-success-private-instance-zone1b.png)
 
 Launch Instance -private zone 1c
 
-![key pair for zone 1c](17-key-pair-get-fresh-private-zone1c.png)
+![key pair for zone 1c](./screen-captures/17-key-pair-get-fresh-private-zone1c.png)
 
 Launch instance
 
-![sucess](18-success-private-instance-zone1c.png)
+![sucess](./screen-captures/18-success-private-instance-zone1c.png)
 
 ### View all instances
 
-![view all instances](19-view-all-instances.png)
+![view all instances](./screen-captures/19-view-all-instances.png)
 
 ### Connect to instance (Windows Bastion)
 
@@ -182,15 +182,15 @@ Launch instance
 >>- copy password and run the get-fresh-public.bastion.rdp file and paste the password note user name will be Administrator
 >>- password: k%&f0X46?h)1(myH1*Dwm&wJJCxg?!YD
 
-![connect rdp client open windows bastion](20-connect-rdp-client.png)
+![connect rdp client open windows bastion](./screen-captures/20-connect-rdp-client.png)
 
-![windows bastion](21-windows-bastion.png)
+![windows bastion](./screen-captures/21-windows-bastion.png)
 
 open a terminal in the windows bastion
 
 ping each of your private instances to verify each
 
-![bastion host pings](22-bastion-host-pings.png)
+![bastion host pings](./screen-captures/22-bastion-host-pings.png)
 
 go into windows exporer internet and view the private instances
 - go to AWS highlight the instances copy the private 1Pv4 addresses or the Private IP DNS names and type in the bastion host http:// + these addresses
@@ -200,4 +200,4 @@ go into windows exporer internet and view the private instances
 >>- zone1b    http://ip-10-72-12-82.ec2.internal
 >>- zone1c    http://ip-10-72-13-114.ec2.internal
 
-![be a man challenge 4.1 pdf](23-bam-challenge-4.1.png)
+![be a man challenge 4.1 pdf](./screen-captures/23-bam-challenge-4.1.png)
