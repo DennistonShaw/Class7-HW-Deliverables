@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Optional: ignore RTF files if not needed
+
+# Optional: ignore image files if not needed
+``
