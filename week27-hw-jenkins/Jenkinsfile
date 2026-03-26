@@ -49,15 +49,9 @@ pipeline {
         stage('Terraform Validate') {
             steps {
                 dir('week27-hw-jenkins') {
-                    withCredentials([[
-                        $class: 'AmazonWebServicesCredentialsBinding',
-                        credentialsId: 'JenkinsTest'
-                    ]]) {
-                        sh '''
-                        export AWS_DEFAULT_REGION=$AWS_REGION
-                        terraform validate
-                        '''
-                    }
+                    sh '''
+                    terraform validate
+                    '''
                 }
             }
         }
