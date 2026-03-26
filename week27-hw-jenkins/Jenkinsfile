@@ -1,103 +1,81 @@
 pipeline {
     agent any
-   
+
     environment {
-        AWS_REGION = 'us-east-1' 
+        AWS_REGION = 'us-east-1'
     }
+
     stages {
         stage('Set AWS Credentials') {
-            steps {
-                withCredentials([[
-                    $class: 'AmazonWebServicesCredentialsBinding',
-                    credentialsId: 'JenkinsTest' 
-                ]]) {
-                    sh '''
-                    echo "AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID"
-                    aws sts get-caller-identity
-                    '''
-                }
-            }
-        }
-        stage('Checkout Code') {
-            steps {
-                git branch: 'main', url: 'https://github.com/DennistonShaw/Class7-HW-Deliverables/week27-hw-jenkins' 
-            }
-        }
-
-        // stage('Testing') {
-        //     // withEnv(["JFROG_BINARY_PATH=${tool 'jfrog-cli'}"]) {
-        //     // // The 'jf' tool is available in this scope.
-        //     // }
-        //     steps {
-        //         withCredentials([string(credentialsId: 'jfrog-creds', variable: 'JFROG_TOKEN')]) {
-        //             // Show the installed version of JFrog CLI
-        //             jf '-v'
-                    
-        //             // Show the configured JFrog Platform instances
-        //             jf 'c show'
-                    
-        //             // Ping Artifactory
-        //             jf 'rt ping'
-                    
-        //             // Create a file and upload it to the repository
-        //             sh 'touch test-file'
-        //             // Fixed upload command syntax
-        //             sh 'jf rt upload test-file tf-terraform/ --url=https://trial7zoppg.jfrog.io/artifactory/ --user=mcdonald.dm.aaron@gmail.com --password=$JFROG_TOKEN'
-                    
-        //             // Publish the build-info to Artifactory
-        //             jf 'rt bp'
-                    
-        //             // Fixed download command syntax
-        //             sh 'jf rt download tf-terraform/test-file --url=https://trial7zoppg.jfrog.io/artifactory/ --user=mcdonald.dm.aaron@gmail.com --password=$JFROG_TOKEN'
-        //         }
-        //     } 
-        // }
-    
-        stage('Initialize Terraform') {
             steps {
                 withCredentials([[
                     $class: 'AmazonWebServicesCredentialsBinding',
                     credentialsId: 'JenkinsTest'
                 ]]) {
                     sh '''
-                    export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
-                    export JenkinsTest=$JenkinsTest
-                    terraform init
+                    export AWS_DEFAULT_REGION=$AWS_REGION
+                    aws sts get-caller-identity
                     '''
+                }
+            }
+        }
+
+        stage('Checkout Code') {
+            steps {
+                git branch: 'main', url: 'https://github.com/DennistonShaw/Class7-HW-Deliverables.git'
+            }
+        }
+
+        stage('Initialize Terraform') {
+            steps {
+                dir('week27-hw-jenkins') {
+                    withCredentials([[
+                        $class: 'AmazonWebServicesCredentialsBinding',
+                        credentialsId: 'JenkinsTest'
+                    ]]) {
+                        sh '''
+                        export AWS_DEFAULT_REGION=$AWS_REGION
+                        terraform init
+                        '''
+                    }
                 }
             }
         }
 
         stage('Plan Terraform') {
             steps {
-                withCredentials([[
-                    $class: 'AmazonWebServicesCredentialsBinding',
-                    credentialsId: 'JenkinsTest'
-                ]]) {
-                    sh '''
-                    export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
-                    export JenkinsTest=$JenkinsTest
-                    terraform plan -out=tfplan
-                    '''
+                dir('week27-hw-jenkins') {
+                    withCredentials([[
+                        $class: 'AmazonWebServicesCredentialsBinding',
+                        credentialsId: 'JenkinsTest'
+                    ]]) {
+                        sh '''
+                        export AWS_DEFAULT_REGION=$AWS_REGION
+                        terraform plan -out=tfplan
+                        '''
+                    }
                 }
             }
         }
+
         stage('Apply Terraform') {
             steps {
                 input message: "Approve Terraform Apply?", ok: "Deploy"
-                withCredentials([[
-                    $class: 'AmazonWebServicesCredentialsBinding',
-                    credentialsId: 'JenkinsTest'
-                ]]) {
-                    sh '''
-                    export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
-                    export JenkinsTest=$JenkinsTest
-                    terraform apply -auto-approve tfplan
-                    '''
+                dir('week27-hw-jenkins') {
+                    withCredentials([[
+                        $class: 'AmazonWebServicesCredentialsBinding',
+                        credentialsId: 'JenkinsTest'
+                    ]]) {
+                        sh '''
+                        export AWS_DEFAULT_REGION=$AWS_REGION
+                        terraform apply -auto-approve tfplan
+                        '''
+                    }
                 }
             }
         }
     }
+
     post {
         success {
             echo 'Terraform deployment completed successfully!'
