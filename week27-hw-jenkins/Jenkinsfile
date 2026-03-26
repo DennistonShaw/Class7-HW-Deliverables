@@ -20,13 +20,17 @@ pipeline {
             }
         }
 
-        stage('Checkout Code') {
+        stage('Terraform Format Check') {
             steps {
-                git branch: 'main', url: 'https://github.com/DennistonShaw/Class7-HW-Deliverables.git'
+                dir('week27-hw-jenkins') {
+                    sh '''
+                    terraform fmt -check
+                    '''
+                }
             }
         }
 
-        stage('Initialize Terraform') {
+        stage('Terraform Init') {
             steps {
                 dir('week27-hw-jenkins') {
                     withCredentials([[
@@ -42,7 +46,23 @@ pipeline {
             }
         }
 
-        stage('Plan Terraform') {
+        stage('Terraform Validate') {
+            steps {
+                dir('week27-hw-jenkins') {
+                    withCredentials([[
+                        $class: 'AmazonWebServicesCredentialsBinding',
+                        credentialsId: 'JenkinsTest'
+                    ]]) {
+                        sh '''
+                        export AWS_DEFAULT_REGION=$AWS_REGION
+                        terraform validate
+                        '''
+                    }
+                }
+            }
+        }
+
+        stage('Terraform Plan') {
             steps {
                 dir('week27-hw-jenkins') {
                     withCredentials([[
@@ -58,9 +78,9 @@ pipeline {
             }
         }
 
-        stage('Apply Terraform') {
+        stage('Terraform Apply') {
             steps {
-                input message: "Approve Terraform Apply?", ok: "Deploy"
+                input message: 'Approve Terraform Apply?', ok: 'Deploy'
                 dir('week27-hw-jenkins') {
                     withCredentials([[
                         $class: 'AmazonWebServicesCredentialsBinding',
@@ -74,14 +94,33 @@ pipeline {
                 }
             }
         }
+
+// I commented this out because its scary. I want to prevent an accidental destroy of my infrastructure.
+
+        // stage('Terraform Destroy') {
+        //     steps {
+        //         input message: 'Approve Terraform Destroy?', ok: 'Destroy'
+        //         dir('week27-hw-jenkins') {
+        //             withCredentials([[
+        //                 $class: 'AmazonWebServicesCredentialsBinding',
+        //                 credentialsId: 'JenkinsTest'
+        //             ]]) {
+        //                 sh '''
+        //                 export AWS_DEFAULT_REGION=$AWS_REGION
+        //                 terraform destroy -auto-approve
+        //                 '''
+        //             }
+        //         }
+        //     }
+        // }
     }
 
     post {
         success {
-            echo 'Terraform deployment completed successfully!'
+            echo 'Terraform pipeline completed successfully!'
         }
         failure {
-            echo 'Terraform deployment failed!'
+            echo 'Terraform pipeline failed!'
         }
     }
 }
