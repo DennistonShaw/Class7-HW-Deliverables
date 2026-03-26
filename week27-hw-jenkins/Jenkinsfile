@@ -104,7 +104,7 @@ pipeline {
                         ]
                     )
 
-                    if (destroyChoice == 'yes' || destroyChoice['DESTROY'] == 'yes') {
+                    if (destroyChoice == 'yes') {
                         dir('week27-hw-jenkins') {
                             withCredentials([[
                                 $class: 'AmazonWebServicesCredentialsBinding',
