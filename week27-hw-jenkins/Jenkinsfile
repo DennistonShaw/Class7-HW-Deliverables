@@ -89,24 +89,39 @@ pipeline {
             }
         }
 
-// I commented this out because its scary. I want to prevent an accidental destroy of my infrastructure.
+        stage('Terraform Destroy (Optional)') {
+            steps {
+                script {
+                    def destroyChoice = input(
+                        message: 'Do you want to run terraform destroy?',
+                        ok: 'Submit',
+                        parameters: [
+                            choice(
+                                name: 'DESTROY',
+                                choices: ['no', 'yes'],
+                                description: 'Select yes to destroy resources'
+                            )
+                        ]
+                    )
 
-        // stage('Terraform Destroy') {
-        //     steps {
-        //         input message: 'Approve Terraform Destroy?', ok: 'Destroy'
-        //         dir('week27-hw-jenkins') {
-        //             withCredentials([[
-        //                 $class: 'AmazonWebServicesCredentialsBinding',
-        //                 credentialsId: 'JenkinsTest'
-        //             ]]) {
-        //                 sh '''
-        //                 export AWS_DEFAULT_REGION=$AWS_REGION
-        //                 terraform destroy -auto-approve
-        //                 '''
-        //             }
-        //         }
-        //     }
-        // }
+                    if (destroyChoice == 'yes' || destroyChoice['DESTROY'] == 'yes') {
+                        dir('week27-hw-jenkins') {
+                            withCredentials([[
+                                $class: 'AmazonWebServicesCredentialsBinding',
+                                credentialsId: 'JenkinsTest'
+                            ]]) {
+                                sh '''
+                                export AWS_DEFAULT_REGION=$AWS_REGION
+                                terraform destroy -auto-approve
+                                '''
+                            }
+                        }
+                    } else {
+                        echo "Skipping destroy"
+                    }
+                }
+            }
+        }
     }
 
     post {
