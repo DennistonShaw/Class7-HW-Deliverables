@@ -65,7 +65,7 @@ The goal is to build a **reproducible CI/CD environment** and understand both:
 
 A CI/CD pipeline is:
 
-> An automated process that takes your code from “just written” → “running in production”
+An automated process that takes your code from “just written” to “running in production”
 
 Think of it like an **assembly line for your application**.
 
@@ -85,7 +85,7 @@ plan → code → build → test → release → deploy → operate → monitor
 
 **Webhook invocation** is a core CI/CD concept.
 
-### Simple Definition
+**Simple Definition**
 
 A webhook is when one system automatically sends a message (HTTP request) to another system when something happens.
 

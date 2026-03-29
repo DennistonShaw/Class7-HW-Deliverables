@@ -29,7 +29,6 @@
 
 ---
 
-
 ## Jenkins Config
 
 ### Make a pipeline 
@@ -203,9 +202,8 @@ Go to Github -> Repository -> Settings
 
 **Add Webhook** (might have to confirm access)
 
-Payload URL:
-- http://ec2-54-234-154-238.compute-1.amazonaws.com:8080/github-webhook/
-  - http:// + URL + Port + Script Path
+Payload URL: (http:// + URL + Port + Script Path)
+- `http://ec2-54-234-154-238:8080/github-webhook/`
 
 **Content Type**
 
@@ -219,7 +217,8 @@ Go back to Jenkins and Build now to send a trigger
 
 ![github settings](../screenshots/webhooks/5.png)
 
-run this 
+run this
+
 ```bash
 git commit --allow-empty -m "test webhook"
 git push origin main

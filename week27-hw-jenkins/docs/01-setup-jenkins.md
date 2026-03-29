@@ -115,7 +115,7 @@ Paste into **Advanced Details → User Data**
 
 Here is the new user data with the automated script
 
-- [v2-user-data-w-jenkins-plugins.sh](/jenkins/v2-user-data-w-jenkins-plugins.sh)
+- [v2-user-data-w-jenkins-plugins.sh](../jenkins/v2-user-data-w-jenkins-plugins2.sh)
 - I made a few changes to the user data example:
   - Increased /tmp allocation to 4G to support Jenkins build workloads requiring temporary storage
   - Implemented a 4G swap file to enhance system stability during memory-intensive CI/CD operations
@@ -210,9 +210,9 @@ sign in  and go to system -> manage system -> nodes to ensure temp space changed
 
 # 3. Plugin List (Manual Reference)
 
-### [Jenkin Plugin IDs](jenkins-plugin-ids.txt)
+[Jenkin Plugin IDs](../docs/05-auto-plugin-setup-ids.md)
 
-### [Jenkin Plugin names](jenkins-plugin-ids.txt)
+[Jenkin Plugin names](../jenkins/jenkins-plugins.txt)
 
 **Go to:** Manage Jenkins → Script Console and run this
 
