@@ -8,11 +8,13 @@ resource "aws_s3_bucket" "frontend" {
 }
 
 resource "aws_s3_object" "uploads" {
-  for_each = fileset("${path.module}/armageddon-proof", "*")
+  for_each = fileset("${path.module}/../armageddon-proof", "*")
 
   bucket = aws_s3_bucket.frontend.id
   key    = each.value
-  source = "${path.module}/armageddon-proof/${each.value}"
+  source = "${path.module}/../armageddon-proof/${each.key}"
+
+  depends_on = [aws_s3_bucket.frontend]
 }
 
 resource "aws_s3_bucket_public_access_block" "frontend_pab" {
