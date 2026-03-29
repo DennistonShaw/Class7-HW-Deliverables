@@ -33,21 +33,26 @@ This is strong DevOps knowledge.
 
 ---
 
-# Table of Contents
+## Table of Contents
 
-[1. Step 1 - Launch EC2 Instance](#1-step-1---launch-ec2-instance)
-[2. User Data Script (Jenkins Install)](#2-user-data-script-jenkins-install)
-     - [2.1 Increase Space Aloted](#21-increase-space-aloted)
-[3. Plugin List (Manual Reference)](#3-plugin-list-manual-reference)
-[4. Automating Plugin Installation](#4-automating-plugin-installation)
-[5. Environment Validation](#5-environment-validation)
-[6. AMI (Amazon Machine Imaging)](#6-ami-amazon-machine-imaging)
-[7. How to launch this later](#7-how-to-launch-this-later)
-[8. Tear it down (In the Console)](#8-tear-it-down-in-the-console)
+- [Launch EC2 Instance](#1-launch-ec2-instance)
+- [User Data Script (Jenkins Install)](#2-user-data-script-jenkins-install)
+  - [Launch Instance](#launch-instance)
+  - [Go to Jenkins Webpage](#go-to-jenkins-webpage)
+  - [Increase Space Allotted](#increase-space-allotted)
+- [Plugin List (Manual Reference)](#3-plugin-list-manual-reference)
+- [Automating Plugin Installation](#4-automating-plugin-installation)
+  - [Export Plugin List](#export-plugin-list-one-time)
+  - [Automated Plugin Install Script](#automated-plugin-install-script)
+- [Environment Validation](#5-environment-validation)
+- [AMI (Amazon Machine Imaging)](#6-ami-amazon-machine-imaging)
+- [How to Launch This Later](#7-how-to-launch-this-later)
+  - [Set up after AMI](#set-up-after-ami)
+- [Tear it Down (In the Console)](#8-tear-it-down-in-the-console)
 
 ---
 
-# 1. Step 1 - Launch EC2 Instance
+## 1. Launch EC2 Instance
 
 **Go to AWS Console**
 
@@ -99,32 +104,23 @@ If creating a new one:
 
 * Increase from default 8 GiB → **20 GiB**
 
-**go to Advanced details**
+go to Advanced details
 
----
 
-[🔝 Return to Table of Contents](#table-of-contents)
 
----
 
-# 2. User Data Script (Jenkins Install)
+### 2. User Data Script (Jenkins Install)
 
 Paste into **Advanced Details → User Data**
 
 Here is the new user data with the automated script
 
-- [v2-user-data-w-jenkins-plugins.sh](v2-user-data-w-jenkins-plugins.sh)
+- [v2-user-data-w-jenkins-plugins.sh](/jenkins/v2-user-data-w-jenkins-plugins.sh)
 - I made a few changes to the user data example:
   - Increased /tmp allocation to 4G to support Jenkins build workloads requiring temporary storage
   - Implemented a 4G swap file to enhance system stability during memory-intensive CI/CD operations
 
-Here is the old user data with no plugins
-
-* [v1-user-data-w-jenkins-plugins.sh](v1-user-data-w-jenkins-plugins.sh)
-
-https://github.com/BalericaAI/SEIR-1/tree/main/weekly_lessons/weeka/userscripts
-
-# Launch instance
+### Launch instance
 
 connect to instance via
 instance -> connect
@@ -137,18 +133,16 @@ sudo systemctl status jenkins
 
 * looking for that active (running)
 
-![2](./sc-jenkins/2.png)
+![2](/screenshots/ci-cd-pipeline/2.png)
+
+### Go to Jenkins webpage 
 
 go to the instance get the public IP - 44.203.41.93
 we need to get to the 8080 port
 
 open new web browser http://44.203.41.93:8080
 
-![3](./sc-jenkins/3.png)
-
----
-
-[🔝 Return to Table of Contents](#table-of-contents)
+![3](/screenshots/ci-cd-pipeline/3.png)
 
 get the addministrator password from the ssh
 
@@ -163,9 +157,9 @@ select installed suggested plugins
 Create First Admin User:
 save and continue
 
-# 2.1 Increase Space Aloted
+### Increase Space Allotted
 
-run this to determine how much space is aloted.
+- run this in SSH to determine how much space is aloted.
 
 ```bash
 df -h /tmp
@@ -214,10 +208,6 @@ sign in  and go to system -> manage system -> nodes to ensure temp space changed
 
 ---
 
-[🔝 Return to Table of Contents](#table-of-contents)
-
----
-
 # 3. Plugin List (Manual Reference)
 
 ### [Jenkin Plugin IDs](jenkins-plugin-ids.txt)
@@ -240,9 +230,7 @@ What it does:
 
   * plugin name
   * plugin version
-
----
-
+  
 [🔝 Return to Table of Contents](#table-of-contents)
 
 ---
@@ -253,7 +241,7 @@ Instead of manually searching plugins every time, you can automate installation 
 
 ---
 
-## Step 1 — Export Plugin List (One-Time)
+#### Export Plugin List (One-Time)
 
 After installing plugins manually once:
 
@@ -275,19 +263,17 @@ Save output as:
 
 ---
 
-## Step 2 — Automated Plugin Install Script
+#### Automated Plugin Install Script
 
 Add this **after Jenkins install** in your user data:
 
----
-
-# I now have the partially automated user script that will run all the plugins
+use the partially automated user script that will run all the plugins
 
 after launching the EC2 wait a few minutes and open the Jenkins page
 
 * `http://<EC2-PUBLIC-IP>:8080`
 
-![paste password](./sc-Jenkins/4.png)
+![paste password](/screenshots/ci-cd-pipeline/4.png)
 
 * get the password in the instance connect
 
@@ -295,15 +281,11 @@ after launching the EC2 wait a few minutes and open the Jenkins page
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
-![get password](./sc-Jenkins/5.png)
+![get password](/screenshots/ci-cd-pipeline/5.png)
 
 set up jenkins account: user, password, etc.
 
-Increase size of database see the relevent steps
-
-- [2.1 Increase Space Aloted](#21-increase-space-aloted)
-
----
+Increase size of database see the relevent steps as shown before
 
 [🔝 Return to Table of Contents](#table-of-contents)
 
@@ -336,12 +318,12 @@ pipeline {
 }
 ```
 
-![quick plugin test](./sc-Jenkins/6.png)
+![quick plugin test](/screenshots/ci-cd-pipeline/6.png)
 
 * click **save**
 * takes you to the next page click **Build Now** on the left
   
-![build new](./sc-Jenkins/7.png)
+![build new](/screenshots/ci-cd-pipeline/7.png)
 
 * see below, it is building, when it finishes click Build in that box
 * click **#1** under the "Build Time Trend"
@@ -412,8 +394,6 @@ You MUST confirm:
 
 otherwise piplelines fail later and debugging becomes messy.
 
----
-
 [🔝 Return to Table of Contents](#table-of-contents)
 
 ---
@@ -426,23 +406,21 @@ otherwise piplelines fail later and debugging becomes messy.
 3. Create Image:
    - Actions → Image and templates → Create image
 
-![create image](./sc-Jenkins/8.png)
+![create image](/screenshots/ci-cd-pipeline/8.png)
 
-4. Fill in details:
+1. Fill in details:
    - name: jenkins-devsecops-v1
    - description: Jenkins with plugins + pipeline setup
 
-![fill details](./sc-Jenkins/9.png)
+![fill details](/screenshots/ci-cd-pipeline/9.png)
 
-![fill details](./sc-Jenkins/10.png)
+![fill details](/screenshots/ci-cd-pipeline/10.png)
 
 5. Create image
 6. Go to: EC2 → AMIs
    - make sure status goes from pending → available
 
-![fill details](./sc-Jenkins/11.png)
-
----
+![fill details](/screenshots/ci-cd-pipeline/11.png)
 
 [🔝 Return to Table of Contents](#table-of-contents)
 
@@ -457,12 +435,14 @@ otherwise piplelines fail later and debugging becomes messy.
       - Key pair
       - Security group
 
-*note: its better to create an AMI not to be confused with just doing a snapshot because the snapshot alone cannot launche an EC2 directly where an AMI = snapshot + boot configuration.
+*note: its better to create an AMI not to be confused with just doing a snapshot because the snapshot alone cannot launch an EC2 directly where an AMI = snapshot + boot configuration.
 
 Snapshot is for backup
 AMI is for reusable infrastructure
 
+[🔝 Return to Table of Contents](#table-of-contents)
 
+---
 
 ## Set up after AMI
 
@@ -471,7 +451,6 @@ go to AMI select and `Launch instance from AMI`
 
 connect and check that its running:
 `sudo systemctl status jenkins`
-```
 
 #### These validation commands were included in user data and executed at instance launch.
 
@@ -512,9 +491,7 @@ echo "===== TMP ====="
 df -h /tmp
 ```
 
-![environment readiness](./sc-Jenkins/12.png)
-
----
+![environment readiness](/screenshots/ci-cd-pipeline/12.png)
 
 [🔝 Return to Table of Contents](#table-of-contents)
 
@@ -547,8 +524,6 @@ EC2
 EC2
 → Volumes
 → Delete
-
----
 
 [🔝 Return to Table of Contents](#table-of-contents)
 

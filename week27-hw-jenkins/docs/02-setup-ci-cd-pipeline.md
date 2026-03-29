@@ -1,21 +1,33 @@
 # CI/CD Fundamentals & Jenkins Pipeline Setup
 
+---
+
 ## Table of Contents
 
-* [Overview](#overview)
 * [What Does CI/CD Mean?](#what-does-cicd-mean)
 * [What Is a CI/CD Pipeline?](#what-is-a-cicd-pipeline)
 * [Pipeline Stages](#pipeline-stages)
 * [Webhook Concepts](#webhook-concepts)
-* [Class Notes](#class-notes)
-* [Timeline (class playback videos)](#timeline-class-playback-videos)
+
 * [Automated Jenkins Setup (AMI / User Data)](#automated-jenkins-setup-ami--user-data)
+
 * [Pipeline Runtime Prerequisites (Manual / Verification)](#pipeline-runtime-prerequisites-manual--verification)
   * [System Verification](#system-verification)
   * [Python](#python)
   * [Terraform](#terraform)
+
 * [System Configuration Notes](#system-configuration-notes)
-* [Create an IAM user group](#create-an-iam-user-group)
+
+* [IAM Configuration](#iam-configuration)
+* [Create an IAM User Group](#create-an-iam-user-group)
+
+* [Jenkins Credentials Setup](#go-to-the-jenkins-webpage)
+* [AWS CLI Configuration](#go-to-the-aws-ssh)
+* [GitHub Repository Setup](#go-to-github-fork-aarons-repo)
+* [Create an S3 Bucket](#create-an-s3-bucket-in-the-aws-console)
+* [Jenkins Job Setup](#go-to-jenkins-webpage-create-a-job)
+
+* [Teardown Checklist](#teardown-checklist)
 
 ---
 
@@ -174,7 +186,7 @@ Terraform CLI is required for infrastructure deployment in pipelines.
 
 ## System Configuration Notes
 
-- extas I added in the user data
+- extras I added in the user data
   
 ### /tmp Allocation
 
@@ -190,7 +202,9 @@ Terraform CLI is required for infrastructure deployment in pipelines.
 
 ---
 
-to use Jenkins to create a pipeline you need
+## Create an IAM user group
+
+To create a Jenkins pipeline, the following components are required:
 - software
 - source code
 - Jenkins file
@@ -198,94 +212,38 @@ to use Jenkins to create a pipeline you need
 
 ---
 
-## Create an IAM user group
+## IAM Configuration
 
-go to AWS -> IAM -> User groups
-- Create Group: dennis-jenkins-test-1
-- Attach permissions policies: AdminisratorAccess
+IAM user creation and least privilege configuration for this pipeline is documented here:
 
-![create user group](./sc-Jenkins/13.png)
-
-click - Create User group
-
-![create user group](./sc-Jenkins/14.png)
-
-go to users -> Create user
-name it: jenkins-test-01
-click - Next
-
-Set permissions -> choose the user group
-click - Next
-
-![create user](./sc-Jenkins/15.png)
-
-Review -> Create user
-
-![create user](./sc-Jenkins/16.png)
-
-to get outputs after the instance launches run (in SSH):
-
-```bash
-cat /var/log/cloud-init-output.log
-```
-
-```bash
-echo "Open Jenkins: http://$PUBLIC_IP:8080"
-echo "To get initial password run:"
-echo "sudo cat /var/lib/jenkins/secrets/initialAdminPassword"
-```
-
-Jenkins IP: http://************:8080/
-Jenkins admin pw: 
-Jenkins user (admin): Admin
-Jenkins pw (admin): *********
-Jenkins IAM username: jenkins-test-01
-Jenkins IAM access key: *************
-jenkins IAM secret key: *********************
-
-create access key:
-
-![create access key](./sc-Jenkins/17.png)
-
-choose - Command Line Interface (CLI)
-confirm
-Next
-
-![create access key](./sc-Jenkins/18.png)
-
-Set description tag - add description
-Create access key
-
-![create access key](./sc-Jenkins/19.png)
-
-![create access key](./sc-Jenkins/20.png)
-
-Don't share this with anyone. Take a screenshot or download the .cvs file. Put it somewhere safe. I recommend in the initial class setup folder
+[`docs/04-iam.md`](./04-iam.md)
 
 ---
 
-### Go to the Jenkins webpage
+## Go to the Jenkins webpage
 
 - manage Jenkins -> Credentials -> Add Credentials -> AWS Credentials 
+  
 Next
+
   - ID
   - Description
-  - Access Key ID (whatever you want to name it)
+  - Access Key ID (whatever you want to named it)
   - Secret Access Key
   
-  Create
+Create
 
-![Jenkins Credentials](./sc-Jenkins/21-1.png)
+![Jenkins Credentials](/screenshots/ci-cd-pipeline/21-1.png)
 
-![Access Key ID](./sc-Jenkins/21-2.png)
+![Access Key ID](/screenshots/ci-cd-pipeline/21-2.png)
 
-![Jenkins Credentials](./sc-Jenkins/22.png)
+![Jenkins Credentials](/screenshots/ci-cd-pipeline/22.png)
 
 ---
 
 ## Go to the AWS SSH
 
-type:
+Run:
 
 ```bash
 aws configure
@@ -297,7 +255,7 @@ aws configure
 - output format: json
 
 
-![Jenkins Credentials](./sc-Jenkins/23.png)
+![Jenkins Credentials](/screenshots/ci-cd-pipeline/23.png)
 
 ---
 
@@ -311,19 +269,20 @@ aws configure
 
 ## Create an S3 Bucket in the AWS console
 
-![S3 Bucket](./sc-Jenkins/S3bucket.png)
+![S3 Bucket](/screenshots/ci-cd-pipeline/S3bucket.png)
 
 ---
 
-#### go to Jenkins webpage create a job
+## Go to Jenkins webpage create a job
 Jenkins -> New Item -> Enter an Item Name: - 03-25-26_test-pipeline-01
 select Pipeline and hit OK
 
-![create job](./sc-Jenkins/24.png)
+![create job](/screenshots/ci-cd-pipeline/24.png)
 
-## Configure 
+**Configure** 
 
-**make changes as you scroll down**
+make changes as you scroll down
+
 - General
   - Building our first pipeline for class 7 in Jenkins
 - check GitHub project
@@ -343,7 +302,7 @@ select Pipeline and hit OK
 - click Apply
 - click Save
 
-![apply/save](./sc-Jenkins/25.png)
+![apply/save](/screenshots/ci-cd-pipeline/25.png)
 
 **Build Now**
 - click build
@@ -357,24 +316,23 @@ select Pipeline and hit OK
 - will say `Input requested`
   - (click on it)
 - next will ask you `Do you want to run terraform destroy?`
-- choose yes or no
-- submit
+- choose yes or no??
+- if you plan to destroy it don't make a choice here, just continue to work and you can come back and destroy it at the end 
+- when you choose yes to destroy then hit submit. You can optionally go 
 
-![Console Output](./sc-Jenkins/26.png)
+![Console Output](/screenshots/ci-cd-pipeline/26.png)
 
-![Terraform: fmt, init](./sc-Jenkins/terra-fmt-init.png)
+![Terraform: fmt, init](/screenshots/ci-cd-pipeline/terra-fmt-init.png)
 
-![Terraform: validate, plan](./sc-Jenkins/terra-validate-plan.png)
+![Terraform: validate, plan](/screenshots/ci-cd-pipeline/terra-validate-plan.png)
 
-![Terraform: apply](./sc-Jenkins/terra-apply-success.png)
+![Terraform: apply](/screenshots/ci-cd-pipeline/terra-apply-success.png)
 
-![All stages Green](./sc-Jenkins/27.png)
+![All stages Green](/screenshots/ci-cd-pipeline/27.png)
 
----
+- next set up your webhooks and triggers
 
-## [Webhooks & Triggers](https://github.com/aaron-dm-mcdonald/new-jenkins-s3-test/blob/main/trigger.md)
-
-
+[⬆ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -394,7 +352,6 @@ type: yes
 2. Delete IAM Access Key
 3. Deactivate security key then Delete IAM User
 4. Terminate EC2 Instance
-5. 
 
 ---
 

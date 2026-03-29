@@ -1,4 +1,25 @@
-# Add GitHub Webhook Trigger to Jenkins
+# [Webhooks & Triggers](https://github.com/aaron-dm-mcdonald/new-jenkins-s3-test/blob/main/trigger.md)
+
+---
+
+## Table of Contents
+
+- [Add GitHub Webhook Trigger to Jenkins](#add-github-webhook-trigger-to-jenkins)
+- [Prerequisites](#prerequisites)
+- [Jenkins Config](#jenkins-config)
+- [Add GitHub Webhook](#add-github-webhook)
+- [Test](#test)
+- [Troubleshooting](#troubleshooting)
+- [What Is Happening and How It Works](#what-is-happening-and-how-it-works)
+- [What a Webhook Is](#what-a-webhook-is)
+- [What Happens Step by Step](#what-happens-step-by-step)
+- [What the Webhook Sends](#what-the-webhook-sends)
+- [Part 1 of 2](#part-1-of-2)
+- [Part 2 of 2](#part-2-of-2)
+
+---
+
+## Add GitHub Webhook Trigger to Jenkins
 
 ## Prerequisites
 - Jenkins running on EC2
@@ -34,10 +55,9 @@ In job configuration:
 - Script Path:
   Jenkinsfile
 
-
-
-
 Save pipeline
+
+[⬆ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -71,11 +91,9 @@ Option B:
 - GitHub → Webhook → Recent Deliveries
 - Redeliver
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
-
-
-
-
 
 ## Troubleshooting
 
@@ -96,9 +114,7 @@ No build triggered:
 - Verify trigger enabled in Jenkins
 - Check webhook delivery status (200 OK)
 
-## What Is Happing and How It Works
-
-### What a Webhook Is
+### What is a Webhook
 
 A webhook is an HTTP callback.
 
@@ -110,9 +126,7 @@ In this case:
 - GitHub = sender
 - Jenkins = receiver
 
----
-
-### What Happens Step by Step
+What Happens Step by Step
 
 1. You push code to GitHub
 2. GitHub detects a `push` event
@@ -124,9 +138,7 @@ In this case:
 7. Jenkins reads the `Jenkinsfile` from the repo
 8. Pipeline runs
 
----
-
-### What the Webhook Sends
+What the Webhook Sends
 
 GitHub sends a JSON payload that includes:
 
@@ -151,11 +163,13 @@ Example (simplified):
 }
 ```
 
+[⬆ Back to Table of Contents](#table-of-contents)
+
 ---
-# Part 1 of 2
 
 ## Set up Jenkins to expect a Webhook
-The difference between the first Pipline and this is the Triggers
+
+**The difference between the first Pipline and this is the Triggers**
 
 Go to Jenkins -> name it -> choose Pipeline
 
@@ -164,32 +178,28 @@ Go to Jenkins -> name it -> choose Pipeline
   
 **Pipeline:**
 
-- **Definition:**
+- Definition:
   - Pipeline script from SCM
-    - **SCM:**
+    - SCM:
       - git
-    - **Repository URL:**
+    - Repository URL:
       - https://github.com/DennistonShaw/Class7-HW-Deliverables.git
-    - **Brances to build:**
+    - Brances to build:
       - */main
-    - **Script path:**
+    - Script path:
       - week27-hw-jenkins/Jenkinsfile/
 - Apply
 - Save
 
-![github settings](./Screenshots/1.png)
+![github settings](/screenshots/webhooks/1.png)
 
----
-
-# Part 2 of 2 
-
-## Tell Github to make a Webhook when the commits happen
+**Tell Github to make a Webhook when the commits happen**
 
 Go to Github -> Repository -> Settings
 
-![github settings](./Screenshots/2.png)
+![github settings](/screenshots/webhooks/2.png)
 
-![github settings](./Screenshots/3.png)
+![github settings](/screenshots/webhooks/3.png)
 
 **Add Webhook** (might have to confirm access)
 
@@ -198,15 +208,16 @@ Payload URL:
   - http:// + URL + Port + Script Path
 
 **Content Type**
+
 - Application/json
 
-`Add Webhook`
+Add Webhook
 
-![github settings](./Screenshots/4.png)
+![github settings](/screenshots/webhooks/4.png)
 
 Go back to Jenkins and Build now to send a trigger
 
-![github settings](./Screenshots/5.png)
+![github settings](/screenshots/webhooks/5.png)
 
 run this 
 ```bash
@@ -216,19 +227,9 @@ git push origin main
 
 expected results:
 
+![new git trigger](/screenshots/webhooks/new-git-trigger.png)
+
+[⬆ Back to Table of Contents](#table-of-contents)
 
 ---
 
-Good afternoon/evening all
-
-This week for class 7 is for people to prove that they're able to continue in class 7 with DevOps and Jenkins, or if they need more foundational work in the single A suite.
-
-This week's lab: you will spin up an s3 in terraform with uploaded pictures/screenshots proving THEO SAID you passed Armageddon (whether directly or via group leader), a link to the Armageddon repo in a text file or markdown file, and a successful webhook invocation of their pipeline. Repo for the pipeline has to be from your own GitHub, and link has to be pasted in the class chat during class so Aaron and Rob can collect. 
-
-Screenshots of Armageddon extensions will not count as a pass. Forked repos will not count as a pass. If your repo is a branch of a team repo, make sure to say so in the readme or text document. Own your work as the high skill professional worth $100/hr you are.
-
-Those who submit their repo link with validations, screenshots, and working code, will get new class code for the following weeks. Next week = snyk scans with Charles Manning (which he gets paid to do)
-
-Those who don't will head to single A/catch up, and can only access class 7 live sessions after passing black Muslims catch up section
-
-No excuses. No exceptions. No "taking notes" or "working it out" or "I need to get caught up". Time to shit or get off the pot. Make the time, get the work done, and show up to class to submit your repo, or head to single A/catch up until you're ready for Jenkins.

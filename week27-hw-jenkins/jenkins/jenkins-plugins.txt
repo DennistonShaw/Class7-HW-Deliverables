@@ -1,0 +1,57 @@
+### AWS
+
+* AWS Credentials
+* Pipeline: AWS Steps
+* Amazon EC2
+* Amazon ECS / Fargate
+* AWS CodeDeploy
+* AWS Lambda
+* AWS CodeBuild
+* Amazon S3 Bucket Credentials
+* AWS Secrets Manager SecretSource
+* AWS CodePipeline
+* Configuration as Code AWS SSM secrets
+* CloudFormation
+* AWS SAM
+
+### Terraform
+
+* Terraform
+
+### Google
+
+* Kubernetes
+* Google Cloud Storage
+* Google Kubernetes Engine
+* Google Cloud Platform SDK :: Auth
+* Pipeline: GCP Steps
+
+### DevSecOps
+
+* Snyk Security
+* SonarQube Scanner
+
+### Aqua
+
+* Aqua Security Scanner
+* Aqua MicroScanner
+* Aqua Security Serverless Scanner
+
+### GitHub
+
+* GitHub Integration
+* GitHub Authentication
+* Pipeline: GitHub
+* Pipeline GitHub Notify Step
+
+### Maven
+
+* Maven Integration
+* Pipeline Maven Integration
+
+### Publish
+
+* Publish Over SSH
+
+after installation
+go to script Console and run this code:
