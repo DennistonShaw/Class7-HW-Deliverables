@@ -1,15 +1,20 @@
-# Week 27 & 28 — Jenkins CI/CD Pipeline (BAM Challenges)
+# Zion class 7 - Week 27 & 28
+- ### Jenkins 
+- ### CI/CD Pipeline
+- ### BAM Challenges
+
+---
 
 ## Overview
 
-This project demonstrates building a CI/CD pipeline using Jenkins, GitHub, and Terraform, including plugin automation, webhook triggers, and IAM-based security.
+Demonstrate building a CI/CD pipeline using Jenkins, GitHub, and Terraform, including plugin automation, webhook triggers, and IAM-based security.
 
 ---
 
 
 ## Armageddon Requirement (Primary Deliverable)
 
-### Requirements
+### Requirements to get paste this rubicon
 
 * [x] Deploy an S3 bucket using Terraform  
 * [x] Upload screenshots proving "THEO SAID you passed Armageddon"  
@@ -20,19 +25,19 @@ This project demonstrates building a CI/CD pipeline using Jenkins, GitHub, and T
 ---
 
 ### Implementation
-
-* [`terraform/`](./terraform)
-* [`jenkins/`](./jenkins)
+* Terraform/
+  * [`auth.tf`](../week27-hw-jenkins/terraform/auth.tf)
+  * [`main.tf`](../week27-hw-jenkins/terraform/main.tf)
+* Jenkins/
+  * [`jenkins file`](../week27-hw-jenkins/jenkins/Jenkinsfile)
+  * [`user data`](../week27-hw-jenkins/jenkins/v2-user-data-w-jenkins-plugins2.sh)
 
 ---
 
-### Evidence
+### Notes / Evidence
+
 
 * [`armageddon-proof/`](https://github.com/DennistonShaw/Class7-HW-Deliverables/tree/main/week27-hw-jenkins/armageddon-proof)
-
----
-
-### Notes
 
 This section contains proof of completing the primary lab requirement, including:
 - S3-hosted artifacts
@@ -46,6 +51,9 @@ This section contains proof of completing the primary lab requirement, including
 ## Homework
 
 * [x] Rebuild the Jenkins server as an EC2 OR in a Docker image, using Java 21 instead of Java 17
+  
+
+- contained in the next section (BAM 1 challenge)
 
 ---
 
