@@ -191,15 +191,15 @@ Go to Jenkins -> name it -> choose Pipeline
 - Apply
 - Save
 
-![github settings](/screenshots/webhooks/1.png)
+![github settings](../screenshots/webhooks/1.png)
 
 **Tell Github to make a Webhook when the commits happen**
 
 Go to Github -> Repository -> Settings
 
-![github settings](/screenshots/webhooks/2.png)
+![github settings](../screenshots/webhooks/2.png)
 
-![github settings](/screenshots/webhooks/3.png)
+![github settings](../screenshots/webhooks/3.png)
 
 **Add Webhook** (might have to confirm access)
 
@@ -213,11 +213,11 @@ Payload URL:
 
 Add Webhook
 
-![github settings](/screenshots/webhooks/4.png)
+![github settings](../screenshots/webhooks/4.png)
 
 Go back to Jenkins and Build now to send a trigger
 
-![github settings](/screenshots/webhooks/5.png)
+![github settings](../screenshots/webhooks/5.png)
 
 run this 
 ```bash
@@ -227,7 +227,9 @@ git push origin main
 
 expected results:
 
-![new git trigger](/screenshots/webhooks/new-git-trigger.png)
+![new git trigger](../screenshots/webhooks/new-git-trigger.png)
+
+![triggered](../screenshots/webhooks/triggered.png)
 
 [⬆ Back to Table of Contents](#table-of-contents)
 

@@ -233,11 +233,11 @@ Next
   
 Create
 
-![Jenkins Credentials](/screenshots/ci-cd-pipeline/21-1.png)
+![Jenkins Credentials](../screenshots/ci-cd-pipeline/21-1.png)
 
-![Access Key ID](/screenshots/ci-cd-pipeline/21-2.png)
+![Access Key ID](../screenshots/ci-cd-pipeline/21-2.png)
 
-![Jenkins Credentials](/screenshots/ci-cd-pipeline/22.png)
+![Jenkins Credentials](../screenshots/ci-cd-pipeline/22.png)
 
 ---
 
@@ -255,7 +255,7 @@ aws configure
 - output format: json
 
 
-![Jenkins Credentials](/screenshots/ci-cd-pipeline/23.png)
+![Jenkins Credentials](../screenshots/ci-cd-pipeline/23.png)
 
 ---
 
@@ -269,7 +269,7 @@ aws configure
 
 ## Create an S3 Bucket in the AWS console
 
-![S3 Bucket](/screenshots/ci-cd-pipeline/S3bucket.png)
+![S3 Bucket](../screenshots/ci-cd-pipeline/S3bucket.png)
 
 ---
 
@@ -277,7 +277,7 @@ aws configure
 Jenkins -> New Item -> Enter an Item Name: - 03-25-26_test-pipeline-01
 select Pipeline and hit OK
 
-![create job](/screenshots/ci-cd-pipeline/24.png)
+![create job](../screenshots/ci-cd-pipeline/24.png)
 
 **Configure** 
 
@@ -302,7 +302,7 @@ make changes as you scroll down
 - click Apply
 - click Save
 
-![apply/save](/screenshots/ci-cd-pipeline/25.png)
+![apply/save](../screenshots/ci-cd-pipeline/25.png)
 
 **Build Now**
 - click build
@@ -320,15 +320,15 @@ make changes as you scroll down
 - if you plan to destroy it don't make a choice here, just continue to work and you can come back and destroy it at the end 
 - when you choose yes to destroy then hit submit. You can optionally go 
 
-![Console Output](/screenshots/ci-cd-pipeline/26.png)
+![Console Output](../screenshots/ci-cd-pipeline/26.png)
 
-![Terraform: fmt, init](/screenshots/ci-cd-pipeline/terra-fmt-init.png)
+![Terraform: fmt, init](../screenshots/ci-cd-pipeline/terra-fmt-init.png)
 
-![Terraform: validate, plan](/screenshots/ci-cd-pipeline/terra-validate-plan.png)
+![Terraform: validate, plan](../screenshots/ci-cd-pipeline/terra-validate-plan.png)
 
-![Terraform: apply](/screenshots/ci-cd-pipeline/terra-apply-success.png)
+![Terraform: apply](../screenshots/ci-cd-pipeline/terra-apply-success.png)
 
-![All stages Green](/screenshots/ci-cd-pipeline/27.png)
+![All stages Green](../screenshots/ci-cd-pipeline/27.png)
 
 - next set up your webhooks and triggers
 

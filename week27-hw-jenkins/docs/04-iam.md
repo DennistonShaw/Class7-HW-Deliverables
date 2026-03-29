@@ -31,21 +31,21 @@
 2. Create Group: `dennis-jenkins-test-1`
 3. Attach policy: `AdministratorAccess`
 
-![create user group](/screenshots/iam/13.png)
+![create user group](../screenshots/iam/13.png)
 
 1. Click **Create User Group**
 
-![create user group](/screenshots/iam/14.png)
+![create user group](../screenshots/iam/14.png)
 
 5. Go to **Users → Create user**
 6. Name: `jenkins-test-01`
 7. Assign to the created user group
 
-![create user](/screenshots/iam/15.png)
+![create user](../screenshots/iam/15.png)
 
 8. Review → Create user
 
-![create user](/screenshots/iam/16.png)
+![create user](../screenshots/iam/16.png)
 
 [⬆ Back to Table of Contents](#table-of-contents)
 
@@ -58,10 +58,10 @@
 3. Add description
 4. Create key
 
-![create access key](/screenshots/iam/17.png)
-![create access key](/screenshots/iam/18.png)
-![create access key](/screenshots/iam/19.png)
-![create access key](/screenshots/iam/20.png)
+![create access key](../screenshots/iam/17.png)
+![create access key](../screenshots/iam/18.png)
+![create access key](../screenshots/iam/19.png)
+![create access key](../screenshots/iam/20.png)
 
 > ⚠️ Access keys should be stored securely and never committed to source control.
 
@@ -167,7 +167,7 @@ Replaced initial AdministratorAccess policy with scoped permissions required for
 ## PART 1 — Create the IAM Policy in AWS
 - AWS Console → IAM -> Policies (on the left side menu) -> Create policy
 
-![Create IAM Policy](/screenshots/iam/create-iam-policy.png)
+![Create IAM Policy](../screenshots/iam/create-iam-policy.png)
 
 - click JSON
 - paste policy:
@@ -218,7 +218,7 @@ note: IAM actions were scoped to role-based resources instead of using full wild
 }
 ```
 
-![Create IAM Policy](/screenshots/iam/specify-permissions.png)
+![Create IAM Policy](../screenshots/iam/specify-permissions.png)
 
 click next
 
@@ -227,7 +227,7 @@ click next
 
 click Create policy
 
-![Finish creating IAM policy](/screenshots/iam/finish-create-iam-policy.png)
+![Finish creating IAM policy](../screenshots/iam/finish-create-iam-policy.png)
 
 IAM -> User groups
 click user group
@@ -235,16 +235,16 @@ click user group
 Go to Permissions tab
 Click Add permissions
 
-![Attach policies](/screenshots/iam/attach-policies.png)
+![Attach policies](../screenshots/iam/attach-policies.png)
 
 Choose attach policies
 Search for and click on jenkins-terraform-least-privilege (I created)
 
-![Policies Attached](/screenshots/iam/search-attach-policies.png)
+![Policies Attached](../screenshots/iam/search-attach-policies.png)
 
 click - Attach policy
 
-![Policies Attached](/screenshots/iam/policy-attached.png)
+![Policies Attached](../screenshots/iam/policy-attached.png)
 
 [⬆ Back to Table of Contents](#table-of-contents)
 

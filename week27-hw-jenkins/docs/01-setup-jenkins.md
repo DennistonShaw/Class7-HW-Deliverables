@@ -133,7 +133,7 @@ sudo systemctl status jenkins
 
 * looking for that active (running)
 
-![2](/screenshots/ci-cd-pipeline/2.png)
+![2](../screenshots/ci-cd-pipeline/2.png)
 
 ### Go to Jenkins webpage 
 
@@ -142,7 +142,7 @@ we need to get to the 8080 port
 
 open new web browser http://44.203.41.93:8080
 
-![3](/screenshots/ci-cd-pipeline/3.png)
+![3](../screenshots/ci-cd-pipeline/3.png)
 
 get the addministrator password from the ssh
 
@@ -263,7 +263,7 @@ Save output as:
 
 ---
 
-#### Automated Plugin Install Script
+### Automated Plugin Install Script
 
 Add this **after Jenkins install** in your user data:
 
@@ -273,7 +273,7 @@ after launching the EC2 wait a few minutes and open the Jenkins page
 
 * `http://<EC2-PUBLIC-IP>:8080`
 
-![paste password](/screenshots/ci-cd-pipeline/4.png)
+![paste password](../screenshots/ci-cd-pipeline/4.png)
 
 * get the password in the instance connect
 
@@ -281,7 +281,7 @@ after launching the EC2 wait a few minutes and open the Jenkins page
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
-![get password](/screenshots/ci-cd-pipeline/5.png)
+![get password](../screenshots/ci-cd-pipeline/5.png)
 
 set up jenkins account: user, password, etc.
 
@@ -318,12 +318,12 @@ pipeline {
 }
 ```
 
-![quick plugin test](/screenshots/ci-cd-pipeline/6.png)
+![quick plugin test](../screenshots/ci-cd-pipeline/6.png)
 
 * click **save**
 * takes you to the next page click **Build Now** on the left
   
-![build new](/screenshots/ci-cd-pipeline/7.png)
+![build new](../screenshots/ci-cd-pipeline/7.png)
 
 * see below, it is building, when it finishes click Build in that box
 * click **#1** under the "Build Time Trend"
@@ -406,21 +406,21 @@ otherwise piplelines fail later and debugging becomes messy.
 3. Create Image:
    - Actions → Image and templates → Create image
 
-![create image](/screenshots/ci-cd-pipeline/8.png)
+![create image](../screenshots/ci-cd-pipeline/8.png)
 
 1. Fill in details:
    - name: jenkins-devsecops-v1
    - description: Jenkins with plugins + pipeline setup
 
-![fill details](/screenshots/ci-cd-pipeline/9.png)
+![fill details](../screenshots/ci-cd-pipeline/9.png)
 
-![fill details](/screenshots/ci-cd-pipeline/10.png)
+![fill details](../screenshots/ci-cd-pipeline/10.png)
 
 5. Create image
 6. Go to: EC2 → AMIs
    - make sure status goes from pending → available
 
-![fill details](/screenshots/ci-cd-pipeline/11.png)
+![fill details](../screenshots/ci-cd-pipeline/11.png)
 
 [🔝 Return to Table of Contents](#table-of-contents)
 
@@ -491,7 +491,7 @@ echo "===== TMP ====="
 df -h /tmp
 ```
 
-![environment readiness](/screenshots/ci-cd-pipeline/12.png)
+![environment readiness](../screenshots/ci-cd-pipeline/12.png)
 
 [🔝 Return to Table of Contents](#table-of-contents)
 
