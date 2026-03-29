@@ -97,9 +97,7 @@ For this phase, the group may still include:
 - Go to your repository → **Settings → Webhooks**
 - Confirm webhook exists:
 
-
-http://<JENKINS-URL>/github-webhook/
-
+example: http://3.82.203.251:8080/github-webhook/
 
 - Confirm the webhook is set to:
   - **Just the push event**
@@ -187,4 +185,5 @@ git push origin main
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
+---
 ---
