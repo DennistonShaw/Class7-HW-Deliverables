@@ -28,7 +28,7 @@ This project demonstrates building a CI/CD pipeline using Jenkins, GitHub, and T
 
 ### Evidence
 
-* [`armageddon-proof/`](./armageddon-proof/)
+* [`armageddon-proof/`](https://github.com/DennistonShaw/Class7-HW-Deliverables/tree/main/week27-hw-jenkins/armageddon-proof)
 
 ---
 
@@ -72,14 +72,10 @@ This section contains proof of completing the primary lab requirement, including
 * [`v2-user-data-w-jenkins-plugins2.sh`](./jenkins/v2-user-data-w-jenkins-plugins2.sh)
 * [`jenkins-plugins.txt`](./jenkins/jenkins-plugins.txt)
 
-### Evidence
-
-* [`screenshots/`](./screenshots/sc-Jenkins/)
-
-### Notes
+### Notes / Evidence
 
 * [`docs/01-setup-jenkins.md`](./docs/01-setup-jenkins.md)
-* [`Plugin Automation`](./docs/05-jenkins-plugin-ids.md)
+* [`Plugin Automation`](./docs/05-auto-plugin-setup-ids.md)
 
 ---
 
@@ -106,11 +102,7 @@ This section contains proof of completing the primary lab requirement, including
 
 * [`v2-user-data-w-jenkins-plugins2.sh`](./jenkins/v2-user-data-w-jenkins-plugins2.sh)
 
-### Evidence
-
-* [`screenshots/`](./screenshots/sc-Jenkins/)
-
-### Notes
+### Notes / Evidence (screenshots)
 
 * [`Jenkins setup`](./docs/01-setup-jenkins.md)
 * [`user data updates`](./jenkins/auto-plugin-setup-ids.md)
@@ -128,21 +120,10 @@ This section contains proof of completing the primary lab requirement, including
 
 ---
 
-### Implementation
+### Implementation / Methodology / Evidence (screenshots)
 
 * [`IAM Setup`](./docs/04-iam.md)
 
----
-
-### Evidence
-
-* [`screenshots/`](./screenshots/sc-Jenkins/)
-
----
-
-### Notes
-
-* IAM Methodology → [`docs/04-iam.md`](./docs/04-iam.md)
 
 ---
 
@@ -214,7 +195,7 @@ This policy was used temporarily to validate pipeline functionality and will be 
 
 **GitHub Repo Updates**
 
-* Use: `webhook`
+* I would use webhooks
 
 ---
 
@@ -222,6 +203,8 @@ This policy was used temporarily to validate pipeline functionality and will be 
 
 - Webhooks for real-time testing  
 - Cron for scheduled test runs  
+  - Cron is a scheduler on Linux systems.
+  - It runs commands automatically at specific times or intervals
 
 ---
 
