@@ -133,7 +133,7 @@ sudo systemctl status jenkins
 
 * looking for that active (running)
 
-![2](../screenshots/ci-cd-pipeline/2.png)
+[![Jenkins Running](../screenshots/ci-cd-pipeline/2.png)](../screenshots/ci-cd-pipeline/2.png)
 
 ### Go to Jenkins webpage 
 
