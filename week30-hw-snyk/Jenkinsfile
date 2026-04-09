@@ -19,9 +19,8 @@ pipeline {
                 withCredentials([string(credentialsId: 'snyk-api-token-string', variable: 'SNYK_TOKEN')]) {
                     dir('armageddon-lab-1') {
                         sh '''
-                        /usr/bin/npm install -g snyk
-                        snyk auth $SNYK_TOKEN
-                        snyk iac test --org=$SNYK_ORG --severity-threshold=high || true
+                        npx snyk auth $SNYK_TOKEN
+                        npx snyk iac test --org=$SNYK_ORG --severity-threshold=high || true
                         '''
                     }
                 }
