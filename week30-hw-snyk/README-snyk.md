@@ -26,8 +26,8 @@ Topic: Snyk
 Snyk acts as a **security scanner built for developers**, not just security teams.
 
 It automatically checks your projects for known vulnerabilities and tells you:
-- what’s wrong
-- how serious it is
+- what’s wrong  
+- how serious it is  
 - how to fix it (often with exact code suggestions)
 
 ---
@@ -39,49 +39,86 @@ It automatically checks your projects for known vulnerabilities and tells you:
 If you install packages (npm, pip, Maven, etc.), Snyk checks them against a vulnerability database.
 
 **Example:**
-- You install an outdated library
-- That library has a known vulnerability
-- Snyk flags it and suggests a safe version
+- You install an outdated library  
+- That library has a known vulnerability  
+- Snyk flags it and suggests a safe version  
 
 ---
 
 ### 2. Source Code (SAST)
 
 Snyk scans your code for common security issues:
-- SQL injection
-- insecure authentication
-- exposed secrets
+- SQL injection  
+- insecure authentication  
+- exposed secrets  
 
 ---
 
 ### 3. Containers
 
 If you are using Docker:
-- Scans base images (Ubuntu, Node, etc.)
-- Detects OS-level vulnerabilities
+- Scans base images (Ubuntu, Node, etc.)  
+- Detects OS-level vulnerabilities  
 
 ---
 
 ### 4. Infrastructure as Code (IaC)
 
 Snyk can scan:
-- Terraform
-- CloudFormation
-- Kubernetes
+- Terraform  
+- CloudFormation  
+- Kubernetes  
 
 **Example:**
-- Misconfigured S3 bucket
-- Public access enabled unintentionally
-- Snyk flags it as a security risk
+- Misconfigured S3 bucket  
+- Public access enabled unintentionally  
+- Snyk flags it as a security risk  
 
 ---
+
+## How to Use Snyk
+
+Snyk integrates into your workflow:
+
+- CLI (run locally)
+- GitHub (pull request scanning)
+- CI/CD pipelines (e.g., Jenkins)
+
+---
+
+## Example: Jenkins Integration
+
+You can integrate Snyk into a Jenkins pipeline to automatically scan builds.
+
+```groovy
+stage('Snyk Security Scan') {
+  steps {
+    sh 'snyk test'
+  }
+}
+```
+
+## Example: Terraform Misconfiguration
+
+resource "aws_s3_bucket_public_access_block" "frontend_pab" {
+  block_public_acls       = false
+  block_public_policy     = false
+  ignore_public_acls      = false
+  restrict_public_buckets = false
+}
+
+Snyk Result:
+- WARNING: 
+  - Public access is allowed 
+  - potential data exposure risk
 
 ## Why Snyk Matters
 
 Most real-world security breaches come from:
-- outdated dependencies
-- misconfigured cloud resources
-- exposed secrets
+
+- outdated dependencies  
+- misconfigured cloud resources  
+- exposed secrets  
 
 Snyk helps catch these issues **before deployment**.
 
@@ -91,27 +128,27 @@ Snyk helps catch these issues **before deployment**.
 
 Snyk is part of the **DevSecOps** model:
 
-- Dev → build it
-- Ops → run it
-- Sec → secure it during development
+- Dev → build it  
+- Ops → run it  
+- Sec → secure it during development  
 
 ---
 
 ## Summary
 
-- Snyk = security tool for developers
-- Scans code, dependencies, containers, and infrastructure
-- Integrates into CI/CD pipelines
-- Helps prevent vulnerabilities before production
+- Snyk = security tool for developers  
+- Scans code, dependencies, containers, and infrastructure  
+- Integrates into CI/CD pipelines  
+- Helps prevent vulnerabilities before production  
 
 ---
 
 ## Next Steps
 
-- Install Snyk CLI
-- Connect to your GitHub repository
-- Add Snyk to your Jenkins pipeline
-- Scan your Terraform projects
+- Install Snyk CLI  
+- Connect to your GitHub repository  
+- Add Snyk to your Jenkins pipeline  
+- Scan your Terraform projects  
 
 ```bash
 npm install -g snyk
@@ -123,162 +160,331 @@ snyk test
 
 ## Spin up Jenkins
 
-- go to manager → installed plugins
+- `go to manager -> installed plugins`
 - verify Snyk Security Plugin is installed:
-  - Manage Jenkins → Plugins → installed plugins → search snyk
-- if not installed, install it
+  -  `Manage Jenkins -> Plugins -> installed plugings -> search snyk`
+- if not installed, install it.
 
-- go to management → tools
-- scroll down to Snyk installations → click + Add Snyk
+go to management -> tools
+scroll down to snyk installations click + `Synk`
+in the dropdown type `snyk` (ALL LOWER CASE!)
+got to OS platform architecture, in the dropdown select `Linux (amd64)`
 
-- in the dropdown type `snyk` (all lowercase)
-- OS platform architecture → Linux (amd64)
+hit `Add Snyk` (this is a secondary add)
+dropdown, type `skyk` again (lower case again)
+in OS plateform architecture leave it on `Auto-detection`
 
-- click Add Snyk again
-- name: `snyk`
-- OS platform → Auto-detection
-
-- click Apply → Save
+click `Apply` then `Save`
 
 ---
 
-## Log into Snyk
-
-- check email → search snyk
+Log into your snyk account (an account was set up during class7 installation) 
+- check your email search snyk
 - sign in and authorize Snyk
-- it will take you to your GitHub to authorize
-- authorize Snyk through phone app
+- it will take you to your github to authorize, give permissions
+- Authorize snyk through phone app
 - it will take you back to https://app.snyk.io
-- confirm GitHub is successfully connected
+- and show Github successfully connected
+
+![Github connected](./sc-snyk/1-github-connected.png)
 
 ---
 
 # Add Credentials
 
-## Snyk Credentials
+### Snyk Credentials
 
-### Snyk API token
-
+**Snyk API token**
 - go back to Jenkins
-- `Manage Jenkins` → `Credentials`
+- `Manage Jenkins` -> `Credentials`
 - click `Global` then `Add Credential`
-- select `Snyk API token`
+- scroll down to `Snyk API token` -> `Next`
 - in the ID field type `snyk-api-token`
+  - Auth Tokens
+    - go back over to snyk browser
+    - bottom left click your name -> Account settings
+    - click in the box under Key and copy the code
+    - save the code somewhere we will be using it more than once or you can keep going back to these steps to get the code.
+- go back to Jenkins and past the code in the Token field-
+- Create
 
-Get token:
-- go back to Snyk
-- bottom left click your name → `Account settings`
-- click in the box under Key and copy the code
-- save the code somewhere because we will use it more than once
-
-Back in Jenkins:
-- paste the code in the Token field
-- click `Create`
-
-### Secret text
-
-- go back to `Add credentials`
-- select `Secret text`
-- in ID field type `snyk-api-token-string`
+**Secret text**
+- go back to Add credentials 
+- select `Secret text` -> next
+- in ID field type `snyk-api-token-string` (all lower case)
 - paste code
-- click `Create`
+- Create
 
-### Secret text (add another one)
+**Secret text (add another one)**
+- go back to Add credentials 
+- select `Secret text` -> next
+- in ID field type `snyk-org-slug` (all lower case)
 
-- go back to `Add credentials`
-- select `Secret text`
-- in ID field type `snyk-org-slug`
+![Github connected](./sc-snyk/2-organization-id.png)
 
-Get it from:
-- go back to Snyk
-- go to `Organization` on the left side → `Settings` → `Organization ID`
-- copy ID and paste it in Jenkins Secret field
+Go back to Snyk browser
+go to Organization on the left side -> Settings -> Organization ID
+copy ID and paste it in Jenkins Secret field
 
-- click `Create`
+![Github connected](./sc-snyk/3-add-credentials.png)
 
-Note:
+- `Create`
+
+note: 
 - Consistent naming conventions for Snyk credentials are critical in an organizational environment, where multiple integrations exist and credentials may need to be managed, rotated, or assigned across different teams, projects, or external entities.
 
 ---
 
-## Github Credentials
+### Github Credentials
 
-### Username with password
+**Username with password** 
+- Next
+- type in username: exact same as Github user name (DennistonShaw)
+- Passord to github -> user navigation window (top right icon) -> settings 
+- scroll down to developer settings
+  
+![Github connected](./sc-snyk/4-github-dev-settings.png)
 
-- type in username: exact same as GitHub user name (`DennistonShaw`)
-- password to GitHub:
-  - user navigation window (top right icon) → `Settings`
-  - scroll down to `Developer settings`
-
-- go to `Personal access tokens` → `Tokens (classic)` → `Generate new token` → `Generate new token (classic)`
+- go to Personal access tokens -> Tokens (classic) -> Generate new token -> Generate new token (classic)
 - may have to confirm access here
-- in the Note field: `jenkins-github-token`
-- click `Generate token`
-- next screen copy the token code because once you leave the screen you can't get it back
-- paste it somewhere safe
+- in the Note field: jenkins-github-token
+- click Generate token
+- next screen copy the token code because once you leave the screen you can't get it back. Paste it somewhere safe
 
-Back in Jenkins:
+![Github connected](./sc-snyk/5-generate-new-token.png)
+
+- go back to Jenkins browser
 - paste password/token
-- ID: `github-creds`
-- click `Create`
+- ID: github-creds
+- Create
 
 ---
 
-## Jenkins file
+### Jenkins file 
 
-From Aaron's repo:
+from Aaron's repo
 - https://github.com/aaron-dm-mcdonald/new-jenkins-s3-test/blob/Charles-Snyk/Jenkinsfile
 
-Make sure the credentials map the code.
-
-I needed to change the 3 occurrences of:
-- `aws-iam-user-creds`
-
-to:
-- `JenkinsTest`
-
-because this was the name of my AWS credentials.
+make sure the credentials map the code. I needed to change the 3 occurances of
+`aws-iam-user-creds` with `JenkinsTest` because this was the name of my AWS credentials
 
 ---
 
-## Set up a New pipeline
+### Set up a New pipeline
 
-- go to Jenkins → `+ New Item`
-- enter a name: `week30-snyk`
-- click `Pipeline`
-- click `OK`
+- go to Jenkins -> `+ New Item`
+- enter a name: snyk-pipeline
+- click Pipeline
+- `Ok`
 
-- scroll down to Pipeline
-- under `Definition` change dropdown to `Pipeline script from SCM`
-- under `SCM` change dropdown to `Git`
+- scroll down to or click Pipeline in the left menu
+- click under `Definitions` and change dropdown to `Pipeline script from SCM`
+  - under `SCM` change dropdown to Git
+    - under `Repository URL` print
+      - Repository URL: https://github.com/DennistonShaw/Class7-HW-Deliverables.git
+      - Branch: */main
+      - Credentials: DennistonShaw/******
+      - Script Path: week30-hw-snyk/Jenkinsfile
 
-- Repository URL:
-  ```text
-  https://github.com/DennistonShaw/Class7-HW-Deliverables.git
-  ```
+---
 
-- Branch:
-  ```text
-  */main
-  ```
+## Run the Pipeline and Debug Issues
 
-- Credentials:
-  ```text
-  github-creds
-  ```
+After setting up the pipeline and credentials, the next step is to run the build and troubleshoot any issues that occur.
 
-- Script Path:
-  ```text
-  week30-hw-snyk/Jenkinsfile
-  ```
+---
+
+### Run the Pipeline
+
+- go to Jenkins dashboard  
+- select your pipeline: `week30-snyk`  
+- click `Build Now`  
+
+---
+
+### Observe the Build
+
+- click the build number (ex: #1, #2, etc.)  
+- click `Console Output`  
+
+This is where all pipeline activity is logged.
+
+---
+
+### Common Issues Encountered
+
+During the first run, several issues occurred:
+
+---
+
+#### Issue: Command Not Found
+
+Example:
+```bash
+snyk: command not found
+```
+
+Cause:
+- Snyk CLI not available in Jenkins runtime  
+
+Fix:
+- do NOT rely on Jenkins tool config alone  
+- use:
+```bash
+npx snyk
+```
+
+---
+
+#### Issue: npm Not Found
+
+Example:
+```bash
+npm: command not found
+```
+
+Cause:
+- Node.js not available in Jenkins environment  
+
+Fix:
+- reference full path if needed:
+```bash
+/usr/bin/npm
+```
+
+---
+
+#### Issue: Permission Denied (EACCES)
+
+Example:
+```bash
+EACCES: permission denied
+```
+
+Cause:
+- attempting global install without proper permissions  
+
+Fix:
+- avoid global install  
+- use:
+```bash
+npx snyk
+```
+
+---
+
+#### Issue: No IaC Files Found
+
+Example:
+```text
+Could not find any valid IaC files
+```
+
+Cause:
+- wrong working directory  
+
+Fix:
+- ensure pipeline runs in correct folder:
+```text
+week30-hw-snyk/armageddon-lab-1
+```
+
+---
+
+### Update Jenkinsfile for Correct Execution
+
+Ensure Snyk runs inside the correct directory:
+
+```groovy
+stage('Snyk IaC Scan Test') {
+    steps {
+        dir('week30-hw-snyk/armageddon-lab-1') {
+            sh '''
+                npx snyk auth $SNYK_TOKEN
+                npx snyk iac test --org=$SNYK_ORG --severity-threshold=high || true
+            '''
+        }
+    }
+}
+```
+
+---
+
+### Re-run the Pipeline
+
+- click `Build Now` again  
+- confirm all stages run successfully  
+
+Expected stages:
+
+- Checkout  
+- Snyk IaC Scan Test  
+- Snyk IaC Scan Monitor (if configured)  
+- Terraform Init  
+- Terraform Plan  
+- Optional Destroy  
+
+---
+
+### Verify Snyk Results
+
+#### In Jenkins
+
+- open Console Output  
+- review vulnerabilities and warnings  
+
+---
+
+#### In Snyk Dashboard
+
+- go to:
+  https://app.snyk.io  
+
+- navigate to:
+  - Organization  
+  - Projects  
+
+- confirm Terraform files appear with issues listed  
+
+---
+
+### Confirm Terraform Execution
+
+- verify:
+  - `terraform init` completes  
+  - `terraform plan` runs successfully  
+
+- ensure no unexpected errors  
+
+---
+
+### Manual Destroy Step
+
+- pipeline may pause for input  
+- approve destroy only if needed  
+
+---
+
+### Final Validation
+
+A successful pipeline run should:
+
+- complete all stages  
+- show Snyk scan results  
+- show Terraform plan output  
+- optionally destroy infrastructure  
+
+---
+
+This confirms the Jenkins + Snyk + Terraform integration is working correctly.
 
 ---
 
 ## Important Note – Running Snyk with My Own Jenkinsfile
 
-During this lab, I ran into an issue when trying to follow Charles’s Jenkinsfile directly.
+During this lab, I ran into an issue when trying to follow Charle's (instructor) Jenkinsfile directly.
 
-My environment is already customized from previous labs (Terraform, Jenkins setup, credentials, plugins, and AMI builds), so using Charles’s Jenkinsfile exactly as-is did not match my setup.
+My environment is already customized from previous labs (Terraform, Jenkins setup, credentials, plugins, and AMI builds), so using the Charles’s Jenkinsfile exactly as-is did not match my setup.
 
 ### Key Realization
 
@@ -286,23 +492,25 @@ I do not need to copy Terraform or project files into the same folder as the Jen
 
 Instead, I can:
 
-- keep my Jenkinsfile in its own folder or repository
-- have Jenkins pull and scan code from other repositories or folders
-- use Snyk to scan those external projects
+- Keep my Jenkinsfile in its own folder or repository
+- Have Jenkins pull and scan code from other repositories or folders
+- Use Snyk to scan those external projects
 
 ### Example Concept
 
 - Jenkinsfile → defines the pipeline logic
-- target code → lives in another folder or repo (e.g., Terraform, Armageddon projects)
+- Target code → lives in another folder or repo (e.g., Terraform, Armageddon projects)
 
 Jenkins workflow:
-- load Jenkinsfile
-- clone or access target repo
-- run Snyk scan on that code
+
+- Load Jenkinsfile
+- Clone or access target repo
+- Run Snyk scan on that code
 
 ### Why This Matters
 
 This approach is:
+
 - cleaner (no duplicated files)
 - more flexible (can scan multiple projects)
 - closer to real-world DevOps workflows
@@ -310,235 +518,141 @@ This approach is:
 ### Decision
 
 For this lab, I will:
-- create my own Jenkinsfile
-- adapt it to my environment
-- use my existing Terraform projects as scan targets
-- keep my pipeline self-contained and fully within my control
+
+- Create my own Jenkinsfile
+- Adapt it to my environment
+- Use my existing Terraform projects as scan targets
+- Keep my pipeline self-contained and fully within my control
 
 ### Insight
 
 - I prefer to keep my pipelines self-contained and under my control, rather than relying on external structures or assumptions
 - This allows me to solve problems directly in my environment instead of working around mismatches between setups
 
-left off at:
-- https://youtu.be/jbfbPNTPZao?list=PLzfyR91ut1X3Dtxbub2F2kUuRrPK7_-Gs&t=6404
-
-## SNYK MENTAL NOTE
-
-- Jenkins runs a Jenkinsfile, and Snyk scans whatever files exist in the Jenkins workspace at that moment
-
-OR
-
-- Snyk scans what Jenkins sees
-
-**What I'm doing in class:**
-- repo has Terraform → Jenkins pulls → Snyk scans it
-
-**What I really want Jenkins to do (future setup):**
-- Jenkins pulls repo A → clones repo B → Snyk scans repo B
+On youtube continue from here:
+https://youtu.be/jbfbPNTPZao?list=PLzfyR91ut1X3Dtxbub2F2kUuRrPK7_-Gs&t=6404
 
 ---
 
-## Week 30 – Completing Jenkins + Snyk IaC Pipeline
+## Improve Pipeline – Persist Results in Snyk Dashboard
 
-### Objective
+Up to this point, Snyk scans were visible in Jenkins console output.
 
-Successfully integrate Snyk into a Jenkins pipeline to scan Terraform (Infrastructure as Code) before running Terraform commands.
-
----
-
-### Final Working Flow
-
-- Jenkins pulls repository from GitHub
-- Jenkins runs the pipeline defined in `Jenkinsfile`
-- Snyk scans Terraform files for security issues
-- Terraform initializes and generates a plan
-- Optional manual step allows resource destruction
+To ensure results are stored and tracked over time in Snyk, monitoring must be added.
 
 ---
 
-### Key Implementation Steps
+### Add Snyk Monitor Command
 
-- created new pipeline job in Jenkins using:
-  - **Pipeline script from SCM**
-  - GitHub repository as source
-  - script path:
-    ```text
-    week30-hw-snyk/Jenkinsfile
-    ```
-
-- configured required credentials:
-  - `github-creds` (GitHub access)
-  - `snyk-api-token`
-  - `snyk-api-token-string`
-  - `snyk-org-slug`
-  - `JenkinsTest` (AWS credentials)
-
-- ensured Snyk plugin and tool configuration were set in Jenkins
-
----
-
-### Critical Realizations
-
-- **Snyk scans what Jenkins sees in the workspace**
-  - correct working directory was required:
-    ```text
-    week30-hw-snyk/armageddon-lab-1
-    ```
-
-- Jenkins tool configuration does not guarantee CLI availability
-  - direct CLI usage required adjustments
-
-- using `npx snyk` avoids:
-  - missing binary issues
-  - permission errors from global npm installs
-
----
-
-### Final Snyk Command Used
+Update your Jenkinsfile to include:
 
 ```bash
-npx snyk auth $SNYK_TOKEN
-npx snyk iac test --org=$SNYK_ORG --severity-threshold=high || true
+npx snyk iac monitor --org=$SNYK_ORG
 ```
 
 ---
 
-### Key Lessons Learned
+### Updated Snyk Stage
 
-- always verify execution path inside Jenkins (`dir()` matters)
-- Jenkins environment may differ from local machine (PATH issues)
-- avoid assuming tools are installed — validate or install at runtime
-- use `npx` to simplify CLI execution in CI environments
-- keep pipelines aligned with your actual repo structure
-
----
-
-### Outcome
-
-- successfully executed a full Jenkins pipeline with:
-  - Snyk IaC security scanning
-  - Terraform initialization and planning
-  - controlled manual destroy step
-
-- pipeline is now fully functional and reproducible
-
----
-
-## I Realized Today – Debugging Patterns
-
-The issues I hit today were not random — they all fit into repeatable patterns.
-
-When something breaks, ask:
-
-### 1. Command Not Found
-
-→ Tool missing or not in PATH  
-
-**Fix:**
-- check:
-```bash
-which <tool>
-```
-- install it OR use correct command
-
----
-
-### 2. Permission Denied
-
-→ Wrong user / install location  
-
-**Fix:**
-- don’t install globally  
-- use:
-```bash
-npx <tool>
+```groovy
+stage('Snyk IaC Scan Monitor') {
+    steps {
+        dir('week30-hw-snyk/armageddon-lab-1') {
+            sh '''
+                npx snyk auth $SNYK_TOKEN
+                npx snyk iac monitor --org=$SNYK_ORG
+            '''
+        }
+    }
+}
 ```
 
 ---
 
-### 3. Works Locally, Fails in Jenkins
+### Run Pipeline Again
 
-→ Environment mismatch  
-
-**Fix:**
-- Jenkins ≠ local machine  
-- verify tools exist inside Jenkins runtime  
+- click `Build Now`
+- allow pipeline to complete
 
 ---
 
-### 4. Tool Configured but Not Working
+### Verify in Snyk Dashboard
 
-→ Config ≠ actual availability  
+- go to:
+  https://app.snyk.io  
 
-**Fix:**
-- don’t trust config  
-- test the command directly in pipeline  
-
----
-
-### 5. No Results / Nothing Found
-
-→ Wrong working directory  
-
-**Fix:**
-- check where Jenkins is running  
-- use correct `dir()`  
+- click:
+  - Organization  
+  - Projects  
 
 ---
 
-### Core Rule
+### Expected Result
 
-- Jenkins runs the pipeline  
-- Snyk scans what exists in the workspace  
+You should now see:
 
-→ **Snyk scans what Jenkins sees**
-
----
-
-### Big Takeaway
-
-- don’t memorize tools  
-- identify the pattern  
-- apply the fix  
+- Terraform files listed as projects  
+- vulnerability counts (Low / Medium / High)  
+- last tested timestamp  
 
 ---
 
-This is the framework I used to fix today’s pipeline.
+### Key Difference
+
+- `snyk test` → temporary results (Jenkins only)  
+- `snyk monitor` → persistent results (Snyk dashboard)  
 
 ---
 
----
+## Optional – Fail Build on Vulnerabilities
 
-## Future Improvement – Separate Pipeline Repo
-
-Instead of keeping the Jenkinsfile inside the same repository as the Terraform code, the pipeline can be moved to its own dedicated repository.
-
-### Concept
-
-- One repo contains the Jenkinsfile (pipeline logic)
-- Jenkins runs that pipeline
-- The pipeline pulls a separate target repo
-- Snyk scans the code from that target repo
-
-### Flow
-
-- Jenkins loads Jenkinsfile from pipeline repo  
-- Pipeline clones target repo (Terraform code)  
-- Snyk scans that repo  
-- Terraform commands run against that repo  
-
-### Why This Matters
-
-- decouples pipeline from application code  
-- allows one pipeline to scan multiple repositories  
-- more flexible and closer to real-world DevSecOps setups  
-
-### Mental Model
-
-- pipeline repo = “how to run”  
-- target repo = “what to scan”  
+To enforce security standards, you can configure the pipeline to fail when issues are detected.
 
 ---
 
-This is a future enhancement for scaling the pipeline beyond a single project.
+### Example
+
+Remove `|| true`:
+
+```bash
+npx snyk iac test --org=$SNYK_ORG --severity-threshold=high
+```
+
+---
+
+### Behavior
+
+- pipeline fails if high severity issues are found  
+- prevents insecure infrastructure from being deployed  
+
+---
+
+## Final Verification Checklist
+
+Before considering the lab complete, confirm:
+
+- Jenkins pipeline runs successfully  
+- Snyk scan executes without errors  
+- Terraform init and plan succeed  
+- Snyk results appear in dashboard  
+- correct directory is used in pipeline  
+
+![Snyk App proof](./sc-snyk/6-snyk-targets.png)
+
+![Snyk App proof](./sc-snyk/7-snyk-project-issues.png)
+
+![Snyk App proof](./sc-snyk/8-snyk-issue-overviews.png)
+
+---
+
+## Cleanup
+
+After completing the lab:
+
+- terminate EC2 instance hosting Jenkins  
+- verify no Terraform resources remain running  
+- confirm no unexpected AWS charges  
+
+---
+
+This completes the full Jenkins + Snyk IaC pipeline implementation.
