@@ -505,3 +505,40 @@ npx <tool>
 ---
 
 This is the framework I used to fix today’s pipeline.
+
+---
+
+---
+
+## Future Improvement – Separate Pipeline Repo
+
+Instead of keeping the Jenkinsfile inside the same repository as the Terraform code, the pipeline can be moved to its own dedicated repository.
+
+### Concept
+
+- One repo contains the Jenkinsfile (pipeline logic)
+- Jenkins runs that pipeline
+- The pipeline pulls a separate target repo
+- Snyk scans the code from that target repo
+
+### Flow
+
+- Jenkins loads Jenkinsfile from pipeline repo  
+- Pipeline clones target repo (Terraform code)  
+- Snyk scans that repo  
+- Terraform commands run against that repo  
+
+### Why This Matters
+
+- decouples pipeline from application code  
+- allows one pipeline to scan multiple repositories  
+- more flexible and closer to real-world DevSecOps setups  
+
+### Mental Model
+
+- pipeline repo = “how to run”  
+- target repo = “what to scan”  
+
+---
+
+This is a future enhancement for scaling the pipeline beyond a single project.
