@@ -20,8 +20,8 @@ pipeline {
                     dir('armageddon-lab-1') {
                         sh '''
                             export PATH=$PATH:/var/lib/jenkins/tools/io.snyk.jenkins.tools.SnykInstallation/snyk
-                            snyk-linux auth $SNYK_TOKEN
-                            snyk-linux iac test --org=$SNYK_ORG --severity-threshold=high || true
+                            snyk auth $SNYK_TOKEN
+                            snyk iac test --org=$SNYK_ORG --severity-threshold=high || true
                         '''
                     }
                 }
