@@ -17,7 +17,7 @@ pipeline {
         stage('Snyk IaC Scan Test') {
             steps {
                 withCredentials([string(credentialsId: 'snyk-api-token-string', variable: 'SNYK_TOKEN')]) {
-                    dir('armageddon-lab-1') {
+                    dir('week30-hw-snyk/armageddon-lab-1') {
                         sh '''
                         npx snyk auth $SNYK_TOKEN
                         npx snyk iac test --org=$SNYK_ORG --severity-threshold=high || true
@@ -29,7 +29,7 @@ pipeline {
 
         stage('Snyk IaC Scan Monitor') {
             steps {
-                dir('armageddon-lab-1') {
+                dir('week30-hw-snyk/armageddon-lab-1') {
                     snykSecurity(
                         snykInstallation: 'snyk',
                         snykTokenId: 'snyk-api-token',
@@ -47,7 +47,7 @@ pipeline {
                     $class: 'AmazonWebServicesCredentialsBinding',
                     credentialsId: 'JenkinsTest'
                 ]]) {
-                    dir('armageddon-lab-1') {
+                    dir('week30-hw-snyk/armageddon-lab-1') {
                         sh 'terraform init'
                     }
                 }
@@ -60,7 +60,7 @@ pipeline {
                     $class: 'AmazonWebServicesCredentialsBinding',
                     credentialsId: 'JenkinsTest'
                 ]]) {
-                    dir('armageddon-lab-1') {
+                    dir('week30-hw-snyk/armageddon-lab-1') {
                         sh 'terraform plan'
                     }
                 }
@@ -87,7 +87,7 @@ pipeline {
                             $class: 'AmazonWebServicesCredentialsBinding',
                             credentialsId: 'JenkinsTest'
                         ]]) {
-                            dir('armageddon-lab-1') {
+                            dir('week30-hw-snyk/armageddon-lab-1') {
                                 sh 'terraform destroy -auto-approve'
                             }
                         }
