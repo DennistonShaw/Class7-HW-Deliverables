@@ -5,6 +5,36 @@
 #### Topic: SYNK LAB
 ---
 
+## Table of Contents
+
+- [What is Snyk?](#what-is-snyk)
+- [What Snyk Does](#what-snyk-does)
+- [What Snyk Scans](#what-snyk-scans)
+  - [1. Dependencies](#1-dependencies)
+  - [2. Source Code (SAST)](#2-source-code-sast)
+  - [3. Containers](#3-containers)
+  - [4. Infrastructure as Code (IaC)](#4-infrastructure-as-code-iac)
+- [How to Use Snyk](#how-to-use-snyk)
+- [Example: Jenkins Integration](#example-jenkins-integration)
+- [Example: Terraform Misconfiguration](#example-terraform-misconfiguration)
+- [Why Snyk Matters](#why-snyk-matters)
+- [DevSecOps Context](#devsecops-context)
+- [Summary](#summary)
+- [Next Steps](#next-steps)
+- [Spin up Jenkins](#spin-up-jenkins)
+- [Improve Jenkins Performance After Restart / New Instance](#improve-jenkins-performance-after-restart--new-instance)
+- [Add Credentials](#add-credentials)
+  - [Snyk Credentials](#snyk-credentials)
+  - [Github Credentials](#github-credentials)
+- [Jenkins file](#jenkins-file)
+- [Set up a New pipeline](#set-up-a-new-pipeline)
+- [Run the Pipeline and Debug Issues](#run-the-pipeline-and-debug-issues)
+- [Important Note – Running Snyk with My Own Jenkinsfile](#important-note--running-snyk-with-my-own-jenkinsfile)
+- [Improve Pipeline – Persist Results in Snyk Dashboard](#improve-pipeline--persist-results-in-snyk-dashboard)
+- [Optional – Fail Build on Vulnerabilities](#optional--fail-build-on-vulnerabilities)
+- [Final Verification Checklist](#final-verification-checklist)
+- [Cleanup](#cleanup)
+
 Theo spoke about over using or abusing AI
 
 GO OVER SNYK CLASS!!!
@@ -187,6 +217,57 @@ Log into your snyk account (an account was set up during class7 installation)
 - and show Github successfully connected
 
 ![Github connected](./sc-snyk/1-github-connected.png)
+
+---
+
+## Improve Jenkins Performance After Restart / New Instance
+
+When launching a new EC2 instance (or restarting without a static IP), Jenkins may still be configured with the old URL.
+
+This can cause:
+- slower response times  
+- unnecessary redirects  
+- Jenkins attempting to reach a non-existent IP  
+
+---
+
+### Fix Jenkins URL
+
+- go to:
+  - `Manage Jenkins` → `System`
+
+- scroll down to:
+  - `Jenkins Location`
+
+- find:
+  - `Jenkins URL`
+
+---
+
+### Update
+
+- replace old IP with new EC2 public IP:
+```
+http://<new-public-ip>:8080
+```
+
+- click:
+  - `Apply` → `Save`
+
+---
+
+### Why This Happens
+
+- EC2 instance gets a new public IP  
+- Jenkins stores the old URL from previous instance  
+- Jenkins tries to use outdated URL → causes delay  
+
+---
+
+### Note
+
+- AMI does NOT automatically update Jenkins URL  
+- this must be updated manually unless using a static IP (Elastic IP)
 
 ---
 
@@ -656,3 +737,5 @@ After completing the lab:
 ---
 
 This completes the full Jenkins + Snyk IaC pipeline implementation.
+
+---
