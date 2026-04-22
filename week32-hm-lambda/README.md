@@ -32,13 +32,12 @@
   - [Step 12: Verify Updated HTTP Output](#step-12-verify-updated-http-output)
 
 - [SNS](#sns)
-- [SNS Email Fix (Quick Reproduce Steps)](#sns-email-fix-quick-reproduce-steps)
+- [Steps to fixing a recurring problem with SNS subscriptions being automatically unsubscribed](#steps-to-fixing-a-recurring-problem-with-sns-subscriptions-being-automatically-unsubscribed)
 - [Lambda SNS Test](#lambda-sns-test)
 - [Troubleshooting (SNS Email)](#troubleshooting-sns-email)
 - [Step 13: Add SNS Publish to Lambda](#step-13-add-sns-publish-to-lambda)
 - [Step 14: Test SNS Through Function URL](#step-14-test-sns-through-function-url)
 - [Step 15: Verify SNS Emails](#step-15-verify-sns-emails)
-- [SNS Email Subscription Fix](#sns-email-subscription-fix)
 - [Key Takeaways](#key-takeaways)
 
 # WEEK 32 — 2026-04-14 Assignments
@@ -96,10 +95,13 @@ https://cosmicbook.news/paramount-avatar-aang-last-airbender-leaks-online-fans-r
   - Modify characteristics of files
   - Notify the security team of potential vulnerabilities
 
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## Code from Class
 
+```Python
 import json
 def lambda_handler(event, context):
     print("Hello from Lambda")
@@ -108,6 +110,7 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': json.dumps('Hello from Lambda!')
     }
+```
 
 ---
 
@@ -116,9 +119,10 @@ def lambda_handler(event, context):
 - hit Deploy
 - go to Function URL and copy Function URL and paste it in a browser
 
-![Function URL](./screenshots/15-function-url.png)
-
 go to Cloudwatch -> Log events 
+
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 ---
 
@@ -152,6 +156,8 @@ This class covered:
   - PCA
 - Some may remain in Henry longer
 
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## Expectations & Accountability
@@ -181,6 +187,8 @@ This class covered:
 - Teams help recover from mistakes
 - Collaboration increases job security
 - Isolation leads to failure in real environments
+
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -212,6 +220,8 @@ This class covered:
 #### 3. Serverless (Lambda)
 - No infrastructure management
 - Event-driven execution
+
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -259,6 +269,8 @@ Event → Trigger → Action
 - Timers
 - Database changes
 
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 # LAB – AWS Lambda Implementation
@@ -282,7 +294,7 @@ Article: [How serverless works?](https://www.geeksforgeeks.org/system-design/fun
 
 Click **Create Function**
 
-![Create Function - Lambda basic](./screenshots/1-create%20function.png)
+![Create Function - Lambda basic](./screenshots/1-create-function.png)
 
 ---
 
@@ -464,7 +476,7 @@ Hello from Lambda! The invocation was successful
 
 - Click Deploy after making code changes
 
-![Deploy button](./screenshots/15-deploy-button.png)
+![Deploy button](./screenshots/15-deploy-buttons.png)
 
 ### Verify
 - Deployment completes successfully
@@ -497,6 +509,8 @@ Hello from Lambda! The invocation was successful
 ### Verify
 - Updated message appears:
   - Hello from Lambda! The invocation was successful
+
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -568,7 +582,7 @@ in Create subscription
 
 ---
 
-go to Lambda and replace my code with this. Make sure you copy and paste your Topic ARN in this code.
+Go to Lambda and replace your code with this:
   - go to Amazon SNS -> Topics -> topics (Under dashboards on the left)
   - copy ARN here
 
@@ -615,17 +629,20 @@ Done - Now your Lambda can send SNS messages.
   - Email:
     - Subject: Lambda Test 1
     - Message: This is SNS email #1 from Lambda
+  
+  [⬆️ Back to Table of Contents](#table-of-contents)
+
+---
+---
 ---
 
-Fixed a recurring problem with SNS subscriptions being automatically unsubscribed
+## Steps to fixing a recurring problem with SNS subscriptions being automatically unsubscribed
 
 aws sns confirm-subscription \
   --region us-east-1 \
   --topic-arn arn:aws:sns:us-east-1:497589205696:week32-lambda-sns \
-  --token='REDACTED' \
+  --token 'REDACTED' \
   --authenticate-on-unsubscribe true
-
----
 
 ### 1. Create subscription
 
@@ -636,39 +653,34 @@ Set:
 - Protocol: Email
 - Endpoint: your email
 
----
-
 ### 2. Copy confirmation link
 
-- Open AWS email don't confirm subscription
+- Open AWS email (do not confirm subscription yet)
 - Right-click **Confirm subscription**
-- Copy link address
+- copy link address
 
----
+![Extract token](./screenshots/23a-email-%20right-click-link-address.png)
 
 ### 3. Extract token
 
 From the link:
 
 ```
-https://sns.us-east-1.amazonaws.com/?Action=ConfirmSubscription&TopicArn=...&Token=LONG_STRING&Endpoint=...
+https://sns.us-east-1.amazonaws.com/?Action=ConfirmSubscription&TopicArn=...&Token=LONG_STRING_HERE&Endpoint=your@email.com
 ```
 
-Copy only:
+Extract ONLY the value after `Token=` and before `&Endpoint=`:
 
 ```
-LONG_STRING
+LONG_STRING_HERE
 ```
-
----
 
 ### 4. Open CloudShell
 
 - AWS Console → CloudShell
 
----
-
 ### 5. Run confirm command
+- input token in the command
 
 ```
 aws sns confirm-subscription \
@@ -678,7 +690,7 @@ aws sns confirm-subscription \
   --authenticate-on-unsubscribe true
 ```
 
----
+![run command](./screenshots/23b-cloud-shell-aws-sns.png)
 
 ### 6. Verify
 
@@ -690,6 +702,12 @@ Expected:
 Status: Confirmed
 ```
 
+![email confirmed](./screenshots/23c-email-confirmed.png)
+
+[⬆️ Back to Table of Contents](#table-of-contents)
+
+---
+---
 ---
 
 ## Lambda SNS Test
@@ -759,6 +777,10 @@ Message: This is SNS email #1 from Lambda
 
 Goal: 6 emails total
 
+[⬆️ Back to Table of Contents](#table-of-contents)
+
+---
+
 ## Troubleshooting (SNS Email)
 
 ### No email received
@@ -806,6 +828,8 @@ AmazonSNSFullAccess
 ```
 arn:aws:sns:us-east-1:497589205696:week32-lambda-sns
 ```
+
+---
 
 ## Key Takeaways
 
@@ -883,37 +907,6 @@ def lambda_handler(event, context):
 
 ![SNS inbox proof](./screenshots/27-all-sns-email-notifications.png)
 
----
-
-## SNS Email Subscription Fix
-
-### Problem
-
-- SNS email subscription confirmed successfully
-- Subscription automatically changed to Deleted / Unsubscribed
-- Emails were not being delivered
-
-### Solution
-
-- Create a new SNS email subscription
-- Copy the confirmation link from the SNS email
-- Extract the token from the URL
-- Open AWS CloudShell
-- Confirm the subscription with authenticated unsubscribe enabled
-
-### Command Used
-
-```bash
-aws sns confirm-subscription \
-  --region us-east-1 \
-  --topic-arn arn:aws:sns:us-east-1:497589205696:week32-lambda-sns \
-  --token 'REDACTED' \
-  --authenticate-on-unsubscribe true
-```
-
-### Result
-
-- SNS subscription remained stable
-- Lambda -> SNS -> Email worked successfully
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
