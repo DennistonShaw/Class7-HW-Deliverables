@@ -1,5 +1,10 @@
-# They got caught slippin`
 
+Discuss:
+- Paramount was recently hacked, and the Avatar movie was leaked (https://cosmicbook.news/paramount-avatar-aang-last-airbender-leaks-online-fans-rip-voice-acting). Suppose the movie file was stored in S3. How would you utilize  Lambda to prevent unauthorized access, modify characteristics of files, or notify the security team of a potential vulnerability?
+
+
+
+# They got caught slippin`
 I would trigger a Lambda on S3 events to validate all uploads, automatically quarantine or restrict any unauthorized files, and send alerts via SNS. Lambda is a very fast and optimized for event driven tasks. It’s not a security replacement just an event-driven enforcement layer on top of S3 security.  
 
 ---
