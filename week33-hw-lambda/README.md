@@ -62,10 +62,10 @@
 
 ## Submission Checklist
 
-- [ ] HTTP API Gateway deployed
-- [ ] REST API Gateway deployed
-- [ ] 6 total names returned (3 per endpoint)
-- [ ] Browser output screenshots captured
+- [x] HTTP API Gateway deployed
+- [x] REST API Gateway deployed
+- [x] 6 total names returned (3 per endpoint)
+- [x] Browser output screenshots captured
 - [ ] Terraform lab completed
 - [ ] Terraform code cleaned and pushed
 - [ ] Second Lambda endpoint added to API Gateway
