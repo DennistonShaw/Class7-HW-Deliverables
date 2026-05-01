@@ -78,4 +78,4 @@
 
 ## Class Notes
 
-- [Week 33 Notes](docs/class-notes/week33.md)
+- [Week 33 Notes](docs/class-notes/2026-04-21-week33-class7.md)
