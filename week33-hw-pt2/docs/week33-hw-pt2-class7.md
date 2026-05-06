@@ -92,7 +92,7 @@ resource "aws_apigatewayv2_api" "api" {
 }
 ```
 
-IVPA
+### Terraform: IVPA
 
 ```bash
 api_url = "https://btqzdqrk1j.execute-api.us-east-1.amazonaws.com"
@@ -103,5 +103,16 @@ api_url = "https://btqzdqrk1j.execute-api.us-east-1.amazonaws.com"
 ![node output](../screenshots/submissions/week33-node-browser-success.png)
 
 ![python output](../screenshots/submissions/week33-python-browser-success.png)
+
+---
+
+### terraform destroy
+
+I was able to fully destroy all infrastructure using Terraform,
+proving that the system is fully defined and reproducible in code.
+
+![planned to destroy](../screenshots/submissions/planned-destroy.png)
+
+![successful destroy](../screenshots/submissions/successful-destroy.png)
 
 ---
