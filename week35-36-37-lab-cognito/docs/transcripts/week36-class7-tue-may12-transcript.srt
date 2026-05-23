@@ -1,0 +1,6495 @@
+1
+00:00:04,319 --> 00:00:07,279
+And then they got this guy in Austin
+
+2
+00:00:07,279 --> 00:00:09,440
+who's working like doing 12-hour shifts
+
+3
+00:00:09,440 --> 00:00:12,160
+with Japan speaking fluent Japanese and
+
+4
+00:00:12,160 --> 00:00:14,719
+giving explanations and directing people
+
+5
+00:00:14,719 --> 00:00:17,760
+what to do, right? And I'm like, "What
+
+6
+00:00:17,760 --> 00:00:20,080
+do you mean, man? This is pretty easy to
+
+7
+00:00:20,080 --> 00:00:21,760
+I've never asked for any kind of
+
+8
+00:00:21,760 --> 00:00:23,600
+advanced like Japanese lessons or
+
+9
+00:00:23,600 --> 00:00:24,640
+anything like that. Like that's some
+
+10
+00:00:24,640 --> 00:00:27,359
+[ __ ] right?" Yeah, he he the guy
+
+11
+00:00:27,359 --> 00:00:29,920
+effed it up. Yeah, he he he that he's
+
+12
+00:00:29,920 --> 00:00:31,439
+screwed up. I that's not how you do
+
+13
+00:00:31,439 --> 00:00:32,000
+things.
+
+14
+00:00:32,000 --> 00:00:34,880
+>> No, but but you could even I I think I
+
+15
+00:00:34,880 --> 00:00:37,840
+bet I bet you could ask ask your CISO
+
+16
+00:00:37,840 --> 00:00:39,920
+like, "Hey, what would what did you guys
+
+17
+00:00:39,920 --> 00:00:41,840
+offer him? What was the offer to that
+
+18
+00:00:41,840 --> 00:00:46,640
+Indian guy as far as numbers go?"
+
+19
+00:00:46,640 --> 00:00:50,160
+>> I think it was somewhere around probably
+
+20
+00:00:50,160 --> 00:00:52,000
+probably 22 23 million something like
+
+21
+00:00:52,000 --> 00:00:53,199
+that.
+
+22
+00:00:53,199 --> 00:00:56,719
+>> He was going to get paid as much as you.
+
+23
+00:00:56,719 --> 00:00:58,160
+>> Yeah. But yeah, there there was no way
+
+24
+00:00:58,160 --> 00:00:59,600
+he was going to get that position.
+
+25
+00:00:59,600 --> 00:01:02,960
+>> But but but the fact it came down to you
+
+26
+00:01:02,960 --> 00:01:06,000
+and him,
+
+27
+00:01:06,000 --> 00:01:08,560
+>> that's ridiculous.
+
+28
+00:01:08,560 --> 00:01:10,960
+>> I know, right? They had to break old
+
+29
+00:01:10,960 --> 00:01:14,560
+protocol. Um the company has a rule that
+
+30
+00:01:14,560 --> 00:01:17,759
+you cannot snatch a person from a
+
+31
+00:01:17,759 --> 00:01:20,640
+different department. And they it
+
+32
+00:01:20,640 --> 00:01:23,920
+actually they had to break it because
+
+33
+00:01:23,920 --> 00:01:26,720
+Japan reached out to me first and said
+
+34
+00:01:26,720 --> 00:01:30,720
+please come over and then they had to go
+
+35
+00:01:30,720 --> 00:01:33,439
+to the CISO and my manager and then the
+
+36
+00:01:33,439 --> 00:01:36,400
+CISO had to be involved and said yeah
+
+37
+00:01:36,400 --> 00:01:39,040
+let's do it then no maybe not and then
+
+38
+00:01:39,040 --> 00:01:40,400
+because it's not the company way of
+
+39
+00:01:40,400 --> 00:01:41,920
+doing things they saw what I was doing I
+
+40
+00:01:41,920 --> 00:01:43,680
+said okay they're like [ __ ] it like send
+
+41
+00:01:43,680 --> 00:01:47,520
+a mortgage man said my manager said that
+
+42
+00:01:47,520 --> 00:01:49,040
+they said that they broke the entire
+
+43
+00:01:49,040 --> 00:01:50,880
+vertical. They didn't care. They're
+
+44
+00:01:50,880 --> 00:01:53,200
+like, "This guy could do it." They're
+
+45
+00:01:53,200 --> 00:01:55,920
+like, "Dude, I'm that old I'm doing this
+
+46
+00:01:55,920 --> 00:01:58,320
+age and stuff is speaking a Japanese. I
+
+47
+00:01:58,320 --> 00:02:02,240
+speak a Japanese to my dogs."
+
+48
+00:02:02,240 --> 00:02:05,759
+Um, other thing too, again, how many
+
+49
+00:02:05,759 --> 00:02:10,119
+times I tell you guys to get a books?
+
+50
+00:02:11,440 --> 00:02:13,040
+So,
+
+51
+00:02:13,040 --> 00:02:15,920
+um,
+
+52
+00:02:15,920 --> 00:02:17,440
+here
+
+53
+00:02:17,440 --> 00:02:19,760
+we're at where is your house, right?
+
+54
+00:02:19,760 --> 00:02:21,760
+This is one of my Azure administrator
+
+55
+00:02:21,760 --> 00:02:22,640
+books
+
+56
+00:02:22,640 --> 00:02:24,160
+>> in Japanese
+
+57
+00:02:24,160 --> 00:02:26,400
+>> nihongo day. And the fact that I could
+
+58
+00:02:26,400 --> 00:02:28,480
+just open it up and start reading it.
+
+59
+00:02:28,480 --> 00:02:30,480
+They're like, "Wow." They're like,
+
+60
+00:02:30,480 --> 00:02:32,000
+"Yeah, I don't need any Japanese
+
+61
+00:02:32,000 --> 00:02:34,720
+lessons. I'm good."
+
+62
+00:02:34,720 --> 00:02:39,680
+Right. Um, which one also did I Oh,
+
+63
+00:02:39,680 --> 00:02:42,720
+here. Want to have some fun?
+
+64
+00:02:42,720 --> 00:02:44,319
+I just put these over to the side. I'll
+
+65
+00:02:44,319 --> 00:02:49,680
+come back out. Wow. Look. Kubernetes.
+
+66
+00:02:49,680 --> 00:02:51,599
+O'Reilly book. Kubernetes in Japanese.
+
+67
+00:02:51,599 --> 00:02:53,519
+>> Oh, you got that book in Japanese. Oh,
+
+68
+00:02:53,519 --> 00:02:54,319
+wow. Okay.
+
+69
+00:02:54,319 --> 00:02:56,800
+>> Yeah, I got it in Japanese first,
+
+70
+00:02:56,800 --> 00:02:59,040
+English second,
+
+71
+00:02:59,040 --> 00:03:02,000
+then.
+
+72
+00:03:02,000 --> 00:03:05,680
+Oh, look. Terapform
+
+73
+00:03:05,680 --> 00:03:07,920
+a term book.
+
+74
+00:03:07,920 --> 00:03:09,599
+The fact that I have this in Japanese so
+
+75
+00:03:09,599 --> 00:03:10,720
+I can just sit here and start reading
+
+76
+00:03:10,720 --> 00:03:14,159
+it. The ISO 27001 books are still in the
+
+77
+00:03:14,159 --> 00:03:17,040
+other room. I don't have the 420001 yet
+
+78
+00:03:17,040 --> 00:03:18,000
+just came out.
+
+79
+00:03:18,000 --> 00:03:20,400
+>> Oh, no. I Okay, there. So, they did
+
+80
+00:03:20,400 --> 00:03:23,040
+print 421.
+
+81
+00:03:23,040 --> 00:03:25,040
+>> Yeah, I still still haven't gotten it
+
+82
+00:03:25,040 --> 00:03:27,360
+yet. Um I have to go pay for it. It's
+
+83
+00:03:27,360 --> 00:03:29,599
+going to be like $4500 just to get it.
+
+84
+00:03:29,599 --> 00:03:33,120
+>> Um but where did I put my money? I put
+
+85
+00:03:33,120 --> 00:03:34,400
+my money at these materials. I actually
+
+86
+00:03:34,400 --> 00:03:36,319
+read it. I'm not master of it, but I
+
+87
+00:03:36,319 --> 00:03:37,599
+actually knew what was going on. I can
+
+88
+00:03:37,599 --> 00:03:38,959
+actually talk about it. They're like,
+
+89
+00:03:38,959 --> 00:03:40,799
+"Cool, we need something like that,
+
+90
+00:03:40,799 --> 00:03:44,159
+right?" Um,
+
+91
+00:03:44,159 --> 00:03:45,519
+all I did is show up a little bit. It
+
+92
+00:03:45,519 --> 00:03:48,000
+wasn't that big. And so, for you guys
+
+93
+00:03:48,000 --> 00:03:50,640
+who have um for guys who are who have
+
+94
+00:03:50,640 --> 00:03:52,720
+imposter syndrome, I'm going to go
+
+95
+00:03:52,720 --> 00:03:54,400
+elaborate a little bit more of what what
+
+96
+00:03:54,400 --> 00:03:58,080
+Rob said. Um, when I first started this
+
+97
+00:03:58,080 --> 00:04:00,159
+program, again, remember I I paid for
+
+98
+00:04:00,159 --> 00:04:01,280
+everything in the beginning. I paid for
+
+99
+00:04:01,280 --> 00:04:05,680
+the Conclave. Um, the class was free.
+
+100
+00:04:05,680 --> 00:04:08,560
+there weren't anybody who was certified
+
+101
+00:04:08,560 --> 00:04:10,560
+except me.
+
+102
+00:04:10,560 --> 00:04:14,080
+And if those guys had imposter syndrome,
+
+103
+00:04:14,080 --> 00:04:18,160
+I can see that. But uh group one was one
+
+104
+00:04:18,160 --> 00:04:21,040
+of the hardest working groups that I had
+
+105
+00:04:21,040 --> 00:04:22,960
+and they they believed in what I had to
+
+106
+00:04:22,960 --> 00:04:25,840
+say and those guys got certified and got
+
+107
+00:04:25,840 --> 00:04:29,440
+jobs. Right? If you fast forward to
+
+108
+00:04:29,440 --> 00:04:32,560
+where we're at now, we have over 200
+
+109
+00:04:32,560 --> 00:04:36,000
+certified black men in the group
+
+110
+00:04:36,000 --> 00:04:39,280
+over 200.
+
+111
+00:04:39,280 --> 00:04:43,120
+We got black men on every single
+
+112
+00:04:43,120 --> 00:04:45,600
+continent right now the class except for
+
+113
+00:04:45,600 --> 00:04:48,600
+Antarctica.
+
+114
+00:04:48,960 --> 00:04:51,040
+Multiple languages,
+
+115
+00:04:51,040 --> 00:04:53,120
+multiple resources.
+
+116
+00:04:53,120 --> 00:04:54,720
+There are guys doing stuff that I don't
+
+117
+00:04:54,720 --> 00:04:56,880
+do at all. I have no idea. I'm not even
+
+118
+00:04:56,880 --> 00:04:58,479
+trying to control what they're doing. I
+
+119
+00:04:58,479 --> 00:05:00,479
+hear about it every once in a while,
+
+120
+00:05:00,479 --> 00:05:02,560
+right? I got specialists. I got a guy
+
+121
+00:05:02,560 --> 00:05:04,720
+making half million dollars a year just
+
+122
+00:05:04,720 --> 00:05:09,720
+doing AI class two.
+
+123
+00:05:09,919 --> 00:05:12,160
+If you have that mill and many
+
+124
+00:05:12,160 --> 00:05:13,759
+resources, you got free stuff, you got
+
+125
+00:05:13,759 --> 00:05:16,160
+nana, you got all kinds of [ __ ] in the
+
+126
+00:05:16,160 --> 00:05:19,039
+class, got all that, and then you have
+
+127
+00:05:19,039 --> 00:05:22,080
+imposter syndrome, it's on you, bro.
+
+128
+00:05:22,080 --> 00:05:25,880
+Don't Don't look at me.
+
+129
+00:05:26,000 --> 00:05:28,960
+Don't even look at me. Oh my god, man.
+
+130
+00:05:28,960 --> 00:05:30,960
+You is We have a therapist in the group.
+
+131
+00:05:30,960 --> 00:05:33,360
+Go talk to the therapist. We need to go
+
+132
+00:05:33,360 --> 00:05:35,600
+take care of that.
+
+133
+00:05:35,600 --> 00:05:37,360
+And yeah, other students to work with
+
+134
+00:05:37,360 --> 00:05:41,840
+too. Um the thing that I I find is again
+
+135
+00:05:41,840 --> 00:05:48,720
+my opinion is that as the as the class
+
+136
+00:05:48,720 --> 00:05:51,280
+continues, we have students who read
+
+137
+00:05:51,280 --> 00:05:54,400
+less who can read less. They read less
+
+138
+00:05:54,400 --> 00:05:55,919
+and they can read less. Their reading
+
+139
+00:05:55,919 --> 00:05:57,759
+comprehension level is decreasing. This
+
+140
+00:05:57,759 --> 00:06:00,639
+is right along with what BTS is saying.
+
+141
+00:06:00,639 --> 00:06:02,479
+And the guys who started in the
+
+142
+00:06:02,479 --> 00:06:04,000
+beginning, they were more hardcore.
+
+143
+00:06:04,000 --> 00:06:06,720
+They're more Gen X level and they're
+
+144
+00:06:06,720 --> 00:06:08,080
+just willing to put in the work. They
+
+145
+00:06:08,080 --> 00:06:10,080
+can read like a mother. They they ran
+
+146
+00:06:10,080 --> 00:06:13,520
+they read read all the time. It's how
+
+147
+00:06:13,520 --> 00:06:15,520
+much are you guys reading? It's what it
+
+148
+00:06:15,520 --> 00:06:18,319
+is. Gordon,
+
+149
+00:06:18,319 --> 00:06:20,240
+>> I'm I'm going to say this point to the
+
+150
+00:06:20,240 --> 00:06:22,080
+cows come home. Um, I have been
+
+151
+00:06:22,080 --> 00:06:25,520
+advocating this since my cohort of 5.5
+
+152
+00:06:25,520 --> 00:06:28,479
+and I advocate it to everybody that does
+
+153
+00:06:28,479 --> 00:06:30,400
+not have a regular personal reading
+
+154
+00:06:30,400 --> 00:06:31,840
+routine. I know there are some people
+
+155
+00:06:31,840 --> 00:06:33,280
+that like to read for pleasure, like
+
+156
+00:06:33,280 --> 00:06:35,440
+novels and things like that, that's
+
+157
+00:06:35,440 --> 00:06:37,039
+totally fine. Graphic novels, comic
+
+158
+00:06:37,039 --> 00:06:39,520
+books, all that counts. Great. If you're
+
+159
+00:06:39,520 --> 00:06:41,520
+not one of those people and you don't
+
+160
+00:06:41,520 --> 00:06:43,680
+read on a regular basis, I'm not here to
+
+161
+00:06:43,680 --> 00:06:44,880
+shame you. I'm here to give you a
+
+162
+00:06:44,880 --> 00:06:48,479
+strategy with your group or if you can
+
+163
+00:06:48,479 --> 00:06:51,680
+if you can just get one other person
+
+164
+00:06:51,680 --> 00:06:54,080
+read out loud.
+
+165
+00:06:54,080 --> 00:06:56,639
+I I I I am telling you that this is one
+
+166
+00:06:56,639 --> 00:06:59,039
+of the the easiest ways to not only get
+
+167
+00:06:59,039 --> 00:07:01,440
+over imposttor syndrome but to but to
+
+168
+00:07:01,440 --> 00:07:03,440
+also absorb information from books
+
+169
+00:07:03,440 --> 00:07:08,000
+rather quickly. Read the books out loud.
+
+170
+00:07:08,000 --> 00:07:09,360
+Don't give a [ __ ] about who's in the
+
+171
+00:07:09,360 --> 00:07:11,120
+room. Don't give a [ __ ] about who you
+
+172
+00:07:11,120 --> 00:07:13,280
+might offend. Just read out loud. And if
+
+173
+00:07:13,280 --> 00:07:15,039
+you can read with your group, even
+
+174
+00:07:15,039 --> 00:07:16,720
+better.
+
+175
+00:07:16,720 --> 00:07:18,639
+That is something that I that I did
+
+176
+00:07:18,639 --> 00:07:21,199
+along with my my brother uh my brothers
+
+177
+00:07:21,199 --> 00:07:24,720
+I should say Dax and Mr. B Hull um when
+
+178
+00:07:24,720 --> 00:07:27,840
+we first started in 5.5 and it it is a
+
+179
+00:07:27,840 --> 00:07:29,599
+regular practice of ours when we are
+
+180
+00:07:29,599 --> 00:07:31,280
+studying
+
+181
+00:07:31,280 --> 00:07:33,520
+and it's something that I highly advoc
+
+182
+00:07:33,520 --> 00:07:35,280
+advocate to any and all that have
+
+183
+00:07:35,280 --> 00:07:37,440
+difficulties or anxiety when it comes to
+
+184
+00:07:37,440 --> 00:07:40,400
+reading. Reading out loud will clear
+
+185
+00:07:40,400 --> 00:07:43,520
+that [ __ ] right up. Just be consistent.
+
+186
+00:07:43,520 --> 00:07:46,000
+And one of the the best ways to do it is
+
+187
+00:07:46,000 --> 00:07:48,400
+either by chapter or if it if it's if
+
+188
+00:07:48,400 --> 00:07:50,800
+the chapters are too long by page count.
+
+189
+00:07:50,800 --> 00:07:53,039
+So I'll read five pages, you read five
+
+190
+00:07:53,039 --> 00:07:55,919
+pages, the next person reads five pages.
+
+191
+00:07:55,919 --> 00:07:57,440
+While you're reading because you're
+
+192
+00:07:57,440 --> 00:07:59,759
+reading in an in uh informal setting,
+
+193
+00:07:59,759 --> 00:08:02,000
+you know, amongst, you know, your peers,
+
+194
+00:08:02,000 --> 00:08:04,319
+you can stop, you can ask questions, you
+
+195
+00:08:04,319 --> 00:08:06,319
+can look up things that'll increase your
+
+196
+00:08:06,319 --> 00:08:08,720
+comprehension of an understanding. Don't
+
+197
+00:08:08,720 --> 00:08:10,560
+be concerned about reading as fast as
+
+198
+00:08:10,560 --> 00:08:12,479
+humanly possible. Be concerned with
+
+199
+00:08:12,479 --> 00:08:15,199
+absorbing the information
+
+200
+00:08:15,199 --> 00:08:16,720
+because it would be great if you could
+
+201
+00:08:16,720 --> 00:08:20,000
+read a 100 pages an hour, but if you're
+
+202
+00:08:20,000 --> 00:08:22,960
+only comprehending 5% of that, I'd much
+
+203
+00:08:22,960 --> 00:08:24,319
+rather be the person that comprehends
+
+204
+00:08:24,319 --> 00:08:26,960
+80% of what I read and only read 25 to
+
+205
+00:08:26,960 --> 00:08:28,879
+30 pages. I'm getting a lot more done
+
+206
+00:08:28,879 --> 00:08:29,759
+that way.
+
+207
+00:08:29,759 --> 00:08:31,440
+>> Yeah. I just wanted to add what Gordon's
+
+208
+00:08:31,440 --> 00:08:32,880
+saying, too. He's he's right about the
+
+209
+00:08:32,880 --> 00:08:34,560
+reading out loud. It's a comprehension
+
+210
+00:08:34,560 --> 00:08:36,959
+technique that's used in music schools.
+
+211
+00:08:36,959 --> 00:08:38,800
+When I when I when I was studying my
+
+212
+00:08:38,800 --> 00:08:41,839
+music, that was actually a competition
+
+213
+00:08:41,839 --> 00:08:44,399
+um technique that they told us to do.
+
+214
+00:08:44,399 --> 00:08:46,399
+When we practice our instruments, we we
+
+215
+00:08:46,399 --> 00:08:48,720
+read our notes out loud. We sing out
+
+216
+00:08:48,720 --> 00:08:50,880
+loud. Sing the notes out loud even as we
+
+217
+00:08:50,880 --> 00:08:53,519
+playing the instruments. Next, say it
+
+218
+00:08:53,519 --> 00:08:55,120
+out loud. You recite your notes out
+
+219
+00:08:55,120 --> 00:08:58,320
+loud. That's actually a a common
+
+220
+00:08:58,320 --> 00:09:00,399
+learning technique in the music world. I
+
+221
+00:09:00,399 --> 00:09:02,080
+I just wanted just to throw that out
+
+222
+00:09:02,080 --> 00:09:04,959
+there.
+
+223
+00:09:04,959 --> 00:09:07,440
+Yeah, I did that also in Bible college
+
+224
+00:09:07,440 --> 00:09:10,160
+when um you know when we had to memorize
+
+225
+00:09:10,160 --> 00:09:11,760
+scripture, we just read it. I read it
+
+226
+00:09:11,760 --> 00:09:15,120
+out loud, you know, to myself and uh
+
+227
+00:09:15,120 --> 00:09:17,040
+just to try to memorize it. So yeah,
+
+228
+00:09:17,040 --> 00:09:21,320
+that does work, man. That's true.
+
+229
+00:09:22,959 --> 00:09:24,800
+>> So you guys can do it. You're not that
+
+230
+00:09:24,800 --> 00:09:27,040
+far away. I want to understand you're
+
+231
+00:09:27,040 --> 00:09:28,800
+not
+
+232
+00:09:28,800 --> 00:09:30,800
+just really just keep on going and then
+
+233
+00:09:30,800 --> 00:09:32,880
+when you get a job, keep on studying.
+
+234
+00:09:32,880 --> 00:09:35,839
+Don't stop and you'll be fine. I mean,
+
+235
+00:09:35,839 --> 00:09:40,560
+just keep on going. Yep.
+
+236
+00:09:40,560 --> 00:09:42,720
+Tell my man
+
+237
+00:09:42,720 --> 00:09:44,640
+just like I told you. I talk to the
+
+238
+00:09:44,640 --> 00:09:46,399
+admins and I'm probably have to marry a
+
+239
+00:09:46,399 --> 00:09:50,120
+Japanese woman now.
+
+240
+00:09:50,320 --> 00:09:54,399
+I won't be able to get away from it.
+
+241
+00:09:54,399 --> 00:09:57,360
+>> All right. All right. That's That's what
+
+242
+00:09:57,360 --> 00:09:58,320
+you
+
+243
+00:09:58,320 --> 00:10:00,399
+>> You're closing the loop. As as coach
+
+244
+00:10:00,399 --> 00:10:02,160
+said, you're closing the loop. Yeah, I'm
+
+245
+00:10:02,160 --> 00:10:05,279
+closing on.
+
+246
+00:10:05,279 --> 00:10:07,600
+Looks like I am.
+
+247
+00:10:07,600 --> 00:10:09,440
+All right, guys. Um, let's have some
+
+248
+00:10:09,440 --> 00:10:12,240
+fun. So, to the guys who have not
+
+249
+00:10:12,240 --> 00:10:16,640
+finished authorization um with with um
+
+250
+00:10:16,640 --> 00:10:19,519
+what's that technology called?
+
+251
+00:10:19,519 --> 00:10:20,959
+>> Cognito.
+
+252
+00:10:20,959 --> 00:10:23,120
+>> Cognito. That's right. The guys who
+
+253
+00:10:23,120 --> 00:10:26,240
+haven't done it yet, put a one in the
+
+254
+00:10:26,240 --> 00:10:28,160
+chat if you haven't completed the token
+
+255
+00:10:28,160 --> 00:10:31,279
+with Cognito. JJ is first. I know JJ
+
+256
+00:10:31,279 --> 00:10:32,480
+hasn't done it cuz he admitted it
+
+257
+00:10:32,480 --> 00:10:35,360
+already.
+
+258
+00:10:35,360 --> 00:10:39,240
+Jock, you didn't do it.
+
+259
+00:10:43,120 --> 00:10:45,760
+Really, Jacques?
+
+260
+00:10:45,760 --> 00:10:48,240
+I'm surprised you of all people. I can
+
+261
+00:10:48,240 --> 00:10:54,640
+see JJ. Okay, I know. All right. Um,
+
+262
+00:10:54,640 --> 00:10:56,160
+let's have you guys work on this
+
+263
+00:10:56,160 --> 00:11:00,240
+together. This is I'm
+
+264
+00:11:00,240 --> 00:11:02,880
+I'm trying to get a job. Yeah, you ain't
+
+265
+00:11:02,880 --> 00:11:05,040
+broke, Jack. You're You're We'll get you
+
+266
+00:11:05,040 --> 00:11:09,120
+in the job market. Okay. All right.
+
+267
+00:11:09,120 --> 00:11:13,600
+I can see I can see the next is um my
+
+268
+00:11:13,600 --> 00:11:15,120
+next class in November's got to be
+
+269
+00:11:15,120 --> 00:11:16,720
+Japanese. Like, please teach us
+
+270
+00:11:16,720 --> 00:11:19,040
+Japanese. Like, are you sure you want to
+
+271
+00:11:19,040 --> 00:11:21,920
+know? Like, do you want a human rights
+
+272
+00:11:21,920 --> 00:11:24,880
+violation?
+
+273
+00:11:24,880 --> 00:11:26,959
+Because for me, Japanese is really easy.
+
+274
+00:11:26,959 --> 00:11:31,120
+But that's because I did Russian first.
+
+275
+00:11:31,120 --> 00:11:34,240
+Russian's so hard. So, Japanese was
+
+276
+00:11:34,240 --> 00:11:37,120
+simple. Right.
+
+277
+00:11:37,120 --> 00:11:38,640
+Okay. Uh,
+
+278
+00:11:38,640 --> 00:11:41,760
+>> don't you have a Don't you got um a
+
+279
+00:11:41,760 --> 00:11:44,160
+Japanese teacher? Did you Did you have
+
+280
+00:11:44,160 --> 00:11:46,160
+to Did you get a Japanese teacher for
+
+281
+00:11:46,160 --> 00:11:49,600
+the the language group you made?
+
+282
+00:11:49,600 --> 00:11:51,680
+>> No. No, I No, I didn't get one there. I
+
+283
+00:11:51,680 --> 00:11:53,200
+should.
+
+284
+00:11:53,200 --> 00:11:54,959
+Yeah.
+
+285
+00:11:54,959 --> 00:11:57,519
+Well, I I will be I will be honest with
+
+286
+00:11:57,519 --> 00:12:01,600
+you though. Um again, just
+
+287
+00:12:01,600 --> 00:12:04,920
+go. So,
+
+288
+00:12:06,000 --> 00:12:08,000
+>> did I say that?
+
+289
+00:12:08,000 --> 00:12:11,200
+>> If if if it if it can't be recorded,
+
+290
+00:12:11,200 --> 00:12:12,320
+then
+
+291
+00:12:12,320 --> 00:12:14,720
+>> I'll say I I'll say it. So
+
+292
+00:12:14,720 --> 00:12:17,120
+>> when I was in Japan and I was in grade
+
+293
+00:12:17,120 --> 00:12:19,279
+school in Japan, I was in grade school a
+
+294
+00:12:19,279 --> 00:12:21,519
+few times in Japan. Um, one of my
+
+295
+00:12:21,519 --> 00:12:23,360
+teachers was really hot.
+
+296
+00:12:23,360 --> 00:12:24,320
+>> Yeah.
+
+297
+00:12:24,320 --> 00:12:26,639
+>> I wanted and then when I was in
+
+298
+00:12:26,639 --> 00:12:29,519
+university, one of my teachers was
+
+299
+00:12:29,519 --> 00:12:31,440
+really hot.
+
+300
+00:12:31,440 --> 00:12:33,040
+>> So
+
+301
+00:12:33,040 --> 00:12:36,480
+yeah, I really learned because if I did
+
+302
+00:12:36,480 --> 00:12:38,560
+it correctly, she would smile as she had
+
+303
+00:12:38,560 --> 00:12:40,480
+these dimples and I was like, "Oh, I
+
+304
+00:12:40,480 --> 00:12:44,000
+want to beg you." So, so it really
+
+305
+00:12:44,000 --> 00:12:47,279
+works. I remember that. So, I'll I'll
+
+306
+00:12:47,279 --> 00:12:49,200
+try to find a cute Japanese teacher.
+
+307
+00:12:49,200 --> 00:12:51,120
+Okay. I'll go find somebody be in the
+
+308
+00:12:51,120 --> 00:12:51,920
+group.
+
+309
+00:12:51,920 --> 00:12:54,240
+>> Yeah. Get god demotivation. It's not a
+
+310
+00:12:54,240 --> 00:12:57,040
+bad way to do it.
+
+311
+00:12:57,040 --> 00:12:59,120
+>> Yeah. Okay. So, JJ, why don't we have
+
+312
+00:12:59,120 --> 00:13:00,959
+why don't we start with you? Have you go
+
+313
+00:13:00,959 --> 00:13:04,480
+ahead and share your screen? Um
+
+314
+00:13:04,480 --> 00:13:06,560
+Jock, go ahead and also follow along
+
+315
+00:13:06,560 --> 00:13:10,639
+with us. We did get the token working.
+
+316
+00:13:10,639 --> 00:13:12,720
+uh the guys who have gotten it have
+
+317
+00:13:12,720 --> 00:13:15,279
+gotten the token working please work
+
+318
+00:13:15,279 --> 00:13:18,880
+with Jacques and JJ uh and then um
+
+319
+00:13:18,880 --> 00:13:21,200
+probably this weekend we're going to
+
+320
+00:13:21,200 --> 00:13:24,320
+start doing all of this in terraform
+
+321
+00:13:24,320 --> 00:13:26,000
+we'll see how far we'll see how far we
+
+322
+00:13:26,000 --> 00:13:27,920
+can do this just to be honest with you
+
+323
+00:13:27,920 --> 00:13:29,680
+the reason why I'm going slow on this it
+
+324
+00:13:29,680 --> 00:13:31,920
+I'm just going to be brutally honest
+
+325
+00:13:31,920 --> 00:13:35,200
+with you being able to do MFA and being
+
+326
+00:13:35,200 --> 00:13:38,480
+able to do a token with Cognto and being
+
+327
+00:13:38,480 --> 00:13:41,360
+able to talk about it competently at an
+
+328
+00:13:41,360 --> 00:13:43,680
+interview is gold
+
+329
+00:13:43,680 --> 00:13:45,360
+because not a lot of companies, not a
+
+330
+00:13:45,360 --> 00:13:47,519
+lot of people can do it. So, if you
+
+331
+00:13:47,519 --> 00:13:49,440
+could just talk the stepby-step process
+
+332
+00:13:49,440 --> 00:13:51,360
+of what what you did and you have the
+
+333
+00:13:51,360 --> 00:13:52,959
+knowledge about it, you're like, "Here
+
+334
+00:13:52,959 --> 00:13:56,320
+it is." They're going to be like, "Oh,
+
+335
+00:13:56,320 --> 00:13:58,560
+yeah, you're so great." So, I remember
+
+336
+00:13:58,560 --> 00:14:00,320
+doing cognto for the federal government,
+
+337
+00:14:00,320 --> 00:14:02,560
+I was going crazy. Yeah, I wanted to
+
+338
+00:14:02,560 --> 00:14:05,680
+die. So, again, I'm telling you guys,
+
+339
+00:14:05,680 --> 00:14:07,279
+this is what you really want to do. Go
+
+340
+00:14:07,279 --> 00:14:09,519
+for it. You'll be fine. Okay?
+
+341
+00:14:09,519 --> 00:14:11,440
+Um, I'm going to go ahead and back out,
+
+342
+00:14:11,440 --> 00:14:13,760
+sit here, watch you guys. Um, I should
+
+343
+00:14:13,760 --> 00:14:15,760
+probably drink a cold one, shouldn't I?
+
+344
+00:14:15,760 --> 00:14:18,320
+Yeah, sounds good. All right, I'll
+
+345
+00:14:18,320 --> 00:14:19,760
+watch. See you guys.
+
+346
+00:14:19,760 --> 00:14:22,160
+>> I I rather you do drink a cold one than
+
+347
+00:14:22,160 --> 00:14:25,199
+freaking Mountain Dew [ __ ] That's [ __ ]
+
+348
+00:14:25,199 --> 00:14:28,160
+for your heart.
+
+349
+00:14:28,160 --> 00:14:29,839
+Anyways,
+
+350
+00:14:29,839 --> 00:14:32,000
+all right. Y'all y'all work y'all work
+
+351
+00:14:32,000 --> 00:14:36,399
+work on with JJ. Um JJ, can y'all see
+
+352
+00:14:36,399 --> 00:14:39,360
+me?
+
+353
+00:14:39,360 --> 00:14:40,639
+Yep.
+
+354
+00:14:40,639 --> 00:14:42,880
+>> Okay, cool. All right. So, I'm assuming
+
+355
+00:14:42,880 --> 00:14:47,440
+the access to token is this one,
+
+356
+00:14:47,440 --> 00:14:50,440
+>> right?
+
+357
+00:14:53,760 --> 00:14:56,760
+>> Okay.
+
+358
+00:14:58,800 --> 00:15:01,920
+So, I uh made it a variable. Access
+
+359
+00:15:01,920 --> 00:15:06,600
+token is equal to all of that stuff.
+
+360
+00:15:07,839 --> 00:15:12,320
+But then when I I set up
+
+361
+00:15:12,320 --> 00:15:19,000
+uh Cognto and created a different stage
+
+362
+00:15:20,560 --> 00:15:23,680
+and gets for both of those
+
+363
+00:15:23,680 --> 00:15:26,680
+uh
+
+364
+00:15:26,720 --> 00:15:29,920
+and I set the
+
+365
+00:15:29,920 --> 00:15:34,199
+let's see where did I put it? Um,
+
+366
+00:15:35,120 --> 00:15:37,760
+authorizers,
+
+367
+00:15:37,760 --> 00:15:39,519
+>> excuse me, JJ.
+
+368
+00:15:39,519 --> 00:15:40,480
+>> Yep.
+
+369
+00:15:40,480 --> 00:15:43,440
+>> Hey, do you mind increasing the the size
+
+370
+00:15:43,440 --> 00:15:47,600
+of your two screens, the uh or the the
+
+371
+00:15:47,600 --> 00:15:51,680
+AWS console and the uh uh uh terminal
+
+372
+00:15:51,680 --> 00:15:53,040
+that you have.
+
+373
+00:15:53,040 --> 00:15:53,440
+>> Okay.
+
+374
+00:15:53,440 --> 00:15:55,279
+>> Appreciate it. Thank you. And Gordon,
+
+375
+00:15:55,279 --> 00:15:56,720
+and for anybody else to know, you can
+
+376
+00:15:56,720 --> 00:15:58,320
+increase it yourself. If you go up to
+
+377
+00:15:58,320 --> 00:16:01,839
+the uh two, three dots in Zoom, it'll
+
+378
+00:16:01,839 --> 00:16:06,000
+have you you can choose 150% 200%. So,
+
+379
+00:16:06,000 --> 00:16:07,680
+you can you can actually increase it
+
+380
+00:16:07,680 --> 00:16:10,160
+yourself. Just to let you guys know that
+
+381
+00:16:10,160 --> 00:16:11,040
+in Zoom.
+
+382
+00:16:11,040 --> 00:16:17,560
+>> That's good to know. Uh oh, there's a
+
+383
+00:16:18,000 --> 00:16:20,160
+>> Oh, not you. Not you. I'm talking about
+
+384
+00:16:20,160 --> 00:16:21,920
+the guys that are watching. like they
+
+385
+00:16:21,920 --> 00:16:24,079
+they can they can increase it on their
+
+386
+00:16:24,079 --> 00:16:26,480
+side so you so you don't necessarily
+
+387
+00:16:26,480 --> 00:16:29,120
+have to increase your own screen but
+
+388
+00:16:29,120 --> 00:16:32,120
+Okay.
+
+389
+00:16:33,040 --> 00:16:36,040
+>> Gotcha.
+
+390
+00:16:38,079 --> 00:16:40,880
+>> Okay. So,
+
+391
+00:16:40,880 --> 00:16:43,440
+so Okay. Let me scroll back up. And so
+
+392
+00:16:43,440 --> 00:16:46,880
+we did the I got the client ID, secret
+
+393
+00:16:46,880 --> 00:16:48,480
+hash,
+
+394
+00:16:48,480 --> 00:16:51,839
+did all that token M MFA, got the
+
+395
+00:16:51,839 --> 00:16:54,160
+session. Session is probably expired by
+
+396
+00:16:54,160 --> 00:16:59,279
+this point, but uh got the access token,
+
+397
+00:16:59,279 --> 00:17:02,160
+all this stuff,
+
+398
+00:17:02,160 --> 00:17:06,480
+and then made all of that a variable
+
+399
+00:17:06,480 --> 00:17:08,160
+somewhere.
+
+400
+00:17:08,160 --> 00:17:10,240
+Where did I do that?
+
+401
+00:17:10,240 --> 00:17:13,679
+Okay, so I did that here. Access token
+
+402
+00:17:13,679 --> 00:17:15,280
+equals
+
+403
+00:17:15,280 --> 00:17:18,400
+all that shindig
+
+404
+00:17:18,400 --> 00:17:21,280
+and then did the curl
+
+405
+00:17:21,280 --> 00:17:24,799
+against uh
+
+406
+00:17:24,799 --> 00:17:28,160
+that's where I messed it up. Hold on.
+
+407
+00:17:28,160 --> 00:17:30,640
+Okay, so I did no misspelled it here.
+
+408
+00:17:30,640 --> 00:17:33,360
+Okay, so here it is. This is where I
+
+409
+00:17:33,360 --> 00:17:35,600
+tried it. authorization colon access
+
+410
+00:17:35,600 --> 00:17:37,120
+token
+
+411
+00:17:37,120 --> 00:17:38,960
+D
+
+412
+00:17:38,960 --> 00:17:40,640
+and
+
+413
+00:17:40,640 --> 00:17:44,240
+it passed it successfully
+
+414
+00:17:44,240 --> 00:17:47,520
+somewhere. Authorization here pass the
+
+415
+00:17:47,520 --> 00:17:49,039
+token
+
+416
+00:17:49,039 --> 00:17:51,919
+but it still says
+
+417
+00:17:51,919 --> 00:17:54,919
+uh
+
+418
+00:17:59,360 --> 00:18:02,320
+still says 401. So that's
+
+419
+00:18:02,320 --> 00:18:04,400
+where I'm stuck.
+
+420
+00:18:04,400 --> 00:18:08,200
+Not sure why it didn't work
+
+421
+00:18:14,080 --> 00:18:17,679
+>> or to be precise unauthorized ex
+
+422
+00:18:17,679 --> 00:18:20,240
+exception like but I passed the token.
+
+423
+00:18:20,240 --> 00:18:23,799
+Why is it not going?
+
+424
+00:18:41,200 --> 00:18:44,200
+Anybody
+
+425
+00:18:46,080 --> 00:18:49,039
+>> go to
+
+426
+00:18:49,039 --> 00:18:51,280
+go to Cognito?
+
+427
+00:18:51,280 --> 00:18:54,280
+>> Okay.
+
+428
+00:18:59,039 --> 00:19:02,039
+Okay.
+
+429
+00:19:04,480 --> 00:19:08,280
+Okay. Userpool
+
+430
+00:19:08,799 --> 00:19:12,120
+app clients.
+
+431
+00:19:18,960 --> 00:19:22,280
+Click edit.
+
+432
+00:19:25,200 --> 00:19:29,160
+Okay. So you have
+
+433
+00:19:36,160 --> 00:19:39,160
+Okay.
+
+434
+00:19:48,720 --> 00:19:52,240
+Start over. Initiate off from from
+
+435
+00:19:52,240 --> 00:19:53,760
+scratch.
+
+436
+00:19:53,760 --> 00:19:55,760
+>> Okay. From the top.
+
+437
+00:19:55,760 --> 00:19:57,360
+>> Mhm.
+
+438
+00:19:57,360 --> 00:20:00,559
+cuz your um your session's definitely
+
+439
+00:20:00,559 --> 00:20:02,960
+expired unless you just ran it minutes
+
+440
+00:20:02,960 --> 00:20:04,640
+ago. So, might as well just do it all
+
+441
+00:20:04,640 --> 00:20:06,559
+over again.
+
+442
+00:20:06,559 --> 00:20:08,320
+>> Okay.
+
+443
+00:20:08,320 --> 00:20:12,039
+All right. Let me get
+
+444
+00:20:20,960 --> 00:20:23,840
+JJ. Did you extend the session time on
+
+445
+00:20:23,840 --> 00:20:26,720
+the GUI like I suggest?
+
+446
+00:20:26,720 --> 00:20:29,360
+Uh, it's atif. It's at 14 minutes.
+
+447
+00:20:29,360 --> 00:20:34,039
+>> Okay. Beautiful. Beautiful. Thank you.
+
+448
+00:20:41,679 --> 00:20:44,480
+>> I got to get that code.
+
+449
+00:20:44,480 --> 00:20:47,720
+A second.
+
+450
+00:20:51,440 --> 00:20:54,919
+Is that the phone?
+
+451
+00:21:24,000 --> 00:21:27,280
+Okay, clock starts now, I guess. So,
+
+452
+00:21:27,280 --> 00:21:31,320
+this is the access token.
+
+453
+00:21:32,559 --> 00:21:35,960
+Well, that's convenient.
+
+454
+00:21:44,240 --> 00:21:47,240
+Man,
+
+455
+00:22:01,840 --> 00:22:05,880
+that looks correct, right?
+
+456
+00:22:14,720 --> 00:22:18,360
+Y'all can see this
+
+457
+00:22:21,039 --> 00:22:24,799
+actually. Can I make this bigger?
+
+458
+00:22:24,799 --> 00:22:26,799
+>> Yeah, you're good.
+
+459
+00:22:26,799 --> 00:22:29,799
+>> Okay.
+
+460
+00:22:30,000 --> 00:22:33,559
+Message unauthorized.
+
+461
+00:22:40,799 --> 00:22:44,600
+I don't know why.
+
+462
+00:22:53,440 --> 00:22:57,159
+>> Time to check the logs.
+
+463
+00:22:58,960 --> 00:23:02,799
+>> Okay. Uh, cloud watch.
+
+464
+00:23:02,799 --> 00:23:05,840
+Here we go.
+
+465
+00:24:18,880 --> 00:24:21,360
+Well,
+
+466
+00:24:21,360 --> 00:24:25,200
+that's weird. Oh, this is from
+
+467
+00:24:25,200 --> 00:24:28,400
+this is Oh, never mind.
+
+468
+00:24:28,400 --> 00:24:31,799
+This is from
+
+469
+00:24:35,360 --> 00:24:39,000
+Yeah, these are old.
+
+470
+00:24:45,440 --> 00:24:49,159
+This is from April.
+
+471
+00:24:50,559 --> 00:24:54,360
+All the love. Yeah.
+
+472
+00:25:00,320 --> 00:25:04,000
+Yeah. Yeah, these are all from April.
+
+473
+00:25:04,000 --> 00:25:07,480
+There are no logs.
+
+474
+00:25:09,760 --> 00:25:13,720
+Unless you're going to cloudfront
+
+475
+00:25:34,000 --> 00:25:38,039
+there's a laugh in All right.
+
+476
+00:27:17,360 --> 00:27:21,640
+Okay. Nothing in events.
+
+477
+00:27:34,320 --> 00:27:36,159
+That's not what I want to do. Um,
+
+478
+00:27:36,159 --> 00:27:40,520
+>> go back go back to your API
+
+479
+00:27:45,039 --> 00:27:48,919
+>> maybe dashboard here.
+
+480
+00:28:07,120 --> 00:28:10,679
+It's got two
+
+481
+00:28:42,720 --> 00:28:45,919
+That's just
+
+482
+00:28:45,919 --> 00:28:48,919
+>> metrics.
+
+483
+00:28:49,840 --> 00:28:51,440
+Okay, let's pause. Let's think this
+
+484
+00:28:51,440 --> 00:28:54,399
+over.
+
+485
+00:28:54,399 --> 00:28:58,399
+So, if you're getting
+
+486
+00:28:58,399 --> 00:29:02,679
+you're getting a 401 error.
+
+487
+00:29:03,279 --> 00:29:06,279
+Mhm.
+
+488
+00:29:06,480 --> 00:29:07,919
+>> Effectively, we're trying to figure out
+
+489
+00:29:07,919 --> 00:29:10,000
+why that is.
+
+490
+00:29:10,000 --> 00:29:14,279
+>> And there's no logs in Cloudatch.
+
+491
+00:29:14,880 --> 00:29:20,600
+>> Okay. Uh doesn't hit the lambdas,
+
+492
+00:29:20,799 --> 00:29:23,799
+>> right?
+
+493
+00:29:30,000 --> 00:29:31,760
+Use the terminal, guys. Use the
+
+494
+00:29:31,760 --> 00:29:34,399
+terminal.
+
+495
+00:29:47,039 --> 00:29:50,039
+Uh,
+
+496
+00:29:59,039 --> 00:30:00,480
+this is where I'd Google it because I
+
+497
+00:30:00,480 --> 00:30:03,960
+don't know. Um,
+
+498
+00:30:13,200 --> 00:30:15,120
+>> did you do the U did you create the
+
+499
+00:30:15,120 --> 00:30:19,200
+authorizer and everything already?
+
+500
+00:30:19,200 --> 00:30:21,440
+>> Yes, but let me double check it. Maybe I
+
+501
+00:30:21,440 --> 00:30:25,159
+messed it up. Um,
+
+502
+00:30:34,480 --> 00:30:37,880
+is this correct?
+
+503
+00:30:46,399 --> 00:30:50,159
+Token source authorization. Yep,
+
+504
+00:30:50,159 --> 00:30:52,399
+that's your user pool.
+
+505
+00:30:52,399 --> 00:30:55,279
+Yeah.
+
+506
+00:30:55,279 --> 00:30:59,240
+>> Yeah. Looks to be correct.
+
+507
+00:32:21,039 --> 00:32:22,799
+Uh JJ.
+
+508
+00:32:22,799 --> 00:32:23,840
+>> Yeah.
+
+509
+00:32:23,840 --> 00:32:27,840
+>> Uh go back to the console, please.
+
+510
+00:32:27,840 --> 00:32:31,480
+The API gateway.
+
+511
+00:32:32,480 --> 00:32:34,159
+>> Uh
+
+512
+00:32:34,159 --> 00:32:37,679
+yeah, one sec.
+
+513
+00:32:39,360 --> 00:32:40,799
+I mean just where you are right now
+
+514
+00:32:40,799 --> 00:32:44,279
+would be fine.
+
+515
+00:32:50,559 --> 00:32:52,720
+>> Yeah, click on that and then resources
+
+516
+00:32:52,720 --> 00:32:57,039
+on the left. All right. And then
+
+517
+00:32:57,039 --> 00:33:00,919
+click on the get method.
+
+518
+00:33:08,640 --> 00:33:10,399
+Uh
+
+519
+00:33:10,399 --> 00:33:12,559
+yeah, if you just uh scroll down a
+
+520
+00:33:12,559 --> 00:33:14,159
+little bit, I want to see the method
+
+521
+00:33:14,159 --> 00:33:17,159
+first.
+
+522
+00:33:22,240 --> 00:33:25,919
+Um Okay, that's correct. All right. I
+
+523
+00:33:25,919 --> 00:33:31,080
+just had a hunch. Um that's fine.
+
+524
+00:33:35,840 --> 00:33:37,120
+Yeah, it's fine. I was just making sure
+
+525
+00:33:37,120 --> 00:33:39,440
+that it's a the correct file that was
+
+526
+00:33:39,440 --> 00:33:42,240
+showing up, please.
+
+527
+00:33:42,240 --> 00:33:45,240
+Okay.
+
+528
+00:33:48,320 --> 00:33:51,440
+See, I'm not even I'm not getting this
+
+529
+00:33:51,440 --> 00:33:54,720
+back either. It just says unauthorized
+
+530
+00:33:54,720 --> 00:33:57,720
+exception.
+
+531
+00:34:41,200 --> 00:34:43,679
+Are we doing
+
+532
+00:34:43,679 --> 00:34:46,560
+all of this?
+
+533
+00:34:46,560 --> 00:34:49,560
+Okay.
+
+534
+00:35:08,480 --> 00:35:10,880
+Looks like it was passed. So, I don't
+
+535
+00:35:10,880 --> 00:35:15,240
+understand why it's not working.
+
+536
+00:36:31,680 --> 00:36:33,760
+Hey JJ, have you tried redeploying it
+
+537
+00:36:33,760 --> 00:36:36,640
+already?
+
+538
+00:36:36,640 --> 00:36:39,599
+Nope. I can do that. Hold on. Uh if it's
+
+539
+00:36:39,599 --> 00:36:43,720
+if that's it, I'm going to be mad.
+
+540
+00:36:44,320 --> 00:36:46,160
+>> Everything I mean, from what you've
+
+541
+00:36:46,160 --> 00:36:48,320
+shown me,
+
+542
+00:36:48,320 --> 00:36:51,760
+everything seems good. But
+
+543
+00:36:51,760 --> 00:36:54,000
+we do also have this option. And then we
+
+544
+00:36:54,000 --> 00:36:56,320
+have the terminal. Omar put some
+
+545
+00:36:56,320 --> 00:36:57,520
+commands in the chat. I don't know if
+
+546
+00:36:57,520 --> 00:36:58,960
+you saw those.
+
+547
+00:36:58,960 --> 00:37:02,320
+>> No, I did not. Okay, hold on.
+
+548
+00:37:02,320 --> 00:37:05,320
+Uh
+
+549
+00:37:06,320 --> 00:37:08,000
+Yeah, I was going to ask you to redeploy
+
+550
+00:37:08,000 --> 00:37:10,000
+the stage as well next. Um, so you
+
+551
+00:37:10,000 --> 00:37:11,359
+already just done that, I think. So
+
+552
+00:37:11,359 --> 00:37:12,160
+that's good.
+
+553
+00:37:12,160 --> 00:37:13,839
+>> Yeah, I just did it. Okay.
+
+554
+00:37:13,839 --> 00:37:16,960
+>> Yeah. Uh,
+
+555
+00:37:16,960 --> 00:37:18,560
+>> make sure you use the latest access
+
+556
+00:37:18,560 --> 00:37:21,960
+token run
+
+557
+00:37:27,280 --> 00:37:30,280
+this.
+
+558
+00:37:30,640 --> 00:37:33,760
+Uh, try test it now with the
+
+559
+00:37:33,760 --> 00:37:36,560
+with the fresh token
+
+560
+00:37:36,560 --> 00:37:40,680
+now that you've redeployed it.
+
+561
+00:37:48,160 --> 00:37:50,960
+Also, your um token like in terms of
+
+562
+00:37:50,960 --> 00:37:54,880
+your off time um did you extend it to 15
+
+563
+00:37:54,880 --> 00:37:56,320
+minutes or is it still on?
+
+564
+00:37:56,320 --> 00:37:58,320
+>> Yeah, 14 minutes. All right, that's
+
+565
+00:37:58,320 --> 00:38:01,320
+cool.
+
+566
+00:38:06,720 --> 00:38:10,680
+Is that still good?
+
+567
+00:38:12,560 --> 00:38:16,200
+I can't tell.
+
+568
+00:38:19,760 --> 00:38:23,040
+Oh, well that's interesting.
+
+569
+00:38:23,040 --> 00:38:25,520
+Is that
+
+570
+00:38:25,520 --> 00:38:29,000
+Unix next time?
+
+571
+00:38:30,560 --> 00:38:32,640
+Uh, probably is. Yeah, I'm guessing.
+
+572
+00:38:32,640 --> 00:38:36,760
+It's a time stamp of some sort.
+
+573
+00:38:55,520 --> 00:38:58,520
+Uh,
+
+574
+00:39:00,480 --> 00:39:03,800
+very likely.
+
+575
+00:39:06,000 --> 00:39:11,240
+>> So, according to this expires
+
+576
+00:39:11,680 --> 00:39:15,359
+May 12th, 8:55 p.m.
+
+577
+00:39:15,359 --> 00:39:20,040
+here, which is CST.
+
+578
+00:39:21,520 --> 00:39:23,040
+>> Okay.
+
+579
+00:39:23,040 --> 00:39:25,599
+>> So, I still have time maybe.
+
+580
+00:39:25,599 --> 00:39:27,680
+>> Yes. Yes. That means it hasn't expired
+
+581
+00:39:27,680 --> 00:39:29,920
+yet. Basically, that's the expiry
+
+582
+00:39:29,920 --> 00:39:30,720
+>> time stamp.
+
+583
+00:39:30,720 --> 00:39:31,440
+>> Okay,
+
+584
+00:39:31,440 --> 00:39:33,680
+>> it's supposed to be in the future.
+
+585
+00:39:33,680 --> 00:39:35,680
+That's fine.
+
+586
+00:39:35,680 --> 00:39:37,680
+>> Okay, so let me I redeployed it. Let's
+
+587
+00:39:37,680 --> 00:39:40,720
+see if it works.
+
+588
+00:39:40,720 --> 00:39:43,440
+>> Is there Is there a chance that you're
+
+589
+00:39:43,440 --> 00:39:46,640
+using the wrong user pool?
+
+590
+00:39:46,640 --> 00:39:49,040
+>> I only have one user pool.
+
+591
+00:39:49,040 --> 00:39:51,599
+>> You only got the one? Okay. Did you have
+
+592
+00:39:51,599 --> 00:39:53,680
+a previous one?
+
+593
+00:39:53,680 --> 00:39:56,240
+>> No.
+
+594
+00:39:56,240 --> 00:40:00,320
+same error, but let's check
+
+595
+00:40:00,320 --> 00:40:04,280
+uh that would be underco.
+
+596
+00:40:15,920 --> 00:40:19,560
+Yeah, I only have one.
+
+597
+00:40:24,720 --> 00:40:27,200
+Let me see. App clients
+
+598
+00:40:27,200 --> 00:40:31,599
+class group client ID 72 whatever.
+
+599
+00:40:31,599 --> 00:40:35,640
+And what do I have?
+
+600
+00:40:44,320 --> 00:40:49,000
+to zoom in on this editor. That sucks.
+
+601
+00:40:51,200 --> 00:40:55,400
+Nope, this one sucks.
+
+602
+00:40:58,560 --> 00:41:02,920
+Client secret hasn't changed.
+
+603
+00:41:05,280 --> 00:41:10,520
+It doesn't change, right? Client secret.
+
+604
+00:41:10,560 --> 00:41:14,680
+>> No, I don't think it should.
+
+605
+00:41:16,480 --> 00:41:21,319
+No, it doesn't. Okay. And then
+
+606
+00:41:25,200 --> 00:41:28,920
+does this show you
+
+607
+00:41:28,960 --> 00:41:31,359
+the user
+
+608
+00:41:31,359 --> 00:41:34,240
+and the password? Sure, that's fine.
+
+609
+00:41:34,240 --> 00:41:36,160
+That's correct.
+
+610
+00:41:36,160 --> 00:41:38,720
+Um,
+
+611
+00:41:38,720 --> 00:41:42,359
+yeah. I don't know.
+
+612
+00:41:43,599 --> 00:41:48,599
+That's the correct authorization token.
+
+613
+00:42:00,640 --> 00:42:03,280
+>> Uh I was going to ask you try and could
+
+614
+00:42:03,280 --> 00:42:04,960
+you maybe try and test it directly in
+
+615
+00:42:04,960 --> 00:42:08,640
+the uh API gateway portal?
+
+616
+00:42:08,640 --> 00:42:11,040
+>> Okay. Uh, how do you do that?
+
+617
+00:42:11,040 --> 00:42:14,839
+>> Uh, go to authorizes
+
+618
+00:42:15,119 --> 00:42:18,839
+uh class of authorizer.
+
+619
+00:42:19,119 --> 00:42:21,760
+>> Scroll to the bottom.
+
+620
+00:42:21,760 --> 00:42:24,400
+>> That is the bottom.
+
+621
+00:42:24,400 --> 00:42:28,319
+>> No, as in click on the glass.
+
+622
+00:42:28,319 --> 00:42:28,720
+>> Yeah. And then
+
+623
+00:42:28,720 --> 00:42:30,160
+>> put the access token here.
+
+624
+00:42:30,160 --> 00:42:32,160
+>> Yeah.
+
+625
+00:42:32,160 --> 00:42:36,040
+And then click test.
+
+626
+00:42:39,760 --> 00:42:42,760
+Okay.
+
+627
+00:42:48,720 --> 00:42:52,440
+Well, what the hell?
+
+628
+00:42:58,880 --> 00:43:00,720
+>> Okay,
+
+629
+00:43:00,720 --> 00:43:03,359
+I'll just do it again.
+
+630
+00:43:03,359 --> 00:43:06,400
+Do I do a new a new session or do I just
+
+631
+00:43:06,400 --> 00:43:08,240
+do the current session?
+
+632
+00:43:08,240 --> 00:43:09,680
+>> I think your current session is pretty
+
+633
+00:43:09,680 --> 00:43:11,280
+open
+
+634
+00:43:11,280 --> 00:43:11,920
+still.
+
+635
+00:43:11,920 --> 00:43:14,000
+>> Okay. I don't know how long ago you
+
+636
+00:43:14,000 --> 00:43:14,400
+started.
+
+637
+00:43:14,400 --> 00:43:16,000
+>> How much How much time do you have left?
+
+638
+00:43:16,000 --> 00:43:17,839
+You just got to check when the original
+
+639
+00:43:17,839 --> 00:43:21,839
+um ping went through cuz if you had 14
+
+640
+00:43:21,839 --> 00:43:23,359
+minutes and you're coming up on 10, you
+
+641
+00:43:23,359 --> 00:43:25,040
+might as well just restart it.
+
+642
+00:43:25,040 --> 00:43:26,000
+>> Start over.
+
+643
+00:43:26,000 --> 00:43:28,880
+>> You had the unit expiry stamp as well.
+
+644
+00:43:28,880 --> 00:43:30,480
+So if that is still
+
+645
+00:43:30,480 --> 00:43:32,079
+>> Yeah.
+
+646
+00:43:32,079 --> 00:43:36,359
+I'll just start over. Um,
+
+647
+00:43:38,560 --> 00:43:42,920
+okay. So, give me this one
+
+648
+00:43:48,480 --> 00:43:52,440
+and take all of this.
+
+649
+00:43:57,119 --> 00:44:00,800
+Ah, I've just let the I'm just reading
+
+650
+00:44:00,800 --> 00:44:02,160
+something here. It says that I think
+
+651
+00:44:02,160 --> 00:44:04,319
+you're supposed to use the IED token for
+
+652
+00:44:04,319 --> 00:44:06,480
+the console test instead of the access
+
+653
+00:44:06,480 --> 00:44:09,480
+token.
+
+654
+00:44:10,240 --> 00:44:12,000
+>> Okay, let me get there. Let me let me
+
+655
+00:44:12,000 --> 00:44:15,319
+get there and
+
+656
+00:44:16,240 --> 00:44:19,440
+look at what that is again.
+
+657
+00:44:19,440 --> 00:44:21,920
+>> The ID token will be one of the
+
+658
+00:44:21,920 --> 00:44:23,920
+responses
+
+659
+00:44:23,920 --> 00:44:27,640
+other than access
+
+660
+00:44:27,680 --> 00:44:29,599
+>> for me. Oh, actually it's in your uh
+
+661
+00:44:29,599 --> 00:44:35,560
+respond to or challenge succession JSON
+
+662
+00:44:41,440 --> 00:44:44,440
+JSON.
+
+663
+00:44:53,920 --> 00:44:56,319
+Okay. So it's not access token, it's
+
+664
+00:44:56,319 --> 00:45:00,319
+refresh token or ID token.
+
+665
+00:45:00,319 --> 00:45:03,920
+>> Yeah, that one. The ID token.
+
+666
+00:45:03,920 --> 00:45:06,160
+Take that ID token and just drop that
+
+667
+00:45:06,160 --> 00:45:09,640
+one in the console
+
+668
+00:45:12,400 --> 00:45:16,240
+and see where it comes up.
+
+669
+00:45:16,240 --> 00:45:17,839
+I've just got a hunch. I'm just testing
+
+670
+00:45:17,839 --> 00:45:20,319
+notches. I'm just showing 200. There
+
+671
+00:45:20,319 --> 00:45:23,480
+>> you go.
+
+672
+00:45:24,640 --> 00:45:27,520
+So why do they call it ID token when it
+
+673
+00:45:27,520 --> 00:45:33,240
+should be access token? Okay. Okay.
+
+674
+00:45:37,599 --> 00:45:39,599
+I was following the instructions and it
+
+675
+00:45:39,599 --> 00:45:42,720
+was wrong. It Okay,
+
+676
+00:45:42,720 --> 00:45:48,119
+now let's do that curl thing again.
+
+677
+00:45:48,800 --> 00:45:52,280
+Where is it?
+
+678
+00:46:19,359 --> 00:46:21,920
+Why won't you let me copy? What? What is
+
+679
+00:46:21,920 --> 00:46:25,880
+wrong with this computer now?
+
+680
+00:46:39,440 --> 00:46:40,560
+Okay. Correct.
+
+681
+00:46:40,560 --> 00:46:43,560
+>> Stupid.
+
+682
+00:46:49,599 --> 00:46:51,680
+>> All right. So, I think
+
+683
+00:46:51,680 --> 00:46:54,960
+>> I think it's specifically the um
+
+684
+00:46:54,960 --> 00:46:57,040
+specifically the API gateways like
+
+685
+00:46:57,040 --> 00:47:00,240
+built-in test u that requires the ID
+
+686
+00:47:00,240 --> 00:47:03,240
+token
+
+687
+00:47:03,680 --> 00:47:06,400
+from what I'm reading. So the curl will
+
+688
+00:47:06,400 --> 00:47:09,920
+accept the the access token
+
+689
+00:47:09,920 --> 00:47:11,440
+but the uh
+
+690
+00:47:11,440 --> 00:47:13,200
+>> the test authorizer button in the
+
+691
+00:47:13,200 --> 00:47:15,119
+console it only accepts the ID token.
+
+692
+00:47:15,119 --> 00:47:18,720
+It's a console limitation basically.
+
+693
+00:47:18,720 --> 00:47:21,040
+>> Okay. When I tried the access token, it
+
+694
+00:47:21,040 --> 00:47:22,640
+didn't work. But when I tried the ID
+
+695
+00:47:22,640 --> 00:47:24,880
+token, it works.
+
+696
+00:47:24,880 --> 00:47:27,599
+>> Yeah, I'm not sure why that is. I'm
+
+697
+00:47:27,599 --> 00:47:29,839
+still looking into that because
+
+698
+00:47:29,839 --> 00:47:35,160
+>> here I'll try the access token again.
+
+699
+00:47:59,440 --> 00:48:02,880
+See the one called access token doesn't
+
+700
+00:48:02,880 --> 00:48:05,200
+work.
+
+701
+00:48:05,200 --> 00:48:09,880
+The one called ID token works.
+
+702
+00:48:10,160 --> 00:48:12,240
+I mean, the access token should work in
+
+703
+00:48:12,240 --> 00:48:15,359
+the in the command, but I'm not sure
+
+704
+00:48:15,359 --> 00:48:17,200
+why.
+
+705
+00:48:17,200 --> 00:48:19,200
+>> I I don't know why it's not working.
+
+706
+00:48:19,200 --> 00:48:21,520
+>> Yeah.
+
+707
+00:48:21,520 --> 00:48:23,440
+>> Anybody?
+
+708
+00:48:23,440 --> 00:48:26,400
+Rob, Theo,
+
+709
+00:48:26,400 --> 00:48:29,520
+y'all still here?
+
+710
+00:48:29,520 --> 00:48:34,280
+>> I'm making you guys suffer through this.
+
+711
+00:48:35,359 --> 00:48:38,559
+>> Keep on trouble.
+
+712
+00:48:38,559 --> 00:48:40,319
+Okay. So, is this supposed to be access
+
+713
+00:48:40,319 --> 00:48:43,319
+token?
+
+714
+00:48:46,720 --> 00:48:48,400
+>> People who have done this, what what do
+
+715
+00:48:48,400 --> 00:48:51,280
+you say?
+
+716
+00:48:51,280 --> 00:48:52,480
+>> There's guys that have done this
+
+717
+00:48:52,480 --> 00:48:56,359
+already. Help them out.
+
+718
+00:48:59,200 --> 00:49:03,640
+>> What does the documentation say?
+
+719
+00:49:05,359 --> 00:49:09,000
+>> Okay. Uh
+
+720
+00:49:24,480 --> 00:49:27,359
+did Lambda run with no token? No. Where
+
+721
+00:49:27,359 --> 00:49:31,200
+was the request blocked? Cloudfront
+
+722
+00:49:31,200 --> 00:49:32,720
+basically.
+
+723
+00:49:32,720 --> 00:49:36,640
+What changed in the event?
+
+724
+00:49:39,520 --> 00:49:43,559
+You know what? Let me try.
+
+725
+00:49:43,760 --> 00:49:47,960
+They're both the same. Okay.
+
+726
+00:50:48,800 --> 00:50:51,040
+pull up the AWSI
+
+727
+00:50:51,040 --> 00:50:54,040
+documentation.
+
+728
+00:51:03,359 --> 00:51:07,400
+Okay. What am I looking for?
+
+729
+00:51:20,319 --> 00:51:22,079
+going to try to guide you a little bit,
+
+730
+00:51:22,079 --> 00:51:24,640
+but I'm driving.
+
+731
+00:51:24,640 --> 00:51:25,200
+>> Oh,
+
+732
+00:51:25,200 --> 00:51:27,839
+>> but you recall
+
+733
+00:51:27,839 --> 00:51:30,720
+the uh the document the two documents
+
+734
+00:51:30,720 --> 00:51:34,240
+that Aaron and Rob provided to us the
+
+735
+00:51:34,240 --> 00:51:35,680
+other day. Do you have that in your
+
+736
+00:51:35,680 --> 00:51:38,480
+links or does anyone can anyone drop
+
+737
+00:51:38,480 --> 00:51:40,880
+that form? But basically, what commands
+
+738
+00:51:40,880 --> 00:51:42,559
+are you running? You want to look that
+
+739
+00:51:42,559 --> 00:51:44,720
+up in the documentation and read what it
+
+740
+00:51:44,720 --> 00:51:46,880
+says and understand what values it's
+
+741
+00:51:46,880 --> 00:51:49,880
+passing
+
+742
+00:51:50,079 --> 00:51:54,200
+>> the cognto stuff.
+
+743
+00:51:54,640 --> 00:51:56,640
+>> Yes, sir. So, what command are you
+
+744
+00:51:56,640 --> 00:51:59,640
+running?
+
+745
+00:52:03,440 --> 00:52:08,119
+Uh, give me a second. Give me a second.
+
+746
+00:52:10,400 --> 00:52:13,280
+>> Um, the first one is initiate off and
+
+747
+00:52:13,280 --> 00:52:16,240
+the second is respond to off challenge.
+
+748
+00:52:16,240 --> 00:52:17,920
+So, look those up right there in the
+
+749
+00:52:17,920 --> 00:52:20,319
+documentation. You should see the uh the
+
+750
+00:52:20,319 --> 00:52:23,920
+all commands there
+
+751
+00:52:23,920 --> 00:52:26,079
+and you should be able to understand and
+
+752
+00:52:26,079 --> 00:52:28,640
+break down which what which each one of
+
+753
+00:52:28,640 --> 00:52:31,599
+those phrases in the command
+
+754
+00:52:31,599 --> 00:52:35,319
+is referring to.
+
+755
+00:56:25,680 --> 00:56:28,680
+Am
+
+756
+00:56:37,119 --> 00:56:40,839
+I missing something?
+
+757
+00:56:53,839 --> 00:56:56,720
+So here's the example three. Respond to
+
+758
+00:56:56,720 --> 00:56:59,280
+a software token challenge. Software
+
+759
+00:56:59,280 --> 00:57:01,440
+token MFA.
+
+760
+00:57:01,440 --> 00:57:06,200
+This is what the output spits out.
+
+761
+00:57:06,240 --> 00:57:10,000
+Not using device key.
+
+762
+00:57:10,000 --> 00:57:12,079
+So here's access token. Here's refresh
+
+763
+00:57:12,079 --> 00:57:16,119
+token. Here's ID token.
+
+764
+00:57:17,680 --> 00:57:21,200
+And then their example access refresh
+
+765
+00:57:21,200 --> 00:57:26,280
+and ID are almost exactly the same
+
+766
+00:57:39,440 --> 00:57:42,440
+down.
+
+767
+00:58:59,359 --> 00:59:03,240
+Did you see Bash's link?
+
+768
+00:59:04,960 --> 00:59:08,680
+Uh, give me a second.
+
+769
+00:59:37,040 --> 00:59:40,520
+It's not cute.
+
+770
+01:00:48,079 --> 01:00:50,880
+After creating the user pro authoriz you
+
+771
+01:00:50,880 --> 01:00:53,280
+can test invoke it with an identity
+
+772
+01:00:53,280 --> 01:00:59,480
+token. You cannot use an access token.
+
+773
+01:01:50,960 --> 01:01:54,000
+for authorization scopes. Enter one or
+
+774
+01:01:54,000 --> 01:01:55,760
+more full names of the scope that has
+
+775
+01:01:55,760 --> 01:01:57,920
+been configured
+
+776
+01:01:57,920 --> 01:02:01,960
+when the pool was created.
+
+777
+01:02:05,520 --> 01:02:07,440
+entire method call succeeds if any scope
+
+778
+01:02:07,440 --> 01:02:12,920
+that is pushed on the scope.
+
+779
+01:02:13,440 --> 01:02:17,319
+Is this it right here
+
+780
+01:02:22,720 --> 01:02:24,400
+guys?
+
+781
+01:02:24,400 --> 01:02:26,960
+Uh, I mean you can give a go. Uh, she
+
+782
+01:02:26,960 --> 01:02:28,480
+can be doing some reading. Just go and
+
+783
+01:02:28,480 --> 01:02:31,480
+download
+
+784
+01:02:42,160 --> 01:02:45,920
+one or more full names of a scope that
+
+785
+01:02:45,920 --> 01:02:48,720
+has been configured.
+
+786
+01:02:48,720 --> 01:02:52,680
+I don't know what that means.
+
+787
+01:04:37,119 --> 01:04:40,079
+I mean uh it works. You have actually
+
+788
+01:04:40,079 --> 01:04:43,520
+fixed this in a sense like the ID token.
+
+789
+01:04:43,520 --> 01:04:45,440
+It runs with the ID token, right? It
+
+790
+01:04:45,440 --> 01:04:47,119
+just doesn't run with Right.
+
+791
+01:04:47,119 --> 01:04:48,559
+>> Okay, cool. We're just trying to figure
+
+792
+01:04:48,559 --> 01:04:50,000
+that out. Okay.
+
+793
+01:04:50,000 --> 01:04:51,440
+>> Yeah, we're trying to figure out why it
+
+794
+01:04:51,440 --> 01:04:54,960
+doesn't work with the access token.
+
+795
+01:04:54,960 --> 01:04:56,480
+I was following the instructions in
+
+796
+01:04:56,480 --> 01:04:58,559
+Berica
+
+797
+01:04:58,559 --> 01:05:01,520
+and it doesn't where did I put baller.
+
+798
+01:05:01,520 --> 01:05:04,520
+Uh
+
+799
+01:05:05,599 --> 01:05:11,000
+this is rest action boy prod
+
+800
+01:05:13,599 --> 01:05:15,599
+um
+
+801
+01:05:15,599 --> 01:05:18,000
+I don't know this is Bash I think Bash
+
+802
+01:05:18,000 --> 01:05:22,079
+put this in here there's a screenshot
+
+803
+01:05:22,079 --> 01:05:23,839
+and the text is highlighted in orange
+
+804
+01:05:23,839 --> 01:05:28,359
+about the access token
+
+805
+01:05:28,559 --> 01:05:30,480
+>> uh
+
+806
+01:05:30,480 --> 01:05:32,880
+you put it in chat that.
+
+807
+01:05:32,880 --> 01:05:36,480
+>> Uh, yes. I think that's the most recent
+
+808
+01:05:36,480 --> 01:05:40,039
+one that's in there.
+
+809
+01:05:40,079 --> 01:05:43,119
+>> Is he sharing his screen or is he
+
+810
+01:05:43,119 --> 01:05:45,359
+>> No, I'm just looking in the chat here.
+
+811
+01:05:45,359 --> 01:05:47,680
+There's a screenshot.
+
+812
+01:05:47,680 --> 01:05:51,559
+>> I'm not seeing any screenshots.
+
+813
+01:05:55,280 --> 01:05:57,680
+>> JJ, going to the threat. Going to the
+
+814
+01:05:57,680 --> 01:06:00,920
+last threat.
+
+815
+01:06:05,520 --> 01:06:07,280
+Okay. And at the very very bottom
+
+816
+01:06:07,280 --> 01:06:12,400
+there's Joe Talver Jr. Share the link.
+
+817
+01:06:12,400 --> 01:06:14,559
+Keep going.
+
+818
+01:06:14,559 --> 01:06:18,400
+That that is the bottom link.
+
+819
+01:06:18,400 --> 01:06:20,799
+All right. That's
+
+820
+01:06:20,799 --> 01:06:23,680
+there's more there for me. But basically
+
+821
+01:06:23,680 --> 01:06:28,319
+it says in the documentation it says um
+
+822
+01:06:28,319 --> 01:06:31,280
+after creating the cognto user pools
+
+823
+01:06:31,280 --> 01:06:34,559
+authorizer you can test uh invoke by
+
+824
+01:06:34,559 --> 01:06:36,400
+supplying it with an identity token
+
+825
+01:06:36,400 --> 01:06:38,160
+that's provisioned from the user pool.
+
+826
+01:06:38,160 --> 01:06:40,799
+You can't use an access token to test
+
+827
+01:06:40,799 --> 01:06:43,280
+invoke your authorizer.
+
+828
+01:06:43,280 --> 01:06:45,680
+>> Yeah we did that earlier.
+
+829
+01:06:45,680 --> 01:06:46,480
+>> Oh okay.
+
+830
+01:06:46,480 --> 01:06:49,680
+>> So so okay. So then when you pass it
+
+831
+01:06:49,680 --> 01:06:53,280
+through curl, what the identity token
+
+832
+01:06:53,280 --> 01:06:56,880
+works but not the access token,
+
+833
+01:06:56,880 --> 01:06:58,720
+>> right? So it's saying you can't use the
+
+834
+01:06:58,720 --> 01:06:59,920
+access token.
+
+835
+01:06:59,920 --> 01:07:01,039
+>> Um
+
+836
+01:07:01,039 --> 01:07:03,280
+>> is the way I'm interpreting this.
+
+837
+01:07:03,280 --> 01:07:05,039
+>> It's only for the testing vote. Um
+
+838
+01:07:05,039 --> 01:07:06,400
+that's the way I interpret it
+
+839
+01:07:06,400 --> 01:07:08,079
+personally. It's only for that testing
+
+840
+01:07:08,079 --> 01:07:09,359
+vote that you can't use.
+
+841
+01:07:09,359 --> 01:07:10,240
+>> Oh, okay.
+
+842
+01:07:10,240 --> 01:07:11,359
+>> Yeah. So
+
+843
+01:07:11,359 --> 01:07:13,359
+>> Oh, okay. Only for the test. Okay. I see
+
+844
+01:07:13,359 --> 01:07:16,960
+it says only for the test. Okay.
+
+845
+01:07:16,960 --> 01:07:19,680
+>> Okay. So then how do you use it?
+
+846
+01:07:19,680 --> 01:07:21,440
+>> Never mind
+
+847
+01:07:21,440 --> 01:07:24,680
+>> in production.
+
+848
+01:07:25,599 --> 01:07:30,000
+>> I mean what I could see should be you
+
+849
+01:07:30,000 --> 01:07:33,760
+could use both in a sense. Um
+
+850
+01:07:33,760 --> 01:07:36,160
+>> well I just tried
+
+851
+01:07:36,160 --> 01:07:38,079
+>> they do separate things essentially in
+
+852
+01:07:38,079 --> 01:07:40,400
+it. So
+
+853
+01:07:40,400 --> 01:07:44,400
+the ID token says that it's like it it
+
+854
+01:07:44,400 --> 01:07:46,720
+verifies your ID, who you are and then
+
+855
+01:07:46,720 --> 01:07:49,280
+the access token uh verifies your right
+
+856
+01:07:49,280 --> 01:07:51,599
+your eligibility to actually access.
+
+857
+01:07:51,599 --> 01:07:55,520
+>> So it's okay. So
+
+858
+01:07:55,520 --> 01:07:57,599
+>> let me
+
+859
+01:07:57,599 --> 01:08:00,240
+decode the both of them and see what
+
+860
+01:08:00,240 --> 01:08:03,400
+they say.
+
+861
+01:08:14,000 --> 01:08:19,080
+Okay, here's ID token.
+
+862
+01:08:27,040 --> 01:08:30,159
+So, access token is different. There's
+
+863
+01:08:30,159 --> 01:08:34,440
+different JSON in here.
+
+864
+01:08:46,000 --> 01:08:48,719
+Um, we might have to configure a custom
+
+865
+01:08:48,719 --> 01:08:51,600
+scope, but I'm going to I was really I'm
+
+866
+01:08:51,600 --> 01:08:54,080
+looking into like what you found in that
+
+867
+01:08:54,080 --> 01:08:55,920
+section that was talking about the
+
+868
+01:08:55,920 --> 01:08:57,120
+picture scopes.
+
+869
+01:08:57,120 --> 01:08:59,040
+>> So, I'm just trying to figure out how
+
+870
+01:08:59,040 --> 01:09:02,880
+exactly that works in the console. Um,
+
+871
+01:09:02,880 --> 01:09:05,199
+but yeah, we may have to do that cuz
+
+872
+01:09:05,199 --> 01:09:07,359
+technically
+
+873
+01:09:07,359 --> 01:09:09,839
+we should be using the access token. Um,
+
+874
+01:09:09,839 --> 01:09:13,279
+not the ID token. But, uh, I'm just
+
+875
+01:09:13,279 --> 01:09:14,880
+trying to figure out how we do that in
+
+876
+01:09:14,880 --> 01:09:17,960
+the console.
+
+877
+01:09:25,040 --> 01:09:28,319
+Where was I reading that? This to use an
+
+878
+01:09:28,319 --> 01:09:32,080
+access token. Do the following. Yeah,
+
+879
+01:09:32,080 --> 01:09:34,159
+>> one or more full names of a scope that
+
+880
+01:09:34,159 --> 01:09:36,400
+has been configured when the Amazon can
+
+881
+01:09:36,400 --> 01:09:39,199
+use user pool was created.
+
+882
+01:09:39,199 --> 01:09:41,359
+For example, following the example and
+
+883
+01:09:41,359 --> 01:09:43,359
+create a user pool for rest, one of the
+
+884
+01:09:43,359 --> 01:09:46,560
+scopes is the URL.
+
+885
+01:09:46,560 --> 01:09:48,480
+At runtime, the method call succeeds if
+
+886
+01:09:48,480 --> 01:09:50,159
+any scope that is specified on the
+
+887
+01:09:50,159 --> 01:09:52,480
+method in this step matches the scope
+
+888
+01:09:52,480 --> 01:09:54,560
+that is claimed in the incoming token.
+
+889
+01:09:54,560 --> 01:09:57,360
+Otherwise, it fails for the 41
+
+890
+01:09:57,360 --> 01:09:59,199
+unauthorized. I think that's what's
+
+891
+01:09:59,199 --> 01:10:02,719
+happening basically.
+
+892
+01:10:02,719 --> 01:10:06,360
+>> It was in English,
+
+893
+01:10:07,199 --> 01:10:09,679
+>> but that's all I can tell you.
+
+894
+01:10:09,679 --> 01:10:11,120
+>> I mean, that's what's happening. I think
+
+895
+01:10:11,120 --> 01:10:12,880
+that we're getting a 401 on authorized
+
+896
+01:10:12,880 --> 01:10:14,960
+response right now, right?
+
+897
+01:10:14,960 --> 01:10:15,760
+>> Yeah.
+
+898
+01:10:15,760 --> 01:10:17,520
+>> Okay. So, I think this is actually
+
+899
+01:10:17,520 --> 01:10:21,280
+happening in the background. So
+
+900
+01:10:21,280 --> 01:10:25,560
+uh we need to implement
+
+901
+01:10:25,600 --> 01:10:29,360
+that authorization workspace. So
+
+902
+01:10:29,360 --> 01:10:31,920
+um we need to add a customs code for
+
+903
+01:10:31,920 --> 01:10:34,800
+just trying to figure that out.
+
+904
+01:10:34,800 --> 01:10:38,320
+Okay. So if I go back to
+
+905
+01:10:38,320 --> 01:10:41,600
+API authorizer,
+
+906
+01:10:41,600 --> 01:10:44,159
+shouldn't there be an option for this
+
+907
+01:10:44,159 --> 01:10:47,159
+somewhere?
+
+908
+01:10:51,760 --> 01:10:54,560
+Yeah, there is. It's just trying to
+
+909
+01:10:54,560 --> 01:10:58,199
+figure it out. So
+
+910
+01:11:06,000 --> 01:11:11,880
+like this isn't a value. This is
+
+911
+01:11:37,280 --> 01:11:41,040
+See the access token is token colon use
+
+912
+01:11:41,040 --> 01:11:45,199
+access scope here.
+
+913
+01:11:45,199 --> 01:11:49,640
+Lighty token doesn't have that.
+
+914
+01:11:52,239 --> 01:11:55,600
+Sorry, say I was reading something.
+
+915
+01:11:55,600 --> 01:11:57,360
+>> U
+
+916
+01:11:57,360 --> 01:12:00,239
+looking at the cut the outputs from
+
+917
+01:12:00,239 --> 01:12:04,080
+decoding it. The access token has
+
+918
+01:12:04,080 --> 01:12:06,719
+different fields. It has token use
+
+919
+01:12:06,719 --> 01:12:10,480
+access scope equals cognto and uh the ID
+
+920
+01:12:10,480 --> 01:12:13,920
+token doesn't have that information.
+
+921
+01:12:13,920 --> 01:12:16,080
+>> Yep.
+
+922
+01:12:16,080 --> 01:12:18,560
+That's the only uh
+
+923
+01:12:18,560 --> 01:12:20,400
+scope token that you're going to get
+
+924
+01:12:20,400 --> 01:12:24,400
+with that method, that challenge.
+
+925
+01:12:24,400 --> 01:12:27,400
+So,
+
+926
+01:12:35,520 --> 01:12:38,520
+other
+
+927
+01:12:38,800 --> 01:12:43,159
+that's the only user pool I have.
+
+928
+01:13:39,760 --> 01:13:44,600
+So method request that is
+
+929
+01:14:11,360 --> 01:14:13,360
+Does this matter right here? Authoration
+
+930
+01:14:13,360 --> 01:14:16,360
+scope.
+
+931
+01:14:26,800 --> 01:14:30,159
+Um, no, not not
+
+932
+01:14:30,159 --> 01:14:35,560
+that I can see. Not right now.
+
+933
+01:14:41,840 --> 01:14:45,400
+Just put in.
+
+934
+01:14:46,960 --> 01:14:49,960
+Okay.
+
+935
+01:15:48,880 --> 01:15:51,199
+The header for the access token has the
+
+936
+01:15:51,199 --> 01:15:55,920
+same structure as the ID token.
+
+937
+01:15:55,920 --> 01:15:58,159
+Signs access tokens with a different key
+
+938
+01:15:58,159 --> 01:16:02,600
+from the key that signs ID tokens.
+
+939
+01:16:30,159 --> 01:16:34,320
+the header contains two pieces of
+
+940
+01:18:02,960 --> 01:18:05,920
+Okay.
+
+941
+01:18:05,920 --> 01:18:09,640
+How do I use this
+
+942
+01:19:33,280 --> 01:19:37,960
+What if it's really that stupid?
+
+943
+01:19:38,480 --> 01:19:40,640
+Uh, what if it's what? How stupid? I was
+
+944
+01:19:40,640 --> 01:19:43,960
+reading something.
+
+945
+01:20:01,040 --> 01:20:03,199
+Didn't you already do that?
+
+946
+01:20:03,199 --> 01:20:05,920
+>> No, I just did authorization, not
+
+947
+01:20:05,920 --> 01:20:10,360
+authorization colon bearer.
+
+948
+01:20:11,360 --> 01:20:14,360
+>> What?
+
+949
+01:20:15,280 --> 01:20:18,239
+Maybe give it a go.
+
+950
+01:20:18,239 --> 01:20:21,120
+Can just try guess
+
+951
+01:20:21,120 --> 01:20:27,239
+see what happens. Be inexpensive for us.
+
+952
+01:20:33,679 --> 01:20:37,560
+Did I spell that right?
+
+953
+01:20:38,400 --> 01:20:43,800
+Authorization bear your access token.
+
+954
+01:20:44,400 --> 01:20:47,280
+Nope.
+
+955
+01:20:47,280 --> 01:20:50,600
+No difference.
+
+956
+01:20:55,840 --> 01:20:57,120
+Yeah, I don't think it was going to make
+
+957
+01:20:57,120 --> 01:21:00,199
+a difference.
+
+958
+01:22:48,560 --> 01:22:51,199
+If you want to use access
+
+959
+01:22:51,199 --> 01:22:54,320
+uh ID, I think you have to configure
+
+960
+01:22:54,320 --> 01:22:58,360
+your app client for o.
+
+961
+01:23:00,320 --> 01:23:04,840
+Okay. So right here um
+
+962
+01:23:05,040 --> 01:23:07,440
+what about part C where it says for
+
+963
+01:23:07,440 --> 01:23:10,719
+cognitive choose a region use a stage
+
+964
+01:23:10,719 --> 01:23:14,480
+variable to define your user pool.
+
+965
+01:23:14,480 --> 01:23:16,560
+Use the following format for your user
+
+966
+01:23:16,560 --> 01:23:19,040
+pool.
+
+967
+01:23:19,040 --> 01:23:20,560
+>> That would be I mean you only got the
+
+968
+01:23:20,560 --> 01:23:23,600
+one user I
+
+969
+01:23:23,600 --> 01:23:27,520
+>> does that make any sense here? No. This
+
+970
+01:23:27,520 --> 01:23:29,760
+is
+
+971
+01:23:29,760 --> 01:23:32,760
+helpful.
+
+972
+01:23:40,480 --> 01:23:44,600
+Okay. Where did it say that?
+
+973
+01:23:46,480 --> 01:23:49,719
+Okay. authorizers.
+
+974
+01:24:15,199 --> 01:24:17,440
+So they're look it what are they talking
+
+975
+01:24:17,440 --> 01:24:20,440
+about?
+
+976
+01:24:26,239 --> 01:24:29,440
+>> Well, you confused them.
+
+977
+01:24:29,440 --> 01:24:31,760
+>> For Cognto user pool, choose the AWS
+
+978
+01:24:31,760 --> 01:24:34,800
+reason you created the pool and select
+
+979
+01:24:34,800 --> 01:24:37,600
+an available. Okay,
+
+980
+01:24:37,600 --> 01:24:40,880
+you can use a staged variable name.
+
+981
+01:24:40,880 --> 01:24:45,600
+I don't think we're doing that. All
+
+982
+01:24:45,600 --> 01:24:47,040
+right. Create authorizer. After
+
+983
+01:24:47,040 --> 01:24:49,760
+creating, you want to test invoke
+
+984
+01:24:49,760 --> 01:24:52,000
+identity token as provided. Cannot use
+
+985
+01:24:52,000 --> 01:24:53,600
+this access token to invoke the
+
+986
+01:24:53,600 --> 01:24:56,000
+authorizer. You can obtain this identity
+
+987
+01:24:56,000 --> 01:25:00,440
+token by doing blah blah blah.
+
+988
+01:25:02,719 --> 01:25:05,280
+The procedure creates a user pull
+
+989
+01:25:05,280 --> 01:25:09,960
+authorizer that uses the created
+
+990
+01:25:11,440 --> 01:25:14,760
+to configure
+
+991
+01:25:21,679 --> 01:25:24,960
+To use an identity token,
+
+992
+01:25:24,960 --> 01:25:27,440
+do the following. Keep authorization
+
+993
+01:25:27,440 --> 01:25:31,239
+scope empty.
+
+994
+01:25:33,280 --> 01:25:35,520
+Okay.
+
+995
+01:25:35,520 --> 01:25:38,159
+To use an access for authorization
+
+996
+01:25:38,159 --> 01:25:41,920
+scope, enter one or more full names of a
+
+997
+01:25:41,920 --> 01:25:45,280
+scope that has been configured
+
+998
+01:25:45,280 --> 01:25:49,239
+when the pool was created.
+
+999
+01:25:56,480 --> 01:26:00,080
+What does this mean?
+
+1000
+01:26:00,080 --> 01:26:02,080
+Well, if you read a little bit further
+
+1001
+01:26:02,080 --> 01:26:04,800
+down there, this is the reason why I'm
+
+1002
+01:26:04,800 --> 01:26:06,639
+thinking that
+
+1003
+01:26:06,639 --> 01:26:08,400
+or off, we need to configure or off. If
+
+1004
+01:26:08,400 --> 01:26:11,280
+you go past step six, no, no, it just go
+
+1005
+01:26:11,280 --> 01:26:13,120
+a little bit further down the page. See
+
+1006
+01:26:13,120 --> 01:26:15,120
+after step six yet see where it says
+
+1007
+01:26:15,120 --> 01:26:17,199
+with the cognito usable authorizer if
+
+1008
+01:26:17,199 --> 01:26:20,000
+the O of scopes option isn't specified
+
+1009
+01:26:20,000 --> 01:26:22,320
+the API gateway treats the supply token
+
+1010
+01:26:22,320 --> 01:26:26,400
+as an as an identity token
+
+1011
+01:26:26,400 --> 01:26:28,239
+and verifies the claimed identity is the
+
+1012
+01:26:28,239 --> 01:26:31,960
+one from the user group.
+
+1013
+01:26:34,239 --> 01:26:36,880
+Okay. So if you don't provide a scope
+
+1014
+01:26:36,880 --> 01:26:41,840
+option then it uses the identity token.
+
+1015
+01:26:41,840 --> 01:26:45,040
+Uh yeah, essentially.
+
+1016
+01:26:45,040 --> 01:26:49,600
+>> So where do you supply the scope option?
+
+1017
+01:26:49,600 --> 01:26:52,000
+>> That's the thing I'm trying to look into
+
+1018
+01:26:52,000 --> 01:26:55,040
+right now, which is actually configuring
+
+1019
+01:26:55,040 --> 01:27:00,800
+your app plan to use both
+
+1020
+01:27:00,800 --> 01:27:04,159
+instead, which is not doing it well. So,
+
+1021
+01:27:04,159 --> 01:27:08,920
+we're going to method request settings.
+
+1022
+01:27:55,679 --> 01:27:59,639
+Okay. So,
+
+1023
+01:28:08,320 --> 01:28:12,760
+well, are active. Bummer.
+
+1024
+01:28:15,280 --> 01:28:17,520
+Yes. So from what I understand here to
+
+1025
+01:28:17,520 --> 01:28:21,760
+use the access um ID you would need to
+
+1026
+01:28:21,760 --> 01:28:26,199
+set up you would need to configure
+
+1027
+01:28:26,400 --> 01:28:28,880
+oaf and you need to use the custom
+
+1028
+01:28:28,880 --> 01:28:30,719
+scopes
+
+1029
+01:28:30,719 --> 01:28:34,000
+but right now I mean you're doing fine
+
+1030
+01:28:34,000 --> 01:28:38,639
+with the ID token. ID token does return
+
+1031
+01:28:38,639 --> 01:28:42,080
+like correctly. Um
+
+1032
+01:28:42,080 --> 01:28:44,800
+so I mean it works with the ID token but
+
+1033
+01:28:44,800 --> 01:28:46,400
+if you want to set up the access token
+
+1034
+01:28:46,400 --> 01:28:49,600
+it's more like production pattern. Um
+
+1035
+01:28:49,600 --> 01:28:52,560
+and if you have like a real
+
+1036
+01:28:52,560 --> 01:28:55,199
+web architecture
+
+1037
+01:28:55,199 --> 01:28:57,600
+this would be the proper
+
+1038
+01:28:57,600 --> 01:29:01,440
+uh flow which is to use the access ID
+
+1039
+01:29:01,440 --> 01:29:03,199
+basically.
+
+1040
+01:29:03,199 --> 01:29:06,159
+So if you want to get production with it
+
+1041
+01:29:06,159 --> 01:29:07,920
+that kind of pattern then you'd have to
+
+1042
+01:29:07,920 --> 01:29:10,320
+do the Google
+
+1043
+01:29:10,320 --> 01:29:14,000
+>> I would need to add the full name of the
+
+1044
+01:29:14,000 --> 01:29:17,000
+scope.
+
+1045
+01:29:24,560 --> 01:29:27,440
+>> Okay.
+
+1046
+01:29:27,440 --> 01:29:28,960
+I feel like I'm right on the edge of
+
+1047
+01:29:28,960 --> 01:29:32,520
+figuring this out.
+
+1048
+01:29:35,600 --> 01:29:38,560
+I'm just going to take this
+
+1049
+01:29:38,560 --> 01:29:43,120
+and stick it in here.
+
+1050
+01:29:43,120 --> 01:29:47,880
+See if that made makes any sense.
+
+1051
+01:29:51,520 --> 01:29:54,520
+Save.
+
+1052
+01:30:22,080 --> 01:30:25,080
+redeploy.
+
+1053
+01:30:26,080 --> 01:30:29,080
+Oops.
+
+1054
+01:30:45,440 --> 01:30:47,520
+How much time do I have left on this
+
+1055
+01:30:47,520 --> 01:30:50,520
+token?
+
+1056
+01:31:11,600 --> 01:31:15,159
+14 minutes.
+
+1057
+01:31:18,560 --> 01:31:21,440
+So, I got one more
+
+1058
+01:31:21,440 --> 01:31:24,719
+shot at this.
+
+1059
+01:31:24,719 --> 01:31:27,719
+Write
+
+1060
+01:31:34,560 --> 01:31:37,800
+this down.
+
+1061
+01:31:53,440 --> 01:31:56,440
+Yeah.
+
+1062
+01:32:01,920 --> 01:32:04,159
+>> Yeah. It's definitely what I said when
+
+1063
+01:32:04,159 --> 01:32:07,679
+uh it's you have to actually set up both
+
+1064
+01:32:07,679 --> 01:32:11,520
+which you haven't got set up. So,
+
+1065
+01:32:11,520 --> 01:32:13,679
+>> well, it did what it said to do and it
+
+1066
+01:32:13,679 --> 01:32:17,239
+still didn't work.
+
+1067
+01:32:18,320 --> 01:32:23,440
+>> Yeah, this is why. So, um
+
+1068
+01:32:23,440 --> 01:32:28,280
+it works with ID ID. Yeah.
+
+1069
+01:32:35,199 --> 01:32:40,040
+The the ID token.
+
+1070
+01:32:41,679 --> 01:32:45,040
+Okay. I don't know. It
+
+1071
+01:32:45,040 --> 01:32:47,920
+I don't understand what
+
+1072
+01:32:47,920 --> 01:32:49,840
+I did what it said and it still doesn't
+
+1073
+01:32:49,840 --> 01:32:52,719
+work.
+
+1074
+01:32:52,719 --> 01:32:54,480
+Unless I'm not understanding what it's
+
+1075
+01:32:54,480 --> 01:32:57,960
+trying to tell me.
+
+1076
+01:32:58,639 --> 01:33:01,639
+And
+
+1077
+01:33:24,159 --> 01:33:27,159
+Okay.
+
+1078
+01:33:29,120 --> 01:33:33,239
+How do I get to this part?
+
+1079
+01:33:45,199 --> 01:33:48,159
+Okay. So, go back to user pools.
+
+1080
+01:33:48,159 --> 01:33:51,639
+User pools.
+
+1081
+01:33:53,840 --> 01:33:56,840
+Domain.
+
+1082
+01:33:57,360 --> 01:34:01,239
+I don't have any domains.
+
+1083
+01:34:05,120 --> 01:34:07,120
+Yeah, that's
+
+1084
+01:34:07,120 --> 01:34:09,840
+>> that's called the I was talking about.
+
+1085
+01:34:09,840 --> 01:34:11,520
+Um,
+
+1086
+01:34:11,520 --> 01:34:13,280
+>> so
+
+1087
+01:34:13,280 --> 01:34:15,920
+as far as I'm aware,
+
+1088
+01:34:15,920 --> 01:34:20,679
+>> what do they want for this value?
+
+1089
+01:34:28,159 --> 01:34:30,080
+Note to configure resource identifiers
+
+1090
+01:34:30,080 --> 01:34:31,920
+and custom scope names you need to
+
+1091
+01:34:31,920 --> 01:34:35,120
+construct the access scope full names
+
+1092
+01:34:35,120 --> 01:34:37,920
+for OATH scopes which is used by code's
+
+1093
+01:34:37,920 --> 01:34:41,320
+pools authorizer.
+
+1094
+01:34:41,360 --> 01:34:43,840
+>> Yeah, go to that page.
+
+1095
+01:34:43,840 --> 01:34:49,320
+>> Please make s English sense of that.
+
+1096
+01:34:49,760 --> 01:34:51,520
+So that's where we are. So you have to
+
+1097
+01:34:51,520 --> 01:34:54,520
+create
+
+1098
+01:34:56,000 --> 01:34:58,880
+Yeah.
+
+1099
+01:35:00,880 --> 01:35:02,639
+Is there an option for create a resource
+
+1100
+01:35:02,639 --> 01:35:04,800
+server?
+
+1101
+01:35:04,800 --> 01:35:06,480
+>> Uh, go scroll down.
+
+1102
+01:35:06,480 --> 01:35:07,920
+>> There you go. Create resource.
+
+1103
+01:35:07,920 --> 01:35:09,280
+>> This is all the way down. Okay, let's
+
+1104
+01:35:09,280 --> 01:35:12,840
+try it. Uh,
+
+1105
+01:35:13,600 --> 01:35:17,400
+just enter a name.
+
+1106
+01:35:19,520 --> 01:35:21,360
+The resource server is an integration
+
+1107
+01:35:21,360 --> 01:35:23,520
+between your user pool and the API. H
+
+1108
+01:35:23,520 --> 01:35:25,840
+resource server as a custom scope that
+
+1109
+01:35:25,840 --> 01:35:27,760
+you must activate in your app client.
+
+1110
+01:35:27,760 --> 01:35:29,520
+When you configure the resource server,
+
+1111
+01:35:29,520 --> 01:35:32,480
+your app can generate access tokens to
+
+1112
+01:35:32,480 --> 01:35:34,960
+OS scopes that authorize rewrite
+
+1113
+01:35:34,960 --> 01:35:37,960
+operators.
+
+1114
+01:35:38,639 --> 01:35:40,560
+Enter a friendly name for the res. I
+
+1115
+01:35:40,560 --> 01:35:43,840
+don't have a resource server.
+
+1116
+01:35:43,840 --> 01:35:46,239
+>> It looks like you're just creating it.
+
+1117
+01:35:46,239 --> 01:35:50,239
+So you can name it whatever you want.
+
+1118
+01:35:50,239 --> 01:35:51,520
+>> Yeah, it looks like you're making it
+
+1119
+01:35:51,520 --> 01:35:53,840
+there. So you just gave it a name uh a
+
+1120
+01:35:53,840 --> 01:35:56,840
+name.
+
+1121
+01:36:12,320 --> 01:36:16,120
+Okay. Identifier
+
+1122
+01:36:25,679 --> 01:36:29,239
+Not a great name.
+
+1123
+01:36:41,360 --> 01:36:44,719
+>> Class resource server name.
+
+1124
+01:36:44,719 --> 01:36:45,280
+>> I think
+
+1125
+01:36:45,280 --> 01:36:47,360
+>> let's go back to that. Yeah, I think in
+
+1126
+01:36:47,360 --> 01:36:52,360
+that screenshot they had a custom scope.
+
+1127
+01:36:54,159 --> 01:36:58,520
+So, they added a custom scope.
+
+1128
+01:37:05,280 --> 01:37:09,840
+>> Okay. Did I not do that?
+
+1129
+01:37:09,840 --> 01:37:11,600
+>> I think you can still edit it there,
+
+1130
+01:37:11,600 --> 01:37:12,800
+can't you?
+
+1131
+01:37:12,800 --> 01:37:14,960
+>> Yeah. This the edit button wasn't
+
+1132
+01:37:14,960 --> 01:37:17,119
+disabled. Right. Yeah.
+
+1133
+01:37:17,119 --> 01:37:21,400
+>> Okay. Right there. Okay. This edit.
+
+1134
+01:37:26,960 --> 01:37:31,080
+>> I don't even care what the name is.
+
+1135
+01:37:34,239 --> 01:37:37,239
+Uh,
+
+1136
+01:37:44,239 --> 01:37:49,080
+I don't know if that means anything. Um,
+
+1137
+01:37:53,600 --> 01:37:59,000
+just let it go is the scope name.
+
+1138
+01:38:00,880 --> 01:38:04,159
+What? I go back.
+
+1139
+01:38:04,159 --> 01:38:05,920
+>> Are you following any name
+
+1140
+01:38:05,920 --> 01:38:07,920
+>> any process for this or you just kind of
+
+1141
+01:38:07,920 --> 01:38:10,239
+just winging it at the moment?
+
+1142
+01:38:10,239 --> 01:38:11,840
+>> I'm winging it at this point if I'm
+
+1143
+01:38:11,840 --> 01:38:15,119
+being honest. Um
+
+1144
+01:38:15,119 --> 01:38:17,440
+I'm just like, you know what? Let's just
+
+1145
+01:38:17,440 --> 01:38:21,480
+see if this works. Um
+
+1146
+01:38:23,040 --> 01:38:24,639
+yeah.
+
+1147
+01:38:24,639 --> 01:38:27,520
+No, no. What I wanted is uh resources
+
+1148
+01:38:27,520 --> 01:38:30,520
+maybe.
+
+1149
+01:38:42,639 --> 01:38:44,800
+Okay. So,
+
+1150
+01:38:44,800 --> 01:38:47,600
+this scope and have this scope just
+
+1151
+01:38:47,600 --> 01:38:49,760
+bloody go.
+
+1152
+01:38:49,760 --> 01:38:53,119
+I don't know if that does anything.
+
+1153
+01:38:53,119 --> 01:38:54,719
+And
+
+1154
+01:38:54,719 --> 01:38:57,679
+do the same thing for
+
+1155
+01:38:57,679 --> 01:39:00,320
+you.
+
+1156
+01:39:12,239 --> 01:39:16,360
+and then redeploy again.
+
+1157
+01:39:36,159 --> 01:39:40,440
+will this work? I don't know.
+
+1158
+01:39:53,679 --> 01:39:56,000
+survey says
+
+1159
+01:39:56,000 --> 01:39:59,000
+nope.
+
+1160
+01:40:00,960 --> 01:40:03,280
+>> All right. I don't know.
+
+1161
+01:40:03,280 --> 01:40:06,719
+>> All right. So, I think that your
+
+1162
+01:40:06,719 --> 01:40:08,000
+your authorization
+
+1163
+01:40:08,000 --> 01:40:09,520
+>> maybe
+
+1164
+01:40:09,520 --> 01:40:11,920
+probably expired by now. Who knows?
+
+1165
+01:40:11,920 --> 01:40:15,040
+>> No, I mean it has to like say that
+
+1166
+01:40:15,040 --> 01:40:18,679
+because of what you chose.
+
+1167
+01:40:26,560 --> 01:40:30,920
+as in the console. Yeah.
+
+1168
+01:40:34,159 --> 01:40:36,960
+>> 9:18. I have four minutes to find out
+
+1169
+01:40:36,960 --> 01:40:38,880
+how to fix this before I do the thing
+
+1170
+01:40:38,880 --> 01:40:40,320
+from the top.
+
+1171
+01:40:40,320 --> 01:40:43,199
+>> Are you hearing me? Uh, go to the
+
+1172
+01:40:43,199 --> 01:40:46,480
+console, bro.
+
+1173
+01:40:46,480 --> 01:40:48,560
+>> Where you want me to go? Go back to the
+
+1174
+01:40:48,560 --> 01:40:52,320
+console where you put in the scopes.
+
+1175
+01:40:52,320 --> 01:40:54,159
+>> Okay.
+
+1176
+01:40:54,159 --> 01:40:57,679
+>> No, not there as in like in the um the
+
+1177
+01:40:57,679 --> 01:40:58,480
+>> API.
+
+1178
+01:40:58,480 --> 01:41:02,840
+>> Yeah, the API,
+
+1179
+01:41:04,800 --> 01:41:05,360
+>> right?
+
+1180
+01:41:05,360 --> 01:41:08,080
+>> Oh, this is
+
+1181
+01:41:08,080 --> 01:41:09,840
+>> okay.
+
+1182
+01:41:09,840 --> 01:41:13,639
+>> Yeah, change that.
+
+1183
+01:41:13,840 --> 01:41:17,760
+Not just bloody good. Change it to CS
+
+1184
+01:41:17,760 --> 01:41:19,679
+server
+
+1185
+01:41:19,679 --> 01:41:22,480
+slash just bloody go. I'll put it in the
+
+1186
+01:41:22,480 --> 01:41:24,400
+chat.
+
+1187
+01:41:24,400 --> 01:41:27,400
+>> Okay.
+
+1188
+01:41:27,840 --> 01:41:30,840
+>> Oh,
+
+1189
+01:41:35,520 --> 01:41:38,239
+where is my mouse? Well, that's your
+
+1190
+01:41:38,239 --> 01:41:42,040
+mouse, not my mouse.
+
+1191
+01:41:54,560 --> 01:41:57,199
+Also, just make sure that the uh
+
+1192
+01:41:57,199 --> 01:41:58,000
+>> like that.
+
+1193
+01:41:58,000 --> 01:41:59,440
+>> Yeah. What does your one say? Does it
+
+1194
+01:41:59,440 --> 01:42:02,159
+say CR7 or C7R?
+
+1195
+01:42:02,159 --> 01:42:04,400
+Make sure it says
+
+1196
+01:42:04,400 --> 01:42:05,679
+uh
+
+1197
+01:42:05,679 --> 01:42:07,520
+>> I put
+
+1198
+01:42:07,520 --> 01:42:10,400
+C7R server
+
+1199
+01:42:10,400 --> 01:42:13,199
+R.
+
+1200
+01:42:13,199 --> 01:42:16,080
+All right. Yeah, just put that
+
+1201
+01:42:16,080 --> 01:42:19,719
+add that to both.
+
+1202
+01:42:25,040 --> 01:42:28,360
+Yeah. See
+
+1203
+01:42:49,360 --> 01:42:52,719
+and then deploy API.
+
+1204
+01:42:52,719 --> 01:42:56,600
+You ready to change it?
+
+1205
+01:43:13,679 --> 01:43:16,679
+Nope.
+
+1206
+01:43:33,360 --> 01:43:37,440
+I'm going to try one more thing.
+
+1207
+01:44:30,719 --> 01:44:32,239
+It expired. So, I'm going to do the
+
+1208
+01:44:32,239 --> 01:44:36,040
+whole shindig again.
+
+1209
+01:45:40,480 --> 01:45:44,520
+Okay. Access token.
+
+1210
+01:45:57,440 --> 01:46:00,760
+E token.
+
+1211
+01:46:12,239 --> 01:46:16,280
+How much time do I have?
+
+1212
+01:46:37,119 --> 01:46:41,040
+till 10:19. Cool.
+
+1213
+01:46:41,040 --> 01:46:44,040
+Now,
+
+1214
+01:47:00,719 --> 01:47:04,360
+Don't think I need
+
+1215
+01:47:07,920 --> 01:47:11,480
+great now.
+
+1216
+01:47:14,639 --> 01:47:17,639
+Okay.
+
+1217
+01:47:23,600 --> 01:47:27,639
+I don't think this is it.
+
+1218
+01:48:28,880 --> 01:48:33,159
+That is what I did.
+
+1219
+01:49:06,800 --> 01:49:10,239
+We have scope.
+
+1220
+01:49:10,239 --> 01:49:13,719
+We have scope.
+
+1221
+01:49:19,840 --> 01:49:21,520
+Yeah, that's the that's the default
+
+1222
+01:49:21,520 --> 01:49:24,239
+scope. It's not a custom scope.
+
+1223
+01:49:24,239 --> 01:49:25,040
+That's the defense. Can
+
+1224
+01:49:25,040 --> 01:49:27,119
+>> I just put that in as the scope? Would
+
+1225
+01:49:27,119 --> 01:49:29,520
+that be stupid?
+
+1226
+01:49:29,520 --> 01:49:31,040
+>> It wouldn't make any difference. It
+
+1227
+01:49:31,040 --> 01:49:33,360
+wouldn't help you anything.
+
+1228
+01:49:33,360 --> 01:49:34,800
+>> You sure?
+
+1229
+01:49:34,800 --> 01:49:36,480
+>> Give it.
+
+1230
+01:49:36,480 --> 01:49:38,320
+>> I'll I'll give it a whirl.
+
+1231
+01:49:38,320 --> 01:49:40,719
+>> Just like Theo likes to say, you're
+
+1232
+01:49:40,719 --> 01:49:43,119
+free. You know, you can do whatever you
+
+1233
+01:49:43,119 --> 01:49:44,719
+want.
+
+1234
+01:49:44,719 --> 01:49:45,520
+Free.
+
+1235
+01:49:45,520 --> 01:49:48,960
+>> You are free. You're free. I'm not here
+
+1236
+01:49:48,960 --> 01:49:50,880
+to I'm not here to limit you. I'm just
+
+1237
+01:49:50,880 --> 01:49:54,199
+here to watch.
+
+1238
+01:49:55,600 --> 01:49:57,119
+I don't think this will make any
+
+1239
+01:49:57,119 --> 01:50:01,159
+difference, but let's find out.
+
+1240
+01:50:02,080 --> 01:50:04,159
+>> I would be very surprised if it did cuz
+
+1241
+01:50:04,159 --> 01:50:06,080
+you're adding it as a custom scope and
+
+1242
+01:50:06,080 --> 01:50:09,280
+that's actually the default scope with
+
+1243
+01:50:09,280 --> 01:50:12,800
+API with trying to do a direct API call
+
+1244
+01:50:12,800 --> 01:50:15,600
+we're doing.
+
+1245
+01:50:15,600 --> 01:50:18,639
+>> It would be stupid if it worked. That is
+
+1246
+01:50:18,639 --> 01:50:22,119
+all I'm saying.
+
+1247
+01:50:22,880 --> 01:50:25,880
+deploy
+
+1248
+01:50:26,000 --> 01:50:28,000
+two.
+
+1249
+01:50:28,000 --> 01:50:31,239
+Don't care.
+
+1250
+01:50:31,679 --> 01:50:34,679
+Okay.
+
+1251
+01:50:50,320 --> 01:50:53,320
+Mother,
+
+1252
+01:50:57,440 --> 01:51:00,760
+it works.
+
+1253
+01:51:09,440 --> 01:51:12,440
+>> Okay.
+
+1254
+01:51:17,199 --> 01:51:19,600
+>> You say, "Does that work?"
+
+1255
+01:51:19,600 --> 01:51:21,600
+That works.
+
+1256
+01:51:21,600 --> 01:51:25,159
+>> How? Why?
+
+1257
+01:51:31,440 --> 01:51:36,199
+>> Let me put Python just to be sure.
+
+1258
+01:51:36,719 --> 01:51:39,119
+Hello from work. Yeah,
+
+1259
+01:51:39,119 --> 01:51:41,119
+just
+
+1260
+01:51:41,119 --> 01:51:45,119
+>> so what was the final answer to?
+
+1261
+01:51:45,119 --> 01:51:46,960
+>> This is so stupid. Okay, I will show
+
+1262
+01:51:46,960 --> 01:51:49,760
+you. Um, where did I put it? Under
+
+1263
+01:51:49,760 --> 01:51:51,280
+resources.
+
+1264
+01:51:51,280 --> 01:51:54,280
+>> Okay.
+
+1265
+01:51:54,400 --> 01:51:58,520
+And you go to your method,
+
+1266
+01:51:58,960 --> 01:51:59,599
+>> edit,
+
+1267
+01:51:59,599 --> 01:52:02,800
+>> add authoration scope.
+
+1268
+01:52:02,800 --> 01:52:07,760
+>> So it it was the um default one.
+
+1269
+01:52:07,760 --> 01:52:09,119
+>> Yeah.
+
+1270
+01:52:09,119 --> 01:52:10,800
+>> Oh, no.
+
+1271
+01:52:10,800 --> 01:52:12,960
+>> You have to explicitly say the default
+
+1272
+01:52:12,960 --> 01:52:14,639
+scope in order for
+
+1273
+01:52:14,639 --> 01:52:16,320
+>> Okay. I know for the custom ones you
+
+1274
+01:52:16,320 --> 01:52:18,320
+could do whatever it is and then like
+
+1275
+01:52:18,320 --> 01:52:20,639
+read write or ad man. Okay, so you have
+
+1276
+01:52:20,639 --> 01:52:24,159
+to actually put the Wow, thanks
+
+1277
+01:52:24,159 --> 01:52:25,840
+>> stupid.
+
+1278
+01:52:25,840 --> 01:52:29,199
+>> No, but hold up hold up. The access
+
+1279
+01:52:29,199 --> 01:52:32,880
+token um is that your access token or
+
+1280
+01:52:32,880 --> 01:52:35,520
+did you update that um that variable?
+
+1281
+01:52:35,520 --> 01:52:39,040
+>> No, no, let let me let me double check.
+
+1282
+01:52:39,040 --> 01:52:43,679
+Let me before I proclaim victory in the
+
+1283
+01:52:43,679 --> 01:52:45,679
+name whatever.
+
+1284
+01:52:45,679 --> 01:52:46,480
+>> Uh
+
+1285
+01:52:46,480 --> 01:52:48,560
+>> actually using your ID token instead of
+
+1286
+01:52:48,560 --> 01:52:50,400
+your access token or like
+
+1287
+01:52:50,400 --> 01:52:52,480
+>> No, no, I'm using I'm using the access
+
+1288
+01:52:52,480 --> 01:52:53,360
+token.
+
+1289
+01:52:53,360 --> 01:52:54,320
+>> Okay.
+
+1290
+01:52:54,320 --> 01:52:57,360
+>> Let me scroll up and look. Okay.
+
+1291
+01:52:57,360 --> 01:53:00,560
+Okay. So, access token is ey blah blah
+
+1292
+01:53:00,560 --> 01:53:02,400
+blah
+
+1293
+01:53:02,400 --> 01:53:08,719
+3 IQ. Access to EY blah blah blah B3 IQ.
+
+1294
+01:53:08,719 --> 01:53:11,840
+And then ID token is EJ whatever ends
+
+1295
+01:53:11,840 --> 01:53:14,400
+with UKW
+
+1296
+01:53:14,400 --> 01:53:17,280
+and uh ID token is blah blah blah blah
+
+1297
+01:53:17,280 --> 01:53:20,159
+blah UKW. So yeah I am using the access
+
+1298
+01:53:20,159 --> 01:53:23,159
+token.
+
+1299
+01:53:26,080 --> 01:53:29,080
+>> Okay.
+
+1300
+01:53:29,599 --> 01:53:33,280
+>> So uh let me write that down real quick.
+
+1301
+01:53:33,280 --> 01:53:36,280
+Uh
+
+1302
+01:53:39,360 --> 01:53:41,440
+so under
+
+1303
+01:53:41,440 --> 01:53:44,639
+where did I put this nonsense
+
+1304
+01:53:44,639 --> 01:53:46,800
+method requests
+
+1305
+01:53:46,800 --> 01:53:48,320
+>> it's under yeah it's under method
+
+1306
+01:53:48,320 --> 01:53:50,800
+request
+
+1307
+01:53:50,800 --> 01:53:54,560
+is a method edit method request
+
+1308
+01:53:54,560 --> 01:53:59,239
+I think and then Here
+
+1309
+01:54:15,280 --> 01:54:18,280
+date.
+
+1310
+01:54:19,599 --> 01:54:22,320
+Okay.
+
+1311
+01:54:22,320 --> 01:54:25,040
+Thank you everybody. That was class
+
+1312
+01:54:25,040 --> 01:54:27,119
+essentially.
+
+1313
+01:54:27,119 --> 01:54:30,360
+I'm done.
+
+1314
+01:54:30,400 --> 01:54:32,320
+>> I took the whole class. I'm sorry.
+
+1315
+01:54:32,320 --> 01:54:35,599
+>> That's No, that's all right. It's That's
+
+1316
+01:54:35,599 --> 01:54:36,400
+>> It didn't work.
+
+1317
+01:54:36,400 --> 01:54:38,080
+>> That's what we're here for.
+
+1318
+01:54:38,080 --> 01:54:38,960
+>> It works.
+
+1319
+01:54:38,960 --> 01:54:41,440
+>> This is I would rather you come here and
+
+1320
+01:54:41,440 --> 01:54:43,920
+participate and get it done during the
+
+1321
+01:54:43,920 --> 01:54:46,080
+session like this than for you to be
+
+1322
+01:54:46,080 --> 01:54:47,760
+quiet
+
+1323
+01:54:47,760 --> 01:54:49,119
+because there's nothing we can do if
+
+1324
+01:54:49,119 --> 01:54:50,880
+you're quiet.
+
+1325
+01:54:50,880 --> 01:54:53,040
+But if if you talk and participate, I'll
+
+1326
+01:54:53,040 --> 01:54:55,199
+I'll always have time for students who
+
+1327
+01:54:55,199 --> 01:55:00,800
+do this. Yeah. Then you probably get
+
+1328
+01:55:00,800 --> 01:55:04,719
+then you probably get uh job later on.
+
+1329
+01:55:04,719 --> 01:55:07,520
+You make money. Then you can go on some
+
+1330
+01:55:07,520 --> 01:55:09,599
+podcast and call people [ __ ] for
+
+1331
+01:55:09,599 --> 01:55:11,920
+discounting my class.
+
+1332
+01:55:11,920 --> 01:55:15,239
+Just go.
+
+1333
+01:55:15,760 --> 01:55:17,840
+So this is what we're here for. All
+
+1334
+01:55:17,840 --> 01:55:20,639
+right. Uh, Jock, you're next up on
+
+1335
+01:55:20,639 --> 01:55:22,719
+Saturday. Okay.
+
+1336
+01:55:22,719 --> 01:55:24,159
+>> Okay.
+
+1337
+01:55:24,159 --> 01:55:26,159
+>> Uh, but I think people all learned
+
+1338
+01:55:26,159 --> 01:55:29,040
+something. I like how you did this. I
+
+1339
+01:55:29,040 --> 01:55:32,320
+like how you suffered. I like how you
+
+1340
+01:55:32,320 --> 01:55:36,560
+worked hard. Um, I like a lot of this.
+
+1341
+01:55:36,560 --> 01:55:38,159
+This is actually really good. I think
+
+1342
+01:55:38,159 --> 01:55:40,800
+you did a great job. You want to be up
+
+1343
+01:55:40,800 --> 01:55:43,760
+too, Kev? On Kevin? Really? You too.
+
+1344
+01:55:43,760 --> 01:55:46,480
+Okay. So, Jock and Kevin, both of you on
+
+1345
+01:55:46,480 --> 01:55:49,040
+Saturday. All right. Okay.
+
+1346
+01:55:49,040 --> 01:55:51,040
+>> So,
+
+1347
+01:55:51,040 --> 01:55:51,360
+>> what
+
+1348
+01:55:51,360 --> 01:55:52,960
+>> I could just understand why this worked.
+
+1349
+01:55:52,960 --> 01:55:56,000
+Yeah. Is this because it's the default
+
+1350
+01:55:56,000 --> 01:55:58,159
+scope is still a valid scope. So, it
+
+1351
+01:55:58,159 --> 01:56:02,159
+actually accepts the default scope.
+
+1352
+01:56:02,159 --> 01:56:03,679
+>> Yeah.
+
+1353
+01:56:03,679 --> 01:56:07,199
+>> Yeah. It should that it's along those
+
+1354
+01:56:07,199 --> 01:56:10,719
+lines basically. Yeah. It the default
+
+1355
+01:56:10,719 --> 01:56:13,840
+should work. Uh there shouldn't be a
+
+1356
+01:56:13,840 --> 01:56:16,480
+reason. Yeah.
+
+1357
+01:56:16,480 --> 01:56:20,719
+Uh, I think it's my best guess.
+
+1358
+01:56:20,719 --> 01:56:22,320
+>> Sometimes I look at this within myself,
+
+1359
+01:56:22,320 --> 01:56:25,199
+I'm like, uh, I don't know. But it
+
+1360
+01:56:25,199 --> 01:56:26,639
+worked, right? So,
+
+1361
+01:56:26,639 --> 01:56:29,599
+>> yeah. Yeah, it works. It actually works.
+
+1362
+01:56:29,599 --> 01:56:31,360
+Okay. I'm surprised at that. But, I
+
+1363
+01:56:31,360 --> 01:56:33,679
+mean, uh, it it makes sense. It's a
+
+1364
+01:56:33,679 --> 01:56:35,440
+default scope is actually went under one
+
+1365
+01:56:35,440 --> 01:56:37,199
+of the accepted.
+
+1366
+01:56:37,199 --> 01:56:38,159
+It's It's an accepted
+
+1367
+01:56:38,159 --> 01:56:38,960
+>> kind of like
+
+1368
+01:56:38,960 --> 01:56:40,320
+>> it's valid. Okay.
+
+1369
+01:56:40,320 --> 01:56:42,159
+>> It's kind of like dating a modern woman
+
+1370
+01:56:42,159 --> 01:56:43,520
+and everything is going well. You're
+
+1371
+01:56:43,520 --> 01:56:47,040
+like, how the HELL THAT HAPPENED?
+
+1372
+01:56:51,360 --> 01:56:51,679
+OKAY,
+
+1373
+01:56:51,679 --> 01:56:53,280
+>> THAT ACTUALLY WORKS.
+
+1374
+01:56:53,280 --> 01:56:54,159
+>> YEAH,
+
+1375
+01:56:54,159 --> 01:56:56,400
+>> it works only as far as if you want to
+
+1376
+01:56:56,400 --> 01:56:58,000
+actually use custom scopes, you still
+
+1377
+01:56:58,000 --> 01:57:00,080
+have to set up like the way you have to
+
+1378
+01:57:00,080 --> 01:57:02,960
+actually go the the way of setting u
+
+1379
+01:57:02,960 --> 01:57:06,080
+configuring o with the app client. But
+
+1380
+01:57:06,080 --> 01:57:08,320
+um it also accepts the default scope.
+
+1381
+01:57:08,320 --> 01:57:11,280
+It's within the documentation.
+
+1382
+01:57:11,280 --> 01:57:15,840
+I mean it is what it is.
+
+1383
+01:57:15,840 --> 01:57:16,159
+All right.
+
+1384
+01:57:16,159 --> 01:57:18,320
+>> Can I ask a quick question?
+
+1385
+01:57:18,320 --> 01:57:20,239
+>> Yep. What's up?
+
+1386
+01:57:20,239 --> 01:57:23,599
+>> So, well, he I was behind, but he went
+
+1387
+01:57:23,599 --> 01:57:28,000
+to uh JJ, you went to methods and then
+
+1388
+01:57:28,000 --> 01:57:31,280
+you created a method and then the
+
+1389
+01:57:31,280 --> 01:57:32,960
+method. Go ahead.
+
+1390
+01:57:32,960 --> 01:57:34,639
+>> Let me go back. Okay. Okay. So, I went
+
+1391
+01:57:34,639 --> 01:57:37,280
+to let's say for node. It's the same for
+
+1392
+01:57:37,280 --> 01:57:40,239
+Python, but you go to uh let me go down
+
+1393
+01:57:40,239 --> 01:57:42,960
+to you method request settings and you
+
+1394
+01:57:42,960 --> 01:57:44,960
+hit edit
+
+1395
+01:57:44,960 --> 01:57:48,080
+>> and you add the authorization scope of
+
+1396
+01:57:48,080 --> 01:57:50,560
+the default authorization scope, which
+
+1397
+01:57:50,560 --> 01:57:52,800
+is why that's not set as default,
+
+1398
+01:57:52,800 --> 01:57:56,800
+whatever. But I put that in there and
+
+1399
+01:57:56,800 --> 01:58:00,000
+hit save.
+
+1400
+01:58:00,000 --> 01:58:02,480
+>> Okay. Save. Okay. You went to you went
+
+1401
+01:58:02,480 --> 01:58:04,719
+to node. You went to method method
+
+1402
+01:58:04,719 --> 01:58:06,480
+request settings. You hit edit. You went
+
+1403
+01:58:06,480 --> 01:58:08,320
+to authorization.
+
+1404
+01:58:08,320 --> 01:58:12,320
+You specified your cognto. And then
+
+1405
+01:58:12,320 --> 01:58:12,800
+>> Yep.
+
+1406
+01:58:12,800 --> 01:58:16,320
+>> Okay. And then after um um authorization
+
+1407
+01:58:16,320 --> 01:58:17,679
+scopes,
+
+1408
+01:58:17,679 --> 01:58:21,520
+>> yeah, you put in aws.cognito.signit.
+
+1409
+01:58:21,520 --> 01:58:22,880
+You know what? Let me copy and paste it
+
+1410
+01:58:22,880 --> 01:58:25,920
+into the chat. Hold on.
+
+1411
+01:58:25,920 --> 01:58:27,760
+Uh
+
+1412
+01:58:27,760 --> 01:58:30,639
+you got to put this
+
+1413
+01:58:30,639 --> 01:58:34,639
+as your authorization scope.
+
+1414
+01:58:34,960 --> 01:58:37,840
+I could just get the mouse over there.
+
+1415
+01:58:37,840 --> 01:58:40,159
+>> And you and you selected API key
+
+1416
+01:58:40,159 --> 01:58:42,000
+required.
+
+1417
+01:58:42,000 --> 01:58:44,560
+>> No,
+
+1418
+01:58:44,560 --> 01:58:46,719
+>> it's just a
+
+1419
+01:58:46,719 --> 01:58:48,400
+>> Yeah, I left that blank. The only thing
+
+1420
+01:58:48,400 --> 01:58:53,400
+I added was the authorization scope.
+
+1421
+01:58:53,840 --> 01:58:57,960
+>> Everything else I left alone.
+
+1422
+01:58:58,000 --> 01:58:59,360
+>> Thank you.
+
+1423
+01:58:59,360 --> 01:59:02,520
+>> You're welcome.
+
+1424
+01:59:12,239 --> 01:59:14,719
+Yeah. So mechanically this is valid.
+
+1425
+01:59:14,719 --> 01:59:17,440
+Yeah. But it doesn't actually it's
+
+1426
+01:59:17,440 --> 01:59:18,719
+basically almost the same thing. You're
+
+1427
+01:59:18,719 --> 01:59:20,159
+using the default scope. So it's like
+
+1428
+01:59:20,159 --> 01:59:21,920
+you're not using any custom scope at
+
+1429
+01:59:21,920 --> 01:59:23,440
+all. So
+
+1430
+01:59:23,440 --> 01:59:24,800
+>> I don't know. Do you get what I mean,
+
+1431
+01:59:24,800 --> 01:59:26,480
+JJ? Like it's like you're using
+
+1432
+01:59:26,480 --> 01:59:28,480
+>> Yeah. There's nothing custom. I'm just
+
+1433
+01:59:28,480 --> 01:59:30,480
+explicitly using the default.
+
+1434
+01:59:30,480 --> 01:59:32,800
+>> Yeah. So, it's like mechanically this
+
+1435
+01:59:32,800 --> 01:59:35,599
+works. So, you found a hack basically.
+
+1436
+01:59:35,599 --> 01:59:39,360
+So, shout out to you. Um, but it's
+
+1437
+01:59:39,360 --> 01:59:41,360
+almost the same as not using a scope at
+
+1438
+01:59:41,360 --> 01:59:43,280
+all cuz you're just using the
+
+1439
+01:59:43,280 --> 01:59:46,159
+>> I mean, uh, shout out to the person who
+
+1440
+01:59:46,159 --> 01:59:49,119
+figured out the echo thing with the base
+
+1441
+01:59:49,119 --> 01:59:51,280
+64 because I looked back at the token. I
+
+1442
+01:59:51,280 --> 01:59:53,199
+was like, "Okay, what token does this
+
+1443
+01:59:53,199 --> 01:59:56,000
+scope want?"
+
+1444
+01:59:56,000 --> 01:59:58,880
+And then it clicked. I was like, "This,
+
+1445
+01:59:58,880 --> 02:00:00,320
+you know what? Let me throw that in
+
+1446
+02:00:00,320 --> 02:00:02,880
+there and see what it does.
+
+1447
+02:00:02,880 --> 02:00:03,280
+>> Yeah.
+
+1448
+02:00:03,280 --> 02:00:05,040
+>> Where did
+
+1449
+02:00:05,040 --> 02:00:08,159
+Where did I see the last? Yeah, it says
+
+1450
+02:00:08,159 --> 02:00:11,639
+here scope.
+
+1451
+02:00:12,880 --> 02:00:14,400
+>> So, I was like, well, if you want the
+
+1452
+02:00:14,400 --> 02:00:16,159
+scope, I'm gonna give you this scope and
+
+1453
+02:00:16,159 --> 02:00:18,880
+see what it mean.
+
+1454
+02:00:18,880 --> 02:00:21,119
+>> Yeah, but that's reductive. Do you get
+
+1455
+02:00:21,119 --> 02:00:22,639
+what I mean? It's like it's weird.
+
+1456
+02:00:22,639 --> 02:00:24,639
+>> Yeah. It's redundant. It's
+
+1457
+02:00:24,639 --> 02:00:26,480
+>> redundant. Yeah.
+
+1458
+02:00:26,480 --> 02:00:30,159
+>> Round circles. I'm like,
+
+1459
+02:00:30,159 --> 02:00:31,760
+>> you've closed the loop on it, bro.
+
+1460
+02:00:31,760 --> 02:00:33,199
+You've closed the loop on it. But I
+
+1461
+02:00:33,199 --> 02:00:35,440
+mean, uh, yeah, [ __ ] it, bro. Hack I
+
+1462
+02:00:35,440 --> 02:00:37,040
+like hacks as well, man. I like hacking
+
+1463
+02:00:37,040 --> 02:00:39,599
+[ __ ] So, uh, yeah, this is good. This
+
+1464
+02:00:39,599 --> 02:00:42,159
+works in sense, but it's not a
+
+1465
+02:00:42,159 --> 02:00:43,440
+production pattern. Like, you can't do
+
+1466
+02:00:43,440 --> 02:00:45,440
+this at work. Like, this is not going to
+
+1467
+02:00:45,440 --> 02:00:47,040
+work. So, but
+
+1468
+02:00:47,040 --> 02:00:49,119
+>> I don't know what people at work would
+
+1469
+02:00:49,119 --> 02:00:50,800
+do, honestly.
+
+1470
+02:00:50,800 --> 02:00:54,480
+I wonder if someone's actually posted a
+
+1471
+02:00:54,480 --> 02:00:58,159
+medium or a substack about this. I'd be
+
+1472
+02:00:58,159 --> 02:00:59,679
+interested.
+
+1473
+02:00:59,679 --> 02:01:02,159
+Like, has anyone else reached run into
+
+1474
+02:01:02,159 --> 02:01:04,560
+this problem or are we the first?
+
+1475
+02:01:04,560 --> 02:01:06,159
+>> No, I'm sure other people have run into
+
+1476
+02:01:06,159 --> 02:01:09,040
+the problem, but they won't be able to
+
+1477
+02:01:09,040 --> 02:01:13,119
+um sort of frame it eloquently as you're
+
+1478
+02:01:13,119 --> 02:01:15,040
+going to be able to do if you write that
+
+1479
+02:01:15,040 --> 02:01:16,960
+that post
+
+1480
+02:01:16,960 --> 02:01:18,719
+cuz the the wounds are still fresh for
+
+1481
+02:01:18,719 --> 02:01:22,840
+you. So I would go.
+
+1482
+02:01:28,480 --> 02:01:30,000
+>> All right.
+
+1483
+02:01:30,000 --> 02:01:35,679
+>> So um on that point, check out the the
+
+1484
+02:01:35,679 --> 02:01:40,800
+link to Stack Overflow that Kevin found.
+
+1485
+02:01:40,800 --> 02:01:41,599
+>> Okay.
+
+1486
+02:01:41,599 --> 02:01:44,480
+>> In the chat.
+
+1487
+02:01:44,480 --> 02:01:47,040
+>> All right. Let me see.
+
+1488
+02:01:47,040 --> 02:01:51,520
+address. Get over here.
+
+1489
+02:01:51,520 --> 02:01:54,400
+>> Got like 300 tabs open, but whatever.
+
+1490
+02:01:54,400 --> 02:01:58,599
+Uh, let's read it.
+
+1491
+02:02:15,840 --> 02:02:19,639
+Oh, that's a good question.
+
+1492
+02:02:22,000 --> 02:02:24,159
+And this is why I said it was a bit back
+
+1493
+02:02:24,159 --> 02:02:29,280
+cuz it's like what? Well, um, yeah,
+
+1494
+02:02:29,280 --> 02:02:32,520
+it's cool.
+
+1495
+02:02:48,880 --> 02:02:51,199
+You know what? One more. I like Okay,
+
+1496
+02:02:51,199 --> 02:02:55,080
+what if I take off
+
+1497
+02:02:56,719 --> 02:02:58,960
+Where's my notes? What if I take off
+
+1498
+02:02:58,960 --> 02:03:00,800
+bear? I don't know if that makes any
+
+1499
+02:03:00,800 --> 02:03:03,800
+difference.
+
+1500
+02:03:13,199 --> 02:03:15,840
+Is that
+
+1501
+02:03:15,840 --> 02:03:18,560
+nope, don't have to have bear. Okay,
+
+1502
+02:03:18,560 --> 02:03:20,480
+interesting.
+
+1503
+02:03:20,480 --> 02:03:23,480
+uh
+
+1504
+02:03:26,239 --> 02:03:28,800
+authorizes the augmented user disauor
+
+1505
+02:03:28,800 --> 02:03:31,679
+the bearer of of an access token to
+
+1506
+02:03:31,679 --> 02:03:34,000
+query and update all information about a
+
+1507
+02:03:34,000 --> 02:03:37,840
+user p with get user when you
+
+1508
+02:03:37,840 --> 02:03:40,320
+authenticate your user with the API.
+
+1509
+02:03:40,320 --> 02:03:42,000
+This is the only scope you receive in
+
+1510
+02:03:42,000 --> 02:03:44,719
+the access token. is only the only scope
+
+1511
+02:03:44,719 --> 02:03:46,639
+you need to read and write access user
+
+1512
+02:03:46,639 --> 02:03:48,320
+attributes that you authorized your app
+
+1513
+02:03:48,320 --> 02:03:50,000
+client to read and write. You can also
+
+1514
+02:03:50,000 --> 02:03:52,239
+request this scope and request to your
+
+1515
+02:03:52,239 --> 02:03:54,960
+authorized endpoint. This scope alone
+
+1516
+02:03:54,960 --> 02:03:56,639
+isn't sufficient to request user
+
+1517
+02:03:56,639 --> 02:03:59,520
+attributes from the user info point for
+
+1518
+02:03:59,520 --> 02:04:01,360
+access tokens to authorize both user
+
+1519
+02:04:01,360 --> 02:04:04,920
+pools and user
+
+1520
+02:04:05,199 --> 02:04:07,360
+must request both the scope's open ID
+
+1521
+02:04:07,360 --> 02:04:10,719
+and this and off to authorize request.
+
+1522
+02:04:10,719 --> 02:04:12,239
+Okay.
+
+1523
+02:04:12,239 --> 02:04:14,000
+So, if you want more information about
+
+1524
+02:04:14,000 --> 02:04:16,159
+the user, you have to request the open
+
+1525
+02:04:16,159 --> 02:04:19,560
+ID scope.
+
+1526
+02:04:24,639 --> 02:04:29,360
+Whoa. Okay. I don't know
+
+1527
+02:04:29,360 --> 02:04:33,159
+if we're doing that.
+
+1528
+02:04:36,960 --> 02:04:39,280
+No, that's that's the custom scope state
+
+1529
+02:04:39,280 --> 02:04:41,360
+that I was talking about. So that is
+
+1530
+02:04:41,360 --> 02:04:41,840
+okay.
+
+1531
+02:04:41,840 --> 02:04:44,080
+>> Yeah, that's part of the the
+
+1532
+02:04:44,080 --> 02:04:47,040
+>> Yeah, that's probably
+
+1533
+02:04:47,040 --> 02:04:49,119
+I don't think we're doing that right
+
+1534
+02:04:49,119 --> 02:04:50,960
+now. Are we? I don't know if we're going
+
+1535
+02:04:50,960 --> 02:04:54,239
+that deep.
+
+1536
+02:04:54,239 --> 02:04:57,239
+>> Okay.
+
+1537
+02:04:57,840 --> 02:04:59,920
+All right.
+
+1538
+02:04:59,920 --> 02:05:03,639
+Who wants to go next?
+
+1539
+02:05:04,719 --> 02:05:06,960
+>> We ain't going next today. No.
+
+1540
+02:05:06,960 --> 02:05:08,800
+>> Yeah, it's it's a wrap for the day. We
+
+1541
+02:05:08,800 --> 02:05:10,480
+we'll continue Saturday.
+
+1542
+02:05:10,480 --> 02:05:12,080
+>> That's right. Wrap of the day. I like
+
+1543
+02:05:12,080 --> 02:05:15,679
+that expression. So, um
+
+1544
+02:05:15,679 --> 02:05:18,719
+>> good work. I like what you guys did.
+
+1545
+02:05:18,719 --> 02:05:20,560
+>> Um JJ, you got you got to help people
+
+1546
+02:05:20,560 --> 02:05:22,400
+out on Saturday, right?
+
+1547
+02:05:22,400 --> 02:05:28,199
+>> Uh not available on Saturdays, but um
+
+1548
+02:05:30,480 --> 02:05:32,400
+>> see
+
+1549
+02:05:32,400 --> 02:05:36,040
+I have a baseball.
+
+1550
+02:05:36,080 --> 02:05:40,360
+available on Saturday. So,
+
+1551
+02:05:47,920 --> 02:05:50,159
+>> you're you're you're Why aren't you
+
+1552
+02:05:50,159 --> 02:05:52,480
+available on Saturday?
+
+1553
+02:05:52,480 --> 02:05:54,159
+>> It's the Sabbath. Friday evening to
+
+1554
+02:05:54,159 --> 02:05:55,760
+Saturday evening, Jesus time.
+
+1555
+02:05:55,760 --> 02:05:57,679
+>> Oh, okay. Fine. That's fine. That's
+
+1556
+02:05:57,679 --> 02:05:59,760
+acceptable. I understand that. How about
+
+1557
+02:05:59,760 --> 02:06:02,159
+Sunday?
+
+1558
+02:06:02,159 --> 02:06:04,560
+>> Maybe. Yeah.
+
+1559
+02:06:04,560 --> 02:06:05,199
+>> Okay. Yeah.
+
+1560
+02:06:05,199 --> 02:06:06,960
+>> So, Sunday you're coming back and you're
+
+1561
+02:06:06,960 --> 02:06:08,639
+helping out.
+
+1562
+02:06:08,639 --> 02:06:11,920
+>> Sure. What What time on Sunday?
+
+1563
+02:06:11,920 --> 02:06:13,840
+>> You know what the time is?
+
+1564
+02:06:13,840 --> 02:06:15,360
+>> I'll have to look at
+
+1565
+02:06:15,360 --> 02:06:20,599
+>> what you're on Facebook. Yeah.
+
+1566
+02:06:21,920 --> 02:06:22,639
+>> All right.
+
+1567
+02:06:22,639 --> 02:06:24,080
+>> I get you. All right. We'll see you in
+
+1568
+02:06:24,080 --> 02:06:25,920
+front. We'll see you this weekend.
+
+1569
+02:06:25,920 --> 02:06:28,159
+Anyway, good job everyone else. You did
+
+1570
+02:06:28,159 --> 02:06:32,079
+a great job. I like what I see.
+
+1571
+02:06:32,079 --> 02:06:34,000
+You're you're you're one step closer,
+
+1572
+02:06:34,000 --> 02:06:36,639
+everyone. Okay, let's get going.
+
+1573
+02:06:36,639 --> 02:06:39,440
+>> So, one more one quick question. You
+
+1574
+02:06:39,440 --> 02:06:41,840
+were okay with me using Gemini in front
+
+1575
+02:06:41,840 --> 02:06:45,199
+of everybody. I don't
+
+1576
+02:06:45,199 --> 02:06:48,320
+>> I don't mind how you did it.
+
+1577
+02:06:48,320 --> 02:06:48,800
+>> Okay.
+
+1578
+02:06:48,800 --> 02:06:51,360
+>> Because you're you're already thinking
+
+1579
+02:06:51,360 --> 02:06:52,639
+and then you're using it for
+
+1580
+02:06:52,639 --> 02:06:54,960
+troubleshooting. That's how I use it.
+
+1581
+02:06:54,960 --> 02:06:55,599
+>> Okay.
+
+1582
+02:06:55,599 --> 02:06:57,840
+>> But if you're like, I don't know
+
+1583
+02:06:57,840 --> 02:07:01,679
+anything, so how do I use Cognito or
+
+1584
+02:07:01,679 --> 02:07:03,760
+what's a token?
+
+1585
+02:07:03,760 --> 02:07:05,920
+like, "Oh, you're in student mode."
+
+1586
+02:07:05,920 --> 02:07:08,400
+Okay, so that's if you're doing
+
+1587
+02:07:08,400 --> 02:07:09,599
+everything professionally, you shouldn't
+
+1588
+02:07:09,599 --> 02:07:11,760
+be doing that. That's just not in the
+
+1589
+02:07:11,760 --> 02:07:13,119
+office. You don't do that. But if you're
+
+1590
+02:07:13,119 --> 02:07:15,520
+like, if you got Stack Overflow open and
+
+1591
+02:07:15,520 --> 02:07:17,280
+then you have Gemini open too, you got
+
+1592
+02:07:17,280 --> 02:07:18,719
+some books open, you're like, I'm trying
+
+1593
+02:07:18,719 --> 02:07:21,199
+to figure this out and people like,
+
+1594
+02:07:21,199 --> 02:07:23,040
+yeah, we get you. Yeah, that's that's
+
+1595
+02:07:23,040 --> 02:07:26,159
+fine. That's that's what I do. I got
+
+1596
+02:07:26,159 --> 02:07:28,880
+plenty of trouble with with with Tati PT
+
+1597
+02:07:28,880 --> 02:07:32,800
+over different stuff that I'm doing. Um
+
+1598
+02:07:32,800 --> 02:07:34,560
+I
+
+1599
+02:07:34,560 --> 02:07:36,480
+so the error message we had last week
+
+1600
+02:07:36,480 --> 02:07:39,920
+with the um what was that? What was I
+
+1601
+02:07:39,920 --> 02:07:42,000
+forgot what it was? I have to go back
+
+1602
+02:07:42,000 --> 02:07:43,440
+through it. But there's a huge error
+
+1603
+02:07:43,440 --> 02:07:46,960
+message you guys had. I did not. So I
+
+1604
+02:07:46,960 --> 02:07:48,960
+went back to chatt and said how did this
+
+1605
+02:07:48,960 --> 02:07:51,040
+error message happen? Like why why did
+
+1606
+02:07:51,040 --> 02:07:52,400
+they have it? But I didn't. We had to go
+
+1607
+02:07:52,400 --> 02:07:54,079
+through the combo because I didn't know
+
+1608
+02:07:54,079 --> 02:07:58,480
+why where it came from right and we we
+
+1609
+02:07:58,480 --> 02:08:00,719
+got through it. So that's kind of
+
+1610
+02:08:00,719 --> 02:08:02,159
+normal. All right.
+
+1611
+02:08:02,159 --> 02:08:03,199
+>> Okay.
+
+1612
+02:08:03,199 --> 02:08:04,159
+>> Cool.
+
+1613
+02:08:04,159 --> 02:08:06,400
+>> Anyway, you did a great job and I will
+
+1614
+02:08:06,400 --> 02:08:08,320
+see you next week. Okay.
+
+1615
+02:08:08,320 --> 02:08:08,880
+>> Next week.
+
+1616
+02:08:08,880 --> 02:08:10,079
+>> All righty.
+
+1617
+02:08:10,079 --> 02:08:10,960
+>> Great.
+
+1618
+02:08:10,960 --> 02:08:13,119
+>> Congratulations again. Well done. Well
+
+1619
+02:08:13,119 --> 02:08:13,679
+done.
+
+1620
+02:08:13,679 --> 02:08:15,840
+>> Yeah. Congrats.
+
+1621
+02:08:15,840 --> 02:08:16,480
+>> Good job. I'm
+
+1622
+02:08:16,480 --> 02:08:20,280
+>> giving you a slow clap.
+
+1623
+02:08:20,719 --> 02:08:23,760
+>> Japanese cup. Yeah. See you guys. Well
+
+1624
+02:08:23,760 --> 02:08:26,760
+done.

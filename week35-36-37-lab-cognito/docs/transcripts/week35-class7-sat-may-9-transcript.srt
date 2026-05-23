@@ -1,0 +1,7715 @@
+1
+00:00:00,080 --> 00:00:02,240
+So, you got the user pool. Oh my
+
+2
+00:00:02,240 --> 00:00:08,000
+goodness. Okay. Let's make a new Damn.
+
+3
+00:00:08,000 --> 00:00:10,559
+Uh, okay. Let's make a new user pool.
+
+4
+00:00:10,559 --> 00:00:12,800
+Okay. Um,
+
+5
+00:00:12,800 --> 00:00:15,360
+so
+
+6
+00:00:15,360 --> 00:00:17,920
+on the a so on the search bar, just type
+
+7
+00:00:17,920 --> 00:00:21,039
+in Cognto.
+
+8
+00:00:21,039 --> 00:00:22,960
+Are you there already? Oh, you're there.
+
+9
+00:00:22,960 --> 00:00:25,680
+Okay. So, you're there already. Uh, hold
+
+10
+00:00:25,680 --> 00:00:29,760
+on. Let me get this expand this bigger.
+
+11
+00:00:29,760 --> 00:00:32,160
+There we are.
+
+12
+00:00:32,160 --> 00:00:34,239
+Okay. So, we're going to do a
+
+13
+00:00:34,239 --> 00:00:35,520
+traditional web application. We're not
+
+14
+00:00:35,520 --> 00:00:38,399
+doing anything big there. Okay. I'll go
+
+15
+00:00:38,399 --> 00:00:40,719
+ahead and So, name of your application.
+
+16
+00:00:40,719 --> 00:00:44,840
+You can name anything you want
+
+17
+00:00:50,079 --> 00:00:53,600
+there. Chewbacca app. I like that. See,
+
+18
+00:00:53,600 --> 00:00:55,600
+I could tell you're my student. Okay.
+
+19
+00:00:55,600 --> 00:00:57,920
+So, configuration option with sign in
+
+20
+00:00:57,920 --> 00:01:00,800
+identity. We're going to do email and
+
+21
+00:01:00,800 --> 00:01:04,000
+phone number.
+
+22
+00:01:04,000 --> 00:01:06,960
+Okay. And self-registration. Yeah. And
+
+23
+00:01:06,960 --> 00:01:09,360
+required attributes for sign up. Go
+
+24
+00:01:09,360 --> 00:01:13,119
+ahead and um click on that. And we don't
+
+25
+00:01:13,119 --> 00:01:14,640
+need to know your birth birthday date.
+
+26
+00:01:14,640 --> 00:01:16,240
+This is this. Okay. This is a little
+
+27
+00:01:16,240 --> 00:01:18,799
+lesson real quick about PII,
+
+28
+00:01:18,799 --> 00:01:20,799
+personal information. One of the best
+
+29
+00:01:20,799 --> 00:01:23,920
+things to uh be compliant with PII is
+
+30
+00:01:23,920 --> 00:01:25,759
+not to collect it in the first place.
+
+31
+00:01:25,759 --> 00:01:27,360
+So, you don't need to have somebody's
+
+32
+00:01:27,360 --> 00:01:30,560
+address or birth date. Um, even their
+
+33
+00:01:30,560 --> 00:01:31,920
+family name. You definitely don't need
+
+34
+00:01:31,920 --> 00:01:33,759
+to know their gender. That's some
+
+35
+00:01:33,759 --> 00:01:37,119
+cuckoo. All right. Um, the given name,
+
+36
+00:01:37,119 --> 00:01:38,799
+don't need to know that. Local or middle
+
+37
+00:01:38,799 --> 00:01:40,320
+name, you don't need that at all. So,
+
+38
+00:01:40,320 --> 00:01:42,560
+what you need is email.
+
+39
+00:01:42,560 --> 00:01:45,040
+Click on email
+
+40
+00:01:45,040 --> 00:01:46,799
+there. Scroll down. You need phone
+
+41
+00:01:46,799 --> 00:01:49,439
+number.
+
+42
+00:01:49,439 --> 00:01:52,720
+That's it. That's the easiest way of
+
+43
+00:01:52,720 --> 00:01:54,479
+being compliant.
+
+44
+00:01:54,479 --> 00:01:55,920
+Can I get their weight and height at
+
+45
+00:01:55,920 --> 00:01:58,920
+least?
+
+46
+00:02:00,880 --> 00:02:04,159
+Dress size.
+
+47
+00:02:04,159 --> 00:02:05,759
+Okay.
+
+48
+00:02:05,759 --> 00:02:07,360
+You know, Kevin would have been proud if
+
+49
+00:02:07,360 --> 00:02:09,039
+we would have put dress size up there.
+
+50
+00:02:09,039 --> 00:02:11,440
+Okay. So, return a URL. We don't need to
+
+51
+00:02:11,440 --> 00:02:13,040
+do that. Good. Go ahead and create the
+
+52
+00:02:13,040 --> 00:02:16,280
+user directory.
+
+53
+00:02:20,959 --> 00:02:22,800
+I always get this section like
+
+54
+00:02:22,800 --> 00:02:24,239
+navigating through here. I'm always
+
+55
+00:02:24,239 --> 00:02:28,599
+like, where am I going? I don't know.
+
+56
+00:02:29,280 --> 00:02:32,239
+No. No. Okay. So,
+
+57
+00:02:32,239 --> 00:02:38,239
+we have the user pool. Okay. Now, um
+
+58
+00:02:38,239 --> 00:02:41,200
+go to I always forget this part. Go to
+
+59
+00:02:41,200 --> 00:02:44,800
+view login page.
+
+60
+00:02:44,800 --> 00:02:48,640
+Okay. Yeah. Good. All right. Now, go
+
+61
+00:02:48,640 --> 00:02:50,480
+ahead and create an account. So, this is
+
+62
+00:02:50,480 --> 00:02:52,000
+where you do the registration for the
+
+63
+00:02:52,000 --> 00:02:57,560
+user. Okay. And go inside.
+
+64
+00:03:12,080 --> 00:03:16,920
+Uh, do a one first. Yep.
+
+65
+00:03:17,360 --> 00:03:20,080
+All right. Everyone, make sure to spam
+
+66
+00:03:20,080 --> 00:03:23,879
+TF US now.
+
+67
+00:03:24,560 --> 00:03:27,120
+There you go. Got your password. Confirm
+
+68
+00:03:27,120 --> 00:03:30,280
+the password.
+
+69
+00:03:31,760 --> 00:03:34,760
+Eva,
+
+70
+00:03:35,840 --> 00:03:38,640
+I'm waiting for a delivery. I hate FedEx
+
+71
+00:03:38,640 --> 00:03:40,239
+sometimes.
+
+72
+00:03:40,239 --> 00:03:43,599
+Feel like I'm prisoner.
+
+73
+00:03:43,599 --> 00:03:46,599
+Yep.
+
+74
+00:03:48,959 --> 00:03:51,959
+Okay.
+
+75
+00:04:00,799 --> 00:04:05,640
+Oh, no. No. No.
+
+76
+00:04:34,800 --> 00:04:37,360
+Okay.
+
+77
+00:04:37,360 --> 00:04:40,479
+Now, if it didn't send the code to your
+
+78
+00:04:40,479 --> 00:04:42,960
+uh phone, basically within one minute,
+
+79
+00:04:42,960 --> 00:04:46,720
+if it hasn't sent, then resend the code.
+
+80
+00:04:46,720 --> 00:04:49,720
+>> Okay.
+
+81
+00:04:56,080 --> 00:05:00,840
+>> Okay. Come here. Chewbaca. Come here.
+
+82
+00:05:18,560 --> 00:05:20,880
+I'm going to miss him.
+
+83
+00:05:20,880 --> 00:05:22,639
+Three weeks without three or four weeks
+
+84
+00:05:22,639 --> 00:05:24,880
+without Chewbacca.
+
+85
+00:05:24,880 --> 00:05:29,080
+Well, it's not going to be fun.
+
+86
+00:05:32,240 --> 00:05:33,520
+And then I'm going have five months
+
+87
+00:05:33,520 --> 00:05:36,840
+without him.
+
+88
+00:05:37,440 --> 00:05:39,039
+At least Chewbacca is gonna live a long
+
+89
+00:05:39,039 --> 00:05:42,039
+time.
+
+90
+00:05:46,080 --> 00:05:49,720
+Maybe Uncle Smith.
+
+91
+00:05:57,600 --> 00:05:59,759
+>> Did it send the code to your phone?
+
+92
+00:05:59,759 --> 00:06:01,680
+>> No, it did not.
+
+93
+00:06:01,680 --> 00:06:04,400
+>> Go ahead. Resend it.
+
+94
+00:06:04,400 --> 00:06:07,039
+Remember
+
+95
+00:06:07,039 --> 00:06:08,800
+last well earlier this week it would not
+
+96
+00:06:08,800 --> 00:06:11,840
+do the phone. We had to use the email.
+
+97
+00:06:11,840 --> 00:06:15,360
+>> Yeah, it'll definitely do SMS. It'll
+
+98
+00:06:15,360 --> 00:06:19,240
+this this part should work.
+
+99
+00:06:19,440 --> 00:06:23,080
+>> Shouldn't be that long.
+
+100
+00:06:30,960 --> 00:06:36,160
+So Chewbacca is a Yorkie poo. So like
+
+101
+00:06:36,160 --> 00:06:38,479
+the dogear calculations usually don't
+
+102
+00:06:38,479 --> 00:06:41,199
+work for him because he's longer lived
+
+103
+00:06:41,199 --> 00:06:44,960
+as a Yorkie poo. So he should make 18 to
+
+104
+00:06:44,960 --> 00:06:47,120
+20 years old.
+
+105
+00:06:47,120 --> 00:06:47,440
+>> Yeah.
+
+106
+00:06:47,440 --> 00:06:51,360
+>> So he's 11 right now. So I have between
+
+107
+00:06:51,360 --> 00:06:53,919
+six to eight more years with him
+
+108
+00:06:53,919 --> 00:06:56,319
+realistically. Yeah, it's it's not like
+
+109
+00:06:56,319 --> 00:06:58,560
+a linear thing. Like smaller dog breeds
+
+110
+00:06:58,560 --> 00:07:00,720
+usually live longer. Like my Shih Tzu is
+
+111
+00:07:00,720 --> 00:07:02,639
+like 17 years old. I don't think he'll
+
+112
+00:07:02,639 --> 00:07:04,639
+ever die,
+
+113
+00:07:04,639 --> 00:07:07,120
+>> right?
+
+114
+00:07:07,120 --> 00:07:08,479
+>> He's going to definitely live a long
+
+115
+00:07:08,479 --> 00:07:11,479
+time.
+
+116
+00:07:20,240 --> 00:07:22,800
+I'm going to miss you. You know that.
+
+117
+00:07:22,800 --> 00:07:24,160
+You know that, buddy. I'm gonna miss
+
+118
+00:07:24,160 --> 00:07:27,160
+you.
+
+119
+00:07:33,680 --> 00:07:36,880
+>> One thing I like about my um dog handler
+
+120
+00:07:36,880 --> 00:07:38,800
+is that she sends me photos every two or
+
+121
+00:07:38,800 --> 00:07:42,000
+three days from the other so I can see
+
+122
+00:07:42,000 --> 00:07:44,400
+what's going. Sometimes she puts a cam
+
+123
+00:07:44,400 --> 00:07:46,800
+up there, sometimes she puts a voice so
+
+124
+00:07:46,800 --> 00:07:48,240
+I can actually talk to them while I'm in
+
+125
+00:07:48,240 --> 00:07:51,560
+another country.
+
+126
+00:07:52,720 --> 00:07:54,639
+No code,
+
+127
+00:07:54,639 --> 00:07:56,479
+did you do your email? Did you do your
+
+128
+00:07:56,479 --> 00:07:59,639
+phone number?
+
+129
+00:08:03,120 --> 00:08:06,000
+Wow.
+
+130
+00:08:06,000 --> 00:08:09,520
+Okay. You can make another user.
+
+131
+00:08:09,520 --> 00:08:12,240
+You can make another user pool and only
+
+132
+00:08:12,240 --> 00:08:17,000
+do um email.
+
+133
+00:08:23,759 --> 00:08:28,680
+Yeah, that makes sense. What Bash said?
+
+134
+00:08:34,159 --> 00:08:36,240
+>> Is it SNS
+
+135
+00:08:36,240 --> 00:08:39,039
+dash or is it the other one?
+
+136
+00:08:39,039 --> 00:08:43,039
+>> Yeah, it was SNS essentially.
+
+137
+00:08:43,039 --> 00:08:44,800
+I think it was a slam box that came up.
+
+138
+00:08:44,800 --> 00:08:46,320
+I don't know. some sort of an error came
+
+139
+00:08:46,320 --> 00:08:48,160
+up for me and when I went down the
+
+140
+00:08:48,160 --> 00:08:50,320
+rabbit hole, it said that you had to
+
+141
+00:08:50,320 --> 00:08:51,920
+there's some sort of a sandbox that it
+
+142
+00:08:51,920 --> 00:08:53,360
+puts you in. You need to verify out of
+
+143
+00:08:53,360 --> 00:08:55,279
+that sandbox and then you also need to
+
+144
+00:08:55,279 --> 00:08:58,880
+purchase um an origin identity number
+
+145
+00:08:58,880 --> 00:09:01,680
+for US numbers or something. So, I mean
+
+146
+00:09:01,680 --> 00:09:03,600
+that some of that didn't apply to me, so
+
+147
+00:09:03,600 --> 00:09:05,519
+I didn't tug on that string too much,
+
+148
+00:09:05,519 --> 00:09:07,600
+but I just remember it was a hell of a
+
+149
+00:09:07,600 --> 00:09:10,640
+headache. So, I just did the email only.
+
+150
+00:09:10,640 --> 00:09:13,120
+Um but it me to do all of that. You'll
+
+151
+00:09:13,120 --> 00:09:15,360
+ask me to jump through some loops to to
+
+152
+00:09:15,360 --> 00:09:18,399
+uh configure SMS.
+
+153
+00:09:18,399 --> 00:09:21,040
+>> Yeah, it says so in the developer guide
+
+154
+00:09:21,040 --> 00:09:24,160
+it says some uh cognto events
+
+155
+00:09:24,160 --> 00:09:27,120
+>> create create create
+
+156
+00:09:27,120 --> 00:09:29,040
+an account. Yeah, there you go.
+
+157
+00:09:29,040 --> 00:09:32,640
+>> I'll just put in the chat.
+
+158
+00:09:32,640 --> 00:09:34,399
+This answers it pretty much in the first
+
+159
+00:09:34,399 --> 00:09:37,399
+paragraph.
+
+160
+00:09:56,800 --> 00:09:59,279
+Okay. What's your email?
+
+161
+00:09:59,279 --> 00:10:02,160
+Everybody look. Don't look at his email
+
+162
+00:10:02,160 --> 00:10:03,920
+on the screen. I don't want to know. I
+
+163
+00:10:03,920 --> 00:10:04,480
+don't know what to
+
+164
+00:10:04,480 --> 00:10:06,080
+>> look like on my phone.
+
+165
+00:10:06,080 --> 00:10:09,279
+>> You got a lot of cute doggy photos. I'm
+
+166
+00:10:09,279 --> 00:10:11,600
+sure
+
+167
+00:10:11,600 --> 00:10:13,440
+cute furry little doggy photos on your
+
+168
+00:10:13,440 --> 00:10:17,000
+email. I'm sure.
+
+169
+00:10:18,000 --> 00:10:21,399
+There you go.
+
+170
+00:10:22,160 --> 00:10:23,760
+>> Wow.
+
+171
+00:10:23,760 --> 00:10:24,160
+>> Wow.
+
+172
+00:10:24,160 --> 00:10:28,320
+>> So, so it is uh
+
+173
+00:10:28,320 --> 00:10:31,200
+>> Yeah. So, you either either need SNS,
+
+174
+00:10:31,200 --> 00:10:34,320
+SES or
+
+175
+00:10:34,320 --> 00:10:37,120
+enduser messaging is apparently another
+
+176
+00:10:37,120 --> 00:10:39,120
+service. It looks like a different kinds
+
+177
+00:10:39,120 --> 00:10:42,399
+of configurations. It's just that's like
+
+178
+00:10:42,399 --> 00:10:45,440
+for developers to test. If the settings
+
+179
+00:10:45,440 --> 00:10:47,279
+are right, it won't actually send a
+
+180
+00:10:47,279 --> 00:10:50,279
+text.
+
+181
+00:10:54,160 --> 00:10:57,519
+So, we got this section done.
+
+182
+00:10:57,519 --> 00:10:59,680
+Okay. So,
+
+183
+00:10:59,680 --> 00:11:01,839
+you can now you know you can log in that
+
+184
+00:11:01,839 --> 00:11:04,000
+works in your environment, right? That's
+
+185
+00:11:04,000 --> 00:11:08,480
+good. This is this is very good. Um,
+
+186
+00:11:08,480 --> 00:11:10,399
+we could have fun. Want to have some
+
+187
+00:11:10,399 --> 00:11:11,519
+fun?
+
+188
+00:11:11,519 --> 00:11:14,320
+>> Sure. Um, and it says the view login
+
+189
+00:11:14,320 --> 00:11:15,440
+page.
+
+190
+00:11:15,440 --> 00:11:17,920
+>> Go ahead and open that up again. Open up
+
+191
+00:11:17,920 --> 00:11:21,160
+another tab.
+
+192
+00:11:23,360 --> 00:11:26,839
+You can put that.
+
+193
+00:11:28,399 --> 00:11:30,240
+You can sign in. You can say sign in as
+
+194
+00:11:30,240 --> 00:11:33,399
+different user.
+
+195
+00:11:34,079 --> 00:11:37,200
+So, nah, it's not. Well, if you if you
+
+196
+00:11:37,200 --> 00:11:39,120
+really want to. So just so you know, you
+
+197
+00:11:39,120 --> 00:11:40,800
+can give that link to the class if you
+
+198
+00:11:40,800 --> 00:11:42,480
+want to and other people can log in.
+
+199
+00:11:42,480 --> 00:11:44,560
+They can make accounts on there, not
+
+200
+00:11:44,560 --> 00:11:47,519
+just you. It doesn't know if it's you or
+
+201
+00:11:47,519 --> 00:11:49,600
+not. So it could be anyone, but they
+
+202
+00:11:49,600 --> 00:11:50,720
+want to if you want to have fun with
+
+203
+00:11:50,720 --> 00:11:53,839
+that. Um
+
+204
+00:11:53,839 --> 00:11:56,160
+Ron, who is this person?
+
+205
+00:11:56,160 --> 00:11:59,920
+Seems like a smart person
+
+206
+00:11:59,920 --> 00:12:03,040
+nerd. See, this is a smart guy.
+
+207
+00:12:03,040 --> 00:12:07,120
+>> Nope. That's just a nope.
+
+208
+00:12:07,120 --> 00:12:08,800
+Oh, who who is this? Okay. What do you
+
+209
+00:12:08,800 --> 00:12:10,320
+want, Serge?
+
+210
+00:12:10,320 --> 00:12:14,320
+>> Okay. Yes. Quick PSA. Right.
+
+211
+00:12:14,320 --> 00:12:16,240
+A lot of the guys Well, most of the guys
+
+212
+00:12:16,240 --> 00:12:19,920
+in the group are effing weird.
+
+213
+00:12:19,920 --> 00:12:22,639
+You guys are weird. If you go if you go
+
+214
+00:12:22,639 --> 00:12:24,720
+to an interview, right, and and you
+
+215
+00:12:24,720 --> 00:12:28,160
+mention a project, you must know what
+
+216
+00:12:28,160 --> 00:12:31,760
+problem you are trying to solve and the
+
+217
+00:12:31,760 --> 00:12:34,639
+challenges. If you said you migrated
+
+218
+00:12:34,639 --> 00:12:39,200
+from ECS to EKS on your resume, know
+
+219
+00:12:39,200 --> 00:12:43,880
+what problem you are trying to solve.
+
+220
+00:12:44,240 --> 00:12:47,279
+That is very very important cuz if you
+
+221
+00:12:47,279 --> 00:12:48,720
+don't know that doing a during an
+
+222
+00:12:48,720 --> 00:12:53,639
+interview, you are done.
+
+223
+00:12:57,120 --> 00:12:59,120
+I'm saying that because it happened to
+
+224
+00:12:59,120 --> 00:13:02,120
+someone.
+
+225
+00:13:03,120 --> 00:13:04,880
+>> So wait, we can't just [ __ ] and put
+
+226
+00:13:04,880 --> 00:13:08,000
+random [ __ ] on our our resume.
+
+227
+00:13:08,000 --> 00:13:10,160
+>> You can put random [ __ ] but at least
+
+228
+00:13:10,160 --> 00:13:13,200
+have a fallback. If you if Okay, if you
+
+229
+00:13:13,200 --> 00:13:15,279
+Okay, a simple one. If you are migrating
+
+230
+00:13:15,279 --> 00:13:18,000
+from ECS to EKS, they ask you what
+
+231
+00:13:18,000 --> 00:13:19,760
+problem you are trying to solve. Hey,
+
+232
+00:13:19,760 --> 00:13:21,920
+the company acquired another company
+
+233
+00:13:21,920 --> 00:13:26,160
+that was that use ECS and uh they wanted
+
+234
+00:13:26,160 --> 00:13:28,000
+to bring everything to Kubernetes
+
+235
+00:13:28,000 --> 00:13:31,600
+because that's what we use and also
+
+236
+00:13:31,600 --> 00:13:33,839
+compliance reasons. You could say cost
+
+237
+00:13:33,839 --> 00:13:37,760
+savings. Those are simple go-to, but do
+
+238
+00:13:37,760 --> 00:13:39,760
+not just go blank. Oh, what problem you
+
+239
+00:13:39,760 --> 00:13:41,440
+trying to solve? And you just you go
+
+240
+00:13:41,440 --> 00:13:45,519
+straight into gibberish. That is weird
+
+241
+00:13:45,519 --> 00:13:50,320
+and it makes you look stupid.
+
+242
+00:13:51,120 --> 00:13:54,120
+Yep.
+
+243
+00:13:55,440 --> 00:13:59,120
+>> So, learn the art of BSing. It's it's
+
+244
+00:13:59,120 --> 00:14:01,839
+it's better that you know what problem
+
+245
+00:14:01,839 --> 00:14:03,760
+they you were trying to solve with the
+
+246
+00:14:03,760 --> 00:14:07,040
+project and not know too much about the
+
+247
+00:14:07,040 --> 00:14:09,279
+technology then know a lot about the
+
+248
+00:14:09,279 --> 00:14:11,120
+technology and you have no idea what the
+
+249
+00:14:11,120 --> 00:14:13,600
+problem was because that screams fake
+
+250
+00:14:13,600 --> 00:14:16,480
+and made up.
+
+251
+00:14:16,480 --> 00:14:18,399
+>> Yeah. Yeah.
+
+252
+00:14:18,399 --> 00:14:21,279
+Yeah. How about the next one? Well, AI
+
+253
+00:14:21,279 --> 00:14:24,399
+said this was a good idea.
+
+254
+00:14:24,399 --> 00:14:26,560
+>> If AI said this was a good idea, I could
+
+255
+00:14:26,560 --> 00:14:28,720
+ask, "Hey, AI,
+
+256
+00:14:28,720 --> 00:14:31,279
+uh, give me scenarios
+
+257
+00:14:31,279 --> 00:14:35,760
+and stories that that match with my
+
+258
+00:14:35,760 --> 00:14:38,760
+resume."
+
+259
+00:14:39,519 --> 00:14:42,720
+It's very simple. Here's one for the for
+
+260
+00:14:42,720 --> 00:14:44,959
+the agent core client. when I was in the
+
+261
+00:14:44,959 --> 00:14:46,720
+assessment with them, they asked me,
+
+262
+00:14:46,720 --> 00:14:48,959
+"Hey, we know that Agent Core is a new
+
+263
+00:14:48,959 --> 00:14:52,160
+service and, uh, we don't expect you to,
+
+264
+00:14:52,160 --> 00:14:55,120
+you know, be great at it. So, uh, have
+
+265
+00:14:55,120 --> 00:14:57,360
+you worked with Agent Core? What have
+
+266
+00:14:57,360 --> 00:14:59,920
+you done?" So, I told him, I said, "Yes,
+
+267
+00:14:59,920 --> 00:15:02,959
+I have worked with Agent Core and, um, I
+
+268
+00:15:02,959 --> 00:15:07,600
+created a a platform for our company and
+
+269
+00:15:07,600 --> 00:15:09,760
+it's for internal use only. It's not
+
+270
+00:15:09,760 --> 00:15:11,360
+it's not public facing, it's just for
+
+271
+00:15:11,360 --> 00:15:14,000
+internal use." That's why I worked on
+
+272
+00:15:14,000 --> 00:15:16,160
+and then they asked me about uh agent
+
+273
+00:15:16,160 --> 00:15:20,320
+core and uh the services
+
+274
+00:15:20,320 --> 00:15:23,519
+I was able to answer them
+
+275
+00:15:23,519 --> 00:15:27,279
+but the thing is I was quick and if you
+
+276
+00:15:27,279 --> 00:15:30,079
+are bsing oh this is this is something
+
+277
+00:15:30,079 --> 00:15:32,320
+else I've noticed with millennials
+
+278
+00:15:32,320 --> 00:15:35,040
+millennials will would start loading
+
+279
+00:15:35,040 --> 00:15:37,360
+when you ask them a question it's the
+
+280
+00:15:37,360 --> 00:15:39,920
+weirdest thing they'll just breeze that
+
+281
+00:15:39,920 --> 00:15:42,160
+happened three times
+
+282
+00:15:42,160 --> 00:15:44,560
+And uh someone told me that was an issue
+
+283
+00:15:44,560 --> 00:15:47,120
+with millennials. So yesterday when I
+
+284
+00:15:47,120 --> 00:15:50,720
+was talking to the uh S engineer for the
+
+285
+00:15:50,720 --> 00:15:52,720
+EKS project, he's supposed to set up the
+
+286
+00:15:52,720 --> 00:15:55,360
+pipeline. I give him the code base and
+
+287
+00:15:55,360 --> 00:15:57,199
+while we on the core, there was five of
+
+288
+00:15:57,199 --> 00:16:02,000
+us. I asked him a question.
+
+289
+00:16:02,000 --> 00:16:04,320
+Complete silence.
+
+290
+00:16:04,320 --> 00:16:06,560
+Nothing. I waited for I think one or two
+
+291
+00:16:06,560 --> 00:16:08,959
+minutes and they ask me, "Can you guys
+
+292
+00:16:08,959 --> 00:16:10,800
+hear me? Did my screen freeze? They're
+
+293
+00:16:10,800 --> 00:16:13,680
+like, "Oh yeah, we can hear you." And uh
+
+294
+00:16:13,680 --> 00:16:17,040
+the SO finally answered.
+
+295
+00:16:17,040 --> 00:16:19,199
+And then I spoke to a friend about that
+
+296
+00:16:19,199 --> 00:16:22,720
+with millennials just stuck unloading.
+
+297
+00:16:22,720 --> 00:16:24,639
+Ask him about I told him I told him
+
+298
+00:16:24,639 --> 00:16:26,399
+about what happened. He says his son
+
+299
+00:16:26,399 --> 00:16:28,959
+does the same thing. He'll he'll uh say
+
+300
+00:16:28,959 --> 00:16:30,639
+something to him and he'll just stay
+
+301
+00:16:30,639 --> 00:16:34,000
+there and load
+
+302
+00:16:34,000 --> 00:16:35,440
+>> and not say anything. No
+
+303
+00:16:35,440 --> 00:16:38,160
+acknowledgement, no nothing.
+
+304
+00:16:38,160 --> 00:16:40,160
+>> Yeah. I've not Okay. So, I've noticed
+
+305
+00:16:40,160 --> 00:16:43,680
+that kind of situation. I'm Gen Xer. And
+
+306
+00:16:43,680 --> 00:16:45,040
+of course, in my generation,
+
+307
+00:16:45,040 --> 00:16:47,040
+>> Gen Z, not not millennials, sorry. Gen
+
+308
+00:16:47,040 --> 00:16:48,000
+Z.
+
+309
+00:16:48,000 --> 00:16:54,480
+>> Okay. Yeah. So, um for us, if we like
+
+310
+00:16:54,480 --> 00:16:56,720
+didn't give an answer or we didn't move,
+
+311
+00:16:56,720 --> 00:16:59,120
+it was a death sentence.
+
+312
+00:16:59,120 --> 00:17:00,959
+Like literally, the parents would go
+
+313
+00:17:00,959 --> 00:17:02,639
+against us or a teacher would go against
+
+314
+00:17:02,639 --> 00:17:05,280
+us. Sometimes it' be physical. There was
+
+315
+00:17:05,280 --> 00:17:08,880
+no way to escape at all. So we we know
+
+316
+00:17:08,880 --> 00:17:13,039
+to engage for self-preservation.
+
+317
+00:17:13,039 --> 00:17:16,319
+We know the heat's coming at us, right?
+
+318
+00:17:16,319 --> 00:17:19,360
+So that's why prepared for this. But um
+
+319
+00:17:19,360 --> 00:17:22,240
+millennials and Gen Z's largely were
+
+320
+00:17:22,240 --> 00:17:25,760
+coddled in this area and they're not
+
+321
+00:17:25,760 --> 00:17:28,640
+aware of a true death sentence coming.
+
+322
+00:17:28,640 --> 00:17:31,039
+So, this is why I think like the job
+
+323
+00:17:31,039 --> 00:17:34,400
+cuts in uh the economy right now are so
+
+324
+00:17:34,400 --> 00:17:36,799
+hard for that generation because they're
+
+325
+00:17:36,799 --> 00:17:39,200
+not ready for hell. They were really
+
+326
+00:17:39,200 --> 00:17:41,280
+protected from it. Whereas Gen X was not
+
+327
+00:17:41,280 --> 00:17:43,919
+protected as a child. We we got the
+
+328
+00:17:43,919 --> 00:17:45,520
+blunt in the beginning. So, we're like,
+
+329
+00:17:45,520 --> 00:17:48,880
+"Yep, we're ready." Yeah.
+
+330
+00:17:48,880 --> 00:17:51,520
+>> Yes, that is correct.
+
+331
+00:17:51,520 --> 00:17:53,440
+>> You said they're not ready for hell or
+
+332
+00:17:53,440 --> 00:17:54,559
+help.
+
+333
+00:17:54,559 --> 00:17:56,160
+>> They're not ready for hell.
+
+334
+00:17:56,160 --> 00:17:58,640
+>> Okay. They're not they're not ready for
+
+335
+00:17:58,640 --> 00:18:01,679
+anything that requires work
+
+336
+00:18:01,679 --> 00:18:04,640
+or or discipline.
+
+337
+00:18:04,640 --> 00:18:08,880
+>> Yeah. That's why like to be honest like
+
+338
+00:18:08,880 --> 00:18:10,720
+a little bit I was worried about the job
+
+339
+00:18:10,720 --> 00:18:13,039
+market as a Gen Xer and whether or not
+
+340
+00:18:13,039 --> 00:18:15,360
+there would be an age discrimination. So
+
+341
+00:18:15,360 --> 00:18:16,960
+I was a little bit worried about not
+
+342
+00:18:16,960 --> 00:18:19,039
+that much but just a little bit. And
+
+343
+00:18:19,039 --> 00:18:21,440
+then where I saw Gen Z basically being
+
+344
+00:18:21,440 --> 00:18:23,120
+unable to go into the workforce, I was
+
+345
+00:18:23,120 --> 00:18:25,360
+like, "Oh,
+
+346
+00:18:25,360 --> 00:18:27,360
+I just got 10 more years of guaranteed
+
+347
+00:18:27,360 --> 00:18:29,520
+labor. Okay, I'll deal with that. I'll
+
+348
+00:18:29,520 --> 00:18:33,039
+just keep on working.
+
+349
+00:18:33,039 --> 00:18:34,799
+I'll have plenty of work because I can
+
+350
+00:18:34,799 --> 00:18:37,120
+read and I can actually do things. Okay.
+
+351
+00:18:37,120 --> 00:18:39,679
+Yeah, I can go to I go to another
+
+352
+00:18:39,679 --> 00:18:40,880
+country now. I don't need to use my
+
+353
+00:18:40,880 --> 00:18:42,480
+trust fun. I can just use that. Like I
+
+354
+00:18:42,480 --> 00:18:44,720
+can just I can uh get on the airplane
+
+355
+00:18:44,720 --> 00:18:48,480
+and go." So, yeah. Anyway, good comment.
+
+356
+00:18:48,480 --> 00:18:53,200
+Uh guys, uh everyone just so you know,
+
+357
+00:18:53,200 --> 00:18:54,400
+we all
+
+358
+00:18:54,400 --> 00:18:55,840
+>> there's something else too.
+
+359
+00:18:55,840 --> 00:18:58,000
+>> Okay, go ahead.
+
+360
+00:18:58,000 --> 00:18:59,840
+>> The other one too, the one of the main
+
+361
+00:18:59,840 --> 00:19:01,600
+one, the introduction. When the
+
+362
+00:19:01,600 --> 00:19:02,960
+companies ask you to tell me about
+
+363
+00:19:02,960 --> 00:19:05,360
+yourself, they just they just have
+
+364
+00:19:05,360 --> 00:19:09,160
+diarrhea of the mouth.
+
+365
+00:19:09,280 --> 00:19:12,720
+It's like I've told people
+
+366
+00:19:12,720 --> 00:19:14,880
+practice practice practice your in
+
+367
+00:19:14,880 --> 00:19:16,880
+intro. you you should be able to say it
+
+368
+00:19:16,880 --> 00:19:19,280
+in your sleep and make yourself look
+
+369
+00:19:19,280 --> 00:19:22,400
+good. And my intro is the same intro. I
+
+370
+00:19:22,400 --> 00:19:24,160
+don't care who I'm who I'm speaking to.
+
+371
+00:19:24,160 --> 00:19:26,640
+It could be uh it could be uh hiring
+
+372
+00:19:26,640 --> 00:19:30,799
+manager uh AWS or even my team. Same
+
+373
+00:19:30,799 --> 00:19:35,400
+damn intro and they all love it.
+
+374
+00:19:37,520 --> 00:19:41,200
+Yep. Yeah. I have pretty much I have a
+
+375
+00:19:41,200 --> 00:19:44,320
+standard intro for my for my interviews.
+
+376
+00:19:44,320 --> 00:19:45,520
+It's really fun. I've been a really
+
+377
+00:19:45,520 --> 00:19:49,679
+engaging one. So, um, but the the big
+
+378
+00:19:49,679 --> 00:19:52,720
+one is,
+
+379
+00:19:52,720 --> 00:19:55,600
+uh, if you just sit there and stutter,
+
+380
+00:19:55,600 --> 00:19:57,520
+you look weird.
+
+381
+00:19:57,520 --> 00:19:58,000
+>> Go ahead.
+
+382
+00:19:58,000 --> 00:20:02,080
+>> You just do. And this is why, again, why
+
+383
+00:20:02,080 --> 00:20:04,320
+do I why do I teach mainly people who
+
+384
+00:20:04,320 --> 00:20:06,640
+are red pill? Because a lot of the
+
+385
+00:20:06,640 --> 00:20:07,919
+people who are red pill, you're supposed
+
+386
+00:20:07,919 --> 00:20:10,160
+to have game theory. You're supposed to
+
+387
+00:20:10,160 --> 00:20:12,160
+know how to talk up women. Well, if you
+
+388
+00:20:12,160 --> 00:20:13,520
+know how to talk up a woman, you know
+
+389
+00:20:13,520 --> 00:20:16,400
+how to do an interview.
+
+390
+00:20:16,400 --> 00:20:19,039
+It's not the two technologies are not
+
+391
+00:20:19,039 --> 00:20:20,559
+that different.
+
+392
+00:20:20,559 --> 00:20:22,720
+>> I said a lot a lot of people who are red
+
+393
+00:20:22,720 --> 00:20:25,600
+pill these days are it's like it's like
+
+394
+00:20:25,600 --> 00:20:26,880
+church for them.
+
+395
+00:20:26,880 --> 00:20:28,720
+>> They're they're fake red pill actually.
+
+396
+00:20:28,720 --> 00:20:31,840
+They don't understand the real
+
+397
+00:20:31,840 --> 00:20:34,240
+logic behind it.
+
+398
+00:20:34,240 --> 00:20:36,400
+>> Like
+
+399
+00:20:36,400 --> 00:20:38,480
+and then the other the other thing too,
+
+400
+00:20:38,480 --> 00:20:39,360
+right?
+
+401
+00:20:39,360 --> 00:20:39,840
+>> Yeah.
+
+402
+00:20:39,840 --> 00:20:41,840
+>> Take time. take time to learn how to
+
+403
+00:20:41,840 --> 00:20:46,799
+interview. I know uh um I spent I spent
+
+404
+00:20:46,799 --> 00:20:49,840
+uh over over four months just uh
+
+405
+00:20:49,840 --> 00:20:51,360
+learning how to interview. I I was
+
+406
+00:20:51,360 --> 00:20:55,559
+spending over five hours a day.
+
+407
+00:20:58,880 --> 00:21:02,880
+>> Yeah, learn how to interview. Um again
+
+408
+00:21:02,880 --> 00:21:06,000
+for me just to be honest I learned how
+
+409
+00:21:06,000 --> 00:21:08,720
+to uh effectively learn the uh interview
+
+410
+00:21:08,720 --> 00:21:11,280
+in the United States when I had cancer
+
+411
+00:21:11,280 --> 00:21:13,520
+and uh it was a life and for me it was a
+
+412
+00:21:13,520 --> 00:21:16,559
+life and death issue and I had to use
+
+413
+00:21:16,559 --> 00:21:18,320
+Indian recruiters in order to teach me
+
+414
+00:21:18,320 --> 00:21:22,000
+how to interview and I had no idea if my
+
+415
+00:21:22,000 --> 00:21:24,000
+HP contract was just going to to
+
+416
+00:21:24,000 --> 00:21:27,679
+disappear tomorrow or not literally. So,
+
+417
+00:21:27,679 --> 00:21:30,080
+I went about five months that way, five
+
+418
+00:21:30,080 --> 00:21:32,400
+or six months, and the contract did end
+
+419
+00:21:32,400 --> 00:21:35,200
+like as I thought it was going to. And I
+
+420
+00:21:35,200 --> 00:21:36,799
+knew how to interview and I my costs
+
+421
+00:21:36,799 --> 00:21:39,919
+were low, so I was okay. So,
+
+422
+00:21:39,919 --> 00:21:42,159
+>> yeah. Correct. And then and then the
+
+423
+00:21:42,159 --> 00:21:44,960
+stories when they ask when they ask,
+
+424
+00:21:44,960 --> 00:21:47,120
+"Hey, tell me about your dayto-day. Tell
+
+425
+00:21:47,120 --> 00:21:48,960
+me what about what you do at work and
+
+426
+00:21:48,960 --> 00:21:51,679
+things like that." Look at the damn JD,
+
+427
+00:21:51,679 --> 00:21:54,240
+look at their pinpoint and tell them a
+
+428
+00:21:54,240 --> 00:21:56,880
+story. And the story format is very
+
+429
+00:21:56,880 --> 00:22:00,240
+simple. Create a disaster.
+
+430
+00:22:00,240 --> 00:22:04,159
+Then you saw it. Awareness, you fixed
+
+431
+00:22:04,159 --> 00:22:08,400
+it. Documentation and train your team.
+
+432
+00:22:08,400 --> 00:22:10,640
+If you follow that process, do not go
+
+433
+00:22:10,640 --> 00:22:13,280
+deep into technical. If you follow that
+
+434
+00:22:13,280 --> 00:22:17,400
+process, they'll love it.
+
+435
+00:22:17,600 --> 00:22:19,919
+>> Yeah. Do during during my interviews, I
+
+436
+00:22:19,919 --> 00:22:21,919
+I spend like 30 minutes just telling
+
+437
+00:22:21,919 --> 00:22:24,080
+them stories. And it's the same damn
+
+438
+00:22:24,080 --> 00:22:28,400
+stories for one of the jobs when I left.
+
+439
+00:22:28,400 --> 00:22:30,559
+Three interviews, three different
+
+440
+00:22:30,559 --> 00:22:35,200
+interviewers. Same damn stories. Same
+
+441
+00:22:35,200 --> 00:22:38,440
+three stories.
+
+442
+00:22:42,240 --> 00:22:46,159
+Yeah, it's not hard, guys. Yeah.
+
+443
+00:22:46,159 --> 00:22:48,720
+Listen to what Sergino is saying. He
+
+444
+00:22:48,720 --> 00:22:49,919
+knows what they're talking about. So
+
+445
+00:22:49,919 --> 00:22:52,400
+does Jules. knows what they're talking
+
+446
+00:22:52,400 --> 00:22:53,919
+about.
+
+447
+00:22:53,919 --> 00:22:57,520
+Listen, it's very effective. All right,
+
+448
+00:22:57,520 --> 00:23:00,240
+gotta keep on going with this.
+
+449
+00:23:00,240 --> 00:23:03,240
+Um,
+
+450
+00:23:03,360 --> 00:23:06,159
+>> no, that was my PSA. I'm still a little
+
+451
+00:23:06,159 --> 00:23:08,159
+pissed by someone screwing up an
+
+452
+00:23:08,159 --> 00:23:11,159
+interview,
+
+453
+00:23:13,200 --> 00:23:17,200
+>> sir. Okay. Um, hold on. Um, TIQS go back
+
+454
+00:23:17,200 --> 00:23:21,120
+to your uh, cogno console and for you
+
+455
+00:23:21,120 --> 00:23:25,520
+Sergino, what I have found is
+
+456
+00:23:25,520 --> 00:23:28,320
+there's a sizable amount of students who
+
+457
+00:23:28,320 --> 00:23:30,799
+literally need to be absolutely crushed
+
+458
+00:23:30,799 --> 00:23:34,000
+and humiliated by the interview process
+
+459
+00:23:34,000 --> 00:23:35,919
+before they will listen to anyone's
+
+460
+00:23:35,919 --> 00:23:38,080
+advice.
+
+461
+00:23:38,080 --> 00:23:39,679
+>> And even then, some of them still won't
+
+462
+00:23:39,679 --> 00:23:41,280
+listen.
+
+463
+00:23:41,280 --> 00:23:44,559
+>> I just sit back and say, "So be it." uh
+
+464
+00:23:44,559 --> 00:23:48,480
+and just the way it was. I mean
+
+465
+00:23:48,480 --> 00:23:50,480
+for me again like I told you guys it was
+
+466
+00:23:50,480 --> 00:23:52,159
+life and death for me. I could not play
+
+467
+00:23:52,159 --> 00:23:54,480
+around. Okay. So what's the development
+
+468
+00:23:54,480 --> 00:23:56,799
+platform for your web app? Uh go and put
+
+469
+00:23:56,799 --> 00:24:00,240
+Python on there.
+
+470
+00:24:00,240 --> 00:24:01,440
+It should be done. Go ahead and scroll
+
+471
+00:24:01,440 --> 00:24:02,159
+down.
+
+472
+00:24:02,159 --> 00:24:03,679
+>> You know I don't even think we got to
+
+473
+00:24:03,679 --> 00:24:06,000
+this point on Tuesday. We just tried to
+
+474
+00:24:06,000 --> 00:24:09,200
+get the verification working via the
+
+475
+00:24:09,200 --> 00:24:10,400
+command line.
+
+476
+00:24:10,400 --> 00:24:12,240
+>> So we don't need to do this.
+
+477
+00:24:12,240 --> 00:24:15,840
+>> Yeah. Get the token.
+
+478
+00:24:15,840 --> 00:24:20,000
+>> Yeah, do the to do the token part and
+
+479
+00:24:20,000 --> 00:24:22,000
+get proof that people can do the token
+
+480
+00:24:22,000 --> 00:24:25,200
+part so that we can then move on to do
+
+481
+00:24:25,200 --> 00:24:28,159
+doing other stuff because got to get the
+
+482
+00:24:28,159 --> 00:24:29,919
+token.
+
+483
+00:24:29,919 --> 00:24:32,400
+>> Okay. So,
+
+484
+00:24:32,400 --> 00:24:36,159
+where is he? We allow password policy.
+
+485
+00:24:36,159 --> 00:24:38,159
+Okay. So, let's go back to the user
+
+486
+00:24:38,159 --> 00:24:40,159
+pool.
+
+487
+00:24:40,159 --> 00:24:42,480
+User. Yep.
+
+488
+00:24:42,480 --> 00:24:45,200
+Go to the new one. You did 16 minutes.
+
+489
+00:24:45,200 --> 00:24:48,320
+Yep. Let's go to that one. Okay. So,
+
+490
+00:24:48,320 --> 00:24:51,520
+what we want to do here is policy. Make
+
+491
+00:24:51,520 --> 00:24:55,600
+sure that's correct. Um,
+
+492
+00:24:55,600 --> 00:25:02,520
+set up. No, we don't want that one. Um,
+
+493
+00:25:03,679 --> 00:25:09,000
+let's go ahead and set up MFA.
+
+494
+00:25:12,480 --> 00:25:15,679
+So when we set up the FBM options for
+
+495
+00:25:15,679 --> 00:25:18,960
+choice while
+
+496
+00:25:18,960 --> 00:25:21,360
+word passwordless status go ahead and
+
+497
+00:25:21,360 --> 00:25:24,720
+edit that one
+
+498
+00:25:24,720 --> 00:25:26,480
+and
+
+499
+00:25:26,480 --> 00:25:31,000
+set email message one time password
+
+500
+00:25:31,200 --> 00:25:35,080
+and say yes
+
+501
+00:25:35,520 --> 00:25:38,520
+changes
+
+502
+00:25:40,400 --> 00:25:42,559
+and Then multiffactor authentication say
+
+503
+00:25:42,559 --> 00:25:45,799
+yes there
+
+504
+00:25:46,000 --> 00:25:48,799
+say yes required MFA
+
+505
+00:25:48,799 --> 00:25:52,840
+and authenticator apps
+
+506
+00:25:52,960 --> 00:25:57,880
+and hold out email message also
+
+507
+00:26:03,600 --> 00:26:05,520
+uh
+
+508
+00:26:05,520 --> 00:26:07,120
+okay no let's not get rid of Oh that's
+
+509
+00:26:07,120 --> 00:26:09,039
+right okay get rid of the email uh
+
+510
+00:26:09,039 --> 00:26:10,720
+message for
+
+511
+00:26:10,720 --> 00:26:15,559
+Yep. Go ahead. Same changes.
+
+512
+00:26:17,360 --> 00:26:20,840
+What the hell?
+
+513
+00:26:27,679 --> 00:26:31,600
+Only password and web authent.
+
+514
+00:26:31,600 --> 00:26:34,400
+Okay. Password and web authent. Okay. Uh
+
+515
+00:26:34,400 --> 00:26:37,520
+let's go back. What did I do wrong here?
+
+516
+00:26:37,520 --> 00:26:41,039
+Let's go back. Sign in.
+
+517
+00:26:44,159 --> 00:26:46,559
+Okay. So, password.
+
+518
+00:26:46,559 --> 00:26:49,200
+Okay. Available. Oh, I know. Okay.
+
+519
+00:26:49,200 --> 00:26:51,200
+Options for choice based login. Click
+
+520
+00:26:51,200 --> 00:26:54,159
+that. Edit that. Uh, email message
+
+521
+00:26:54,159 --> 00:26:57,520
+onetime password. Remove that.
+
+522
+00:26:57,520 --> 00:27:01,360
+Okay. Go ahead and save changes.
+
+523
+00:27:01,360 --> 00:27:02,559
+Yeah, I tried to get a little
+
+524
+00:27:02,559 --> 00:27:08,120
+sophisticated. Um, MFA authentication
+
+525
+00:27:08,240 --> 00:27:10,720
+now required. Yep. And yeah, I thought
+
+526
+00:27:10,720 --> 00:27:15,360
+Yep, dude. Now do it,
+
+527
+00:27:15,360 --> 00:27:19,120
+bastards. Okay. Device tracking. Scroll
+
+528
+00:27:19,120 --> 00:27:21,600
+down. No. No. User account. This should
+
+529
+00:27:21,600 --> 00:27:23,679
+be fine. Scroll down.
+
+530
+00:27:23,679 --> 00:27:25,679
+>> So, what are you trying to do?
+
+531
+00:27:25,679 --> 00:27:27,360
+>> Or do MFA.
+
+532
+00:27:27,360 --> 00:27:31,840
+>> Yeah. Then quite MFA. Yeah. Then TIQS
+
+533
+00:27:31,840 --> 00:27:37,159
+you already create your MFA account.
+
+534
+00:27:39,200 --> 00:27:40,720
+>> Well, when he logs in again, it
+
+535
+00:27:40,720 --> 00:27:43,360
+shouldn't require the MFA to be
+
+536
+00:27:43,360 --> 00:27:47,600
+>> Yeah, it will. So, no. Yeah, it will.
+
+537
+00:27:47,600 --> 00:27:52,400
+>> Yeah. So, go ahead and now sign back in.
+
+538
+00:27:52,400 --> 00:27:55,039
+Go. Go to tab. Go ahead and refresh that
+
+539
+00:27:55,039 --> 00:27:58,039
+one.
+
+540
+00:28:00,559 --> 00:28:04,679
+Okay. And sign in.
+
+541
+00:28:21,200 --> 00:28:25,720
+>> Now we got good. Now it pass.
+
+542
+00:28:26,880 --> 00:28:28,480
+So this is something you can say in your
+
+543
+00:28:28,480 --> 00:28:30,399
+resume guys. You actually configured MFA
+
+544
+00:28:30,399 --> 00:28:32,399
+before Camino. There's something that
+
+545
+00:28:32,399 --> 00:28:36,399
+they like. So I was saying
+
+546
+00:28:36,399 --> 00:28:40,120
+companies need this.
+
+547
+00:28:41,039 --> 00:28:42,640
+Okay. I think somebody's at the front
+
+548
+00:28:42,640 --> 00:28:44,559
+door. Can you continue walking him
+
+549
+00:28:44,559 --> 00:28:48,679
+through that? Right back.
+
+550
+00:28:49,360 --> 00:28:51,600
+Yeah. So,
+
+551
+00:28:51,600 --> 00:28:56,840
+enter code from the MFA
+
+552
+00:29:01,120 --> 00:29:03,760
+and any any authentic care app you guys
+
+553
+00:29:03,760 --> 00:29:07,960
+choose should be fine.
+
+554
+00:29:09,200 --> 00:29:14,919
+Okay. So, that's good. So,
+
+555
+00:29:15,039 --> 00:29:18,000
+at this point, you're
+
+556
+00:29:18,000 --> 00:29:22,000
+ready ready to try to sign in
+
+557
+00:29:22,000 --> 00:29:26,399
+uh using the um
+
+558
+00:29:26,399 --> 00:29:29,360
+using the command line. So, head back
+
+559
+00:29:29,360 --> 00:29:35,039
+into the you Cognto user pool.
+
+560
+00:29:35,039 --> 00:29:40,159
+Okay. So, yep. So, user pool and then
+
+561
+00:29:40,159 --> 00:29:44,279
+click on user pool-fo
+
+562
+00:29:46,000 --> 00:29:49,279
+that one right there. Okay.
+
+563
+00:29:49,279 --> 00:29:54,320
+So, you have a user pool ID. Uh, which
+
+564
+00:29:54,320 --> 00:29:58,640
+is good. You have token sign in key URL.
+
+565
+00:29:58,640 --> 00:30:03,480
+It's probably new. Um,
+
+566
+00:30:04,720 --> 00:30:07,440
+scroll down.
+
+567
+00:30:07,440 --> 00:30:13,000
+Uh at sign in at threat protection
+
+568
+00:30:13,919 --> 00:30:16,919
+okay
+
+569
+00:30:18,240 --> 00:30:23,320
+we went to app clients. Uh
+
+570
+00:30:24,480 --> 00:30:28,960
+so he had Okay. So click on app clients
+
+571
+00:30:28,960 --> 00:30:31,600
+first.
+
+572
+00:30:31,600 --> 00:30:33,760
+Okay. So you'll need this client if
+
+573
+00:30:33,760 --> 00:30:34,960
+we're going to be doing this through
+
+574
+00:30:34,960 --> 00:30:36,720
+command line. You'll need this client
+
+575
+00:30:36,720 --> 00:30:40,559
+ID. So, just copy that down. So, on your
+
+576
+00:30:40,559 --> 00:30:43,559
+notepad.
+
+577
+00:30:51,039 --> 00:30:53,440
+Okay. So, and then once that's copied,
+
+578
+00:30:53,440 --> 00:30:57,760
+then click on Chewbacca app 2
+
+579
+00:30:57,760 --> 00:31:00,320
+and then copy this client secret as
+
+580
+00:31:00,320 --> 00:31:03,320
+well.
+
+581
+00:31:03,840 --> 00:31:07,799
+You'll need that as well.
+
+582
+00:31:08,080 --> 00:31:11,080
+Okay.
+
+583
+00:31:11,440 --> 00:31:14,480
+All right. And then
+
+584
+00:31:14,480 --> 00:31:20,000
+uh quick setup attribute page new.
+
+585
+00:31:20,000 --> 00:31:23,120
+Uh okay.
+
+586
+00:31:23,120 --> 00:31:25,919
+So we have so we have that
+
+587
+00:31:25,919 --> 00:31:30,240
+and Okay. So, so this is what I was
+
+588
+00:31:30,240 --> 00:31:32,399
+looking for. Authentication flows. So,
+
+589
+00:31:32,399 --> 00:31:35,360
+put your mouse over each one of these
+
+590
+00:31:35,360 --> 00:31:39,120
+authentication flows. So, choice secure.
+
+591
+00:31:39,120 --> 00:31:41,679
+Yeah, click on it
+
+592
+00:31:41,679 --> 00:31:46,799
+and yeah, left click on one. So, this
+
+593
+00:31:46,799 --> 00:31:52,159
+allow user o that's that's one flow. So,
+
+594
+00:31:52,159 --> 00:31:54,000
+click on the next one. Secure remote
+
+595
+00:31:54,000 --> 00:31:57,760
+password. So this is allowing for you
+
+596
+00:31:57,760 --> 00:32:01,120
+allow user srp.
+
+597
+00:32:01,120 --> 00:32:04,159
+That's fine. And then click on the third
+
+598
+00:32:04,159 --> 00:32:05,840
+one.
+
+599
+00:32:05,840 --> 00:32:09,600
+Allow refresh token on. Okay.
+
+600
+00:32:09,600 --> 00:32:12,480
+Okay. So
+
+601
+00:32:12,480 --> 00:32:15,760
+deal did deal did today different.
+
+602
+00:32:15,760 --> 00:32:21,760
+That's fine. Um let's see here. Okay. So
+
+603
+00:32:21,760 --> 00:32:23,360
+let me open. Sounds like we're doing it
+
+604
+00:32:23,360 --> 00:32:24,559
+live.
+
+605
+00:32:24,559 --> 00:32:25,440
+>> Say again.
+
+606
+00:32:25,440 --> 00:32:27,200
+>> Sounds like we're doing it live.
+
+607
+00:32:27,200 --> 00:32:30,159
+>> We're doing it live like we usually do.
+
+608
+00:32:30,159 --> 00:32:32,399
+All right. So,
+
+609
+00:32:32,399 --> 00:32:35,279
+open mine up
+
+610
+00:32:35,279 --> 00:32:38,240
+because the main thing that I want to
+
+611
+00:32:38,240 --> 00:32:43,360
+have TIQS have access to is the um is a
+
+612
+00:32:43,360 --> 00:32:47,360
+username password authentication
+
+613
+00:32:47,360 --> 00:32:51,600
+so that he can then Okay. Ah. Oh, it's
+
+614
+00:32:51,600 --> 00:32:53,919
+my thing is blocking it. Okay. Uh, so
+
+615
+00:32:53,919 --> 00:32:57,360
+scroll up a scroll up just a tad.
+
+616
+00:32:57,360 --> 00:33:00,720
+Hit edit in in this block right here.
+
+617
+00:33:00,720 --> 00:33:04,960
+Yep. Okay. So, here's what we want. So,
+
+618
+00:33:04,960 --> 00:33:07,200
+we have So, right now, what we have
+
+619
+00:33:07,200 --> 00:33:09,919
+checked off is allow user a. This was
+
+620
+00:33:09,919 --> 00:33:12,640
+the first thing that this was this was
+
+621
+00:33:12,640 --> 00:33:15,919
+what we started trying to do on Tuesday.
+
+622
+00:33:15,919 --> 00:33:19,519
+it that do we can we can get it done
+
+623
+00:33:19,519 --> 00:33:23,200
+this way but it will create three
+
+624
+00:33:23,200 --> 00:33:25,919
+separate prompts that we have to prepare
+
+625
+00:33:25,919 --> 00:33:28,640
+for or wait it'll create an an extra
+
+626
+00:33:28,640 --> 00:33:30,960
+prompt that we have to prepare for and
+
+627
+00:33:30,960 --> 00:33:34,399
+that's too much. Um here's the one that
+
+628
+00:33:34,399 --> 00:33:37,600
+we know works. So sign it will allow
+
+629
+00:33:37,600 --> 00:33:39,679
+user password.
+
+630
+00:33:39,679 --> 00:33:41,840
+This is the one that we know works
+
+631
+00:33:41,840 --> 00:33:44,960
+because we do this one and then we then
+
+632
+00:33:44,960 --> 00:33:47,279
+we get MF we should get an MFA challenge
+
+633
+00:33:47,279 --> 00:33:51,600
+response and then we get the active
+
+634
+00:33:51,600 --> 00:33:56,080
+session. Um and then I think Bash saw
+
+635
+00:33:56,080 --> 00:33:59,200
+one other uh
+
+636
+00:33:59,200 --> 00:34:02,320
+uh uh value here that we should change
+
+637
+00:34:02,320 --> 00:34:06,880
+regarding uh how active the session is.
+
+638
+00:34:06,880 --> 00:34:11,760
+Uh any info on that, Bash?
+
+639
+00:34:11,760 --> 00:34:14,639
+>> Yeah. Um basically it's if you go a bit
+
+640
+00:34:14,639 --> 00:34:17,960
+further down.
+
+641
+00:34:18,480 --> 00:34:20,480
+>> Yeah, that's it. Authentication flow
+
+642
+00:34:20,480 --> 00:34:22,720
+session duration. So it's currently set
+
+643
+00:34:22,720 --> 00:34:25,119
+to a default of 3 minutes. The max is 15
+
+644
+00:34:25,119 --> 00:34:27,440
+minutes. Just bump it up to 15 just for
+
+645
+00:34:27,440 --> 00:34:29,839
+your own benefit. It's just allowed.
+
+646
+00:34:29,839 --> 00:34:32,639
+We're just testing it. So yeah, this
+
+647
+00:34:32,639 --> 00:34:34,399
+gives you enough time basically to have
+
+648
+00:34:34,399 --> 00:34:36,639
+all the turnar around and any unexpected
+
+649
+00:34:36,639 --> 00:34:38,079
+[ __ ] that comes up.
+
+650
+00:34:38,079 --> 00:34:41,919
+>> Yeah. So this so whenever we are doing
+
+651
+00:34:41,919 --> 00:34:45,440
+this lab, we'll get some output and
+
+652
+00:34:45,440 --> 00:34:48,000
+we'll also get a session token and we
+
+653
+00:34:48,000 --> 00:34:51,440
+have to copy that session token into the
+
+654
+00:34:51,440 --> 00:34:53,200
+next response.
+
+655
+00:34:53,200 --> 00:34:56,000
+And if if we're not fast enough, then
+
+656
+00:34:56,000 --> 00:34:58,480
+the session token expires and then we
+
+657
+00:34:58,480 --> 00:35:00,560
+have to regenerate the a new session
+
+658
+00:35:00,560 --> 00:35:03,280
+token and it can get cumbersome. So
+
+659
+00:35:03,280 --> 00:35:06,880
+that's why bashes uh made it 15 minutes.
+
+660
+00:35:06,880 --> 00:35:09,359
+Uh okay. And then scroll down and save
+
+661
+00:35:09,359 --> 00:35:12,359
+this.
+
+662
+00:35:17,040 --> 00:35:19,440
+Okay.
+
+663
+00:35:19,440 --> 00:35:23,680
+All righty. So first things first uh we
+
+664
+00:35:23,680 --> 00:35:27,839
+need to get the um so it's MFA enabled.
+
+665
+00:35:27,839 --> 00:35:30,880
+So we need to
+
+666
+00:35:30,880 --> 00:35:32,720
+we need to get we need to get that hash
+
+667
+00:35:32,720 --> 00:35:35,520
+right Aaron the Python file.
+
+668
+00:35:35,520 --> 00:35:37,359
+>> Uh yeah.
+
+669
+00:35:37,359 --> 00:35:40,000
+>> Okay. So let me
+
+670
+00:35:40,000 --> 00:35:43,440
+let me get that uh where's that? Oh
+
+671
+00:35:43,440 --> 00:35:46,400
+right here. Well, let him I mean, you
+
+672
+00:35:46,400 --> 00:35:48,400
+could let him run into the issue and
+
+673
+00:35:48,400 --> 00:35:51,359
+open the docs and
+
+674
+00:35:51,359 --> 00:35:56,400
+>> All right. So, let's go with MFA
+
+675
+00:35:56,400 --> 00:36:00,160
+enabled. All right. So, I'll put I'll
+
+676
+00:36:00,160 --> 00:36:02,400
+paste this in the chat for you so that
+
+677
+00:36:02,400 --> 00:36:07,800
+you have the uh the code
+
+678
+00:36:07,839 --> 00:36:10,839
+first
+
+679
+00:36:12,720 --> 00:36:18,440
+of code in it.
+
+680
+00:36:21,760 --> 00:36:26,320
+Okay. Then I will also give you
+
+681
+00:36:26,320 --> 00:36:28,240
+the
+
+682
+00:36:28,240 --> 00:36:33,000
+uh the documentation.
+
+683
+00:36:33,599 --> 00:36:36,920
+There you go.
+
+684
+00:36:40,880 --> 00:36:43,880
+Authenticator.
+
+685
+00:36:50,480 --> 00:36:53,520
+Okay. So yeah, you can just open up any
+
+686
+00:36:53,520 --> 00:36:56,400
+your preferred code
+
+687
+00:36:56,400 --> 00:37:00,720
+uh terminal whether it be likely get git
+
+688
+00:37:00,720 --> 00:37:05,040
+bash. So yeah, open up git bash and then
+
+689
+00:37:05,040 --> 00:37:07,839
+uh all we see is your browser. So if you
+
+690
+00:37:07,839 --> 00:37:10,079
+have it open and you're showing us that
+
+691
+00:37:10,079 --> 00:37:12,240
+appreciate but we can't see it. All
+
+692
+00:37:12,240 --> 00:37:15,240
+right,
+
+693
+00:37:17,119 --> 00:37:20,520
+fixed it.
+
+694
+00:37:47,200 --> 00:37:50,520
+All All right.
+
+695
+00:38:24,400 --> 00:38:26,800
+Okay. Do we have to do the secret hash?
+
+696
+00:38:26,800 --> 00:38:31,040
+Okay. Oh, so that means we have to have
+
+697
+00:38:31,040 --> 00:38:33,200
+the um
+
+698
+00:38:33,200 --> 00:38:37,280
+the secret hash. Okay. So, we can't we
+
+699
+00:38:37,280 --> 00:38:39,040
+can't even do the init because we need
+
+700
+00:38:39,040 --> 00:38:41,599
+the hash. Okay.
+
+701
+00:38:41,599 --> 00:38:44,599
+So,
+
+702
+00:38:45,280 --> 00:38:47,520
+Okay.
+
+703
+00:38:47,520 --> 00:38:50,960
+So I'll put another link in for little
+
+704
+00:38:50,960 --> 00:38:53,680
+with in the chat.
+
+705
+00:38:53,680 --> 00:38:55,520
+And so the second link is just
+
+706
+00:38:55,520 --> 00:38:57,359
+documentation
+
+707
+00:38:57,359 --> 00:38:59,280
+and how to fix the secret hash.
+
+708
+00:38:59,280 --> 00:39:02,079
+Basically is you creating a um a Python
+
+709
+00:39:02,079 --> 00:39:07,000
+file on your machine.
+
+710
+00:39:08,800 --> 00:39:12,320
+So you have Python
+
+711
+00:39:12,320 --> 00:39:16,480
+which is good. Then
+
+712
+00:39:16,480 --> 00:39:19,680
+everything in that code block uh copy
+
+713
+00:39:19,680 --> 00:39:24,800
+it, paste into a um a file
+
+714
+00:39:24,800 --> 00:39:28,240
+and then um you would have to change the
+
+715
+00:39:28,240 --> 00:39:31,920
+well just paste into a file. Then we can
+
+716
+00:39:31,920 --> 00:39:34,560
+um work then we can start making
+
+717
+00:39:34,560 --> 00:39:37,560
+changes.
+
+718
+00:39:39,200 --> 00:39:41,200
+All
+
+719
+00:39:48,800 --> 00:39:51,119
+right.
+
+720
+00:39:51,119 --> 00:39:54,480
+So we have
+
+721
+00:39:54,480 --> 00:39:56,400
+username,
+
+722
+00:39:56,400 --> 00:39:58,960
+app client ID
+
+723
+00:39:58,960 --> 00:40:03,040
+and key. So username is the username of
+
+724
+00:40:03,040 --> 00:40:04,960
+the user
+
+725
+00:40:04,960 --> 00:40:07,200
+you want to have.
+
+726
+00:40:07,200 --> 00:40:09,760
+So I think it will be Chewbacca.
+
+727
+00:40:09,760 --> 00:40:12,480
+The app client ID
+
+728
+00:40:12,480 --> 00:40:16,320
+is whatever the app client ID is and the
+
+729
+00:40:16,320 --> 00:40:23,320
+key is the um the the app secret.
+
+730
+00:40:39,680 --> 00:40:41,440
+Yep. And then the then the last one is
+
+731
+00:40:41,440 --> 00:40:43,280
+the key. And the key is going to be your
+
+732
+00:40:43,280 --> 00:40:47,800
+uh the quiet secret. Yep.
+
+733
+00:40:53,359 --> 00:40:55,599
+Whoa. Whoa. Whoa. Whoa. Whoa. Undo.
+
+734
+00:40:55,599 --> 00:40:58,560
+Undo. You want to get rid of key, not
+
+735
+00:40:58,560 --> 00:41:01,880
+the cis.org.
+
+736
+00:41:05,680 --> 00:41:08,680
+Yep.
+
+737
+00:41:14,079 --> 00:41:16,079
+Okay.
+
+738
+00:41:16,079 --> 00:41:20,960
+So then message key
+
+739
+00:41:20,960 --> 00:41:23,960
+uh
+
+740
+00:41:29,520 --> 00:41:31,920
+before I tell you to do anything else
+
+741
+00:41:31,920 --> 00:41:36,839
+let me verify one second
+
+742
+00:41:43,920 --> 00:41:46,160
+the
+
+743
+00:41:54,720 --> 00:41:56,960
+Yeah. Okay. And then that's that's the
+
+744
+00:41:56,960 --> 00:41:59,200
+note. Okay. So that was correct. That's
+
+745
+00:41:59,200 --> 00:42:01,760
+because that's a note. Put username with
+
+746
+00:42:01,760 --> 00:42:04,160
+the username of the user app client ID
+
+747
+00:42:04,160 --> 00:42:07,520
+with user pools app client ID and key
+
+748
+00:42:07,520 --> 00:42:11,839
+with your app client secret. And then
+
+749
+00:42:11,839 --> 00:42:14,400
+uh and then to get the hash you have to
+
+750
+00:42:14,400 --> 00:42:17,520
+run Python then the file name and then
+
+751
+00:42:17,520 --> 00:42:20,480
+you have to fill in the three values
+
+752
+00:42:20,480 --> 00:42:23,480
+again.
+
+753
+00:42:52,160 --> 00:42:56,480
+and Bash put some code that allows you
+
+754
+00:42:56,480 --> 00:43:00,160
+to do the conversion without um making a
+
+755
+00:43:00,160 --> 00:43:02,319
+Python file,
+
+756
+00:43:02,319 --> 00:43:05,720
+which is good.
+
+757
+00:43:06,240 --> 00:43:08,880
+I think the Python file is simpler to at
+
+758
+00:43:08,880 --> 00:43:13,480
+least understand what it's doing.
+
+759
+00:43:13,760 --> 00:43:17,880
+I don't like OpenSS.
+
+760
+00:43:42,480 --> 00:43:44,319
+It might just be Python instead of
+
+761
+00:43:44,319 --> 00:43:46,640
+Python 3.
+
+762
+00:43:46,640 --> 00:43:50,359
+>> Yeah, if it's on Windows,
+
+763
+00:43:53,520 --> 00:43:55,920
+>> invalid imaginary
+
+764
+00:43:55,920 --> 00:43:58,920
+liberal.
+
+765
+00:43:59,839 --> 00:44:01,680
+You may have to put the uh you may have
+
+766
+00:44:01,680 --> 00:44:04,560
+to put it in quotes inside of the file.
+
+767
+00:44:04,560 --> 00:44:06,000
+>> What's that?
+
+768
+00:44:06,000 --> 00:44:08,160
+>> I said you may have to put the uh the
+
+769
+00:44:08,160 --> 00:44:10,720
+strings in quotes
+
+770
+00:44:10,720 --> 00:44:13,040
+in order to make it work in Python.
+
+771
+00:44:13,040 --> 00:44:15,599
+>> No, no, no. You don't edit the Python
+
+772
+00:44:15,599 --> 00:44:16,960
+script.
+
+773
+00:44:16,960 --> 00:44:19,119
+>> I was I was That's why I was raising my
+
+774
+00:44:19,119 --> 00:44:21,839
+hand. I don't When I look at my script
+
+775
+00:44:21,839 --> 00:44:24,480
+and I look at what I did, we kept the
+
+776
+00:44:24,480 --> 00:44:27,040
+the the Python script the exact same.
+
+777
+00:44:27,040 --> 00:44:28,560
+>> Yeah. Go to the do go to the
+
+778
+00:44:28,560 --> 00:44:30,000
+documentation. You found it. It shows
+
+779
+00:44:30,000 --> 00:44:33,640
+you how to use it.
+
+780
+00:44:35,119 --> 00:44:38,079
+>> Right there. See on three.
+
+781
+00:44:38,079 --> 00:44:42,800
+>> It's written with like the AR library.
+
+782
+00:44:42,800 --> 00:44:45,760
+>> See? So hold on. Right there it shows
+
+783
+00:44:45,760 --> 00:44:47,760
+you
+
+784
+00:44:47,760 --> 00:44:50,000
+>> where it says number three. You did have
+
+785
+00:44:50,000 --> 00:44:51,839
+the right idea by changing that around
+
+786
+00:44:51,839 --> 00:44:54,720
+to match what your account is configured
+
+787
+00:44:54,720 --> 00:44:57,440
+for. But the actual script itself should
+
+788
+00:44:57,440 --> 00:44:58,560
+be the same.
+
+789
+00:44:58,560 --> 00:45:01,920
+>> See uh argv
+
+790
+00:45:01,920 --> 00:45:05,200
+that's the system like subm module for
+
+791
+00:45:05,200 --> 00:45:08,760
+grabbing arguments.
+
+792
+00:45:10,960 --> 00:45:15,599
+So this is the format of the command.
+
+793
+00:45:15,599 --> 00:45:19,520
+So you do Python or Python 3 name of the
+
+794
+00:45:19,520 --> 00:45:24,000
+script and then your username
+
+795
+00:45:24,000 --> 00:45:26,880
+the app client ID
+
+796
+00:45:26,880 --> 00:45:32,200
+and then the uh client C.
+
+797
+00:45:55,040 --> 00:45:56,960
+Also, if you hold down the control key
+
+798
+00:45:56,960 --> 00:45:58,800
+and then press the left or right arrow,
+
+799
+00:45:58,800 --> 00:46:01,520
+you get to skip the whole word.
+
+800
+00:46:01,520 --> 00:46:05,680
+>> Makes it makes it easier to navigate.
+
+801
+00:46:05,680 --> 00:46:08,079
+>> I look I remember I looked that up for
+
+802
+00:46:08,079 --> 00:46:12,079
+Alex cuz he did not like uh
+
+803
+00:46:12,079 --> 00:46:14,560
+having to skip to the beginning of the
+
+804
+00:46:14,560 --> 00:46:18,640
+line by holding the left arrow. Did you
+
+805
+00:46:18,640 --> 00:46:21,200
+uh
+
+806
+00:46:21,200 --> 00:46:22,800
+you you don't have to call it that.
+
+807
+00:46:22,800 --> 00:46:24,800
+Hash.py works fine. But
+
+808
+00:46:24,800 --> 00:46:26,960
+>> yeah, it just has to match what
+
+809
+00:46:26,960 --> 00:46:28,880
+>> you use. Python 3 again.
+
+810
+00:46:28,880 --> 00:46:31,359
+>> Yeah. So, whatever name that you name
+
+811
+00:46:31,359 --> 00:46:33,920
+it, it's fine. It's just
+
+812
+00:46:33,920 --> 00:46:35,359
+>> in your script though. Why does it say
+
+813
+00:46:35,359 --> 00:46:38,359
+Chewbacca?
+
+814
+00:46:43,280 --> 00:46:45,920
+>> Cuz that's is the us the user of his
+
+815
+00:46:45,920 --> 00:46:47,359
+cognito. I guess.
+
+816
+00:46:47,359 --> 00:46:52,760
+>> But he But you don't edit the script.
+
+817
+00:46:55,119 --> 00:46:57,119
+>> Okay. I told him to do that. That's on
+
+818
+00:46:57,119 --> 00:46:58,400
+me.
+
+819
+00:46:58,400 --> 00:47:02,560
+>> Yeah. You see like if it had variables
+
+820
+00:47:02,560 --> 00:47:06,880
+listed here like like let me like show
+
+821
+00:47:06,880 --> 00:47:10,079
+you. Hold on. Like see here. So this is
+
+822
+00:47:10,079 --> 00:47:12,319
+like a function
+
+823
+00:47:12,319 --> 00:47:14,240
+and this function is saying it's going
+
+824
+00:47:14,240 --> 00:47:20,400
+to get uh arguments from position uh one
+
+825
+00:47:20,400 --> 00:47:23,839
+two uh one two three and four but I
+
+826
+00:47:23,839 --> 00:47:26,079
+don't think it it's not inclusive of one
+
+827
+00:47:26,079 --> 00:47:29,040
+of them. So it's three arguments
+
+828
+00:47:29,040 --> 00:47:33,520
+and then it saves it to these
+
+829
+00:47:33,520 --> 00:47:36,720
+uh yeah it's an array uh but like these
+
+830
+00:47:36,720 --> 00:47:40,079
+are the different uh values that are
+
+831
+00:47:40,079 --> 00:47:42,960
+going to get set.
+
+832
+00:47:42,960 --> 00:47:47,560
+So it it's like um
+
+833
+00:47:47,599 --> 00:47:49,599
+well like in bash you know you could
+
+834
+00:47:49,599 --> 00:47:52,079
+have arguments so you can just do like
+
+835
+00:47:52,079 --> 00:47:55,200
+the script name and then you know space
+
+836
+00:47:55,200 --> 00:47:58,640
+and then something space something space
+
+837
+00:47:58,640 --> 00:48:00,240
+something
+
+838
+00:48:00,240 --> 00:48:04,760
+so you don't have to edit it.
+
+839
+00:48:06,400 --> 00:48:08,960
+It ironically is to make it easier to
+
+840
+00:48:08,960 --> 00:48:11,960
+use.
+
+841
+00:48:12,160 --> 00:48:16,400
+No. uh bash it it's they're not they're
+
+842
+00:48:16,400 --> 00:48:19,119
+arguments from the user but it's from
+
+843
+00:48:19,119 --> 00:48:21,680
+the system module
+
+844
+00:48:21,680 --> 00:48:26,440
+just the built-in one Python.
+
+845
+00:48:29,760 --> 00:48:34,000
+>> Yeah. So I was off base on that one.
+
+846
+00:48:34,000 --> 00:48:35,680
+>> That's right. And then you
+
+847
+00:48:35,680 --> 00:48:37,200
+>> but I mean I mean you could if you
+
+848
+00:48:37,200 --> 00:48:40,400
+deleted like the arg function and just
+
+849
+00:48:40,400 --> 00:48:43,520
+set each one and made a wrote a list
+
+850
+00:48:43,520 --> 00:48:48,119
+here it would probably work.
+
+851
+00:48:53,200 --> 00:48:55,200
+Okay. So I think you're ready to to let
+
+852
+00:48:55,200 --> 00:48:58,359
+it rip.
+
+853
+00:49:00,480 --> 00:49:04,720
+So, so what you've done is is right
+
+854
+00:49:04,720 --> 00:49:05,359
+previously.
+
+855
+00:49:05,359 --> 00:49:07,920
+>> You just need to press up on the
+
+856
+00:49:07,920 --> 00:49:10,240
+keyboard and then delete the three on
+
+857
+00:49:10,240 --> 00:49:11,359
+Python.
+
+858
+00:49:11,359 --> 00:49:14,559
+>> Yeah, because when you did Python hash
+
+859
+00:49:14,559 --> 00:49:20,599
+py, you got actual uh output.
+
+860
+00:49:21,200 --> 00:49:25,160
+So, press up on the keyboard.
+
+861
+00:49:26,400 --> 00:49:29,760
+Okay. Press down one.
+
+862
+00:49:29,760 --> 00:49:32,000
+Okay. Get rid of Python. Get rid of
+
+863
+00:49:32,000 --> 00:49:36,200
+three in Python 3.
+
+864
+00:49:36,640 --> 00:49:40,200
+Then press enter.
+
+865
+00:49:44,400 --> 00:49:47,880
+There's your ass.
+
+866
+00:49:50,559 --> 00:49:53,559
+Now
+
+867
+00:49:54,000 --> 00:49:57,040
+>> don't get that leading white space.
+
+868
+00:49:57,040 --> 00:50:00,640
+>> Oh yeah. Leading white space.
+
+869
+00:50:00,640 --> 00:50:02,480
+But now that you have this hash, the
+
+870
+00:50:02,480 --> 00:50:04,720
+hash
+
+871
+00:50:04,720 --> 00:50:07,520
+and you guys will see in documentation,
+
+872
+00:50:07,520 --> 00:50:10,079
+but that secret hash is included with
+
+873
+00:50:10,079 --> 00:50:12,559
+every single
+
+874
+00:50:12,559 --> 00:50:16,960
+API request or API call
+
+875
+00:50:16,960 --> 00:50:19,040
+when you're talking back and forth with
+
+876
+00:50:19,040 --> 00:50:22,040
+Cognto.
+
+877
+00:50:25,520 --> 00:50:28,520
+So,
+
+878
+00:50:38,480 --> 00:50:42,800
+So now if you try to uh do the cogn AWS
+
+879
+00:50:42,800 --> 00:50:46,440
+cognto initialize
+
+880
+00:50:47,520 --> 00:50:49,839
+then
+
+881
+00:50:49,839 --> 00:50:53,119
+okay so you you see where it has so hold
+
+882
+00:50:53,119 --> 00:50:55,440
+up real quick hold up so we're here so
+
+883
+00:50:55,440 --> 00:50:59,119
+we don't need to move just yet. So user
+
+884
+00:50:59,119 --> 00:51:02,160
+password o that's fine. Client ID that's
+
+885
+00:51:02,160 --> 00:51:07,200
+fine. O parameters. So you have user
+
+886
+00:51:07,200 --> 00:51:11,760
+Chewbacca 1 password Chewbacca 34 and
+
+887
+00:51:11,760 --> 00:51:14,319
+after the four that's where you want to
+
+888
+00:51:14,319 --> 00:51:17,520
+do a comma and then secret underscore
+
+889
+00:51:17,520 --> 00:51:20,520
+hash.
+
+890
+00:51:21,839 --> 00:51:25,119
+So, so all caps.
+
+891
+00:51:25,119 --> 00:51:28,800
+>> Do you like maybe could like Does he
+
+892
+00:51:28,800 --> 00:51:30,400
+have the documentation open so he can
+
+893
+00:51:30,400 --> 00:51:34,520
+see where we're getting this?
+
+894
+00:51:50,720 --> 00:51:54,000
+No, no, no, no, no, no, no, nope, nope.
+
+895
+00:51:54,000 --> 00:51:58,559
+So, so I would I would look at
+
+896
+00:51:58,559 --> 00:52:02,480
+what uh what flags are already placed
+
+897
+00:52:02,480 --> 00:52:07,280
+inside of your um of your of that sample
+
+898
+00:52:07,280 --> 00:52:10,880
+that you got. So you have AWS cognto
+
+899
+00:52:10,880 --> 00:52:12,640
+initiate
+
+900
+00:52:12,640 --> 00:52:15,599
+you have your artflow
+
+901
+00:52:15,599 --> 00:52:18,240
+you have your client ID
+
+902
+00:52:18,240 --> 00:52:22,040
+you have your odd parameter
+
+903
+00:53:18,640 --> 00:53:21,640
+Okay,
+
+904
+00:53:21,920 --> 00:53:24,160
+you think that's good to go? Then let it
+
+905
+00:53:24,160 --> 00:53:27,160
+rip.
+
+906
+00:54:51,359 --> 00:54:54,920
+Give me one second.
+
+907
+00:55:42,400 --> 00:55:46,200
+on the right pens. You
+
+908
+00:55:58,319 --> 00:56:01,880
+That No.
+
+909
+00:56:27,440 --> 00:56:33,319
+Can you tell us what the username is?
+
+910
+00:57:19,280 --> 00:57:22,520
+Got it.
+
+911
+00:57:22,799 --> 00:57:25,960
+That's it.
+
+912
+00:58:51,599 --> 00:58:55,200
+Is there a way for users to verify what
+
+913
+00:58:55,200 --> 00:59:00,040
+the pass what the username is?
+
+914
+01:01:03,359 --> 01:01:07,640
+So, did you figure out the username?
+
+915
+01:01:09,520 --> 01:01:11,839
+>> I tried both.
+
+916
+01:01:11,839 --> 01:01:13,760
+So, I tried
+
+917
+01:01:13,760 --> 01:01:15,839
+>> that one first. It didn't work.
+
+918
+01:01:15,839 --> 01:01:18,079
+>> Did you get a different error?
+
+919
+01:01:18,079 --> 01:01:19,280
+>> Yes. Okay.
+
+920
+01:01:19,280 --> 01:01:22,000
+>> Is it still saying the username's wrong?
+
+921
+01:01:22,000 --> 01:01:26,319
+>> No, it's saying my hash is wrong now.
+
+922
+01:01:27,680 --> 01:01:29,680
+What values did you use to create the
+
+923
+01:01:29,680 --> 01:01:32,839
+first hash?
+
+924
+01:01:34,559 --> 01:01:37,440
+>> I used
+
+925
+01:01:37,440 --> 01:01:39,040
+that there.
+
+926
+01:01:39,040 --> 01:01:40,960
+>> Okay.
+
+927
+01:01:40,960 --> 01:01:42,880
+Are you using Chewbacca one as a
+
+928
+01:01:42,880 --> 01:01:45,880
+username?
+
+929
+01:01:51,359 --> 01:01:55,079
+I use that one.
+
+930
+01:01:57,200 --> 01:01:59,920
+I was going to say TIQS. Um, yeah, go
+
+931
+01:01:59,920 --> 01:02:02,000
+back to the um,
+
+932
+01:02:02,000 --> 01:02:04,880
+>> brother, go back to the use, you need to
+
+933
+01:02:04,880 --> 01:02:06,880
+get your user pool ID. So, if you go
+
+934
+01:02:06,880 --> 01:02:08,880
+back to the console,
+
+935
+01:02:08,880 --> 01:02:10,160
+>> okay,
+
+936
+01:02:10,160 --> 01:02:13,040
+>> I have a way that you can find it out.
+
+937
+01:02:13,040 --> 01:02:13,920
+>> Okay,
+
+938
+01:02:13,920 --> 01:02:16,480
+>> so if we go to the user pool ID, so that
+
+939
+01:02:16,480 --> 01:02:19,040
+means go to user pool.
+
+940
+01:02:19,040 --> 01:02:22,040
+>> Mhm.
+
+941
+01:02:22,640 --> 01:02:25,920
+Right click on the right user pool.
+
+942
+01:02:25,920 --> 01:02:27,680
+It's it's there as well. You see it was
+
+943
+01:02:27,680 --> 01:02:29,440
+there. Just Yeah, just copy that user
+
+944
+01:02:29,440 --> 01:02:32,760
+pool ID.
+
+945
+01:02:34,960 --> 01:02:37,680
+All right. So,
+
+946
+01:02:37,680 --> 01:02:40,640
+if you run this, it will tell you
+
+947
+01:02:40,640 --> 01:02:44,000
+just um I've got placeholders here. So,
+
+948
+01:02:44,000 --> 01:02:45,920
+just basically put the correct values
+
+949
+01:02:45,920 --> 01:02:47,680
+in.
+
+950
+01:02:47,680 --> 01:02:50,400
+So if you run that it should give you
+
+951
+01:02:50,400 --> 01:02:53,440
+back uh JSON
+
+952
+01:02:53,440 --> 01:02:56,160
+that will have your username
+
+953
+01:02:56,160 --> 01:02:59,960
+and use this as well.
+
+954
+01:03:00,160 --> 01:03:01,920
+So you need to put the region and you
+
+955
+01:03:01,920 --> 01:03:04,480
+need to put your ID that you just
+
+956
+01:03:04,480 --> 01:03:07,480
+copied.
+
+957
+01:03:23,359 --> 01:03:26,079
+Yeah.
+
+958
+01:03:26,079 --> 01:03:29,079
+Yes.
+
+959
+01:03:40,160 --> 01:03:43,880
+Yeah. There you go.
+
+960
+01:03:46,960 --> 01:03:49,520
+So username is that
+
+961
+01:03:49,520 --> 01:03:51,520
+>> okay I know what I did.
+
+962
+01:03:51,520 --> 01:03:54,520
+>> Yeah.
+
+963
+01:03:55,359 --> 01:03:55,520
+When
+
+964
+01:03:55,520 --> 01:03:57,599
+>> I ran this I ran it with the wrong
+
+965
+01:03:57,599 --> 01:03:58,720
+username.
+
+966
+01:03:58,720 --> 01:03:59,839
+>> Ah
+
+967
+01:03:59,839 --> 01:04:03,559
+>> that's what I did.
+
+968
+01:04:08,079 --> 01:04:10,400
+Wait
+
+969
+01:04:10,400 --> 01:04:12,559
+>> username.
+
+970
+01:04:12,559 --> 01:04:14,960
+Yeah, that's that's the username. Yeah,
+
+971
+01:04:14,960 --> 01:04:19,640
+>> without the quotation marks.
+
+972
+01:04:20,319 --> 01:04:23,520
+>> Tiq, do both usernames have the multi-
+
+973
+01:04:23,520 --> 01:04:26,559
+um factor authentication
+
+974
+01:04:26,559 --> 01:04:29,720
+set up?
+
+975
+01:04:32,319 --> 01:04:33,520
+>> Yes.
+
+976
+01:04:33,520 --> 01:04:36,520
+>> Okay.
+
+977
+01:04:38,720 --> 01:04:41,720
+Turn.
+
+978
+01:04:53,280 --> 01:04:57,559
+There a comma in your username?
+
+979
+01:05:00,480 --> 01:05:02,079
+No,
+
+980
+01:05:02,079 --> 01:05:04,079
+>> because you have a comma in it when you
+
+981
+01:05:04,079 --> 01:05:08,359
+ran the Python script.
+
+982
+01:05:12,640 --> 01:05:15,960
+Oh [ __ ]
+
+983
+01:07:32,079 --> 01:07:35,720
+Hey, that one worked.
+
+984
+01:07:38,000 --> 01:07:40,319
+>> We're done.
+
+985
+01:07:40,319 --> 01:07:42,799
+Now you have to provide the software
+
+986
+01:07:42,799 --> 01:07:45,799
+MFA.
+
+987
+01:08:46,000 --> 01:08:48,400
+Did you want me
+
+988
+01:08:48,400 --> 01:08:50,319
+to change zooms?
+
+989
+01:08:50,319 --> 01:08:52,159
+>> Okay, guys, real quick. So, I want you
+
+990
+01:08:52,159 --> 01:08:54,159
+guys to continue doing this. I think you
+
+991
+01:08:54,159 --> 01:08:57,520
+guys are doing excellent work. So,
+
+992
+01:08:57,520 --> 01:08:59,679
+very good job. Um, shout out to Rob for
+
+993
+01:08:59,679 --> 01:09:01,920
+having his own Zoom account. I want
+
+994
+01:09:01,920 --> 01:09:06,080
+everyone here who is is in seven class 7
+
+995
+01:09:06,080 --> 01:09:09,040
+to go into Rob Zoom like continue
+
+996
+01:09:09,040 --> 01:09:10,960
+working continue troubleshooting this
+
+997
+01:09:10,960 --> 01:09:14,080
+don't worry about class 7.5 that's of
+
+998
+01:09:14,080 --> 01:09:16,719
+easier and smaller significance compared
+
+999
+01:09:16,719 --> 01:09:17,839
+to what you guys are doing here this is
+
+1000
+01:09:17,839 --> 01:09:20,880
+by far more possible so you have you
+
+1001
+01:09:20,880 --> 01:09:22,799
+have time to do global load balancers
+
+1002
+01:09:22,799 --> 01:09:26,000
+who cares about that um so go off go off
+
+1003
+01:09:26,000 --> 01:09:27,679
+and do that and I need this Zoom
+
+1004
+01:09:27,679 --> 01:09:30,880
+environment to keep
+
+1005
+01:09:30,880 --> 01:09:32,000
+All right.
+
+1006
+01:09:32,000 --> 01:09:32,960
+>> Okay.
+
+1007
+01:09:32,960 --> 01:09:35,199
+>> And the link Rob put the link in the
+
+1008
+01:09:35,199 --> 01:09:36,960
+Zoom chat, so he's going to go over
+
+1009
+01:09:36,960 --> 01:09:38,719
+there and spin that up. Okay.
+
+1010
+01:09:38,719 --> 01:09:39,120
+>> Okay.
+
+1011
+01:09:39,120 --> 01:09:41,199
+>> You guys are doing very well. Actually,
+
+1012
+01:09:41,199 --> 01:09:42,640
+I just sat back and watched and I was
+
+1013
+01:09:42,640 --> 01:09:46,000
+like, "Holy shit." So, uh, and my toy
+
+1014
+01:09:46,000 --> 01:09:47,600
+hasn't arrived yet, so I'm still waiting
+
+1015
+01:09:47,600 --> 01:09:50,920
+for my
+
+1016
+01:09:51,040 --> 01:09:53,040
+>> All right.
+
+1017
+01:09:53,040 --> 01:09:55,280
+>> All right. So, keep on going. make sure
+
+1018
+01:09:55,280 --> 01:09:58,159
+you guys can get this. Actually using
+
+1019
+01:09:58,159 --> 01:10:00,400
+the token and generating that token is
+
+1020
+01:10:00,400 --> 01:10:03,760
+of extreme value for the interview,
+
+1021
+01:10:03,760 --> 01:10:05,360
+not just for the job. Being able to
+
+1022
+01:10:05,360 --> 01:10:08,480
+describe this this is prime interview
+
+1023
+01:10:08,480 --> 01:10:12,560
+material. Okay. Um I'm going to drop
+
+1024
+01:10:12,560 --> 01:10:14,960
+Does everybody have the the Zoom link?
+
+1025
+01:10:14,960 --> 01:10:18,960
+Did you click on the other Zoom link?
+
+1026
+01:10:18,960 --> 01:10:19,840
+>> Everybody do it.
+
+1027
+01:10:19,840 --> 01:10:21,600
+>> I'll put it inside of G chat because I
+
+1028
+01:10:21,600 --> 01:10:23,280
+know someone is going to say, "Hey, what
+
+1029
+01:10:23,280 --> 01:10:25,280
+happened?" So
+
+1030
+01:10:25,280 --> 01:10:26,080
+>> of course
+
+1031
+01:10:26,080 --> 01:10:27,120
+>> I'll put in a G check.
+
+1032
+01:10:27,120 --> 01:10:29,679
+>> I was asleep. I was with Chewbacca. All
+
+1033
+01:10:29,679 --> 01:10:31,280
+right,
+
+1034
+01:10:31,280 --> 01:10:33,520
+>> I'll see you guys. Guys are doing great
+
+1035
+01:10:33,520 --> 01:10:36,400
+and I'll see you guys later. Okay, John.
+
+1036
+01:10:36,400 --> 01:10:39,400
+either.
+
+1037
+01:10:52,960 --> 01:10:58,080
+Yeah, of course. So, MFA is whatever is
+
+1038
+01:10:58,080 --> 01:11:02,000
+um whatever your phone's MFA is, but
+
+1039
+01:11:02,000 --> 01:11:05,280
+it's a on 30 second timer, so you know,
+
+1040
+01:11:05,280 --> 01:11:09,480
+you just have to be quick with it.
+
+1041
+01:11:14,239 --> 01:11:19,719
+Okay, then she
+
+1042
+01:11:19,920 --> 01:11:22,080
+I don't fix that one last. is going to
+
+1043
+01:11:22,080 --> 01:11:23,520
+expire.
+
+1044
+01:11:23,520 --> 01:11:27,560
+>> Yep, that's fine.
+
+1045
+01:11:35,120 --> 01:11:36,880
+And if you're able to complete this,
+
+1046
+01:11:36,880 --> 01:11:39,440
+then put it put a uh screenshot in the
+
+1047
+01:11:39,440 --> 01:11:42,080
+chat. So, we have you screenshot in the
+
+1048
+01:11:42,080 --> 01:11:45,520
+chat or screenshot in the G check uh
+
+1049
+01:11:45,520 --> 01:11:48,520
+chat.
+
+1050
+01:11:48,719 --> 01:11:48,880
+A
+
+1051
+01:11:48,880 --> 01:11:51,360
+>> second. He's about to reset.
+
+1052
+01:11:51,360 --> 01:11:54,360
+Okay.
+
+1053
+01:12:09,600 --> 01:12:12,080
+So, now you can throw that into Git Bash
+
+1054
+01:12:12,080 --> 01:12:16,440
+and let's see what we get.
+
+1055
+01:12:24,480 --> 01:12:27,120
+Oh yeah, we got to copy that as well.
+
+1056
+01:12:27,120 --> 01:12:30,000
+Okay, so yeah, that'll be the last one.
+
+1057
+01:12:30,000 --> 01:12:32,880
+So this entire session right here.
+
+1058
+01:12:32,880 --> 01:12:34,159
+>> Oh shoot. Okay,
+
+1059
+01:12:34,159 --> 01:12:36,320
+>> we got we got to copy this, too. But
+
+1060
+01:12:36,320 --> 01:12:39,840
+that's fine. That's not too too bad.
+
+1061
+01:12:39,840 --> 01:12:42,400
+So it's it'll be another flag after
+
+1062
+01:12:42,400 --> 01:12:46,320
+after um the parameters
+
+1063
+01:12:46,320 --> 01:12:48,960
+or after the challenge responses I mean
+
+1064
+01:12:48,960 --> 01:12:50,880
+>> yeah it'll be
+
+1065
+01:12:50,880 --> 01:12:52,400
+>> space
+
+1066
+01:12:52,400 --> 01:12:57,320
+uh dash dash session
+
+1067
+01:12:57,760 --> 01:13:02,000
+and then this this whole string
+
+1068
+01:13:02,000 --> 01:13:05,320
+>> good god
+
+1069
+01:13:34,480 --> 01:13:36,880
+session equal. Oh uh yeah no you can
+
+1070
+01:13:36,880 --> 01:13:40,880
+just do session space
+
+1071
+01:13:40,880 --> 01:13:43,520
+uh paste. Well actually no you don't
+
+1072
+01:13:43,520 --> 01:13:45,760
+want to do session like that cuz session
+
+1073
+01:13:45,760 --> 01:13:49,280
+session is its own flag. See here when
+
+1074
+01:13:49,280 --> 01:13:51,040
+you have challenge name challenge
+
+1075
+01:13:51,040 --> 01:13:53,120
+responses and then you have the map
+
+1076
+01:13:53,120 --> 01:13:56,400
+string then you get a comma session is
+
+1077
+01:13:56,400 --> 01:13:59,760
+its own flag. So keeping it like that is
+
+1078
+01:13:59,760 --> 01:14:00,719
+fine.
+
+1079
+01:14:00,719 --> 01:14:03,719
+>> Okay.
+
+1080
+01:14:04,320 --> 01:14:07,280
+So session space and then you can paste
+
+1081
+01:14:07,280 --> 01:14:10,520
+the session.
+
+1082
+01:14:12,560 --> 01:14:14,960
+No, you don't have to do equal sign for
+
+1083
+01:14:14,960 --> 01:14:18,159
+session. You can just do session space
+
+1084
+01:14:18,159 --> 01:14:21,800
+and then paste
+
+1085
+01:14:23,600 --> 01:14:25,840
+and then try again. Oh, you may have to
+
+1086
+01:14:25,840 --> 01:14:27,840
+do your um your MFA.
+
+1087
+01:14:27,840 --> 01:14:30,239
+>> Change my MFA code again.
+
+1088
+01:14:30,239 --> 01:14:33,239
+>> Yep.
+
+1089
+01:14:34,400 --> 01:14:36,560
+>> Oh, good. Just reset.
+
+1090
+01:14:36,560 --> 01:14:39,120
+>> Good. Now you have an access token and a
+
+1091
+01:14:39,120 --> 01:14:42,320
+refresh token and ID token.
+
+1092
+01:14:42,320 --> 01:14:45,360
+Good. Paste that inside of the G check
+
+1093
+01:14:45,360 --> 01:14:49,120
+chat because that's that is a a big part
+
+1094
+01:14:49,120 --> 01:14:51,040
+of your homework.
+
+1095
+01:14:51,040 --> 01:14:54,040
+Good.
+
+1096
+01:15:00,080 --> 01:15:02,800
+Oh, what's the odd? Oh, it's been 15
+
+1097
+01:15:02,800 --> 01:15:03,760
+minutes.
+
+1098
+01:15:03,760 --> 01:15:04,320
+>> Okay.
+
+1099
+01:15:04,320 --> 01:15:05,760
+>> Yeah.
+
+1100
+01:15:05,760 --> 01:15:07,040
+>> Okay.
+
+1101
+01:15:07,040 --> 01:15:10,800
+>> So, so now you have the the full flow.
+
+1102
+01:15:10,800 --> 01:15:12,560
+So, now it's just redoing all the
+
+1103
+01:15:12,560 --> 01:15:15,840
+requests again and uh with the Yep. So,
+
+1104
+01:15:15,840 --> 01:15:19,840
+Cornado initiate art rerunning the uh
+
+1105
+01:15:19,840 --> 01:15:24,000
+request again. Okay. So I get token get
+
+1106
+01:15:24,000 --> 01:15:27,239
+your session.
+
+1107
+01:15:35,360 --> 01:15:37,600
+I got a national quote. They'll fix
+
+1108
+01:15:37,600 --> 01:15:40,600
+that.
+
+1109
+01:15:49,520 --> 01:15:52,400
+Uh just be aware TIQS. Yeah.
+
+1110
+01:15:52,400 --> 01:15:55,400
+>> Yep.
+
+1111
+01:15:56,480 --> 01:15:59,480
+Code
+
+1112
+01:16:32,960 --> 01:16:36,480
+And that's what we want. Good. Why do we
+
+1113
+01:16:36,480 --> 01:16:38,480
+know this worked? Because we have access
+
+1114
+01:16:38,480 --> 01:16:41,679
+token. We have the
+
+1115
+01:16:41,679 --> 01:16:45,679
+uh expires. We have token type, refresh
+
+1116
+01:16:45,679 --> 01:16:49,560
+token, ID token.
+
+1117
+01:16:49,600 --> 01:16:53,120
+So this works.
+
+1118
+01:16:53,120 --> 01:16:56,400
+Why is this important? Because
+
+1119
+01:16:56,400 --> 01:17:02,199
+at because now we're able to
+
+1120
+01:17:02,560 --> 01:17:06,320
+generate these authentication tokens for
+
+1121
+01:17:06,320 --> 01:17:09,199
+act for access based for for access
+
+1122
+01:17:09,199 --> 01:17:16,159
+policy. Uh so when we now have requests
+
+1123
+01:17:16,159 --> 01:17:20,480
+coming into the API gateway, we can have
+
+1124
+01:17:20,480 --> 01:17:24,719
+signed requests coming into the the uh
+
+1125
+01:17:24,719 --> 01:17:27,199
+signed or validated requests through
+
+1126
+01:17:27,199 --> 01:17:30,080
+Cognto going to the API gateway, which
+
+1127
+01:17:30,080 --> 01:17:32,239
+means it's it's traffic that we want to
+
+1128
+01:17:32,239 --> 01:17:34,880
+be there for sure. for sure. As opposed
+
+1129
+01:17:34,880 --> 01:17:39,040
+to traffic that made it through that's
+
+1130
+01:17:39,040 --> 01:17:40,880
+but shouldn't but should not have been
+
+1131
+01:17:40,880 --> 01:17:43,880
+there.
+
+1132
+01:17:45,600 --> 01:17:48,480
+Oh,
+
+1133
+01:17:48,480 --> 01:17:52,719
+this is good. It's very good. So, I know
+
+1134
+01:17:52,719 --> 01:17:55,520
+that Joe has posted his posted his
+
+1135
+01:17:55,520 --> 01:17:58,800
+screenshot in the chat. Um, I would like
+
+1136
+01:17:58,800 --> 01:18:00,960
+other people to also post their
+
+1137
+01:18:00,960 --> 01:18:03,840
+screenshots of them finishing the lab in
+
+1138
+01:18:03,840 --> 01:18:08,400
+the chat so that we can all do the hip
+
+1139
+01:18:08,400 --> 01:18:11,640
+hip parade.
+
+1140
+01:18:26,320 --> 01:18:29,320
+Cool.
+
+1141
+01:18:36,960 --> 01:18:40,159
+Yep. Yep. Okay. Post it in the chat and
+
+1142
+01:18:40,159 --> 01:18:43,760
+then also post it in the
+
+1143
+01:18:43,760 --> 01:18:46,960
+uh Yep. You post on in chat on Tuesday.
+
+1144
+01:18:46,960 --> 01:18:52,159
+Cool. So, okay. Got three more. Awesome.
+
+1145
+01:18:52,159 --> 01:18:56,640
+Yep. Interesting. Okay. So yeah, post
+
+1146
+01:18:56,640 --> 01:19:00,600
+that in there as well.
+
+1147
+01:19:01,360 --> 01:19:03,360
+Beautiful.
+
+1148
+01:19:03,360 --> 01:19:06,239
+Okay. So
+
+1149
+01:19:06,239 --> 01:19:09,520
+So this is good. So now Okay.
+
+1150
+01:19:09,520 --> 01:19:12,159
+>> Do you want us to post it in in the chat
+
+1151
+01:19:12,159 --> 01:19:14,000
+here or the group chat?
+
+1152
+01:19:14,000 --> 01:19:15,199
+>> Both.
+
+1153
+01:19:15,199 --> 01:19:16,719
+>> Okay, you got it.
+
+1154
+01:19:16,719 --> 01:19:17,600
+>> Thank you.
+
+1155
+01:19:17,600 --> 01:19:19,199
+>> No problem. Thank you.
+
+1156
+01:19:19,199 --> 01:19:23,040
+>> Okay. Who else had is struggling with
+
+1157
+01:19:23,040 --> 01:19:26,560
+this or needs help? Because
+
+1158
+01:19:26,560 --> 01:19:29,840
+this this is not
+
+1159
+01:19:29,840 --> 01:19:32,159
+this this this is this is a bit of a
+
+1160
+01:19:32,159 --> 01:19:34,719
+challenge. More is more reading than
+
+1161
+01:19:34,719 --> 01:19:37,120
+anything, but
+
+1162
+01:19:37,120 --> 01:19:39,679
+um it's not too bad when you get the
+
+1163
+01:19:39,679 --> 01:19:41,600
+hang of it.
+
+1164
+01:19:41,600 --> 01:19:43,199
+So,
+
+1165
+01:19:43,199 --> 01:19:44,880
+um,
+
+1166
+01:19:44,880 --> 01:19:48,320
+does anyone need help at with this
+
+1167
+01:19:48,320 --> 01:19:50,560
+or are we good to start tearing down?
+
+1168
+01:19:50,560 --> 01:19:52,560
+Uh, Kevin, what's up?
+
+1169
+01:19:52,560 --> 01:19:55,280
+>> Yeah. Um, I need help.
+
+1170
+01:19:55,280 --> 01:19:58,719
+>> Then share screen. Let's take a look.
+
+1171
+01:19:58,719 --> 01:20:01,520
+>> Which one is it?
+
+1172
+01:20:01,520 --> 01:20:04,320
+I think it's this one.
+
+1173
+01:20:04,320 --> 01:20:07,320
+Okay.
+
+1174
+01:20:11,199 --> 01:20:13,520
+Okay. Um
+
+1175
+01:20:13,520 --> 01:20:14,320
+>> Okay.
+
+1176
+01:20:14,320 --> 01:20:18,320
+>> I might have messed up the format. Um
+
+1177
+01:20:18,320 --> 01:20:21,520
+>> Oh. Oh. Oh, hold on. So, so you p So,
+
+1178
+01:20:21,520 --> 01:20:25,920
+you copy and pasted um the session.
+
+1179
+01:20:25,920 --> 01:20:26,320
+>> Yes.
+
+1180
+01:20:26,320 --> 01:20:28,800
+>> Um Okay.
+
+1181
+01:20:28,800 --> 01:20:32,320
+I have found that on occasion
+
+1182
+01:20:32,320 --> 01:20:34,640
+for whatever reason there are weird
+
+1183
+01:20:34,640 --> 01:20:36,400
+enter
+
+1184
+01:20:36,400 --> 01:20:40,640
+uh characters put into the session.
+
+1185
+01:20:40,640 --> 01:20:44,320
+>> So that so if you get tripped up on that
+
+1186
+01:20:44,320 --> 01:20:46,880
+I wouldn't I won't blame you cuz that
+
+1187
+01:20:46,880 --> 01:20:48,960
+happened to me when I was doing the app.
+
+1188
+01:20:48,960 --> 01:20:51,840
+But I cut you off. What's what are you
+
+1189
+01:20:51,840 --> 01:20:53,280
+what are you seeing?
+
+1190
+01:20:53,280 --> 01:20:57,040
+>> Okay. Um, so when I enter this actually
+
+1191
+01:20:57,040 --> 01:21:00,640
+I need to change the code.
+
+1192
+01:21:00,640 --> 01:21:03,640
+>> Yep.
+
+1193
+01:21:03,920 --> 01:21:07,760
+Wait. So you did you did the Python. You
+
+1194
+01:21:07,760 --> 01:21:09,840
+got So you were able you were able to
+
+1195
+01:21:09,840 --> 01:21:11,920
+get the hash?
+
+1196
+01:21:11,920 --> 01:21:13,600
+>> Uh, yes.
+
+1197
+01:21:13,600 --> 01:21:18,640
+>> Okay. So did you do So now you you got
+
+1198
+01:21:18,640 --> 01:21:22,159
+the hash. Did you do the initialize
+
+1199
+01:21:22,159 --> 01:21:25,719
+initiate authentication?
+
+1200
+01:21:26,400 --> 01:21:29,760
+>> I'm pretty sure I did. I just wanted to
+
+1201
+01:21:29,760 --> 01:21:33,840
+go back to see if my hash um
+
+1202
+01:21:33,840 --> 01:21:36,320
+expired or Okay,
+
+1203
+01:21:36,320 --> 01:21:38,560
+>> the the secret hash doesn't expire. The
+
+1204
+01:21:38,560 --> 01:21:40,560
+the session may expire, but the secret
+
+1205
+01:21:40,560 --> 01:21:42,880
+hash doesn't expire.
+
+1206
+01:21:42,880 --> 01:21:47,080
+>> So, if I hit this
+
+1207
+01:21:48,719 --> 01:21:55,000
+Uh, EBP. Yep. So, your session expired.
+
+1208
+01:21:57,840 --> 01:22:00,080
+>> Okay. So, I got it started. Started from
+
+1209
+01:22:00,080 --> 01:22:03,480
+scratch then.
+
+1210
+01:22:05,600 --> 01:22:08,080
+>> Well, you Well, you're halfway there.
+
+1211
+01:22:08,080 --> 01:22:12,239
+So, just copy in that session
+
+1212
+01:22:12,239 --> 01:22:15,040
+and then paste it to
+
+1213
+01:22:15,040 --> 01:22:16,639
+>> your
+
+1214
+01:22:16,639 --> 01:22:19,639
+challenge.
+
+1215
+01:22:20,080 --> 01:22:23,199
+Say again.
+
+1216
+01:22:23,199 --> 01:22:24,639
+Okay.
+
+1217
+01:22:24,639 --> 01:22:29,280
+>> Then from there now you can try to do
+
+1218
+01:22:29,280 --> 01:22:32,480
+the respond to off challenge with your
+
+1219
+01:22:32,480 --> 01:22:33,760
+credentials.
+
+1220
+01:22:33,760 --> 01:22:36,760
+>> Okay.
+
+1221
+01:22:37,920 --> 01:22:42,280
+Uh also the uh the code behind
+
+1222
+01:23:01,760 --> 01:23:03,360
+I would say get rid of all the
+
+1223
+01:23:03,360 --> 01:23:06,080
+backslashes and just use the normal
+
+1224
+01:23:06,080 --> 01:23:07,679
+Terraform flags. It's not something
+
+1225
+01:23:07,679 --> 01:23:08,480
+really.
+
+1226
+01:23:08,480 --> 01:23:11,600
+>> Oh yeah. Yeah. So, so if you So, yeah.
+
+1227
+01:23:11,600 --> 01:23:15,520
+So, the secret hash is also include. So,
+
+1228
+01:23:15,520 --> 01:23:19,280
+it was a space. So, the secret hash ends
+
+1229
+01:23:19,280 --> 01:23:21,360
+in a equal sign.
+
+1230
+01:23:21,360 --> 01:23:24,800
+>> And then you have equal sign slash which
+
+1231
+01:23:24,800 --> 01:23:29,280
+means the secret hash thinks that this
+
+1232
+01:23:29,280 --> 01:23:32,480
+goes together. It doesn't. So it has to
+
+1233
+01:23:32,480 --> 01:23:39,639
+be uh equal sign space slash
+
+1234
+01:23:41,760 --> 01:23:45,080
+wrong way
+
+1235
+01:23:46,800 --> 01:23:48,400
+is
+
+1236
+01:23:48,400 --> 01:23:52,320
+critical. So try copying everything over
+
+1237
+01:23:52,320 --> 01:23:55,920
+again and now you uh give yeah try
+
+1238
+01:23:55,920 --> 01:23:58,800
+copying the whole block and see if that
+
+1239
+01:23:58,800 --> 01:24:01,120
+works.
+
+1240
+01:24:01,120 --> 01:24:04,120
+Yes.
+
+1241
+01:24:06,239 --> 01:24:08,400
+>> Invalid code. Oh, so you have to update
+
+1242
+01:24:08,400 --> 01:24:12,520
+your code. 30 seconds.
+
+1243
+01:24:26,000 --> 01:24:29,760
+Okay. So it was So I I guess I messed up
+
+1244
+01:24:29,760 --> 01:24:34,080
+with the with the slash.
+
+1245
+01:24:34,080 --> 01:24:38,320
+>> Yeah. So the slashes is that is not is
+
+1246
+01:24:38,320 --> 01:24:40,719
+good when you're you know if you want to
+
+1247
+01:24:40,719 --> 01:24:45,280
+be fancy a bit fancier. Um TIQS didn't
+
+1248
+01:24:45,280 --> 01:24:47,360
+do it but I'm not going to say that you
+
+1249
+01:24:47,360 --> 01:24:49,920
+should not do it either. It's just a m
+
+1250
+01:24:49,920 --> 01:24:52,560
+matter of preference and style.
+
+1251
+01:24:52,560 --> 01:24:55,840
+>> Basically that creates a new line. But
+
+1252
+01:24:55,840 --> 01:24:59,040
+if you miss that space
+
+1253
+01:24:59,040 --> 01:25:02,400
+uh forward space forward slash or space
+
+1254
+01:25:02,400 --> 01:25:04,239
+back slash, however you want to say it,
+
+1255
+01:25:04,239 --> 01:25:07,920
+if you miss that, then it's going to
+
+1256
+01:25:07,920 --> 01:25:10,800
+consider that slash as part of the
+
+1257
+01:25:10,800 --> 01:25:12,400
+characters
+
+1258
+01:25:12,400 --> 01:25:15,600
+that you're looking at. And
+
+1259
+01:25:15,600 --> 01:25:18,400
+>> that's where you got stuck because it
+
+1260
+01:25:18,400 --> 01:25:21,600
+was at the end of the secret hash
+
+1261
+01:25:21,600 --> 01:25:25,600
+>> and the secret hash readout was look was
+
+1262
+01:25:25,600 --> 01:25:29,520
+was keying in was ending it the secret
+
+1263
+01:25:29,520 --> 01:25:32,639
+hash readout was ending in a slash. If
+
+1264
+01:25:32,639 --> 01:25:35,840
+you've looked at you know other people
+
+1265
+01:25:35,840 --> 01:25:39,440
+who have done the lab so far
+
+1266
+01:25:39,440 --> 01:25:42,080
+>> it would end that secret hash always
+
+1267
+01:25:42,080 --> 01:25:44,400
+ends in an equal sign.
+
+1268
+01:25:44,400 --> 01:25:47,840
+So this that's a quick tell. So now you
+
+1269
+01:25:47,840 --> 01:25:49,199
+should be good.
+
+1270
+01:25:49,199 --> 01:25:51,360
+>> Yeah. And then also like I should have
+
+1271
+01:25:51,360 --> 01:25:55,679
+noticed that all of the other lines
+
+1272
+01:25:55,679 --> 01:25:58,400
+ended with the backslash.
+
+1273
+01:25:58,400 --> 01:26:00,719
+>> P we we're getting better at pattern
+
+1274
+01:26:00,719 --> 01:26:03,360
+recognition. So it's not a problem. But
+
+1275
+01:26:03,360 --> 01:26:07,440
+yeah, uh that the successful response uh
+
+1276
+01:26:07,440 --> 01:26:12,159
+put that into this chat here and the uh
+
+1277
+01:26:12,159 --> 01:26:15,679
+the end of Gche chat so that we can see
+
+1278
+01:26:15,679 --> 01:26:18,159
+that you did the homework and you are
+
+1279
+01:26:18,159 --> 01:26:19,440
+good to go.
+
+1280
+01:26:19,440 --> 01:26:20,560
+>> All right. Thanks.
+
+1281
+01:26:20,560 --> 01:26:25,840
+>> Yep. No problem. Uh Carlton, my fellow
+
+1282
+01:26:25,840 --> 01:26:28,480
+American, you need to share your freedom
+
+1283
+01:26:28,480 --> 01:26:31,480
+screen.
+
+1284
+01:26:37,520 --> 01:26:41,080
+Let's see here.
+
+1285
+01:26:55,120 --> 01:26:57,600
+Did that
+
+1286
+01:26:57,600 --> 01:27:00,600
+uh
+
+1287
+01:27:01,199 --> 01:27:02,800
+Colton,
+
+1288
+01:27:02,800 --> 01:27:07,120
+I need you to share freedom screen.
+
+1289
+01:27:07,120 --> 01:27:09,360
+Let's see
+
+1290
+01:27:09,360 --> 01:27:12,320
+there. There's a freedom screen
+
+1291
+01:27:12,320 --> 01:27:14,480
+and freedom of rings once again. All
+
+1292
+01:27:14,480 --> 01:27:18,239
+right. So,
+
+1293
+01:27:18,239 --> 01:27:22,000
+I see. Okay. Okay. So, where are you
+
+1294
+01:27:22,000 --> 01:27:25,000
+stuck?
+
+1295
+01:27:28,159 --> 01:27:29,600
+And if you're talking, we can't hear
+
+1296
+01:27:29,600 --> 01:27:32,600
+you.
+
+1297
+01:27:36,639 --> 01:27:39,040
+>> I am having issues today. Okay. Can you
+
+1298
+01:27:39,040 --> 01:27:40,159
+hear me now?
+
+1299
+01:27:40,159 --> 01:27:42,800
+>> Your freedom is ringing. So, yes.
+
+1300
+01:27:42,800 --> 01:27:44,080
+>> All right. Cool.
+
+1301
+01:27:44,080 --> 01:27:45,760
+>> Right.
+
+1302
+01:27:45,760 --> 01:27:50,679
+So, this is my
+
+1303
+01:27:51,440 --> 01:27:55,120
+This is how far you got,
+
+1304
+01:27:55,120 --> 01:27:56,639
+right? Yes.
+
+1305
+01:27:56,639 --> 01:27:58,480
+>> Okay.
+
+1306
+01:27:58,480 --> 01:28:03,159
+Uh, now it's giving me an error.
+
+1307
+01:28:03,520 --> 01:28:06,239
+Sorry, it's all over the place.
+
+1308
+01:28:06,239 --> 01:28:09,920
+>> Um, you're only sharing uh the browser.
+
+1309
+01:28:09,920 --> 01:28:12,320
+If you have a shell open, we can't see
+
+1310
+01:28:12,320 --> 01:28:13,679
+it.
+
+1311
+01:28:13,679 --> 01:28:15,360
+>> Okay, let me stop sharing and try to
+
+1312
+01:28:15,360 --> 01:28:16,800
+share it again.
+
+1313
+01:28:16,800 --> 01:28:19,800
+>> Okay.
+
+1314
+01:28:49,840 --> 01:28:53,280
+Try to share the whole screen. Entire.
+
+1315
+01:28:53,280 --> 01:28:56,280
+>> Yes.
+
+1316
+01:28:58,000 --> 01:29:00,960
+>> Tell me if you can see my entire screen.
+
+1317
+01:29:00,960 --> 01:29:03,280
+>> I think it's coming up now. should be a
+
+1318
+01:29:03,280 --> 01:29:06,400
+shell my shell screen and okay
+
+1319
+01:29:06,400 --> 01:29:06,960
+>> y
+
+1320
+01:29:06,960 --> 01:29:09,960
+>> so
+
+1321
+01:29:16,239 --> 01:29:19,520
+this was the command line I used
+
+1322
+01:29:19,520 --> 01:29:22,400
+um I'm still at the uh beginning some
+
+1323
+01:29:22,400 --> 01:29:23,600
+issue
+
+1324
+01:29:23,600 --> 01:29:27,440
+>> oh I see I see what's going on okay okay
+
+1325
+01:29:27,440 --> 01:29:28,960
+so
+
+1326
+01:29:28,960 --> 01:29:31,360
+no option secret okay so you got your
+
+1327
+01:29:31,360 --> 01:29:33,600
+secret on to verify secret hash for
+
+1328
+01:29:33,600 --> 01:29:36,080
+better.
+
+1329
+01:29:36,080 --> 01:29:38,719
+Okie dokie.
+
+1330
+01:29:38,719 --> 01:29:41,920
+All right. So, first things first, I
+
+1331
+01:29:41,920 --> 01:29:44,480
+want you to uh I want you to go back to
+
+1332
+01:29:44,480 --> 01:29:46,639
+the browser and I'll point something out
+
+1333
+01:29:46,639 --> 01:29:47,840
+for you.
+
+1334
+01:29:47,840 --> 01:29:50,560
+>> Okay. So, we so the we got these
+
+1335
+01:29:50,560 --> 01:29:53,679
+authentication flows. Okay.
+
+1336
+01:29:53,679 --> 01:29:56,480
+And um I want you to click on each one
+
+1337
+01:29:56,480 --> 01:29:58,239
+of them.
+
+1338
+01:29:58,239 --> 01:30:00,239
+So, we'll I'll start with choicebased
+
+1339
+01:30:00,239 --> 01:30:04,000
+sign in. So notice that this is uh allow
+
+1340
+01:30:04,000 --> 01:30:07,600
+user o. Okay. So just keep that just
+
+1341
+01:30:07,600 --> 01:30:09,679
+keep that in mind. Uh go to the second
+
+1342
+01:30:09,679 --> 01:30:12,239
+one.
+
+1343
+01:30:12,239 --> 01:30:15,920
+This is allow user srp. I have no idea
+
+1344
+01:30:15,920 --> 01:30:18,239
+what that means but leave that alone.
+
+1345
+01:30:18,239 --> 01:30:21,600
+Okay. Go to the third one.
+
+1346
+01:30:21,600 --> 01:30:26,480
+And then allow refresh token a. So okay
+
+1347
+01:30:26,480 --> 01:30:29,840
+that's the third one. So why does this
+
+1348
+01:30:29,840 --> 01:30:32,800
+matter? Because uh if you go to your if
+
+1349
+01:30:32,800 --> 01:30:36,239
+you go back into git bash and um your
+
+1350
+01:30:36,239 --> 01:30:38,320
+the sessions that you tried previously
+
+1351
+01:30:38,320 --> 01:30:40,320
+like if you just uh if you do the uh up
+
+1352
+01:30:40,320 --> 01:30:45,000
+arrow to your last attempt.
+
+1353
+01:30:45,199 --> 01:30:47,440
+So uh up hit up arrow again.
+
+1354
+01:30:47,440 --> 01:30:49,040
+>> Yeah I did. It's just take it's
+
+1355
+01:30:49,040 --> 01:30:49,920
+thinking. There we go.
+
+1356
+01:30:49,920 --> 01:30:54,080
+>> Uh I see. So so you have oddflow here
+
+1357
+01:30:54,080 --> 01:30:59,120
+right? So the odd flow ties back to the
+
+1358
+01:30:59,120 --> 01:31:01,600
+authentication methods that you clicked
+
+1359
+01:31:01,600 --> 01:31:04,239
+on previously. And right here it's
+
+1360
+01:31:04,239 --> 01:31:09,239
+asking for user password option
+
+1361
+01:31:09,600 --> 01:31:13,280
+that you could authenticate into your
+
+1362
+01:31:13,280 --> 01:31:17,040
+user pool with. So let's enable that.
+
+1363
+01:31:17,040 --> 01:31:21,199
+Okay. So click click on the browser
+
+1364
+01:31:21,199 --> 01:31:24,159
+again.
+
+1365
+01:31:24,159 --> 01:31:28,280
+and then click edit.
+
+1366
+01:31:30,639 --> 01:31:34,560
+And now we have allow user password a
+
+1367
+01:31:34,560 --> 01:31:38,320
+right here. So check that off. And then
+
+1368
+01:31:38,320 --> 01:31:42,080
+uh also authentication flow since since
+
+1369
+01:31:42,080 --> 01:31:44,880
+we're do so this is the bashes option
+
+1370
+01:31:44,880 --> 01:31:46,800
+since we're doing a lab we want to max
+
+1371
+01:31:46,800 --> 01:31:50,239
+this out. So make it 15 minutes.
+
+1372
+01:31:50,239 --> 01:31:53,760
+That means that a session a session uh
+
+1373
+01:31:53,760 --> 01:31:57,360
+key or a session uh value will last for
+
+1374
+01:31:57,360 --> 01:31:59,360
+15 minutes while we're working this
+
+1375
+01:31:59,360 --> 01:32:01,440
+stuff out. But if you want to make it
+
+1376
+01:32:01,440 --> 01:32:03,600
+longer or shorter, then that's what you
+
+1377
+01:32:03,600 --> 01:32:06,960
+that's what you do to change it. Uh then
+
+1378
+01:32:06,960 --> 01:32:09,960
+save.
+
+1379
+01:32:14,719 --> 01:32:16,800
+Okay. So now now we got four
+
+1380
+01:32:16,800 --> 01:32:19,760
+authentication flows and then click on
+
+1381
+01:32:19,760 --> 01:32:23,120
+username and password.
+
+1382
+01:32:23,120 --> 01:32:29,920
+Yep. So now we're here. Okay. So now
+
+1383
+01:32:29,920 --> 01:32:34,400
+with VAT with VAT uh let's try
+
+1384
+01:32:34,400 --> 01:32:37,400
+authenticating.
+
+1385
+01:32:43,760 --> 01:32:47,840
+Unable to verify secret hash for
+
+1386
+01:32:47,840 --> 01:32:49,520
+client
+
+1387
+01:32:49,520 --> 01:32:53,199
+blah blah. Okay.
+
+1388
+01:32:53,199 --> 01:32:55,760
+Secret hash. Okay. So that's your client
+
+1389
+01:32:55,760 --> 01:32:57,280
+ID.
+
+1390
+01:32:57,280 --> 01:33:00,400
+And then the the client secret. We don't
+
+1391
+01:33:00,400 --> 01:33:02,239
+need to worry about that's we only did
+
+1392
+01:33:02,239 --> 01:33:06,960
+that when we were configuring the um the
+
+1393
+01:33:06,960 --> 01:33:10,880
+hash. How about we try reconfiguring
+
+1394
+01:33:10,880 --> 01:33:14,199
+that hash?
+
+1395
+01:33:15,040 --> 01:33:16,560
+Okay.
+
+1396
+01:33:16,560 --> 01:33:20,000
+>> Um, did did you did you get to configure
+
+1397
+01:33:20,000 --> 01:33:22,320
+that hash by chance or No,
+
+1398
+01:33:22,320 --> 01:33:23,840
+>> I don't think I did. No.
+
+1399
+01:33:23,840 --> 01:33:24,480
+>> Okay.
+
+1400
+01:33:24,480 --> 01:33:26,639
+>> I was I I had to step away from my desk
+
+1401
+01:33:26,639 --> 01:33:28,960
+if I something. So, I just tried to
+
+1402
+01:33:28,960 --> 01:33:30,719
+catch up as quickly as I could.
+
+1403
+01:33:30,719 --> 01:33:34,719
+>> Gotcha. Gotcha. Okay. So,
+
+1404
+01:33:34,719 --> 01:33:37,600
+uh
+
+1405
+01:33:37,600 --> 01:33:40,560
+let's do this. So, I think Bash Bash
+
+1406
+01:33:40,560 --> 01:33:44,960
+made a uh a quick script for Bash made a
+
+1407
+01:33:44,960 --> 01:33:48,239
+quick script for you uh or for for all
+
+1408
+01:33:48,239 --> 01:33:50,960
+of us actually.
+
+1409
+01:33:50,960 --> 01:33:54,239
+Um but copy paste doesn't work on my
+
+1410
+01:33:54,239 --> 01:33:56,880
+Zoom because it's Oh, [ __ ] It works for
+
+1411
+01:33:56,880 --> 01:34:00,000
+you. Oh, no. No, it does not. Okay, I
+
+1412
+01:34:00,000 --> 01:34:03,360
+got I got a link I got a link for you.
+
+1413
+01:34:03,360 --> 01:34:06,239
+So, let's use this one.
+
+1414
+01:34:06,239 --> 01:34:10,000
+Okay. So, and Bash, if you can throw in
+
+1415
+01:34:10,000 --> 01:34:13,280
+your script, then that'd be cool.
+
+1416
+01:34:13,280 --> 01:34:14,480
+>> Thank you.
+
+1417
+01:34:14,480 --> 01:34:16,960
+>> So, Carlton, if uh open up the Zoom
+
+1418
+01:34:16,960 --> 01:34:20,639
+chat, I put in a uh a link uh that
+
+1419
+01:34:20,639 --> 01:34:25,639
+should say unable to verify secret hash.
+
+1420
+01:34:31,120 --> 01:34:33,360
+>> Uh you may not be able to to copy it.
+
+1421
+01:34:33,360 --> 01:34:37,280
+So, just going to uh
+
+1422
+01:34:37,280 --> 01:34:39,920
+>> yeah, just it'll be you may just have to
+
+1423
+01:34:39,920 --> 01:34:41,440
+just click on the hyperlink and then
+
+1424
+01:34:41,440 --> 01:34:43,600
+copy it from wherever it opens up on
+
+1425
+01:34:43,600 --> 01:34:46,840
+your machine.
+
+1426
+01:34:49,679 --> 01:34:54,080
+You know what? I'll give you the uh
+
+1427
+01:34:54,080 --> 01:34:57,480
+There you go.
+
+1428
+01:34:59,280 --> 01:35:03,040
+Okay. So, yep. So this is what we're
+
+1429
+01:35:03,040 --> 01:35:07,360
+solving for right now. So scroll down.
+
+1430
+01:35:07,360 --> 01:35:12,320
+Okay. So this right here,
+
+1431
+01:35:12,320 --> 01:35:15,920
+this is the contents of the file we're
+
+1432
+01:35:15,920 --> 01:35:19,280
+going to create in order to
+
+1433
+01:35:19,280 --> 01:35:23,920
+get the um the secret hash. So, all you
+
+1434
+01:35:23,920 --> 01:35:27,440
+have to do is um copy everything here
+
+1435
+01:35:27,440 --> 01:35:31,040
+that's that's boxed in and copy all
+
+1436
+01:35:31,040 --> 01:35:34,719
+these lines and then save it as a Python
+
+1437
+01:35:34,719 --> 01:35:36,320
+file.
+
+1438
+01:35:36,320 --> 01:35:38,239
+They they refer to it as, you know,
+
+1439
+01:35:38,239 --> 01:35:40,560
+secret_hash.py.
+
+1440
+01:35:40,560 --> 01:35:42,320
+Doesn't really matter the name. It can
+
+1441
+01:35:42,320 --> 01:35:44,560
+be whatever you want, you know. It could
+
+1442
+01:35:44,560 --> 01:35:50,400
+be bald eagle, could be
+
+1443
+01:35:50,400 --> 01:35:52,719
+uh
+
+1444
+01:35:52,719 --> 01:35:54,880
+I don't know, diddy oil. I I have I
+
+1445
+01:35:54,880 --> 01:35:56,400
+don't know. Could be whatever you want.
+
+1446
+01:35:56,400 --> 01:36:00,080
+But basically, create create a file,
+
+1447
+01:36:00,080 --> 01:36:02,480
+create a Python file or a file that ends
+
+1448
+01:36:02,480 --> 01:36:07,679
+in py paste that content into that file.
+
+1449
+01:36:07,679 --> 01:36:10,560
+And then what we're going to do next is
+
+1450
+01:36:10,560 --> 01:36:14,239
+if this is number one then this is
+
+1451
+01:36:14,239 --> 01:36:17,040
+number two. We're going to run this
+
+1452
+01:36:17,040 --> 01:36:20,040
+command.
+
+1453
+01:36:21,120 --> 01:36:22,880
+So
+
+1454
+01:36:22,880 --> 01:36:25,600
+once that once that file is created then
+
+1455
+01:36:25,600 --> 01:36:28,719
+open up git bash and we can uh go
+
+1456
+01:36:28,719 --> 01:36:32,400
+through the the rigma roll.
+
+1457
+01:36:32,400 --> 01:36:34,480
+>> All right. Give me a second.
+
+1458
+01:36:34,480 --> 01:36:36,560
+>> Yep.
+
+1459
+01:36:36,560 --> 01:36:39,560
+PS
+
+1460
+01:36:42,159 --> 01:36:45,159
+open.
+
+1461
+01:37:40,719 --> 01:37:43,040
+save and then I have to go and find it.
+
+1462
+01:37:43,040 --> 01:37:44,000
+Correct.
+
+1463
+01:37:44,000 --> 01:37:47,000
+>> Yep.
+
+1464
+01:37:47,119 --> 01:37:52,320
+So this overrides the Okay. So, um, TIQS
+
+1465
+01:37:52,320 --> 01:37:55,440
+instead of instead of that that script
+
+1466
+01:37:55,440 --> 01:38:00,080
+overriding it like what we did in the um
+
+1467
+01:38:00,080 --> 01:38:02,480
+what we did with copying the file, it
+
+1468
+01:38:02,480 --> 01:38:05,280
+just makes a a regular a regular file.
+
+1469
+01:38:05,280 --> 01:38:08,080
+What bashers command does
+
+1470
+01:38:08,080 --> 01:38:11,360
+runs that just it's another way to run
+
+1471
+01:38:11,360 --> 01:38:15,760
+that run the processes in a single line.
+
+1472
+01:38:15,760 --> 01:38:18,800
+Um, so it there's mult multiple ways to
+
+1473
+01:38:18,800 --> 01:38:23,800
+get the same same work done.
+
+1474
+01:38:24,159 --> 01:38:26,480
+>> Yeah, absolutely. Um, it just prints it
+
+1475
+01:38:26,480 --> 01:38:29,840
+to the CLI basically. So you can there's
+
+1476
+01:38:29,840 --> 01:38:33,840
+multiple ways to skin a cat as they say.
+
+1477
+01:38:33,840 --> 01:38:36,840
+>> Indeed.
+
+1478
+01:38:54,159 --> 01:38:57,480
+There it is.
+
+1479
+01:39:00,159 --> 01:39:04,400
+>> Okay. So, file created.
+
+1480
+01:39:04,400 --> 01:39:05,280
+>> Yeah.
+
+1481
+01:39:05,280 --> 01:39:09,920
+>> Cool. Now, now you can run the that
+
+1482
+01:39:09,920 --> 01:39:11,600
+second command.
+
+1483
+01:39:11,600 --> 01:39:14,480
+So
+
+1484
+01:39:14,480 --> 01:39:17,679
+may have to run just Python uh Python
+
+1485
+01:39:17,679 --> 01:39:21,119
+space and then the file name
+
+1486
+01:39:21,119 --> 01:39:24,400
+and then uh and then you'll fill in the
+
+1487
+01:39:24,400 --> 01:39:27,760
+username with your actual username,
+
+1488
+01:39:27,760 --> 01:39:30,719
+the client ID with your actual client ID
+
+1489
+01:39:30,719 --> 01:39:33,679
+and the client secret with your actual
+
+1490
+01:39:33,679 --> 01:39:37,080
+client secret.
+
+1491
+01:39:37,920 --> 01:39:40,800
+>> Okay. So um
+
+1492
+01:39:40,800 --> 01:39:41,760
+Mhm.
+
+1493
+01:39:41,760 --> 01:39:43,920
+>> So username is whatever you you set up
+
+1494
+01:39:43,920 --> 01:39:46,920
+incognito.
+
+1495
+01:39:55,920 --> 01:39:58,920
+Yep.
+
+1496
+01:40:02,239 --> 01:40:08,199
+Then the secret is the secret.
+
+1497
+01:40:12,800 --> 01:40:18,800
+Yep. Okay. And then copy that
+
+1498
+01:40:18,800 --> 01:40:20,800
+that hash.
+
+1499
+01:40:20,800 --> 01:40:23,840
+And one last thing I'll double check is
+
+1500
+01:40:23,840 --> 01:40:26,560
+I would check the us. So the users
+
+1501
+01:40:26,560 --> 01:40:30,800
+you've used the doc at at doc.cloud ops
+
+1502
+01:40:30,800 --> 01:40:34,960
+I would verify that in the um
+
+1503
+01:40:34,960 --> 01:40:36,719
+I would verify that in the user
+
+1504
+01:40:36,719 --> 01:40:40,920
+management section. So users.
+
+1505
+01:40:42,320 --> 01:40:46,000
+Okay. So you're right. I did that wrong.
+
+1506
+01:40:46,000 --> 01:40:49,199
+>> Yeah. It it got tiqs so it can get us
+
+1507
+01:40:49,199 --> 01:40:51,520
+all.
+
+1508
+01:40:51,520 --> 01:40:54,239
+one second.
+
+1509
+01:40:54,239 --> 01:40:55,840
+>> So,
+
+1510
+01:40:55,840 --> 01:40:58,000
+>> so all you'll have to do is just redo
+
+1511
+01:40:58,000 --> 01:41:02,159
+the hash with this new with this uh
+
+1512
+01:41:02,159 --> 01:41:06,119
+username created
+
+1513
+01:41:31,840 --> 01:41:36,520
+Yep. Yep. That's good.
+
+1514
+01:41:37,920 --> 01:41:40,880
+Okay. So then next is just to redo my
+
+1515
+01:41:40,880 --> 01:41:42,719
+command lines.
+
+1516
+01:41:42,719 --> 01:41:45,520
+>> Yeah. So now so now we have the secret
+
+1517
+01:41:45,520 --> 01:41:47,119
+hash.
+
+1518
+01:41:47,119 --> 01:41:48,880
+Next we can do the initiate
+
+1519
+01:41:48,880 --> 01:41:51,880
+authentication.
+
+1520
+01:41:59,920 --> 01:42:03,520
+>> So do you do you have the initiate o uh
+
+1521
+01:42:03,520 --> 01:42:05,040
+code block?
+
+1522
+01:42:05,040 --> 01:42:09,080
+>> Yeah. Okay.
+
+1523
+01:42:15,679 --> 01:42:17,840
+My scratch pad.
+
+1524
+01:42:17,840 --> 01:42:18,480
+>> Oh,
+
+1525
+01:42:18,480 --> 01:42:21,199
+>> actually I got another scratch. Hold on.
+
+1526
+01:42:21,199 --> 01:42:23,199
+Make it easier cuz I'm all over the
+
+1527
+01:42:23,199 --> 01:42:25,280
+place. Sorry. I was trying to catch up
+
+1528
+01:42:25,280 --> 01:42:29,280
+so I just started doing [ __ ]
+
+1529
+01:42:29,280 --> 01:42:32,600
+Not a problem.
+
+1530
+01:42:56,320 --> 01:43:00,480
+So this is my username
+
+1531
+01:43:00,480 --> 01:43:03,880
+super secret hash
+
+1532
+01:43:18,400 --> 01:43:22,440
+It's my client radiating. Let's
+
+1533
+01:43:24,560 --> 01:43:27,800
+try it.
+
+1534
+01:43:51,199 --> 01:43:54,800
+Then it's the second one everybody.
+
+1535
+01:43:54,800 --> 01:43:57,800
+Correct.
+
+1536
+01:43:59,760 --> 01:44:03,679
+Okay. So we have So good. You got the So
+
+1537
+01:44:03,679 --> 01:44:06,639
+the first part worked. Good. So you have
+
+1538
+01:44:06,639 --> 01:44:09,440
+your challenge name and then you have
+
+1539
+01:44:09,440 --> 01:44:11,280
+your session.
+
+1540
+01:44:11,280 --> 01:44:15,280
+So you'll need that session code
+
+1541
+01:44:15,280 --> 01:44:17,199
+uh for the you need that session token
+
+1542
+01:44:17,199 --> 01:44:20,639
+for the next one for the next part.
+
+1543
+01:44:20,639 --> 01:44:23,639
+>> Okay.
+
+1544
+01:44:29,280 --> 01:44:31,119
+>> Do I need to put uh keep the quotes
+
+1545
+01:44:31,119 --> 01:44:32,719
+around that session?
+
+1546
+01:44:32,719 --> 01:44:36,719
+>> Uh no because this is uh this is working
+
+1547
+01:44:36,719 --> 01:44:40,159
+in uh JSON. So this is this is JSON
+
+1548
+01:44:40,159 --> 01:44:42,400
+output but what we're doing is straight
+
+1549
+01:44:42,400 --> 01:44:44,400
+command line. So we don't have to follow
+
+1550
+01:44:44,400 --> 01:44:47,920
+that uh that rubric. What you have in uh
+
+1551
+01:44:47,920 --> 01:44:50,639
+in uh VS Code or what you had in VS Code
+
+1552
+01:44:50,639 --> 01:44:53,880
+was good.
+
+1553
+01:45:11,440 --> 01:45:14,560
+And then I need to use my uh MFA for my
+
+1554
+01:45:14,560 --> 01:45:15,760
+coke, right?
+
+1555
+01:45:15,760 --> 01:45:18,760
+>> Yes.
+
+1556
+01:45:39,440 --> 01:45:41,520
+[ __ ] I forgot
+
+1557
+01:45:41,520 --> 01:45:42,880
+it is not going to like these back
+
+1558
+01:45:42,880 --> 01:45:44,800
+slashes. So, I need to do them real
+
+1559
+01:45:44,800 --> 01:45:46,080
+quick. Sorry.
+
+1560
+01:45:46,080 --> 01:45:50,000
+>> Nope. It's all good. It's all good.
+
+1561
+01:45:50,000 --> 01:45:53,600
+>> For some reason, get bash back slashes.
+
+1562
+01:45:53,600 --> 01:45:59,080
+It throws a fit. What was a fit?
+
+1563
+01:46:30,639 --> 01:46:33,600
+All right. So before you uh uh can you
+
+1564
+01:46:33,600 --> 01:46:38,239
+can we see your um your GI your VS code?
+
+1565
+01:46:38,239 --> 01:46:40,960
+>> Uh yeah.
+
+1566
+01:46:40,960 --> 01:46:43,119
+So, just so we can uh just so I can see
+
+1567
+01:46:43,119 --> 01:46:46,000
+before anything happens. All right. So,
+
+1568
+01:46:46,000 --> 01:46:48,960
+Yep. respond off challenge. Yep. Client
+
+1569
+01:46:48,960 --> 01:46:53,600
+ID. Aha. Okay. So, so did what I wanted
+
+1570
+01:46:53,600 --> 01:46:56,159
+to see. So, so we got challenge name.
+
+1571
+01:46:56,159 --> 01:46:57,679
+Okay.
+
+1572
+01:46:57,679 --> 01:47:03,000
+So, what's the challenge name here?
+
+1573
+01:47:12,639 --> 01:47:16,080
+Right. So
+
+1574
+01:47:16,080 --> 01:47:18,880
+the request so when you initiated the
+
+1575
+01:47:18,880 --> 01:47:21,199
+authentication
+
+1576
+01:47:21,199 --> 01:47:23,280
+these two have to match up if you want
+
+1577
+01:47:23,280 --> 01:47:25,360
+to if you want the authentication to go
+
+1578
+01:47:25,360 --> 01:47:26,320
+through
+
+1579
+01:47:26,320 --> 01:47:28,800
+>> and the response we got was for software
+
+1580
+01:47:28,800 --> 01:47:33,119
+token. So, um, so we can, so I'll just
+
+1581
+01:47:33,119 --> 01:47:36,239
+switch out software token MFA for SMS
+
+1582
+01:47:36,239 --> 01:47:41,800
+MFA or no, you know what I mean?
+
+1583
+01:47:48,719 --> 01:47:52,960
+Yep. Okay. So, now you got challenge
+
+1584
+01:47:52,960 --> 01:47:55,679
+responses, username equals blah blah
+
+1585
+01:47:55,679 --> 01:47:57,520
+blah, right?
+
+1586
+01:47:57,520 --> 01:47:59,199
+Uh,
+
+1587
+01:47:59,199 --> 01:48:00,800
+okay.
+
+1588
+01:48:00,800 --> 01:48:03,840
+All right. And you'll also need to take
+
+1589
+01:48:03,840 --> 01:48:07,119
+a look at the at the documents. It'll be
+
+1590
+01:48:07,119 --> 01:48:09,199
+helpful.
+
+1591
+01:48:09,199 --> 01:48:12,400
+Uh, you know what? Let me just get the
+
+1592
+01:48:12,400 --> 01:48:15,119
+the copy.
+
+1593
+01:48:15,119 --> 01:48:18,000
+Uh, just get let's just get the link for
+
+1594
+01:48:18,000 --> 01:48:19,760
+you.
+
+1595
+01:48:19,760 --> 01:48:21,600
+There you go.
+
+1596
+01:48:21,600 --> 01:48:25,040
+So, bam. Bam.
+
+1597
+01:48:25,040 --> 01:48:30,960
+and Emerald said bam. Okay. So let's
+
+1598
+01:48:30,960 --> 01:48:34,159
+look at this uh this the ways the wink
+
+1599
+01:48:34,159 --> 01:48:37,199
+guy put in chat or respond to off
+
+1600
+01:48:37,199 --> 01:48:40,199
+challenge
+
+1601
+01:48:41,520 --> 01:48:43,199
+and
+
+1602
+01:48:43,199 --> 01:48:45,760
+yeah you won't be able to write quick
+
+1603
+01:48:45,760 --> 01:48:50,800
+copy but oh was he okay cool I I had to
+
+1604
+01:48:50,800 --> 01:48:52,639
+open up in different I have more than
+
+1605
+01:48:52,639 --> 01:48:54,480
+one browser open on more than one screen
+
+1606
+01:48:54,480 --> 01:48:56,080
+and I just brought it over to the shared
+
+1607
+01:48:56,080 --> 01:48:57,600
+screen so we can all see at the same
+
+1608
+01:48:57,600 --> 01:49:01,040
+time four. Okay, so respond the off
+
+1609
+01:49:01,040 --> 01:49:04,320
+challenge. So, uh, scroll down a bit and
+
+1610
+01:49:04,320 --> 01:49:07,440
+we'll see synopsis. Okay, so scroll down
+
+1611
+01:49:07,440 --> 01:49:10,719
+until So, this is good. We're good. So,
+
+1612
+01:49:10,719 --> 01:49:13,840
+here, so here's how you can read the a
+
+1613
+01:49:13,840 --> 01:49:16,960
+the command reference guide for AWS. So,
+
+1614
+01:49:16,960 --> 01:49:18,960
+you have synopsis.
+
+1615
+01:49:18,960 --> 01:49:20,480
+So,
+
+1616
+01:49:20,480 --> 01:49:22,880
+in your mind, you can already say that
+
+1617
+01:49:22,880 --> 01:49:27,119
+we're doing AWS,
+
+1618
+01:49:27,119 --> 01:49:30,159
+right? That's one. And then the second
+
+1619
+01:49:30,159 --> 01:49:34,080
+is what service are we using? So this is
+
+1620
+01:49:34,080 --> 01:49:37,080
+cogto
+
+1621
+01:49:41,119 --> 01:49:44,119
+dashp.
+
+1622
+01:49:45,760 --> 01:49:50,000
+Okay. So so we're already doing AWS
+
+1623
+01:49:50,000 --> 01:49:52,800
+cognto-idp.
+
+1624
+01:49:52,800 --> 01:49:57,600
+So this third So the third portion
+
+1625
+01:49:57,600 --> 01:50:01,920
+is this respond to off challenge.
+
+1626
+01:50:01,920 --> 01:50:05,360
+Okay. And then everything underneath
+
+1627
+01:50:05,360 --> 01:50:07,920
+here are
+
+1628
+01:50:07,920 --> 01:50:12,560
+flags that we have to run. So we have
+
+1629
+01:50:12,560 --> 01:50:16,560
+two ma. So every so how to read this?
+
+1630
+01:50:16,560 --> 01:50:18,880
+Everything that's not inside of the
+
+1631
+01:50:18,880 --> 01:50:20,560
+brackets
+
+1632
+01:50:20,560 --> 01:50:23,840
+these are mandatory. So client ID is
+
+1633
+01:50:23,840 --> 01:50:27,440
+mandatory and then challenge name is
+
+1634
+01:50:27,440 --> 01:50:29,040
+mandatory
+
+1635
+01:50:29,040 --> 01:50:31,760
+and then for our purposes
+
+1636
+01:50:31,760 --> 01:50:35,520
+we'll also need um
+
+1637
+01:50:35,520 --> 01:50:37,920
+where is session
+
+1638
+01:50:37,920 --> 01:50:40,080
+>> at the top first one.
+
+1639
+01:50:40,080 --> 01:50:42,880
+>> Oh well there you go. See your your eyes
+
+1640
+01:50:42,880 --> 01:50:47,840
+are working. So session and then um this
+
+1641
+01:50:47,840 --> 01:50:50,719
+one too challenge responses. So
+
+1642
+01:50:50,719 --> 01:50:53,679
+basically, we'll need these top four
+
+1643
+01:50:53,679 --> 01:50:57,920
+these top four in order to in order to
+
+1644
+01:50:57,920 --> 01:51:01,760
+get this challenge to work or to
+
+1645
+01:51:01,760 --> 01:51:05,520
+authenticate on the command line. Okay,
+
+1646
+01:51:05,520 --> 01:51:08,520
+so
+
+1647
+01:51:08,960 --> 01:51:11,199
+with that said,
+
+1648
+01:51:11,199 --> 01:51:14,560
+uh we can start filling in some values.
+
+1649
+01:51:14,560 --> 01:51:18,960
+Um and well actually uh yeah we we'll
+
+1650
+01:51:18,960 --> 01:51:22,560
+start filling in some values. So
+
+1651
+01:51:22,560 --> 01:51:25,280
+we have so you have your cogno respond
+
+1652
+01:51:25,280 --> 01:51:27,520
+to off challenge. So you have your qu So
+
+1653
+01:51:27,520 --> 01:51:30,960
+you do have a client ID
+
+1654
+01:51:30,960 --> 01:51:33,679
+you have a challenge name.
+
+1655
+01:51:33,679 --> 01:51:36,000
+>> Sorry too much.
+
+1656
+01:51:36,000 --> 01:51:37,760
+>> Okay. No it's all good. It's all good.
+
+1657
+01:51:37,760 --> 01:51:42,080
+So, so we have one,
+
+1658
+01:51:42,080 --> 01:51:45,840
+you have two, you have three. That's
+
+1659
+01:51:45,840 --> 01:51:48,880
+good. You have client ID, you have your
+
+1660
+01:51:48,880 --> 01:51:51,280
+challenge name, you have challenge
+
+1661
+01:51:51,280 --> 01:51:53,199
+responses,
+
+1662
+01:51:53,199 --> 01:51:57,840
+and then you also have your session,
+
+1663
+01:51:57,840 --> 01:52:00,080
+which is somewhere in the ether over
+
+1664
+01:52:00,080 --> 01:52:01,920
+there.
+
+1665
+01:52:01,920 --> 01:52:05,119
+Okay. Okay. Good. Then you have session.
+
+1666
+01:52:05,119 --> 01:52:08,000
+So, for challenge responses, we we're
+
+1667
+01:52:08,000 --> 01:52:10,239
+going to need more stuff because we cuz
+
+1668
+01:52:10,239 --> 01:52:13,840
+right now we only have username. Okay.
+
+1669
+01:52:13,840 --> 01:52:16,239
+Uh well, actually, we have username and
+
+1670
+01:52:16,239 --> 01:52:20,480
+then we have MFA, but that's not the but
+
+1671
+01:52:20,480 --> 01:52:22,960
+that's not the uh code that we that
+
+1672
+01:52:22,960 --> 01:52:25,040
+we're going to use because we're using
+
+1673
+01:52:25,040 --> 01:52:29,679
+software token that's aligning to um uh
+
+1674
+01:52:29,679 --> 01:52:33,119
+SMS. So try
+
+1675
+01:52:33,119 --> 01:52:35,760
+uh copying this block where it says
+
+1676
+01:52:35,760 --> 01:52:40,400
+software token MFA. Copy that and then
+
+1677
+01:52:40,400 --> 01:52:43,360
+uh paste paste and search for it on the
+
+1678
+01:52:43,360 --> 01:52:47,360
+page. So copy software token MFA.
+
+1679
+01:52:47,360 --> 01:52:51,679
+Okay. And then control F and search it
+
+1680
+01:52:51,679 --> 01:52:55,520
+for it. Yep. Uh
+
+1681
+01:52:55,520 --> 01:52:59,599
+okay. Go down. Uh keep searching down.
+
+1682
+01:52:59,599 --> 01:53:02,080
+Oh, he get Yeah, the beautiful
+
+1683
+01:53:02,080 --> 01:53:04,320
+beautiful. Here we are. It seems like
+
+1684
+01:53:04,320 --> 01:53:06,159
+you already know what you're doing.
+
+1685
+01:53:06,159 --> 01:53:07,760
+Okay,
+
+1686
+01:53:07,760 --> 01:53:09,520
+so we have challenge. So, we have
+
+1687
+01:53:09,520 --> 01:53:12,639
+challenge name softka
+
+1688
+01:53:12,639 --> 01:53:15,840
+challenge responses username.
+
+1689
+01:53:15,840 --> 01:53:19,840
+We have this bad right here,
+
+1690
+01:53:19,840 --> 01:53:24,440
+which is good. Um,
+
+1691
+01:53:26,960 --> 01:53:30,000
+okay. Yeah. So we have the username we
+
+1692
+01:53:30,000 --> 01:53:32,719
+we have to copy this software token MFA
+
+1693
+01:53:32,719 --> 01:53:38,280
+code. So this will replace the SMS code.
+
+1694
+01:53:43,119 --> 01:53:47,119
+>> So just put code at the end of that
+
+1695
+01:53:47,119 --> 01:53:49,599
+>> end of what
+
+1696
+01:53:49,599 --> 01:53:50,639
+>> here?
+
+1697
+01:53:50,639 --> 01:53:52,159
+>> Well,
+
+1698
+01:53:52,159 --> 01:53:55,199
+where where is the MFA code uh where is
+
+1699
+01:53:55,199 --> 01:53:58,800
+that being uh used in? So that that
+
+1700
+01:53:58,800 --> 01:54:00,800
+software token MFA code that's being
+
+1701
+01:54:00,800 --> 01:54:03,119
+used in the within the responses the
+
+1702
+01:54:03,119 --> 01:54:06,239
+challenge responses.
+
+1703
+01:54:06,239 --> 01:54:08,400
+So the challenge responses are right
+
+1704
+01:54:08,400 --> 01:54:10,880
+here. So we need to get rid of this one
+
+1705
+01:54:10,880 --> 01:54:16,840
+and put that new info right here.
+
+1706
+01:54:18,159 --> 01:54:19,679
+So
+
+1707
+01:54:19,679 --> 01:54:22,679
+right
+
+1708
+01:54:23,520 --> 01:54:26,719
+it's got a match. So, software token MFA
+
+1709
+01:54:26,719 --> 01:54:29,719
+code.
+
+1710
+01:54:34,320 --> 01:54:36,880
+Yeah. And that'll just make it all caps.
+
+1711
+01:54:36,880 --> 01:54:40,080
+Yep. Yep. Yep. Yep. Cool. So, that's
+
+1712
+01:54:40,080 --> 01:54:44,719
+there. And then, uh, because we use a
+
+1713
+01:54:44,719 --> 01:54:47,599
+secret hash, we also need the secret
+
+1714
+01:54:47,599 --> 01:54:50,800
+hash to be within challenge responses,
+
+1715
+01:54:50,800 --> 01:54:53,800
+right?
+
+1716
+01:55:03,920 --> 01:55:06,800
+Um, so that should I go before sessions
+
+1717
+01:55:06,800 --> 01:55:08,800
+or does it matter where I put it?
+
+1718
+01:55:08,800 --> 01:55:12,480
+>> I'll put it I'll put it uh so after the
+
+1719
+01:55:12,480 --> 01:55:16,480
+MFA code you can just do comma and then
+
+1720
+01:55:16,480 --> 01:55:20,719
+uh secret uh hash similar to how it was
+
+1721
+01:55:20,719 --> 01:55:22,639
+done up here. See how he did password
+
+1722
+01:55:22,639 --> 01:55:26,080
+and then comma then secret hash. Same
+
+1723
+01:55:26,080 --> 01:55:29,080
+way
+
+1724
+01:55:33,199 --> 01:55:38,280
+repetition is the path to mastery.
+
+1725
+01:55:38,400 --> 01:55:43,840
+So okay. So we have our updated
+
+1726
+01:55:43,840 --> 01:55:48,880
+um software token MFA. We have the ch.
+
+1727
+01:55:48,880 --> 01:55:50,080
+We have the appropriate challenge
+
+1728
+01:55:50,080 --> 01:55:51,679
+responses.
+
+1729
+01:55:51,679 --> 01:55:54,080
+We have the session.
+
+1730
+01:55:54,080 --> 01:55:59,080
+I think we're good to give it a shot.
+
+1731
+01:56:03,440 --> 01:56:07,679
+And like TIQS said, hopefully your 15
+
+1732
+01:56:07,679 --> 01:56:09,599
+minutes didn't expire.
+
+1733
+01:56:09,599 --> 01:56:12,599
+>> Probably.
+
+1734
+01:56:32,880 --> 01:56:35,599
+Just being a It's just being a player.
+
+1735
+01:56:35,599 --> 01:56:39,159
+That's all it is.
+
+1736
+01:56:47,040 --> 01:56:49,119
+So
+
+1737
+01:56:49,119 --> 01:56:52,599
+for my universe,
+
+1738
+01:57:12,400 --> 01:57:16,520
+This hasn't started again.
+
+1739
+01:57:38,880 --> 01:57:44,119
+Cool. Okay. New session.
+
+1740
+01:57:53,360 --> 01:57:56,599
+This one.
+
+1741
+01:57:57,599 --> 01:58:01,880
+Let's just do this. So,
+
+1742
+01:58:44,719 --> 01:58:48,679
+Did you update your MFA?
+
+1743
+01:58:48,800 --> 01:58:51,280
+>> Thank you.
+
+1744
+01:58:51,280 --> 01:58:53,679
+>> That that gets that has gotten many of
+
+1745
+01:58:53,679 --> 01:58:56,679
+us.
+
+1746
+01:59:31,440 --> 01:59:33,040
+Yeah, that's smart. Waiting for a fresh
+
+1747
+01:59:33,040 --> 01:59:35,760
+coke.
+
+1748
+01:59:35,760 --> 01:59:38,760
+>> Yeah.
+
+1749
+01:59:43,520 --> 01:59:47,639
+B get
+
+1750
+02:00:03,760 --> 02:00:05,520
+this works.
+
+1751
+02:00:05,520 --> 02:00:08,320
+Error. Uhhuh. And that that's what that
+
+1752
+02:00:08,320 --> 02:00:10,800
+did previously. That's what I thought.
+
+1753
+02:00:10,800 --> 02:00:14,400
+Okay. So I I know why it didn't work
+
+1754
+02:00:14,400 --> 02:00:17,199
+because you have all these invisible
+
+1755
+02:00:17,199 --> 02:00:21,440
+spaces or invisible enter marks here.
+
+1756
+02:00:21,440 --> 02:00:24,719
+>> So So it's e it's an easy fix. It's
+
+1757
+02:00:24,719 --> 02:00:26,560
+annoying, but we can just we can fix it
+
+1758
+02:00:26,560 --> 02:00:28,560
+real quick. So go back thing to get
+
+1759
+02:00:28,560 --> 02:00:31,560
+bash.
+
+1760
+02:00:33,840 --> 02:00:34,400
+>> We're here.
+
+1761
+02:00:34,400 --> 02:00:36,639
+>> Oh. Oh, sorry. Sorry, sorry. I mean, I I
+
+1762
+02:00:36,639 --> 02:00:40,239
+misspoke. VS Code.
+
+1763
+02:00:40,239 --> 02:00:45,119
+Yeah. So uh at the So you can go to the
+
+1764
+02:00:45,119 --> 02:00:48,000
+beginning of each one and and press uh
+
+1765
+02:00:48,000 --> 02:00:49,679
+backspace.
+
+1766
+02:00:49,679 --> 02:00:53,360
+So start with start with B or yeah start
+
+1767
+02:00:53,360 --> 02:00:56,920
+with three backspace
+
+1768
+02:00:57,280 --> 02:01:01,599
+uh four backspace. Yep. You you know the
+
+1769
+02:01:01,599 --> 02:01:04,599
+deal.
+
+1770
+02:01:06,480 --> 02:01:11,599
+And if they do have a uh a dash, then if
+
+1771
+02:01:11,599 --> 02:01:14,239
+they end up with a dash similar to this,
+
+1772
+02:01:14,239 --> 02:01:17,920
+I will then that may be the the lines
+
+1773
+02:01:17,920 --> 02:01:19,840
+where are continuing without you having
+
+1774
+02:01:19,840 --> 02:01:23,560
+to interact with it.
+
+1775
+02:01:24,159 --> 02:01:25,440
+>> Okay.
+
+1776
+02:01:25,440 --> 02:01:29,280
+>> So, cuz that's happened to me.
+
+1777
+02:01:29,280 --> 02:01:31,040
+>> So, just leave it. Correct.
+
+1778
+02:01:31,040 --> 02:01:35,080
+>> Yeah. Yeah. Just leave it.
+
+1779
+02:01:40,000 --> 02:01:42,320
+Yeah. And then uh the last one should be
+
+1780
+02:01:42,320 --> 02:01:47,719
+B. See if see if you can uh
+
+1781
+02:01:48,560 --> 02:01:52,320
+There you go. So yeah,
+
+1782
+02:01:52,320 --> 02:01:55,960
+give that a shot.
+
+1783
+02:02:07,119 --> 02:02:10,320
+code as well. You can do that by
+
+1784
+02:02:10,320 --> 02:02:13,280
+pressing left. I mean, paste that and
+
+1785
+02:02:13,280 --> 02:02:14,800
+then we can just change the code. That's
+
+1786
+02:02:14,800 --> 02:02:17,440
+what I mean to say. You can just
+
+1787
+02:02:17,440 --> 02:02:18,639
+>> say it again. I'm sorry, I didn't hear
+
+1788
+02:02:18,639 --> 02:02:19,679
+you.
+
+1789
+02:02:19,679 --> 02:02:24,760
+>> Um, the MFA code would have run out.
+
+1790
+02:02:26,000 --> 02:02:30,400
+>> Just paste. Just paste. space for that
+
+1791
+02:02:30,400 --> 02:02:32,159
+and then
+
+1792
+02:02:32,159 --> 02:02:36,320
+uh what you can do is um
+
+1793
+02:02:36,320 --> 02:02:38,960
+uh hold down the control key and press
+
+1794
+02:02:38,960 --> 02:02:41,440
+the left arrow so you can speed through
+
+1795
+02:02:41,440 --> 02:02:45,520
+the uh the um speed through the content.
+
+1796
+02:02:45,520 --> 02:02:49,639
+Yeah, MFA is right here.
+
+1797
+02:02:51,360 --> 02:02:53,119
+>> That is such a cheat code, man. I love
+
+1798
+02:02:53,119 --> 02:02:56,119
+that.
+
+1799
+02:02:56,239 --> 02:02:58,239
+D school is useful for useful for
+
+1800
+02:02:58,239 --> 02:03:01,239
+something.
+
+1801
+02:03:08,880 --> 02:03:10,400
+>> All right.
+
+1802
+02:03:10,400 --> 02:03:14,400
+>> Okay. Fingers crossed. Let it rip.
+
+1803
+02:03:14,400 --> 02:03:17,360
+Praise the name of Jesus.
+
+1804
+02:03:17,360 --> 02:03:21,800
+>> Hey, Jesus delivered.
+
+1805
+02:03:24,480 --> 02:03:26,480
+Man, your phone your phone's dancing
+
+1806
+02:03:26,480 --> 02:03:27,599
+too. All right.
+
+1807
+02:03:27,599 --> 02:03:29,440
+>> Right. Right.
+
+1808
+02:03:29,440 --> 02:03:35,800
+>> So, you have done it. Good. So,
+
+1809
+02:03:36,560 --> 02:03:39,520
+>> so this is good. So, now we can see the
+
+1810
+02:03:39,520 --> 02:03:42,560
+parameters, authentication result, you
+
+1811
+02:03:42,560 --> 02:03:47,360
+get your access token, expiry, the uh
+
+1812
+02:03:47,360 --> 02:03:50,320
+refresh token, and ID token. This is all
+
+1813
+02:03:50,320 --> 02:03:53,040
+important because when we start when we
+
+1814
+02:03:53,040 --> 02:03:55,920
+start putting this into um because this
+
+1815
+02:03:55,920 --> 02:03:58,159
+is the type of stuff that API gateway
+
+1816
+02:03:58,159 --> 02:04:00,719
+will look at to verify that the request
+
+1817
+02:04:00,719 --> 02:04:02,800
+is legit
+
+1818
+02:04:02,800 --> 02:04:04,480
+and because we're setting it up in
+
+1819
+02:04:04,480 --> 02:04:08,960
+cognto we're basically defining how API
+
+1820
+02:04:08,960 --> 02:04:11,440
+gateway can def can refer to legit
+
+1821
+02:04:11,440 --> 02:04:14,639
+content. So this is good. So, I would
+
+1822
+02:04:14,639 --> 02:04:17,280
+say take a screenshot of this, put it
+
+1823
+02:04:17,280 --> 02:04:20,480
+into this chat, put it into a geck chat,
+
+1824
+02:04:20,480 --> 02:04:24,080
+put it both chats, and then now we now
+
+1825
+02:04:24,080 --> 02:04:28,400
+you know how to do it, which is amazing.
+
+1826
+02:04:28,400 --> 02:04:29,920
+>> Yeah, I'll be going back over this quite
+
+1827
+02:04:29,920 --> 02:04:33,239
+a few times.
+
+1828
+02:04:34,639 --> 02:04:37,760
+>> Yeah, like I [ __ ] the bed multiple times
+
+1829
+02:04:37,760 --> 02:04:40,000
+doing this.
+
+1830
+02:04:40,000 --> 02:04:42,800
+>> That's it happens to the best of us.
+
+1831
+02:04:42,800 --> 02:04:44,719
+Just make sure you change the the sheets
+
+1832
+02:04:44,719 --> 02:04:47,719
+afterwards.
+
+1833
+02:04:50,880 --> 02:04:53,599
+Okay. Um
+
+1834
+02:04:53,599 --> 02:04:57,280
+All right. So, at this point, good.
+
+1835
+02:04:57,280 --> 02:05:00,960
+Does anyone have Is anyone else stuck on
+
+1836
+02:05:00,960 --> 02:05:03,119
+this?
+
+1837
+02:05:03,119 --> 02:05:05,679
+Feeling charitable today, so might as
+
+1838
+02:05:05,679 --> 02:05:10,080
+well help people out. Um so, anyone else
+
+1839
+02:05:10,080 --> 02:05:13,199
+stuck on this? If not, I can just then
+
+1840
+02:05:13,199 --> 02:05:16,159
+we can just go through uh tear down and
+
+1841
+02:05:16,159 --> 02:05:20,840
+then you guys have the rest of your day.
+
+1842
+02:05:23,840 --> 02:05:26,719
+Okay. So, here
+
+1843
+02:05:26,719 --> 02:05:31,280
+>> no no one with questions, no one with uh
+
+1844
+02:05:31,280 --> 02:05:38,719
+uh config issues. We're good. Okay. So
+
+1845
+02:05:38,719 --> 02:05:42,800
+what? So in order to uh delete in order
+
+1846
+02:05:42,800 --> 02:05:46,000
+to tear this down cuz you will you will
+
+1847
+02:05:46,000 --> 02:05:48,639
+get charged for this. So you'll get
+
+1848
+02:05:48,639 --> 02:05:50,880
+traffic cognito. So what so what you can
+
+1849
+02:05:50,880 --> 02:05:55,599
+do is um if you go to your
+
+1850
+02:05:55,599 --> 02:05:58,320
+um
+
+1851
+02:05:58,320 --> 02:06:00,080
+actually call to can you share your
+
+1852
+02:06:00,080 --> 02:06:02,560
+screen if do you plan to keep this up or
+
+1853
+02:06:02,560 --> 02:06:05,360
+do you plan to destroy it?
+
+1854
+02:06:05,360 --> 02:06:07,199
+Uh, I'm planning on destroying it here.
+
+1855
+02:06:07,199 --> 02:06:08,639
+I'll do a screen share and be getting
+
+1856
+02:06:08,639 --> 02:06:09,760
+paid again.
+
+1857
+02:06:09,760 --> 02:06:11,599
+>> Yeah, because I want I want you to try
+
+1858
+02:06:11,599 --> 02:06:14,719
+one thing before I before you destroy it
+
+1859
+02:06:14,719 --> 02:06:16,320
+because I think there's an easy way to
+
+1860
+02:06:16,320 --> 02:06:18,400
+destroy this.
+
+1861
+02:06:18,400 --> 02:06:20,400
+>> All right. Uh, let me know when you can
+
+1862
+02:06:20,400 --> 02:06:21,360
+see.
+
+1863
+02:06:21,360 --> 02:06:22,880
+>> Yep, I can see it. Okay.
+
+1864
+02:06:22,880 --> 02:06:24,000
+>> All right. Cool.
+
+1865
+02:06:24,000 --> 02:06:27,760
+>> So, I want you So, try clicking on your
+
+1866
+02:06:27,760 --> 02:06:30,400
+user pools
+
+1867
+02:06:30,400 --> 02:06:34,159
+here and then click Yeah. Click there
+
+1868
+02:06:34,159 --> 02:06:36,079
+and then click delete. I want to see
+
+1869
+02:06:36,079 --> 02:06:40,520
+this will tear everything down.
+
+1870
+02:06:41,360 --> 02:06:42,880
+Yep.
+
+1871
+02:06:42,880 --> 02:06:46,880
+Yep. Bam.
+
+1872
+02:06:46,880 --> 02:06:49,880
+Delete.
+
+1873
+02:06:50,480 --> 02:06:54,159
+Yep. That's it.
+
+1874
+02:06:54,159 --> 02:06:56,960
+Easier than I thought. So yeah, user
+
+1875
+02:06:56,960 --> 02:07:00,960
+pool's gone and you won't get charged.
+
+1876
+02:07:00,960 --> 02:07:03,760
+You're good to go.
+
+1877
+02:07:03,760 --> 02:07:08,159
+So that's it for tearown. So now
+
+1878
+02:07:08,159 --> 02:07:09,599
+so yeah, if you guys want to run through
+
+1879
+02:07:09,599 --> 02:07:13,520
+it, then feel free. Um today's Tuesday's
+
+1880
+02:07:13,520 --> 02:07:15,679
+recording was a bit hectic. Yep. Just
+
+1881
+02:07:15,679 --> 02:07:18,639
+use a pool. That's it.
+
+1882
+02:07:18,639 --> 02:07:21,679
+And I want a screenshot of you guys
+
+1883
+02:07:21,679 --> 02:07:25,119
+deleting the uh if if you guys are
+
+1884
+02:07:25,119 --> 02:07:26,880
+tearing down, I want a screenshot in
+
+1885
+02:07:26,880 --> 02:07:31,040
+just in this chat of the user pool not
+
+1886
+02:07:31,040 --> 02:07:34,560
+being there any longer. Sweeney got it.
+
+1887
+02:07:34,560 --> 02:07:36,560
+There it is.
+
+1888
+02:07:36,560 --> 02:07:40,320
+There it is. Oh, look at that.
+
+1889
+02:07:40,320 --> 02:07:43,760
+Yep. Yep. Yep. Parameterized all this
+
+1890
+02:07:43,760 --> 02:07:48,079
+stuff. Cool. Works for me.
+
+1891
+02:07:48,079 --> 02:07:49,040
+Good work.
+
+1892
+02:07:49,040 --> 02:07:51,119
+>> Hey, Rob, do we get charged for user
+
+1893
+02:07:51,119 --> 02:07:52,400
+pools and all that?
+
+1894
+02:07:52,400 --> 02:07:55,840
+>> Yes, I I've I've gotten charged for my
+
+1895
+02:07:55,840 --> 02:08:00,159
+user pool. Uh so, um I'm tell that's why
+
+1896
+02:08:00,159 --> 02:08:02,639
+I'm telling you guys to tear it down.
+
+1897
+02:08:02,639 --> 02:08:04,639
+>> Okay, good to know. Thank you.
+
+1898
+02:08:04,639 --> 02:08:05,119
+>> No problem.
+
+1899
+02:08:05,119 --> 02:08:07,760
+>> TQS. It was that simple. Like I I had to
+
+1900
+02:08:07,760 --> 02:08:09,599
+rebuild mine three times and deleted the
+
+1901
+02:08:09,599 --> 02:08:11,679
+user pool and it was just gone. So, I
+
+1902
+02:08:11,679 --> 02:08:15,159
+was like, "All right, cool.
+
+1903
+02:08:19,440 --> 02:08:24,880
+Sweenie, there it is. Bam. Okay, so
+
+1904
+02:08:24,880 --> 02:08:27,280
+yeah, that's about it. Um, make sure to
+
+1905
+02:08:27,280 --> 02:08:29,440
+post your evidence in the in the G check
+
+1906
+02:08:29,440 --> 02:08:32,480
+chat saying that you did it. Um, tear
+
+1907
+02:08:32,480 --> 02:08:36,320
+down is pretty simple. Um, yeah, that's
+
+1908
+02:08:36,320 --> 02:08:38,000
+that's it for today. If you guys have
+
+1909
+02:08:38,000 --> 02:08:40,079
+any other questions, then uh feel free
+
+1910
+02:08:40,079 --> 02:08:41,679
+to ask. Otherwise, I'll
+
+1911
+02:08:41,679 --> 02:08:43,199
+>> Is all we have to do just tear down our
+
+1912
+02:08:43,199 --> 02:08:44,719
+user pool and that's it? Is there
+
+1913
+02:08:44,719 --> 02:08:46,159
+anything else we have to do?
+
+1914
+02:08:46,159 --> 02:08:48,560
+>> No, no, that's it. Just hit unuser pool
+
+1915
+02:08:48,560 --> 02:08:51,199
+and it should stop the charges.
+
+1916
+02:08:51,199 --> 02:08:52,880
+>> Okay. Thank you. Sorry about that.
+
+1917
+02:08:52,880 --> 02:08:55,920
+>> No, it's all good.
+
+1918
+02:08:55,920 --> 02:08:57,119
+>> Okay.
+
+1919
+02:08:57,119 --> 02:08:58,639
+>> All right.
+
+1920
+02:08:58,639 --> 02:09:02,239
+>> Yes. Good. Good.
+
+1921
+02:09:02,239 --> 02:09:04,639
+>> All right. Thank you guys. Um, you guys
+
+1922
+02:09:04,639 --> 02:09:08,159
+want to peek in on the 7.5, feel free.
+
+1923
+02:09:08,159 --> 02:09:10,639
+Otherwise, you have the rest of the day.
+
+1924
+02:09:10,639 --> 02:09:14,320
+Uh actually uh you guys well uh speech
+
+1925
+02:09:14,320 --> 02:09:20,000
+ops at 6 uh unwind uh Saturday at 8 all
+
+1926
+02:09:20,000 --> 02:09:23,280
+the times in Eastern so yep you got you
+
+1927
+02:09:23,280 --> 02:09:25,679
+guys got options but as far as class
+
+1928
+02:09:25,679 --> 02:09:27,920
+goes you guys are good. All right peace
+
+1929
+02:09:27,920 --> 02:09:33,800
+out guys. Peace. Thank you Rob. Hey top.
