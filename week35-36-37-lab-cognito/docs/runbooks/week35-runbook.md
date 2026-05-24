@@ -209,7 +209,7 @@ Do not echo the actual password or client secret.
 Run:
 
 ```bash
-secret_hash=$(python3 secret_hash.py "$cognito_username" "$client_id" "$client_secret")
+secret_hash=$(python3 scripts/secret_hash.py "$cognito_username" "$client_id" "$client_secret")
 echo ${#secret_hash}
 ```
 

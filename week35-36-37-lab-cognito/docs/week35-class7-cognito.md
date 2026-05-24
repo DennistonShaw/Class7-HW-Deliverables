@@ -432,7 +432,7 @@ print(secret_hash)
 Run:
 
 ```bash
-secret_hash=$(python3 secret_hash.py "$cognito_username" "$client_id" "$client_secret")
+secret_hash=$(python3 scripts/secret_hash.py "$cognito_username" "$client_id" "$client_secret")
 ```
 
 Confirm it exists without showing it:

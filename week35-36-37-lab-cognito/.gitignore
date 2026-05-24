@@ -40,6 +40,8 @@ rpm_packages/
 
 # macOS files
 .DS_Store
+**/.DS_Store
+._.DS_Store
 **/._.DS_Store
 
 # Python virtual environments
@@ -47,3 +49,7 @@ venv/
 
 # Local scratch files just something with sensitive data that should not be committed
 scratch-pad.txt
+
+# local-only token/curl output, never pushed to GitHub, safe to delete anytime
+token-output-local.txt
+*token-output*.txt
