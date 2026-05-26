@@ -53,3 +53,8 @@ scratch-pad.txt
 # local-only token/curl output, never pushed to GitHub, safe to delete anytime
 token-output-local.txt
 *token-output*.txt
+
+# draw.io backup/temp files
+*.drawio.bkp
+*.drawio.tmp
+*.drawio.dtmp
