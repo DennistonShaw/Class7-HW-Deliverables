@@ -7,4 +7,8 @@
 # Optional: ignore RTF files if not needed
 
 # Optional: ignore image files if not needed
-``
+
+# draw.io backup/temp files
+*.drawio.bkp
+*.drawio.tmp
+*.drawio.dtmp
