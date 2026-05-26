@@ -1,12 +1,50 @@
 # macOS system files
 .DS_Store
+**/.DS_Store
+._.DS_Store
+**/._.DS_Store
 
 # VS Code settings
 .vscode/
 
-# Optional: ignore RTF files if not needed
+# Terraform local/state files
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
 
-# Optional: ignore image files if not needed
+# Terraform variable/secrets files
+*.tfvars
+*.tfvars.json
+
+# Terraform override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform CLI config files
+.terraformrc
+terraform.rc
+
+# Terraform lock file backups
+*.terraform.lock.hcl.*
+
+# Private keys
+*.pem
+
+# Python virtual environments
+venv/
+
+# Packages / archives
+*.rpm
+rpm_packages/
+*.zip
+
+# Local scratch / sensitive output
+scratch-pad.txt
+token-output-local.txt
+*token-output*.txt
 
 # draw.io backup/temp files
 *.drawio.bkp
