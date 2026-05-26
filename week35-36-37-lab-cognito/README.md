@@ -31,11 +31,13 @@ If those functions are missing, API Gateway can return a backend error even when
 
 ```text
 Client
-  → WAF
-  → API Gateway REST API
-  → Cognito Authorizer
-  → Lambda
+  -> WAF
+  -> API Gateway REST API
+  -> Cognito Authorizer
+  -> Lambda
 ```
+
+![]()
 
 ## Folder Structure
 
@@ -51,9 +53,9 @@ week35-36-37-lab-cognito/
 
 ## Security Note
 
-Do not commit real secrets or tokens.
+Did not commit real secrets or tokens.
 
-Do not commit:
+Did not commit:
 
 ```text
 passwords
