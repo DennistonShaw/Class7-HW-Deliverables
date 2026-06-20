@@ -57,4 +57,4 @@ token-output-local.txt
 # draw.io backup/temp files
 *.drawio.bkp
 *.drawio.tmp
-*.drawio.dtmp
+*.drawio.dtmp.env.local
