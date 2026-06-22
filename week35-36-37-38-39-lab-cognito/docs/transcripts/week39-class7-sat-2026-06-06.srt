@@ -1,0 +1,6791 @@
+1
+00:00:00,160 --> 00:00:01,600
+They have that much computing power
+
+2
+00:00:01,600 --> 00:00:04,080
+going through. We don't need it. Right.
+
+3
+00:00:04,080 --> 00:00:04,960
+>> Funny.
+
+4
+00:00:04,960 --> 00:00:06,879
+>> Exactly. That's exactly what they would
+
+5
+00:00:06,879 --> 00:00:09,440
+do. What is this guy planning to do
+
+6
+00:00:09,440 --> 00:00:10,320
+here?
+
+7
+00:00:10,320 --> 00:00:12,800
+>> Yeah.
+
+8
+00:00:12,800 --> 00:00:14,719
+>> So, I'm going to
+
+9
+00:00:14,719 --> 00:00:16,880
+like steal here. We'll hire him. He's
+
+10
+00:00:16,880 --> 00:00:18,320
+still in the country. We don't have to
+
+11
+00:00:18,320 --> 00:00:20,560
+pay.
+
+12
+00:00:20,560 --> 00:00:23,199
+>> He's here. The thing is that it's 18
+
+13
+00:00:23,199 --> 00:00:26,960
+weeks, [ __ ]
+
+14
+00:00:26,960 --> 00:00:30,800
+That's like what the hell bad like is
+
+15
+00:00:30,800 --> 00:00:34,480
+there any way and get this faster? No,
+
+16
+00:00:34,480 --> 00:00:37,600
+>> you have to ship it to old block first.
+
+17
+00:00:37,600 --> 00:00:40,160
+>> It's about right. Yeah.
+
+18
+00:00:40,160 --> 00:00:42,879
+that knows that I'm in Austin.
+
+19
+00:00:42,879 --> 00:00:46,520
+So, I don't want to
+
+20
+00:00:48,879 --> 00:00:51,360
+see this is see this one of the reasons
+
+21
+00:00:51,360 --> 00:00:53,280
+why I've been here for so long is I've
+
+22
+00:00:53,280 --> 00:00:56,079
+been trying to get resources like this
+
+23
+00:00:56,079 --> 00:00:58,640
+before I leave. And this is a good a
+
+24
+00:00:58,640 --> 00:01:02,239
+good example of like something that I'd
+
+25
+00:01:02,239 --> 00:01:04,479
+have to buy today and not when by the
+
+26
+00:01:04,479 --> 00:01:05,840
+time it arrives here, I'm not planning
+
+27
+00:01:05,840 --> 00:01:09,280
+on being in Austin. So that window is
+
+28
+00:01:09,280 --> 00:01:10,720
+shortening out, right? So then I have to
+
+29
+00:01:10,720 --> 00:01:13,920
+go buy a used one which I don't want
+
+30
+00:01:13,920 --> 00:01:16,479
+like because I want to get a new uh okay
+
+31
+00:01:16,479 --> 00:01:19,520
+rich person problem. Sorry.
+
+32
+00:01:19,520 --> 00:01:21,360
+I know it's it's I know it's a problem.
+
+33
+00:01:21,360 --> 00:01:21,840
+It's
+
+34
+00:01:21,840 --> 00:01:24,640
+>> or or you'll just have to like call
+
+35
+00:01:24,640 --> 00:01:27,840
+around say hey which store has this spec
+
+36
+00:01:27,840 --> 00:01:29,600
+available and then they ship and then
+
+37
+00:01:29,600 --> 00:01:31,920
+>> but it doesn't have it doesn't have the
+
+38
+00:01:31,920 --> 00:01:35,520
+overkill one. I want it real overkill.
+
+39
+00:01:35,520 --> 00:01:36,799
+>> So okay. So what do you mean by
+
+40
+00:01:36,799 --> 00:01:39,200
+overkill? Like for example, you did uh
+
+41
+00:01:39,200 --> 00:01:41,520
+M3 chip. You don't want M4 chip.
+
+42
+00:01:41,520 --> 00:01:44,000
+>> No, there it's M4. It's M4. Watch.
+
+43
+00:01:44,000 --> 00:01:45,520
+>> No, it's not. It's M3.
+
+44
+00:01:45,520 --> 00:01:47,759
+>> Oh, okay. Hold on.
+
+45
+00:01:47,759 --> 00:01:49,600
+How did I get that wrong? Okay, hold on.
+
+46
+00:01:49,600 --> 00:01:52,320
+M4. There.
+
+47
+00:01:52,320 --> 00:01:54,079
+Okay.
+
+48
+00:01:54,079 --> 00:01:56,320
+Set package now. Make sure.
+
+49
+00:01:56,320 --> 00:01:58,880
+>> Oh. Oh. So, it def it defaults to M3
+
+50
+00:01:58,880 --> 00:02:01,920
+Ultra. So, is M3 Ultra bigger than M4?
+
+51
+00:02:01,920 --> 00:02:02,320
+Okay.
+
+52
+00:02:02,320 --> 00:02:03,920
+>> No, that's impossible.
+
+53
+00:02:03,920 --> 00:02:05,920
+>> That's what they're saying.
+
+54
+00:02:05,920 --> 00:02:08,479
+That's what they're saying. Cuz if you
+
+55
+00:02:08,479 --> 00:02:11,520
+try to get if you try to get uh the uh
+
+56
+00:02:11,520 --> 00:02:13,440
+the uh the best package with the with
+
+57
+00:02:13,440 --> 00:02:17,520
+the most RAM, it's going back to M3,
+
+58
+00:02:17,520 --> 00:02:19,920
+>> [ __ ] Well, see, they're both 16 to 18
+
+59
+00:02:19,920 --> 00:02:22,480
+weeks.
+
+60
+00:02:22,480 --> 00:02:28,840
+>> Why? Why? What the What the
+
+61
+00:02:29,599 --> 00:02:33,040
+>> Oh, also
+
+62
+00:02:33,040 --> 00:02:35,040
+a good point. You probably want to wait
+
+63
+00:02:35,040 --> 00:02:39,040
+just a few days. WWC is from the 8th to
+
+64
+00:02:39,040 --> 00:02:41,760
+the 12th, so they might drop Who knows
+
+65
+00:02:41,760 --> 00:02:43,280
+if they're going to drop any hardware,
+
+66
+00:02:43,280 --> 00:02:45,680
+but I wouldn't be surprised if they drop
+
+67
+00:02:45,680 --> 00:02:50,080
+something with M5.
+
+68
+00:02:50,080 --> 00:02:50,800
+>> Okay.
+
+69
+00:02:50,800 --> 00:02:52,720
+>> And then that'll drop the price. That'll
+
+70
+00:02:52,720 --> 00:02:54,640
+drop the price of these if you want
+
+71
+00:02:54,640 --> 00:02:57,200
+still want to go with this with the M4.
+
+72
+00:02:57,200 --> 00:02:57,519
+But
+
+73
+00:02:57,519 --> 00:02:59,120
+>> that would mean I'd need to go to the
+
+74
+00:02:59,120 --> 00:03:01,680
+Netherlands for like 6 weeks and then go
+
+75
+00:03:01,680 --> 00:03:03,599
+right back to United States and have my
+
+76
+00:03:03,599 --> 00:03:06,319
+get my studio when it arrives and then I
+
+77
+00:03:06,319 --> 00:03:08,879
+go to South America afterwards.
+
+78
+00:03:08,879 --> 00:03:11,840
+That would be so this.
+
+79
+00:03:11,840 --> 00:03:13,200
+>> Yeah, Rich.
+
+80
+00:03:13,200 --> 00:03:15,519
+>> Theo's going to get this now, then he's
+
+81
+00:03:15,519 --> 00:03:17,440
+going to get the new one later and give
+
+82
+00:03:17,440 --> 00:03:20,159
+this to somebody at the conclave.
+
+83
+00:03:20,159 --> 00:03:21,760
+>> Okay, I like you guys.
+
+84
+00:03:21,760 --> 00:03:24,480
+>> There we go. That's a good idea. Bravo.
+
+85
+00:03:24,480 --> 00:03:26,000
+>> Yes, sir.
+
+86
+00:03:26,000 --> 00:03:27,200
+>> Okay.
+
+87
+00:03:27,200 --> 00:03:29,920
+I give it to the next coup. Serge,
+
+88
+00:03:29,920 --> 00:03:33,200
+>> I I I like
+
+89
+00:03:33,200 --> 00:03:36,080
+I I like you guys. I don't love you guys
+
+90
+00:03:36,080 --> 00:03:38,560
+like that. Okay. I like you. You guys
+
+91
+00:03:38,560 --> 00:03:43,680
+are No, no. This is me for keeping this
+
+92
+00:03:43,680 --> 00:03:45,680
+>> You can you can order it and have it
+
+93
+00:03:45,680 --> 00:03:47,280
+delivered to whatever Apple store is
+
+94
+00:03:47,280 --> 00:03:48,319
+going to be in the place.
+
+95
+00:03:48,319 --> 00:03:51,920
+>> No, no, no, no. Because if I'm doing
+
+96
+00:03:51,920 --> 00:03:53,840
+this internationally
+
+97
+00:03:53,840 --> 00:03:55,920
+and I have it delivered someplace else,
+
+98
+00:03:55,920 --> 00:03:56,959
+do you know what they have
+
+99
+00:03:56,959 --> 00:03:59,200
+internationally?
+
+100
+00:03:59,200 --> 00:04:00,400
+>> VAT.
+
+101
+00:04:00,400 --> 00:04:04,000
+>> This thing called tax.
+
+102
+00:04:04,000 --> 00:04:04,400
+>> Yep.
+
+103
+00:04:04,400 --> 00:04:06,640
+>> Value added tax. Yes. VAT.
+
+104
+00:04:06,640 --> 00:04:07,599
+>> We know.
+
+105
+00:04:07,599 --> 00:04:10,720
+>> There we go. VAT. You said VAT.
+
+106
+00:04:10,720 --> 00:04:14,400
+>> So that's like 25%. Or in France it
+
+107
+00:04:14,400 --> 00:04:16,479
+could be much higher or Brazil it could
+
+108
+00:04:16,479 --> 00:04:18,479
+be like 100%.
+
+109
+00:04:18,479 --> 00:04:21,440
+Depending. So no. No, I'm not willing to
+
+110
+00:04:21,440 --> 00:04:24,320
+pay an apple. No, no, no, no. I'm not
+
+111
+00:04:24,320 --> 00:04:27,040
+doing that. I will fly my ass back.
+
+112
+00:04:27,040 --> 00:04:28,639
+>> Send it to New York and just do a quick
+
+113
+00:04:28,639 --> 00:04:31,680
+little or wherever whatever city that
+
+114
+00:04:31,680 --> 00:04:32,320
+you're going.
+
+115
+00:04:32,320 --> 00:04:34,479
+>> Send it to me. I'll fly it out to you.
+
+116
+00:04:34,479 --> 00:04:35,840
+Just me on first class. It's cheaper
+
+117
+00:04:35,840 --> 00:04:39,400
+than paying the taxes.
+
+118
+00:04:40,000 --> 00:04:43,440
+>> I never hear Michael again.
+
+119
+00:04:43,440 --> 00:04:45,040
+I don't I Where did Michael go? I don't
+
+120
+00:04:45,040 --> 00:04:47,360
+know. Bye. Bye.
+
+121
+00:04:47,360 --> 00:04:50,639
+>> Yeah. Yeah. Anyway, um yeah, good idea,
+
+122
+00:04:50,639 --> 00:04:56,160
+guys. And anyway, um I will get a
+
+123
+00:04:56,160 --> 00:04:57,919
+computer then. I'll just go travel with
+
+124
+00:04:57,919 --> 00:05:00,479
+it. I need something powerful.
+
+125
+00:05:00,479 --> 00:05:04,080
+So, I have to go get I hope the M5 comes
+
+126
+00:05:04,080 --> 00:05:07,440
+out for the Mac. Wait, is it M5 out for
+
+127
+00:05:07,440 --> 00:05:10,840
+the MacBook Pro?
+
+128
+00:05:10,880 --> 00:05:12,720
+>> I don't think so.
+
+129
+00:05:12,720 --> 00:05:15,520
+>> But but like Jo said, is still
+
+130
+00:05:15,520 --> 00:05:16,960
+>> We're two days away from
+
+131
+00:05:16,960 --> 00:05:18,479
+>> Yeah. from the Apple conference.
+
+132
+00:05:18,479 --> 00:05:21,199
+>> Oh, it has a Mac and it has Max. It
+
+133
+00:05:21,199 --> 00:05:22,800
+doesn't have Ultra.
+
+134
+00:05:22,800 --> 00:05:24,560
+>> The The Ultra is what we're waiting on.
+
+135
+00:05:24,560 --> 00:05:27,360
+That That might drop during WWC.
+
+136
+00:05:27,360 --> 00:05:30,240
+>> Okay. So, Ultra I want M5 Ultra cuz
+
+137
+00:05:30,240 --> 00:05:30,800
+>> yeah,
+
+138
+00:05:30,800 --> 00:05:34,320
+>> my M3 now properly works. It like it
+
+139
+00:05:34,320 --> 00:05:36,400
+isn't psycho. I got it to work
+
+140
+00:05:36,400 --> 00:05:41,199
+correctly. Oo, it's a nice machine. I
+
+141
+00:05:41,199 --> 00:05:43,919
+like it. I'm very happy with it. That
+
+142
+00:05:43,919 --> 00:05:46,560
+had that was a fourth uh rebuild.
+
+143
+00:05:46,560 --> 00:05:48,720
+Finally worked.
+
+144
+00:05:48,720 --> 00:05:51,360
+Uh Ultrabook still need the touch. I
+
+145
+00:05:51,360 --> 00:05:54,479
+believe in touch so much.
+
+146
+00:05:54,479 --> 00:05:57,120
+I seen computing power. Anyway, uh this
+
+147
+00:05:57,120 --> 00:05:59,120
+is Sore. We have a little bit of fun
+
+148
+00:05:59,120 --> 00:06:02,080
+with you guys. So, um we've been
+
+149
+00:06:02,080 --> 00:06:05,199
+building up to soar and the last few
+
+150
+00:06:05,199 --> 00:06:08,000
+labs and we have the token being issued,
+
+151
+00:06:08,000 --> 00:06:11,680
+right? Uh so our whole thing is we're
+
+152
+00:06:11,680 --> 00:06:13,440
+trying to figure out whether or not a
+
+153
+00:06:13,440 --> 00:06:16,319
+token is been used or not and we're
+
+154
+00:06:16,319 --> 00:06:17,600
+trying to get some automation on this.
+
+155
+00:06:17,600 --> 00:06:19,280
+So this is what today what our lab we're
+
+156
+00:06:19,280 --> 00:06:22,639
+doing now is going to be uh how to get
+
+157
+00:06:22,639 --> 00:06:26,560
+AI to do automation for us. Okay. So
+
+158
+00:06:26,560 --> 00:06:28,720
+guys might say what is sort I wrote this
+
+159
+00:06:28,720 --> 00:06:31,199
+all out basically
+
+160
+00:06:31,199 --> 00:06:33,840
+um
+
+161
+00:06:33,840 --> 00:06:37,039
+people who don't know just so you can
+
+162
+00:06:37,039 --> 00:06:39,199
+run through and just get some sort of
+
+163
+00:06:39,199 --> 00:06:41,280
+introduction. I put this in here and
+
+164
+00:06:41,280 --> 00:06:43,360
+I'll probably modify this later on. I'm
+
+165
+00:06:43,360 --> 00:06:44,880
+trying to I'm probably be making a
+
+166
+00:06:44,880 --> 00:06:47,360
+manual for this later on uh for future
+
+167
+00:06:47,360 --> 00:06:51,919
+classes. Okay. So if you want security
+
+168
+00:06:51,919 --> 00:06:54,479
+we need to know sword. Yeah. Okay. So
+
+169
+00:06:54,479 --> 00:06:57,520
+the big problem that you have with in a
+
+170
+00:06:57,520 --> 00:06:58,639
+nutshell, the big problem that you have
+
+171
+00:06:58,639 --> 00:07:00,880
+with security is that you have an alert
+
+172
+00:07:00,880 --> 00:07:03,599
+but nobody does anything about it. It
+
+173
+00:07:03,599 --> 00:07:05,919
+just an alert. So it's like who cares?
+
+174
+00:07:05,919 --> 00:07:07,840
+And that's because you don't have the
+
+175
+00:07:07,840 --> 00:07:11,360
+ability to do anything about it. You
+
+176
+00:07:11,360 --> 00:07:13,680
+just don't uh you don't have enough
+
+177
+00:07:13,680 --> 00:07:16,639
+staff, you know, you don't you have some
+
+178
+00:07:16,639 --> 00:07:18,639
+detection mechanisms, but nothing really
+
+179
+00:07:18,639 --> 00:07:21,280
+happens. So with soore what you're doing
+
+180
+00:07:21,280 --> 00:07:24,800
+is uh also yeah alert fatigue same thing
+
+181
+00:07:24,800 --> 00:07:26,639
+just too many alerts we don't know
+
+182
+00:07:26,639 --> 00:07:28,880
+what's going on and we have here again
+
+183
+00:07:28,880 --> 00:07:30,960
+thousands of logs millions of logs
+
+184
+00:07:30,960 --> 00:07:32,800
+thousands of alerts so just too much
+
+185
+00:07:32,800 --> 00:07:35,759
+that's ridiculous so uh sort is a way of
+
+186
+00:07:35,759 --> 00:07:37,599
+automating
+
+187
+00:07:37,599 --> 00:07:40,720
+responses and if you use AI in here it's
+
+188
+00:07:40,720 --> 00:07:44,560
+even better okay so again it says alert
+
+189
+00:07:44,560 --> 00:07:47,199
+human reads it then human watches
+
+190
+00:07:47,199 --> 00:07:49,120
+YouTube a few hours human investigates
+
+191
+00:07:49,120 --> 00:07:51,759
+After a few days, human opens tickets.
+
+192
+00:07:51,759 --> 00:07:54,639
+Maybe human responds after payday,
+
+193
+00:07:54,639 --> 00:07:57,639
+right?
+
+194
+00:07:57,840 --> 00:08:01,440
+This is this is really true.
+
+195
+00:08:01,440 --> 00:08:03,840
+I I think about myself at work. I'm I'm
+
+196
+00:08:03,840 --> 00:08:05,840
+doing all this vulnerability analysis
+
+197
+00:08:05,840 --> 00:08:08,479
+and I get tired and I'm like, I don't
+
+198
+00:08:08,479 --> 00:08:09,680
+want to do this right now. I got other
+
+199
+00:08:09,680 --> 00:08:11,599
+things to do. So, I just go walk for a
+
+200
+00:08:11,599 --> 00:08:14,319
+while and then I go do YouTube for a
+
+201
+00:08:14,319 --> 00:08:15,440
+while or something like that and go
+
+202
+00:08:15,440 --> 00:08:17,680
+exercise downstairs. Exactly. It's
+
+203
+00:08:17,680 --> 00:08:20,319
+exactly correct. All right. So the human
+
+204
+00:08:20,319 --> 00:08:24,160
+can't human has limitations like ah this
+
+205
+00:08:24,160 --> 00:08:26,800
+is too much right. So again sort changes
+
+206
+00:08:26,800 --> 00:08:28,639
+the model event automated detection
+
+207
+00:08:28,639 --> 00:08:30,720
+automatic enrichment automated decision
+
+208
+00:08:30,720 --> 00:08:33,039
+automatic response human escalation of
+
+209
+00:08:33,039 --> 00:08:36,000
+lead. Okay so key idea humans should
+
+210
+00:08:36,000 --> 00:08:38,240
+handle judgment automation should handle
+
+211
+00:08:38,240 --> 00:08:40,640
+repetition sore in the lab you're
+
+212
+00:08:40,640 --> 00:08:42,959
+already building the foundation. So
+
+213
+00:08:42,959 --> 00:08:45,600
+basically this is the big thing you
+
+214
+00:08:45,600 --> 00:08:49,839
+don't want the decision or the ultimate
+
+215
+00:08:49,839 --> 00:08:53,200
+judgment to be with AI but the decision
+
+216
+00:08:53,200 --> 00:08:56,560
+trees should be implemented by AI.
+
+217
+00:08:56,560 --> 00:08:58,399
+Please understand that the
+
+218
+00:08:58,399 --> 00:09:01,200
+responsibility and the ultimate judgment
+
+219
+00:09:01,200 --> 00:09:04,399
+is with the human. The decision trees is
+
+220
+00:09:04,399 --> 00:09:07,760
+with AI or automated features. This is
+
+221
+00:09:07,760 --> 00:09:10,000
+why you though when we're talking about
+
+222
+00:09:10,000 --> 00:09:13,120
+AI being used with security, the human's
+
+223
+00:09:13,120 --> 00:09:17,839
+role has got to change. So the human it
+
+224
+00:09:17,839 --> 00:09:19,680
+it's more important for the human to
+
+225
+00:09:19,680 --> 00:09:23,680
+have better discernment uh capabilities
+
+226
+00:09:23,680 --> 00:09:26,399
+uh more intense knowledge of like CVEes
+
+227
+00:09:26,399 --> 00:09:28,080
+and weaknesses and things like that
+
+228
+00:09:28,080 --> 00:09:29,920
+because a human needs to know what to do
+
+229
+00:09:29,920 --> 00:09:32,959
+in the context of what the alerts are
+
+230
+00:09:32,959 --> 00:09:35,600
+what the alerts are coming in. But the
+
+231
+00:09:35,600 --> 00:09:39,440
+actual separation of of logs, the actual
+
+232
+00:09:39,440 --> 00:09:42,399
+initial treatment of logs, that should
+
+233
+00:09:42,399 --> 00:09:45,279
+always be done with automated features
+
+234
+00:09:45,279 --> 00:09:47,519
+so that the human can only pay attention
+
+235
+00:09:47,519 --> 00:09:51,600
+to what's really valuable. Okay. Oh,
+
+236
+00:09:51,600 --> 00:09:55,360
+you're you have fun Carlton. All right.
+
+237
+00:09:55,360 --> 00:09:57,360
+So the current workflow yeah the user
+
+238
+00:09:57,360 --> 00:10:00,560
+logs in issue token issue token unused
+
+239
+00:10:00,560 --> 00:10:02,560
+event bridge text behavior alert
+
+240
+00:10:02,560 --> 00:10:04,880
+generated. Okay. So this is already a
+
+241
+00:10:04,880 --> 00:10:07,760
+lightweight store environment. Okay. So
+
+242
+00:10:07,760 --> 00:10:11,440
+now um we have for example you have a
+
+243
+00:10:11,440 --> 00:10:13,920
+suspicious login from banana land. I
+
+244
+00:10:13,920 --> 00:10:15,760
+don't know what banana land is. I have
+
+245
+00:10:15,760 --> 00:10:17,760
+no idea. I wonder what that is. I have
+
+246
+00:10:17,760 --> 00:10:20,959
+no idea. So the user authenticates from
+
+247
+00:10:20,959 --> 00:10:23,440
+unusual location. Sor workflow
+
+248
+00:10:23,440 --> 00:10:26,560
+triggered. Enrich IPU reputation. Check
+
+249
+00:10:26,560 --> 00:10:30,320
+MFA status. Notify Slack. Notify SNS
+
+250
+00:10:30,320 --> 00:10:32,560
+again. Create Jerro tickets. disable
+
+251
+00:10:32,560 --> 00:10:35,600
+account if high risk. This is something
+
+252
+00:10:35,600 --> 00:10:39,519
+you can do uh with AI automation. What I
+
+253
+00:10:39,519 --> 00:10:42,640
+would say ultimately is this disable
+
+254
+00:10:42,640 --> 00:10:45,440
+account uh shouldn't be automated. It
+
+255
+00:10:45,440 --> 00:10:48,399
+should be done with human judgment. But
+
+256
+00:10:48,399 --> 00:10:51,519
+only do automation if you get prior
+
+257
+00:10:51,519 --> 00:10:54,320
+approval for this because this can [ __ ]
+
+258
+00:10:54,320 --> 00:10:57,600
+things up. Uh Rob, what do you got? Um
+
+259
+00:10:57,600 --> 00:11:00,160
+when you're referring to the user to
+
+260
+00:11:00,160 --> 00:11:03,839
+this uh runbook, we'll call it runbook.
+
+261
+00:11:03,839 --> 00:11:08,640
+Uh would there only be a a quality check
+
+262
+00:11:08,640 --> 00:11:11,440
+gate when it came to this step or would
+
+263
+00:11:11,440 --> 00:11:12,959
+there be other steps where you would
+
+264
+00:11:12,959 --> 00:11:16,240
+want to have human quality checks uh for
+
+265
+00:11:16,240 --> 00:11:17,920
+the runbook?
+
+266
+00:11:17,920 --> 00:11:20,480
+>> Um I would want it to hear on on this
+
+267
+00:11:20,480 --> 00:11:22,640
+last part. That's the only that's the
+
+268
+00:11:22,640 --> 00:11:25,839
+only part that that you would require or
+
+269
+00:11:25,839 --> 00:11:27,920
+require a a human check.
+
+270
+00:11:27,920 --> 00:11:28,640
+>> Yeah.
+
+271
+00:11:28,640 --> 00:11:31,920
+>> Okay. Because if Okay, so this is the
+
+272
+00:11:31,920 --> 00:11:34,480
+reason is because if AI is being used
+
+273
+00:11:34,480 --> 00:11:37,279
+here and does an automatic disable, if a
+
+274
+00:11:37,279 --> 00:11:40,000
+if a hacker knows this or suspects it,
+
+275
+00:11:40,000 --> 00:11:42,880
+then they could run an attack on every
+
+276
+00:11:42,880 --> 00:11:44,959
+single user on the company and disable
+
+277
+00:11:44,959 --> 00:11:45,839
+everyone.
+
+278
+00:11:45,839 --> 00:11:48,399
+>> Oh, that that so you bring up a good I
+
+279
+00:11:48,399 --> 00:11:50,160
+just remembered something. This may be
+
+280
+00:11:50,160 --> 00:11:52,880
+helpful. So what Theo says is uh correct
+
+281
+00:11:52,880 --> 00:11:55,920
+where where if the hacker knows that
+
+282
+00:11:55,920 --> 00:11:59,440
+this is an automatic deploy then it will
+
+283
+00:11:59,440 --> 00:12:02,240
+just uh mess everything up. There's a
+
+284
+00:12:02,240 --> 00:12:05,040
+there was a a fire ship video I saw
+
+285
+00:12:05,040 --> 00:12:10,720
+about the mpm uh uh dependency getting
+
+286
+00:12:10,720 --> 00:12:14,639
+uh getting basically getting hacked. Um
+
+287
+00:12:14,639 --> 00:12:19,279
+the m long story short the um mpm is a
+
+288
+00:12:19,279 --> 00:12:22,399
+is used with the python and others and
+
+289
+00:12:22,399 --> 00:12:24,880
+and and is a big part of the software
+
+290
+00:12:24,880 --> 00:12:27,040
+supply chain. uh has used a lot of
+
+291
+00:12:27,040 --> 00:12:31,040
+Python, used a lot of AI and basically
+
+292
+00:12:31,040 --> 00:12:36,320
+uh a attacker uh injected malicious code
+
+293
+00:12:36,320 --> 00:12:39,440
+into that codebase and they injected
+
+294
+00:12:39,440 --> 00:12:42,160
+malicious code into a pull into a pull
+
+295
+00:12:42,160 --> 00:12:47,760
+request for the uh mpm uh GitHub repo.
+
+296
+00:12:47,760 --> 00:12:51,440
+and they knew that the mpm GitHub repo
+
+297
+00:12:51,440 --> 00:12:53,760
+whenever there's a pull request it does
+
+298
+00:12:53,760 --> 00:12:58,320
+automatic pipeline run. So they injected
+
+299
+00:12:58,320 --> 00:13:00,639
+they injected that bad code then they
+
+300
+00:13:00,639 --> 00:13:03,440
+cancel the the pull request but GitHub
+
+301
+00:13:03,440 --> 00:13:06,160
+still will see that the pull request was
+
+302
+00:13:06,160 --> 00:13:08,079
+requested and then it was canceled but
+
+303
+00:13:08,079 --> 00:13:09,839
+it still is trying to honor that
+
+304
+00:13:09,839 --> 00:13:12,399
+request. So it will run the pipeline
+
+305
+00:13:12,399 --> 00:13:15,920
+with that bad code and then after a
+
+306
+00:13:15,920 --> 00:13:19,440
+certain point all the other additions
+
+307
+00:13:19,440 --> 00:13:23,360
+downstream have that bad code which
+
+308
+00:13:23,360 --> 00:13:28,560
+basically broke npm for a while. So it
+
+309
+00:13:28,560 --> 00:13:30,880
+was it was devious but it was smart. But
+
+310
+00:13:30,880 --> 00:13:34,720
+that's why, you know, this disable this
+
+311
+00:13:34,720 --> 00:13:37,200
+disabled account or or trying just just
+
+312
+00:13:37,200 --> 00:13:40,160
+asking like, hey, when do I use human
+
+313
+00:13:40,160 --> 00:13:42,399
+judgment or how when do I use a human
+
+314
+00:13:42,399 --> 00:13:47,040
+quality check or a hum a gate for humans
+
+315
+00:13:47,040 --> 00:13:48,880
+to verify that everything is good?
+
+316
+00:13:48,880 --> 00:13:51,040
+That's why I'm asking cuz you when you
+
+317
+00:13:51,040 --> 00:13:54,639
+have these types of attacks, it can
+
+318
+00:13:54,639 --> 00:13:57,600
+[ __ ] a a company real fast.
+
+319
+00:13:57,600 --> 00:13:59,920
+>> Yeah. So like what this is another
+
+320
+00:13:59,920 --> 00:14:02,160
+reason why if you guys look at my uh
+
+321
+00:14:02,160 --> 00:14:04,399
+LinkedIn you'll know that I don't use my
+
+322
+00:14:04,399 --> 00:14:07,440
+real last name. I never do and any
+
+323
+00:14:07,440 --> 00:14:08,959
+public site I never use my real last
+
+324
+00:14:08,959 --> 00:14:12,399
+name. Why? Okay it's very simple. If
+
+325
+00:14:12,399 --> 00:14:14,800
+they know your real last name and then
+
+326
+00:14:14,800 --> 00:14:17,519
+they can figure out the naming
+
+327
+00:14:17,519 --> 00:14:20,480
+convention for email for a company so
+
+328
+00:14:20,480 --> 00:14:22,160
+that all they'd have to do is go on to
+
+329
+00:14:22,160 --> 00:14:23,519
+LinkedIn and figure out all the
+
+330
+00:14:23,519 --> 00:14:25,199
+employees who work at the company. You
+
+331
+00:14:25,199 --> 00:14:26,480
+notice I don't put the company to work
+
+332
+00:14:26,480 --> 00:14:29,360
+out either. So you all you do is get the
+
+333
+00:14:29,360 --> 00:14:31,440
+naming convention. You get the names and
+
+334
+00:14:31,440 --> 00:14:33,440
+then you get the company. Then you just
+
+335
+00:14:33,440 --> 00:14:35,839
+make a script to create what the most
+
+336
+00:14:35,839 --> 00:14:40,320
+likely email accounts are based upon the
+
+337
+00:14:40,320 --> 00:14:42,240
+the logic basically how the company
+
+338
+00:14:42,240 --> 00:14:44,639
+probably does it. And then you just run
+
+339
+00:14:44,639 --> 00:14:47,360
+a a direct account direct account attack
+
+340
+00:14:47,360 --> 00:14:48,560
+against all those accounts
+
+341
+00:14:48,560 --> 00:14:50,079
+simultaneously.
+
+342
+00:14:50,079 --> 00:14:51,839
+Well,
+
+343
+00:14:51,839 --> 00:14:53,839
+I mean it's not that hard to do. It's
+
+344
+00:14:53,839 --> 00:14:55,760
+it's for a good hacker that's about an
+
+345
+00:14:55,760 --> 00:14:58,399
+hour of work,
+
+346
+00:14:58,399 --> 00:15:00,560
+right? So if you run that against me, go
+
+347
+00:15:00,560 --> 00:15:03,839
+ahead. You ain't going to get me. I
+
+348
+00:15:03,839 --> 00:15:05,440
+don't have enough information on my
+
+349
+00:15:05,440 --> 00:15:08,959
+LinkedIn to do that. I'm fine.
+
+350
+00:15:08,959 --> 00:15:11,600
+People when I see people do um
+
+351
+00:15:11,600 --> 00:15:13,440
+especially security guys put their real
+
+352
+00:15:13,440 --> 00:15:16,240
+name on LinkedIn. I'm like, are you sure
+
+353
+00:15:16,240 --> 00:15:18,720
+you're a real security guy? I mean, are
+
+354
+00:15:18,720 --> 00:15:21,839
+you sure, bro? Because that's a public
+
+355
+00:15:21,839 --> 00:15:23,680
+are you serious?
+
+356
+00:15:23,680 --> 00:15:26,160
+Like, come on, man. Like, you don't do
+
+357
+00:15:26,160 --> 00:15:30,160
+that [ __ ] Anyway, Dale, what you got?
+
+358
+00:15:30,160 --> 00:15:31,680
+>> Thank you for bringing up LinkedIn. You
+
+359
+00:15:31,680 --> 00:15:33,199
+actually read my mind, but from a
+
+360
+00:15:33,199 --> 00:15:35,199
+different perspective. The way that you
+
+361
+00:15:35,199 --> 00:15:38,800
+were describing Soore. It It reminds me,
+
+362
+00:15:38,800 --> 00:15:40,560
+uh, my group said that we all had to
+
+363
+00:15:40,560 --> 00:15:43,680
+sign up for a LinkedIn account and then
+
+364
+00:15:43,680 --> 00:15:46,079
+LinkedIn banned me immediately and I
+
+365
+00:15:46,079 --> 00:15:48,560
+think it was automated. Then I had to go
+
+366
+00:15:48,560 --> 00:15:50,480
+through a whole process to try to prove
+
+367
+00:15:50,480 --> 00:15:53,440
+myself even with my ID and it was it
+
+368
+00:15:53,440 --> 00:15:56,399
+still said no automated and then I had
+
+369
+00:15:56,399 --> 00:15:58,959
+to probably reach out to a human person
+
+370
+00:15:58,959 --> 00:16:02,560
+and that person gave me access.
+
+371
+00:16:02,560 --> 00:16:07,040
+So is it a situation like that where too
+
+372
+00:16:07,040 --> 00:16:08,639
+much is being left in the hand of the
+
+373
+00:16:08,639 --> 00:16:09,600
+AI?
+
+374
+00:16:09,600 --> 00:16:13,600
+>> No this case something is being wrong
+
+375
+00:16:13,600 --> 00:16:15,120
+something is wrong with the AI in that
+
+376
+00:16:15,120 --> 00:16:17,279
+time. they did something wrong with the
+
+377
+00:16:17,279 --> 00:16:19,519
+programming the filters with AI it's
+
+378
+00:16:19,519 --> 00:16:23,759
+that's an overcorrection but it is it's
+
+379
+00:16:23,759 --> 00:16:26,000
+done okay so for an initial signup
+
+380
+00:16:26,000 --> 00:16:29,839
+denying you for there that's wrong um
+
+381
+00:16:29,839 --> 00:16:31,680
+but
+
+382
+00:16:31,680 --> 00:16:34,480
+they have to have some sort of filter to
+
+383
+00:16:34,480 --> 00:16:36,800
+an for initial signups anyway because
+
+384
+00:16:36,800 --> 00:16:38,240
+the Russian hackers come in and the
+
+385
+00:16:38,240 --> 00:16:40,959
+Chinese hackers so that's I don't have a
+
+386
+00:16:40,959 --> 00:16:43,040
+problem with that um
+
+387
+00:16:43,040 --> 00:16:46,880
+>> I to follow up on that. One other thing
+
+388
+00:16:46,880 --> 00:16:50,560
+that I that I think could be the issue
+
+389
+00:16:50,560 --> 00:16:53,519
+is um I think my company pays for some
+
+390
+00:16:53,519 --> 00:16:56,399
+maintenance education stuff. So they
+
+391
+00:16:56,399 --> 00:16:58,160
+might have an account for me that I do
+
+392
+00:16:58,160 --> 00:16:59,519
+not use
+
+393
+00:16:59,519 --> 00:17:01,040
+>> and that's why they're saying this
+
+394
+00:17:01,040 --> 00:17:02,959
+actually the same person even though I
+
+395
+00:17:02,959 --> 00:17:04,640
+don't use the other account and it was
+
+396
+00:17:04,640 --> 00:17:06,559
+create it was it could be created for
+
+397
+00:17:06,559 --> 00:17:07,520
+me.
+
+398
+00:17:07,520 --> 00:17:11,039
+>> No, no idea. If you have all you all I
+
+399
+00:17:11,039 --> 00:17:13,600
+can say is um change your IP address
+
+400
+00:17:13,600 --> 00:17:16,559
+like go to go to Starbucks, use a
+
+401
+00:17:16,559 --> 00:17:19,760
+different browser, create a new Gmail
+
+402
+00:17:19,760 --> 00:17:21,760
+account or like Hotmail account,
+
+403
+00:17:21,760 --> 00:17:23,439
+something like that and then try to make
+
+404
+00:17:23,439 --> 00:17:25,520
+a LinkedIn and see what happens.
+
+405
+00:17:25,520 --> 00:17:27,760
+>> No, I I eventually got through but um
+
+406
+00:17:27,760 --> 00:17:30,240
+like you said, I had to reach a human to
+
+407
+00:17:30,240 --> 00:17:30,799
+to
+
+408
+00:17:30,799 --> 00:17:32,160
+>> No, see if you can do it without the
+
+409
+00:17:32,160 --> 00:17:33,840
+human.
+
+410
+00:17:33,840 --> 00:17:35,760
+>> Without the human. If you're able to do
+
+411
+00:17:35,760 --> 00:17:37,919
+if you do that process and you're able
+
+412
+00:17:37,919 --> 00:17:39,520
+to make the account, then you know is
+
+413
+00:17:39,520 --> 00:17:41,840
+something that's on your computer which
+
+414
+00:17:41,840 --> 00:17:44,720
+AI automatically rejected.
+
+415
+00:17:44,720 --> 00:17:46,559
+>> That's why
+
+416
+00:17:46,559 --> 00:17:48,320
+>> and the last thing is you're saying we
+
+417
+00:17:48,320 --> 00:17:50,640
+shouldn't be using our real name on
+
+418
+00:17:50,640 --> 00:17:51,840
+LinkedIn at all.
+
+419
+00:17:51,840 --> 00:17:52,960
+>> Nope.
+
+420
+00:17:52,960 --> 00:17:55,760
+>> Got you. So if your name is Michael Dale
+
+421
+00:17:55,760 --> 00:17:57,679
+legally,
+
+422
+00:17:57,679 --> 00:18:02,160
+you should say Michael and then
+
+423
+00:18:02,160 --> 00:18:05,360
+modify Dale or just use a different last
+
+424
+00:18:05,360 --> 00:18:05,600
+name
+
+425
+00:18:05,600 --> 00:18:09,520
+>> like d a y or d
+
+426
+00:18:09,520 --> 00:18:12,880
+i l e or spell something wrong or
+
+427
+00:18:12,880 --> 00:18:16,240
+nickname or middle name or something.
+
+428
+00:18:16,240 --> 00:18:16,799
+>> Yeah,
+
+429
+00:18:16,799 --> 00:18:19,039
+>> got you.
+
+430
+00:18:19,039 --> 00:18:22,080
+>> Say Obama. I don't care. I I put a name.
+
+431
+00:18:22,080 --> 00:18:24,480
+put it just something else.
+
+432
+00:18:24,480 --> 00:18:27,520
+>> But my last name like again for public I
+
+433
+00:18:27,520 --> 00:18:29,200
+never use my last name.
+
+434
+00:18:29,200 --> 00:18:32,080
+>> Never. Impossible.
+
+435
+00:18:32,080 --> 00:18:35,919
+>> Right. But so so I would I would also
+
+436
+00:18:35,919 --> 00:18:39,520
+say that you know I' I've had to I've
+
+437
+00:18:39,520 --> 00:18:41,520
+I've been run this experiment as well
+
+438
+00:18:41,520 --> 00:18:45,280
+guys. Like I I had my my primary account
+
+439
+00:18:45,280 --> 00:18:47,360
+with all my connections was found by my
+
+440
+00:18:47,360 --> 00:18:49,280
+boss. I had to clear it out so I
+
+441
+00:18:49,280 --> 00:18:51,200
+couldn't use it for applying to jobs. I
+
+442
+00:18:51,200 --> 00:18:53,360
+had to create a second one. I've been
+
+443
+00:18:53,360 --> 00:18:56,400
+getting noble traction and all the only
+
+444
+00:18:56,400 --> 00:18:58,960
+people that are my friends on that alias
+
+445
+00:18:58,960 --> 00:19:02,480
+account are recruiters. So, I get I get
+
+446
+00:19:02,480 --> 00:19:04,720
+fair amount of traction and views and
+
+447
+00:19:04,720 --> 00:19:08,080
+all that fun stuff. So, if you use a and
+
+448
+00:19:08,080 --> 00:19:10,240
+ultimately they only care about your
+
+449
+00:19:10,240 --> 00:19:12,960
+name when they're submitting you to the
+
+450
+00:19:12,960 --> 00:19:15,039
+company. Outside of that, everything is
+
+451
+00:19:15,039 --> 00:19:18,080
+pretty much ATS. So, as long as they're
+
+452
+00:19:18,080 --> 00:19:20,000
+submitting you to the company and you
+
+453
+00:19:20,000 --> 00:19:21,679
+start talking with the recruiter, they
+
+454
+00:19:21,679 --> 00:19:23,280
+start knowing who you are to get you on
+
+455
+00:19:23,280 --> 00:19:26,240
+the phone, talk to their hiring manager,
+
+456
+00:19:26,240 --> 00:19:28,320
+at that point, they'll know like, "Oh,
+
+457
+00:19:28,320 --> 00:19:32,000
+this is not um MDZ, this is Michael
+
+458
+00:19:32,000 --> 00:19:34,880
+Dale. Okay, we can work with that."
+
+459
+00:19:34,880 --> 00:19:37,600
+>> Yeah. Yeah. Yeah. That's that's true.
+
+460
+00:19:37,600 --> 00:19:40,400
+I've had um people do this so you know
+
+461
+00:19:40,400 --> 00:19:42,320
+I've had like FBI do background checks
+
+462
+00:19:42,320 --> 00:19:46,799
+on and they say like give me give like
+
+463
+00:19:46,799 --> 00:19:48,880
+you want to know your public or uh
+
+464
+00:19:48,880 --> 00:19:52,640
+social media profile and I said I don't
+
+465
+00:19:52,640 --> 00:19:55,679
+have any go try to find it prove me
+
+466
+00:19:55,679 --> 00:19:57,840
+wrong they couldn't prove it they
+
+467
+00:19:57,840 --> 00:19:59,200
+couldn't prove I had a Facebook account
+
+468
+00:19:59,200 --> 00:20:01,600
+I was like that's right [ __ ] like I
+
+469
+00:20:01,600 --> 00:20:04,559
+know what I'm doing right I was like
+
+470
+00:20:04,559 --> 00:20:07,520
+bring it freak it on
+
+471
+00:20:07,520 --> 00:20:09,600
+I remember one FBI agent told me, he
+
+472
+00:20:09,600 --> 00:20:11,360
+said, "You you don't look it, but boy,
+
+473
+00:20:11,360 --> 00:20:12,880
+you're incredibly intelligent and we
+
+474
+00:20:12,880 --> 00:20:16,600
+have to take you seriously."
+
+475
+00:20:16,640 --> 00:20:18,320
+I was I was honored by it. I was
+
+476
+00:20:18,320 --> 00:20:20,799
+laughing. It's like, you know what's
+
+477
+00:20:20,799 --> 00:20:22,880
+going on. You don't you don't play by
+
+478
+00:20:22,880 --> 00:20:24,640
+normal rules like just following the
+
+479
+00:20:24,640 --> 00:20:27,039
+like sheep. You you actually know what
+
+480
+00:20:27,039 --> 00:20:28,640
+the rules are and you play according to
+
+481
+00:20:28,640 --> 00:20:32,799
+the rules. Yeah.
+
+482
+00:20:32,799 --> 00:20:34,400
+So, again, I like that. That was that
+
+483
+00:20:34,400 --> 00:20:37,440
+was kind of a cool thing. Um, so always
+
+484
+00:20:37,440 --> 00:20:40,559
+make sure that your digital profile can
+
+485
+00:20:40,559 --> 00:20:42,720
+only be verified
+
+486
+00:20:42,720 --> 00:20:44,559
+through
+
+487
+00:20:44,559 --> 00:20:47,760
+nothing. It's impossible to verify.
+
+488
+00:20:47,760 --> 00:20:50,400
+That's what I was saying. Nobody knows
+
+489
+00:20:50,400 --> 00:20:53,360
+who you are. Um, the only place where I
+
+490
+00:20:53,360 --> 00:20:56,159
+have a photo of myself. Well, so my
+
+491
+00:20:56,159 --> 00:20:58,559
+Facebook one is digitally altered right
+
+492
+00:20:58,559 --> 00:21:01,760
+now. LinkedIn is the only place where I
+
+493
+00:21:01,760 --> 00:21:05,280
+actually do have a real photo of true.
+
+494
+00:21:05,280 --> 00:21:10,679
+That's That's me and Katrina, right?
+
+495
+00:21:11,039 --> 00:21:14,039
+Yep.
+
+496
+00:21:14,960 --> 00:21:16,320
+Anyone who knows what they are doing
+
+497
+00:21:16,320 --> 00:21:18,559
+will have a difficult getting caught.
+
+498
+00:21:18,559 --> 00:21:20,799
+Yeah. Fence Bened's not friendly with
+
+499
+00:21:20,799 --> 00:21:23,280
+those guys.
+
+500
+00:21:23,280 --> 00:21:25,760
+Yeah. So, the photos, you can put a
+
+501
+00:21:25,760 --> 00:21:28,400
+photo on there, but as you notice, the
+
+502
+00:21:28,400 --> 00:21:30,000
+photos I have in my current Facebook is
+
+503
+00:21:30,000 --> 00:21:31,919
+is is
+
+504
+00:21:31,919 --> 00:21:34,320
+enhanced with AI, right? It's it's like
+
+505
+00:21:34,320 --> 00:21:36,080
+there's a filter out there as a change.
+
+506
+00:21:36,080 --> 00:21:39,120
+One of the students did that. Um that's
+
+507
+00:21:39,120 --> 00:21:41,840
+one of the best ways of doing it. Just
+
+508
+00:21:41,840 --> 00:21:45,200
+be try to remove your real photos. Make
+
+509
+00:21:45,200 --> 00:21:47,760
+sure there's some sort of filter. Um, I
+
+510
+00:21:47,760 --> 00:21:51,840
+learned this technique from I I told you
+
+511
+00:21:51,840 --> 00:21:56,320
+about um the prostitute that I was
+
+512
+00:21:56,320 --> 00:21:59,440
+tracking for a few years and I couldn't
+
+513
+00:21:59,440 --> 00:22:03,440
+figure out like my matchmaker in
+
+514
+00:22:03,440 --> 00:22:05,600
+introduced me to her and she looked like
+
+515
+00:22:05,600 --> 00:22:07,679
+this charming like young woman and
+
+516
+00:22:07,679 --> 00:22:09,360
+everything, right? I was thinking,
+
+517
+00:22:09,360 --> 00:22:10,480
+"Yeah, of course I'm going to make
+
+518
+00:22:10,480 --> 00:22:13,840
+babies with you, right?" And I just her
+
+519
+00:22:13,840 --> 00:22:17,600
+story didn't pan out. And I kept on
+
+520
+00:22:17,600 --> 00:22:20,400
+tracking her, checked her Instagram
+
+521
+00:22:20,400 --> 00:22:22,159
+photos that she sent me and everything.
+
+522
+00:22:22,159 --> 00:22:24,000
+And what I found out was that her
+
+523
+00:22:24,000 --> 00:22:27,520
+Instagram was actually her. That was
+
+524
+00:22:27,520 --> 00:22:30,080
+that was realistically it was her, but
+
+525
+00:22:30,080 --> 00:22:32,240
+the photos that she sent me all had
+
+526
+00:22:32,240 --> 00:22:36,400
+filters. And if if you did normal
+
+527
+00:22:36,400 --> 00:22:40,080
+searches online or even with an app that
+
+528
+00:22:40,080 --> 00:22:42,320
+her filtered photos and her Instagram
+
+529
+00:22:42,320 --> 00:22:45,679
+would never meet up like kept on
+
+530
+00:22:45,679 --> 00:22:48,400
+searching like went
+
+531
+00:22:48,400 --> 00:22:52,640
+crazy. I use o OENT OS I NT based
+
+532
+00:22:52,640 --> 00:22:54,400
+applications
+
+533
+00:22:54,400 --> 00:23:00,240
+and I finally found her escort profile
+
+534
+00:23:00,240 --> 00:23:04,559
+and I I I found her photos and those
+
+535
+00:23:04,559 --> 00:23:07,360
+photos were also somewhat digitally
+
+536
+00:23:07,360 --> 00:23:11,760
+modified so that the the photos that I
+
+537
+00:23:11,760 --> 00:23:14,960
+received from the matchmaker and the
+
+538
+00:23:14,960 --> 00:23:17,679
+photos for her whoring profile would
+
+539
+00:23:17,679 --> 00:23:20,480
+never reconcile style with each other.
+
+540
+00:23:20,480 --> 00:23:24,559
+So, I actually had to like I had to use
+
+541
+00:23:24,559 --> 00:23:26,960
+open chat GPT and I used all of her
+
+542
+00:23:26,960 --> 00:23:29,679
+photos together and her um what was it?
+
+543
+00:23:29,679 --> 00:23:32,080
+Her LinkedIn. No, not LinkedIn. Uh her
+
+544
+00:23:32,080 --> 00:23:35,120
+Instagram and I said these two photos
+
+545
+00:23:35,120 --> 00:23:38,320
+here have filters. This is real. What is
+
+546
+00:23:38,320 --> 00:23:41,600
+the degree of overlap? And there these
+
+547
+00:23:41,600 --> 00:23:45,440
+again try to remove filters. And uh
+
+548
+00:23:45,440 --> 00:23:49,360
+Tatto did a reverse filter basically and
+
+549
+00:23:49,360 --> 00:23:51,440
+said, "Yep, that's her. That's
+
+550
+00:23:51,440 --> 00:23:53,280
+definitely her. That's that's if you got
+
+551
+00:23:53,280 --> 00:23:55,200
+the right person." And I had to go
+
+552
+00:23:55,200 --> 00:23:59,200
+through very small areas on her body and
+
+553
+00:23:59,200 --> 00:24:01,600
+it came all you It's kind of funny. It
+
+554
+00:24:01,600 --> 00:24:05,280
+came to the ring on her belly button.
+
+555
+00:24:05,280 --> 00:24:07,120
+The ring on her belly button was one of
+
+556
+00:24:07,120 --> 00:24:10,240
+the few areas that had no filter and it
+
+557
+00:24:10,240 --> 00:24:14,480
+was it was the same in all three areas.
+
+558
+00:24:14,480 --> 00:24:18,240
+Gotcha, [ __ ] You a hoe. Right. So, you
+
+559
+00:24:18,240 --> 00:24:19,679
+have to go through a lot of of process
+
+560
+00:24:19,679 --> 00:24:22,799
+there. That's that's a lot of work,
+
+561
+00:24:22,799 --> 00:24:24,640
+right? FBI really isn't going to be
+
+562
+00:24:24,640 --> 00:24:27,200
+doing it. Well, if if you're smart, you
+
+563
+00:24:27,200 --> 00:24:30,480
+don't have stuff like your photo. If
+
+564
+00:24:30,480 --> 00:24:31,760
+you're not showing your body like that,
+
+565
+00:24:31,760 --> 00:24:34,880
+I'll li the the pixels can't be
+
+566
+00:24:34,880 --> 00:24:36,240
+correlated with that with multiple
+
+567
+00:24:36,240 --> 00:24:38,559
+photos, right? But she got caught. I got
+
+568
+00:24:38,559 --> 00:24:41,440
+her. I remember I sent that letter to
+
+569
+00:24:41,440 --> 00:24:44,720
+her. I said men own your body. I own
+
+570
+00:24:44,720 --> 00:24:46,880
+panata.
+
+571
+00:24:46,880 --> 00:24:49,360
+You use as I said you use panata and men
+
+572
+00:24:49,360 --> 00:24:52,799
+use your body. I use I buy panata.
+
+573
+00:24:52,799 --> 00:24:55,679
+Right. I have the best I have the best.
+
+574
+00:24:55,679 --> 00:24:59,480
+Anyway, um
+
+575
+00:24:59,520 --> 00:25:01,600
+hold on. The intel community is very
+
+576
+00:25:01,600 --> 00:25:03,919
+interested. Folks who are good at this,
+
+577
+00:25:03,919 --> 00:25:05,840
+you will if you get sloppy get on the
+
+578
+00:25:05,840 --> 00:25:09,679
+radar. Yep. Yeah. Yeah.
+
+579
+00:25:09,679 --> 00:25:11,520
+Uh
+
+580
+00:25:11,520 --> 00:25:13,600
+spokes for that. Most tend to be NSA or
+
+581
+00:25:13,600 --> 00:25:15,120
+CI.
+
+582
+00:25:15,120 --> 00:25:16,640
+Yeah, I've done I've done work on here
+
+583
+00:25:16,640 --> 00:25:19,440
+and it it's it's fascinating. This is
+
+584
+00:25:19,440 --> 00:25:21,760
+why I just found another girl. Okay,
+
+585
+00:25:21,760 --> 00:25:24,640
+small side track, but I just found a
+
+586
+00:25:24,640 --> 00:25:28,480
+woman I've known since 2019. No, 2018.
+
+587
+00:25:28,480 --> 00:25:31,200
+Finally found her only fans. Use the
+
+588
+00:25:31,200 --> 00:25:33,600
+same profile. Took me forever. I said,
+
+589
+00:25:33,600 --> 00:25:35,600
+"Something's not correlating with you.
+
+590
+00:25:35,600 --> 00:25:38,640
+Gotcha." Right. It's like boom. Gotcha,
+
+591
+00:25:38,640 --> 00:25:40,559
+[ __ ] All right. I know what you're
+
+592
+00:25:40,559 --> 00:25:43,200
+doing. That's how you get money. All
+
+593
+00:25:43,200 --> 00:25:47,520
+right. Uh anyway, uh so you got user
+
+594
+00:25:47,520 --> 00:25:49,120
+authentication from usual. Okay, this is
+
+595
+00:25:49,120 --> 00:25:51,039
+what we're talking about here for for
+
+596
+00:25:51,039 --> 00:25:54,320
+automation. Um so you when we're using
+
+597
+00:25:54,320 --> 00:25:57,279
+AI with security, just remember when it
+
+598
+00:25:57,279 --> 00:25:59,600
+comes to actions, you really need to
+
+599
+00:25:59,600 --> 00:26:02,080
+have the human there. Uh in the pipeline
+
+600
+00:26:02,080 --> 00:26:04,159
+that I made, which I have to properly
+
+601
+00:26:04,159 --> 00:26:06,880
+demo for you guys, I have to get that up
+
+602
+00:26:06,880 --> 00:26:10,480
+and running again here. Um there's a way
+
+603
+00:26:10,480 --> 00:26:14,000
+of doing automated changes to your code
+
+604
+00:26:14,000 --> 00:26:16,880
+uh based upon uh dev sec ops or some
+
+605
+00:26:16,880 --> 00:26:18,159
+sort of automated code that you're
+
+606
+00:26:18,159 --> 00:26:20,080
+you're running in your pipeline and
+
+607
+00:26:20,080 --> 00:26:22,240
+especially Terraform. You could actually
+
+608
+00:26:22,240 --> 00:26:25,360
+I had it so that uh AI could change the
+
+609
+00:26:25,360 --> 00:26:28,400
+the Terraform in order to remove or in
+
+610
+00:26:28,400 --> 00:26:30,799
+order to uh be compliant with with
+
+611
+00:26:30,799 --> 00:26:32,799
+security scans.
+
+612
+00:26:32,799 --> 00:26:35,840
+You can't you can't have an automatic
+
+613
+00:26:35,840 --> 00:26:37,360
+deployment
+
+614
+00:26:37,360 --> 00:26:40,400
+is just no. You cannot do that because
+
+615
+00:26:40,400 --> 00:26:43,279
+if you're any bit smart then you know
+
+616
+00:26:43,279 --> 00:26:46,159
+how to manipulate that AI into acting in
+
+617
+00:26:46,159 --> 00:26:48,080
+a certain way to get you unauthorized
+
+618
+00:26:48,080 --> 00:26:50,720
+access. And that's exactly what Methos
+
+619
+00:26:50,720 --> 00:26:54,880
+did. So one AI can convince another AI
+
+620
+00:26:54,880 --> 00:26:58,320
+to do something. Why is this important?
+
+621
+00:26:58,320 --> 00:27:00,480
+Because the hackers are developing their
+
+622
+00:27:00,480 --> 00:27:03,760
+own AI systems and they have them now.
+
+623
+00:27:03,760 --> 00:27:06,400
+So they can use AI based attacks or AI
+
+624
+00:27:06,400 --> 00:27:08,640
+based adversarial attacks to convince
+
+625
+00:27:08,640 --> 00:27:12,080
+your AI to do what it wants it to do.
+
+626
+00:27:12,080 --> 00:27:13,840
+Again, sounds a little bit like science
+
+627
+00:27:13,840 --> 00:27:16,080
+fiction or James Bond or something like
+
+628
+00:27:16,080 --> 00:27:19,360
+that. It's happening now. It's there.
+
+629
+00:27:19,360 --> 00:27:23,039
+I'm telling you it is. All right. So,
+
+630
+00:27:23,039 --> 00:27:24,720
+let's go ahead and have some fun here.
+
+631
+00:27:24,720 --> 00:27:26,799
+Um
+
+632
+00:27:26,799 --> 00:27:30,000
+so here modern engineers must understand
+
+633
+00:27:30,000 --> 00:27:32,640
+identity telemetry automation detection
+
+634
+00:27:32,640 --> 00:27:36,480
+and response flows. Okay. So, telemetry,
+
+635
+00:27:36,480 --> 00:27:39,039
+we're looking at your error messages,
+
+636
+00:27:39,039 --> 00:27:42,000
+uh, in particular, your your structure,
+
+637
+00:27:42,000 --> 00:27:44,960
+um, your hardware infrastructure-based
+
+638
+00:27:44,960 --> 00:27:46,400
+error messages. You really need to know
+
+639
+00:27:46,400 --> 00:27:48,799
+what's going on there. Um, patch
+
+640
+00:27:48,799 --> 00:27:51,520
+management, things like that. Uh, some
+
+641
+00:27:51,520 --> 00:27:54,080
+login, but
+
+642
+00:27:54,080 --> 00:27:55,760
+basically, you want to know something's
+
+643
+00:27:55,760 --> 00:27:58,080
+going wrong in your environment. And if
+
+644
+00:27:58,080 --> 00:28:00,640
+you know it, if you can get some idea of
+
+645
+00:28:00,640 --> 00:28:02,080
+what's going on, then start responding
+
+646
+00:28:02,080 --> 00:28:04,480
+to it. uh for the most part when it
+
+647
+00:28:04,480 --> 00:28:07,039
+talks about telemetry not that many
+
+648
+00:28:07,039 --> 00:28:11,039
+people do anything with it. So like some
+
+649
+00:28:11,039 --> 00:28:14,720
+code is out of date or um you know
+
+650
+00:28:14,720 --> 00:28:17,360
+there's some sort of routing problem and
+
+651
+00:28:17,360 --> 00:28:18,880
+packets aren't being routed the correct
+
+652
+00:28:18,880 --> 00:28:20,480
+way for an application or something like
+
+653
+00:28:20,480 --> 00:28:22,960
+that. Unless it's a it's a high or a
+
+654
+00:28:22,960 --> 00:28:25,520
+critical uh alert, people don't do
+
+655
+00:28:25,520 --> 00:28:27,760
+anything. They don't even watch it just
+
+656
+00:28:27,760 --> 00:28:29,440
+the way it is because they don't have
+
+657
+00:28:29,440 --> 00:28:31,679
+enough resources. Now why don't they
+
+658
+00:28:31,679 --> 00:28:33,679
+have enough resources?
+
+659
+00:28:33,679 --> 00:28:35,039
+It's because they're usually a bunch of
+
+660
+00:28:35,039 --> 00:28:36,640
+cheap ass bastards who don't want to
+
+661
+00:28:36,640 --> 00:28:39,440
+hire more people even for India to go
+
+662
+00:28:39,440 --> 00:28:41,679
+solve things because they want to
+
+663
+00:28:41,679 --> 00:28:45,200
+increase shareholder value.
+
+664
+00:28:45,200 --> 00:28:47,360
+This is where uh sea suite need to be
+
+665
+00:28:47,360 --> 00:28:49,919
+careful walking down the street.
+
+666
+00:28:49,919 --> 00:28:52,799
+Not that I know about that. I don't know
+
+667
+00:28:52,799 --> 00:28:54,799
+why I know anything about that
+
+668
+00:28:54,799 --> 00:28:58,120
+>> bad thing.
+
+669
+00:28:58,960 --> 00:29:02,080
+I understand uh when we come I look at
+
+670
+00:29:02,080 --> 00:29:04,960
+my current company right now and the
+
+671
+00:29:04,960 --> 00:29:06,880
+amount of frustration that I'm having
+
+672
+00:29:06,880 --> 00:29:09,840
+with with certain issues because we have
+
+673
+00:29:09,840 --> 00:29:14,399
+over a million um uh vulnerabilities
+
+674
+00:29:14,399 --> 00:29:17,200
+vulnerability finding right now
+
+675
+00:29:17,200 --> 00:29:20,559
+and we have um VMs which have been
+
+676
+00:29:20,559 --> 00:29:23,679
+running since uh 2022 and they have
+
+677
+00:29:23,679 --> 00:29:25,679
+never been torn down even once and they
+
+678
+00:29:25,679 --> 00:29:28,720
+haven't been patched even once and I'm
+
+679
+00:29:28,720 --> 00:29:31,440
+telling them like we need to actually
+
+680
+00:29:31,440 --> 00:29:33,279
+develop the program for this because we
+
+681
+00:29:33,279 --> 00:29:37,440
+have a trillion dollars in assets and
+
+682
+00:29:37,440 --> 00:29:40,320
+you know we have issues we have to go
+
+683
+00:29:40,320 --> 00:29:43,760
+deal with these right so why don't we
+
+684
+00:29:43,760 --> 00:29:45,440
+even
+
+685
+00:29:45,440 --> 00:29:47,279
+like let's get some people in India to
+
+686
+00:29:47,279 --> 00:29:49,360
+do it if we can't get people in the
+
+687
+00:29:49,360 --> 00:29:50,880
+first world to do it fine let's let's go
+
+688
+00:29:50,880 --> 00:29:53,360
+to India get some guys to do it and then
+
+689
+00:29:53,360 --> 00:29:55,440
+you know hire them out no won't even do
+
+690
+00:29:55,440 --> 00:29:58,720
+that I'm like why Because if these
+
+691
+00:29:58,720 --> 00:30:00,399
+databases get knocked out or these
+
+692
+00:30:00,399 --> 00:30:02,559
+applications get knocked out, the the
+
+693
+00:30:02,559 --> 00:30:04,240
+loss we're going to have is is quite
+
+694
+00:30:04,240 --> 00:30:06,960
+huge, you know, uh so it might be a few
+
+695
+00:30:06,960 --> 00:30:10,240
+million dollars. So that justifies
+
+696
+00:30:10,240 --> 00:30:12,399
+getting some budget. Why don't we get $2
+
+697
+00:30:12,399 --> 00:30:15,679
+million in a year, hire some contractors
+
+698
+00:30:15,679 --> 00:30:20,919
+out to get some work done? Won't do
+
+699
+00:30:21,520 --> 00:30:23,120
+ser this is this this is a very
+
+700
+00:30:23,120 --> 00:30:26,320
+frustrating thing. So uh that's why the
+
+701
+00:30:26,320 --> 00:30:27,760
+important work isn't being done. They're
+
+702
+00:30:27,760 --> 00:30:29,520
+trying to automate it which but a lot of
+
+703
+00:30:29,520 --> 00:30:30,559
+this work can't be done through
+
+704
+00:30:30,559 --> 00:30:33,360
+automation. Right.
+
+705
+00:30:33,360 --> 00:30:35,520
+Uh I saw I saw an uptrend knowledge of
+
+706
+00:30:35,520 --> 00:30:37,840
+open telemetry but still superficial.
+
+707
+00:30:37,840 --> 00:30:39,600
+The response time is not exploited all
+
+708
+00:30:39,600 --> 00:30:41,760
+just collective analysis. Yep. Yep.
+
+709
+00:30:41,760 --> 00:30:46,159
+Correct. Okay. All right.
+
+710
+00:30:46,159 --> 00:30:48,000
+Yeah.
+
+711
+00:30:48,000 --> 00:30:50,000
+So in whiz
+
+712
+00:30:50,000 --> 00:30:52,720
+if if you're using whiz there's um you
+
+713
+00:30:52,720 --> 00:30:54,799
+could do a search filter and you could
+
+714
+00:30:54,799 --> 00:30:58,000
+say is this internet facing and does it
+
+715
+00:30:58,000 --> 00:31:01,279
+have a known public exploit.
+
+716
+00:31:01,279 --> 00:31:04,399
+So you put I put those two on there and
+
+717
+00:31:04,399 --> 00:31:06,640
+I said okay let's
+
+718
+00:31:06,640 --> 00:31:08,240
+let's um let's see how many
+
+719
+00:31:08,240 --> 00:31:11,120
+vulnerabilities we have and with just
+
+720
+00:31:11,120 --> 00:31:14,799
+those two alone I think we had over
+
+721
+00:31:14,799 --> 00:31:16,399
+120,000.
+
+722
+00:31:16,399 --> 00:31:19,440
+I also said no known no duplicates. So
+
+723
+00:31:19,440 --> 00:31:22,159
+we had over 120,000
+
+724
+00:31:22,159 --> 00:31:24,640
+high and critical
+
+725
+00:31:24,640 --> 00:31:26,240
+vulnerabilities.
+
+726
+00:31:26,240 --> 00:31:28,880
+I was like are you trying like are you
+
+727
+00:31:28,880 --> 00:31:30,159
+just trying to make it easy for the
+
+728
+00:31:30,159 --> 00:31:33,039
+hackers? Like what's going on? So that
+
+729
+00:31:33,039 --> 00:31:34,880
+that's some crazy [ __ ] I'm just saying
+
+730
+00:31:34,880 --> 00:31:36,399
+like they should take care of it and
+
+731
+00:31:36,399 --> 00:31:39,440
+they're not. They're not. They're just
+
+732
+00:31:39,440 --> 00:31:41,279
+not.
+
+733
+00:31:41,279 --> 00:31:43,760
+They're like Theo get it. Try to patch
+
+734
+00:31:43,760 --> 00:31:46,080
+it all without having to spend money.
+
+735
+00:31:46,080 --> 00:31:49,480
+What? Are you serious?
+
+736
+00:31:50,399 --> 00:31:54,799
+Oh, Jesus. Anyway, um here we go. So,
+
+737
+00:31:54,799 --> 00:31:58,559
+SOAR versus SIM. Okay, here we go. Say
+
+738
+00:31:58,559 --> 00:32:01,519
+here you go. So, SIM collect and analyze
+
+739
+00:32:01,519 --> 00:32:04,000
+logs. SOAR automate response workflows.
+
+740
+00:32:04,000 --> 00:32:07,200
+All right, so SIM something suspicion
+
+741
+00:32:07,200 --> 00:32:10,000
+happened. SOAR SOAR is security as
+
+742
+00:32:10,000 --> 00:32:11,919
+workflow automation detection without
+
+743
+00:32:11,919 --> 00:32:14,240
+response is incomplete.
+
+744
+00:32:14,240 --> 00:32:16,159
+All right. So something suspicious
+
+745
+00:32:16,159 --> 00:32:18,480
+happened. So I automatically
+
+746
+00:32:18,480 --> 00:32:21,360
+enriched data created tickets alerted
+
+747
+00:32:21,360 --> 00:32:23,919
+Slack disabled access. All right. Now
+
+748
+00:32:23,919 --> 00:32:26,799
+here again
+
+749
+00:32:26,799 --> 00:32:29,200
+this this is my what I say ultimately
+
+750
+00:32:29,200 --> 00:32:30,799
+you can go through here and do enrich
+
+751
+00:32:30,799 --> 00:32:33,039
+data created tickets and alert in Slack.
+
+752
+00:32:33,039 --> 00:32:35,200
+Um I wouldn't go to a full level of
+
+753
+00:32:35,200 --> 00:32:38,159
+disable access. Uh just be careful with
+
+754
+00:32:38,159 --> 00:32:40,399
+that. Don't recommend I you need to
+
+755
+00:32:40,399 --> 00:32:43,519
+review access. You only disable access
+
+756
+00:32:43,519 --> 00:32:46,559
+if it's for certain users.
+
+757
+00:32:46,559 --> 00:32:48,559
+Make sure your security team does not
+
+758
+00:32:48,559 --> 00:32:50,480
+have disabled access access and also
+
+759
+00:32:50,480 --> 00:32:53,720
+your cues.
+
+760
+00:32:55,760 --> 00:32:57,279
+Okay.
+
+761
+00:32:57,279 --> 00:33:00,080
+So let's map this to current class.
+
+762
+00:33:00,080 --> 00:33:01,600
+Let's let's look what you guys already
+
+763
+00:33:01,600 --> 00:33:04,080
+have. All right. You have kita which is
+
+764
+00:33:04,080 --> 00:33:06,640
+identity. You have lambda got the two
+
+765
+00:33:06,640 --> 00:33:09,440
+lambda. Lambda is running right. So that
+
+766
+00:33:09,440 --> 00:33:12,559
+one is actually looking for the token
+
+767
+00:33:12,559 --> 00:33:14,320
+which is expired right? So you have an
+
+768
+00:33:14,320 --> 00:33:17,200
+automation engine. Then you have Dynamo
+
+769
+00:33:17,200 --> 00:33:19,760
+DB. Why do we have that? Because it has
+
+770
+00:33:19,760 --> 00:33:21,760
+state tracking,
+
+771
+00:33:21,760 --> 00:33:23,679
+right? I need to know that state. We
+
+772
+00:33:23,679 --> 00:33:25,200
+need to monitor it. We need to maintain
+
+773
+00:33:25,200 --> 00:33:28,720
+it. Event bridge as orchestration,
+
+774
+00:33:28,720 --> 00:33:30,720
+right? Sending from one to another. It
+
+775
+00:33:30,720 --> 00:33:33,840
+orchestrates the events, right? You have
+
+776
+00:33:33,840 --> 00:33:35,760
+WFT, you have edge protection, and then
+
+777
+00:33:35,760 --> 00:33:38,960
+you have Cloudatch, which is telemetry.
+
+778
+00:33:38,960 --> 00:33:42,240
+It gives you your basic air logs, error
+
+779
+00:33:42,240 --> 00:33:43,360
+messages. So, it tells you what's
+
+780
+00:33:43,360 --> 00:33:47,440
+basically going on. So, this is already
+
+781
+00:33:47,440 --> 00:33:49,440
+building soul.
+
+782
+00:33:49,440 --> 00:33:53,200
+See why I did it the way I did it?
+
+783
+00:33:53,200 --> 00:33:55,440
+Evil mastermind. That's right. I was
+
+784
+00:33:55,440 --> 00:33:57,919
+doing so from from the beginning when I
+
+785
+00:33:57,919 --> 00:34:00,640
+was doing this. So, you have multiple
+
+786
+00:34:00,640 --> 00:34:03,039
+AWS services. operating event driven
+
+787
+00:34:03,039 --> 00:34:07,120
+security and identity aware automation.
+
+788
+00:34:07,120 --> 00:34:08,879
+Okay,
+
+789
+00:34:08,879 --> 00:34:10,960
+there you go. Well, this is my little
+
+790
+00:34:10,960 --> 00:34:13,679
+introduction into serve. Um, any
+
+791
+00:34:13,679 --> 00:34:17,320
+questions at this point?
+
+792
+00:34:18,800 --> 00:34:21,599
+Have to go through and edit this again.
+
+793
+00:34:21,599 --> 00:34:25,480
+I always have to edit it.
+
+794
+00:34:25,679 --> 00:34:27,200
+Questions?
+
+795
+00:34:27,200 --> 00:34:32,639
+We good, Rob? Rob. Um, so you touched on
+
+796
+00:34:32,639 --> 00:34:38,119
+it um, briefly, but
+
+797
+00:34:39,119 --> 00:34:42,079
+in the the prospect of companies making
+
+798
+00:34:42,079 --> 00:34:45,440
+their own like their own AI powered
+
+799
+00:34:45,440 --> 00:34:48,399
+sock. Uh, you touched on it briefly
+
+800
+00:34:48,399 --> 00:34:51,040
+yesterday. You said that it was baby
+
+801
+00:34:51,040 --> 00:34:53,520
+basically poppycock. It's dumb. It was a
+
+802
+00:34:53,520 --> 00:34:54,879
+bad idea.
+
+803
+00:34:54,879 --> 00:34:56,159
+Um,
+
+804
+00:34:56,159 --> 00:35:00,079
+>> can you expand on on that and you know
+
+805
+00:35:00,079 --> 00:35:02,800
+cuz I I know that's sort of poison to
+
+806
+00:35:02,800 --> 00:35:06,400
+how a sock operates. So, uh, can you
+
+807
+00:35:06,400 --> 00:35:09,680
+expand on why the the whole AI powered
+
+808
+00:35:09,680 --> 00:35:12,400
+security team will just be a a failure
+
+809
+00:35:12,400 --> 00:35:13,920
+waiting to happen
+
+810
+00:35:13,920 --> 00:35:15,920
+>> because you have no judgment. You have
+
+811
+00:35:15,920 --> 00:35:18,480
+no idea of of context. You have no
+
+812
+00:35:18,480 --> 00:35:20,800
+responsibility
+
+813
+00:35:20,800 --> 00:35:23,839
+straight up. It's absolutely utterly
+
+814
+00:35:23,839 --> 00:35:28,160
+stupid. So you can't Okay, so for
+
+815
+00:35:28,160 --> 00:35:31,680
+example, I've I've developed a CCSP
+
+816
+00:35:31,680 --> 00:35:35,200
+course. All right. In the CCSE course,
+
+817
+00:35:35,200 --> 00:35:36,800
+I'm just I'm showing you guys how to
+
+818
+00:35:36,800 --> 00:35:39,520
+build an AI based sock,
+
+819
+00:35:39,520 --> 00:35:43,040
+right? However, that entire everything
+
+820
+00:35:43,040 --> 00:35:45,200
+I'm doing needs to have human
+
+821
+00:35:45,200 --> 00:35:46,800
+intervention.
+
+822
+00:35:46,800 --> 00:35:49,760
+It needs to have humans watching it and
+
+823
+00:35:49,760 --> 00:35:51,839
+see what's actually going on. These are
+
+824
+00:35:51,839 --> 00:35:54,480
+tools. That's what ultimately is. It's
+
+825
+00:35:54,480 --> 00:35:58,800
+not responsibility. If you have AI
+
+826
+00:35:58,800 --> 00:36:01,440
+making decisions for you and actually
+
+827
+00:36:01,440 --> 00:36:05,920
+acting within the sock, you're doomed.
+
+828
+00:36:05,920 --> 00:36:08,000
+Said you have lost your human
+
+829
+00:36:08,000 --> 00:36:09,839
+responsibility.
+
+830
+00:36:09,839 --> 00:36:11,119
+And then all you're going to do is say,
+
+831
+00:36:11,119 --> 00:36:13,920
+"Uhuh. I don't know what's going on."
+
+832
+00:36:13,920 --> 00:36:17,040
+Does not work that way. No. No. Let me
+
+833
+00:36:17,040 --> 00:36:19,200
+show you a book real quick. Beic. Get a
+
+834
+00:36:19,200 --> 00:36:23,400
+book. Yeah.
+
+835
+00:36:26,079 --> 00:36:28,160
+Doc
+
+836
+00:36:28,160 --> 00:36:30,880
+SK
+
+837
+00:36:30,880 --> 00:36:34,160
+>> SOC security operations center.
+
+838
+00:36:34,160 --> 00:36:36,240
+>> Okay. Thank you.
+
+839
+00:36:36,240 --> 00:36:38,720
+>> Yep.
+
+840
+00:36:38,720 --> 00:36:40,560
+So
+
+841
+00:36:40,560 --> 00:36:44,000
+a traditional security operations center
+
+842
+00:36:44,000 --> 00:36:47,599
+basically be a uh it's like a 24 it's
+
+843
+00:36:47,599 --> 00:36:50,000
+like the help desk of security where
+
+844
+00:36:50,000 --> 00:36:52,320
+instead of you
+
+845
+00:36:52,320 --> 00:36:55,839
+fielding calls from users and a regular
+
+846
+00:36:55,839 --> 00:36:58,560
+help desk for you know install requests
+
+847
+00:36:58,560 --> 00:37:01,440
+or something weird happened or um I need
+
+848
+00:37:01,440 --> 00:37:04,800
+I need a new machine or something. A
+
+849
+00:37:04,800 --> 00:37:06,880
+security operation center is if there's
+
+850
+00:37:06,880 --> 00:37:09,200
+a alert or there's a ticket that comes
+
+851
+00:37:09,200 --> 00:37:12,320
+in and needs investigation
+
+852
+00:37:12,320 --> 00:37:15,920
+from one of the uh security devices or
+
+853
+00:37:15,920 --> 00:37:18,880
+interfaces like um like a like a um a
+
+854
+00:37:18,880 --> 00:37:23,599
+seam uh basically a seam sim that's the
+
+855
+00:37:23,599 --> 00:37:28,079
+uh aggregator for multiple touch points
+
+856
+00:37:28,079 --> 00:37:30,640
+inside of your organization and then you
+
+857
+00:37:30,640 --> 00:37:34,560
+have a seam like uh Splunk is an example
+
+858
+00:37:34,560 --> 00:37:38,160
+to basically aggregate all your security
+
+859
+00:37:38,160 --> 00:37:41,599
+info into a single location. So, the
+
+860
+00:37:41,599 --> 00:37:44,480
+seam gets just puts all the info, all
+
+861
+00:37:44,480 --> 00:37:48,160
+the readouts into one spot. But then the
+
+862
+00:37:48,160 --> 00:37:50,079
+what that's but then after you get all
+
+863
+00:37:50,079 --> 00:37:52,640
+the info, what do you do with it? That's
+
+864
+00:37:52,640 --> 00:37:54,400
+where the sword comes into play because
+
+865
+00:37:54,400 --> 00:37:59,119
+now you're creating a a a runbook or
+
+866
+00:37:59,119 --> 00:38:04,720
+playbook, a a set list and structure and
+
+867
+00:38:04,720 --> 00:38:06,880
+you know basically you create a cookbook
+
+868
+00:38:06,880 --> 00:38:09,520
+like every single time a event like this
+
+869
+00:38:09,520 --> 00:38:12,079
+happens or event like this is detected
+
+870
+00:38:12,079 --> 00:38:15,119
+in the environment what happens you know
+
+871
+00:38:15,119 --> 00:38:17,680
+you get the you get the ticket you get
+
+872
+00:38:17,680 --> 00:38:20,960
+the ticket created you get the uh you
+
+873
+00:38:20,960 --> 00:38:23,520
+know uh an alert is sent out via email
+
+874
+00:38:23,520 --> 00:38:26,720
+or via Slack or something. Ticket is
+
+875
+00:38:26,720 --> 00:38:29,680
+created and then if it's critical enough
+
+876
+00:38:29,680 --> 00:38:32,160
+then something happens. Do do you want
+
+877
+00:38:32,160 --> 00:38:34,640
+to shut off an access to an account? Do
+
+878
+00:38:34,640 --> 00:38:37,119
+you want to contact the user? But at
+
+879
+00:38:37,119 --> 00:38:38,880
+that point that's a human interaction
+
+880
+00:38:38,880 --> 00:38:41,359
+and and that's part of the reason why I
+
+881
+00:38:41,359 --> 00:38:45,520
+uh raised a question because um a lot of
+
+882
+00:38:45,520 --> 00:38:47,920
+companies want to automate everything as
+
+883
+00:38:47,920 --> 00:38:51,359
+outside of executive jobs which that's a
+
+884
+00:38:51,359 --> 00:38:53,440
+different conversation but if you're
+
+885
+00:38:53,440 --> 00:38:56,320
+trying to automate security uh my
+
+886
+00:38:56,320 --> 00:38:58,720
+biggest takeaway was that you need
+
+887
+00:38:58,720 --> 00:39:02,160
+someone to be responsible and to be the
+
+888
+00:39:02,160 --> 00:39:04,720
+person that signs off on the security
+
+889
+00:39:04,720 --> 00:39:08,240
+move that was made. And if you're and
+
+890
+00:39:08,240 --> 00:39:10,240
+someone someone needs to when you're in
+
+891
+00:39:10,240 --> 00:39:12,160
+security, someone needs to have their
+
+892
+00:39:12,160 --> 00:39:14,160
+head cut off if something happens.
+
+893
+00:39:14,160 --> 00:39:15,839
+Someone needs to be responsible. And if
+
+894
+00:39:15,839 --> 00:39:19,680
+there's no one responsible for security
+
+895
+00:39:19,680 --> 00:39:22,160
+and a if AI is the one responsible and
+
+896
+00:39:22,160 --> 00:39:26,720
+cable for security, then it's already
+
+897
+00:39:26,720 --> 00:39:28,480
+it's it's going to be like, oh well, you
+
+898
+00:39:28,480 --> 00:39:31,119
+can blame the model. And the model could
+
+899
+00:39:31,119 --> 00:39:33,839
+be if if people want to find a model
+
+900
+00:39:33,839 --> 00:39:35,599
+cable, then that means they have to go
+
+901
+00:39:35,599 --> 00:39:37,119
+sue
+
+902
+00:39:37,119 --> 00:39:39,359
+sue Anthropic or Open AI and they're not
+
+903
+00:39:39,359 --> 00:39:41,119
+going to get the money back because
+
+904
+00:39:41,119 --> 00:39:43,440
+ultimately it's your company. It's your
+
+905
+00:39:43,440 --> 00:39:46,320
+it's your inputs, your runbooks. You own
+
+906
+00:39:46,320 --> 00:39:49,520
+what's happening. So that's why I asked
+
+907
+00:39:49,520 --> 00:39:51,599
+him about the AI security center,
+
+908
+00:39:51,599 --> 00:39:54,000
+security operations center because it
+
+909
+00:39:54,000 --> 00:39:57,760
+just seems as if it's a it it seems good
+
+910
+00:39:57,760 --> 00:40:01,359
+from a McKenzie consultant, but in real
+
+911
+00:40:01,359 --> 00:40:05,040
+world it's it's it doesn't hold water.
+
+912
+00:40:05,040 --> 00:40:09,040
+No, it it it absolutely seems it fails
+
+913
+00:40:09,040 --> 00:40:10,800
+Sarbain Oxley
+
+914
+00:40:10,800 --> 00:40:14,160
+>> because Sar Oxley states that a human
+
+915
+00:40:14,160 --> 00:40:17,040
+particularly the CISO or a seauite has
+
+916
+00:40:17,040 --> 00:40:19,760
+got to be responsible for all events
+
+917
+00:40:19,760 --> 00:40:23,680
+within a system within the data center
+
+918
+00:40:23,680 --> 00:40:26,000
+and uh if you only have AI running there
+
+919
+00:40:26,000 --> 00:40:27,760
+you don't have anybody that's not a
+
+920
+00:40:27,760 --> 00:40:30,400
+human being involved
+
+921
+00:40:30,400 --> 00:40:31,839
+you need I I don't know how they
+
+922
+00:40:31,839 --> 00:40:34,320
+possibly do compliance there besides get
+
+923
+00:40:34,320 --> 00:40:35,760
+a bunch of lawyers together and make
+
+924
+00:40:35,760 --> 00:40:39,920
+everything vague and um get it through.
+
+925
+00:40:39,920 --> 00:40:44,079
+Uh so this book this is here AIdriven
+
+926
+00:40:44,079 --> 00:40:46,720
+transformation of the sock and secops
+
+927
+00:40:46,720 --> 00:40:48,720
+was actually a very good book. I have
+
+928
+00:40:48,720 --> 00:40:50,800
+two other books here. I can't find them
+
+929
+00:40:50,800 --> 00:40:53,680
+which means I probably
+
+930
+00:40:53,680 --> 00:40:57,119
+okay read them quite a bit. Um but this
+
+931
+00:40:57,119 --> 00:40:59,520
+book very much describes how AI is being
+
+932
+00:40:59,520 --> 00:41:02,000
+used in socks sorry uh security
+
+933
+00:41:02,000 --> 00:41:04,560
+operations centers and what the legal
+
+934
+00:41:04,560 --> 00:41:06,800
+responsibilities are limitations and how
+
+935
+00:41:06,800 --> 00:41:08,480
+humans are actually supposed to be
+
+936
+00:41:08,480 --> 00:41:11,359
+involved in there. At least it's a good
+
+937
+00:41:11,359 --> 00:41:13,920
+starting point I would say. So go read
+
+938
+00:41:13,920 --> 00:41:16,240
+this book if you really want to go look
+
+939
+00:41:16,240 --> 00:41:19,599
+at this uh AIdriven transformation of
+
+940
+00:41:19,599 --> 00:41:22,560
+the sock and secups
+
+941
+00:41:22,560 --> 00:41:25,560
+right
+
+942
+00:41:26,960 --> 00:41:29,599
+>> a quick followup question
+
+943
+00:41:29,599 --> 00:41:32,960
+>> have a link for it I got the book link
+
+944
+00:41:32,960 --> 00:41:34,560
+what do you got tail
+
+945
+00:41:34,560 --> 00:41:37,359
+>> so basically if even if you create a v a
+
+946
+00:41:37,359 --> 00:41:39,920
+runbook for the AI if it runs into a
+
+947
+00:41:39,920 --> 00:41:42,079
+situation that is not in the runbook
+
+948
+00:41:42,079 --> 00:41:45,599
+book and it cannot extrapolate what to
+
+949
+00:41:45,599 --> 00:41:48,400
+do, then it's either going to you um
+
+950
+00:41:48,400 --> 00:41:51,280
+force it into something that's incorrect
+
+951
+00:41:51,280 --> 00:41:55,040
+or not going to do anything at all.
+
+952
+00:41:55,040 --> 00:41:57,200
+>> Yeah. Well, but I'm not even worried
+
+953
+00:41:57,200 --> 00:41:59,760
+about that. What I'm worried about is it
+
+954
+00:41:59,760 --> 00:42:02,960
+taking action and it's an extreme action
+
+955
+00:42:02,960 --> 00:42:06,160
+and no human is involved.
+
+956
+00:42:06,160 --> 00:42:10,040
+That's what I'm worried about.
+
+957
+00:42:11,040 --> 00:42:12,640
+Oh, absolutely.
+
+958
+00:42:12,640 --> 00:42:16,079
+>> Yeah. So, it's because not knowing what
+
+959
+00:42:16,079 --> 00:42:20,400
+to do, that's already a part of the
+
+960
+00:42:20,400 --> 00:42:22,800
+normal work the normal automation
+
+961
+00:42:22,800 --> 00:42:25,280
+workflows. So if you're talking about
+
+962
+00:42:25,280 --> 00:42:28,160
+like a SIM that actually has SOARE in
+
+963
+00:42:28,160 --> 00:42:30,319
+enabled inside of it or you put some
+
+964
+00:42:30,319 --> 00:42:32,960
+sort of SOAR platform inside of the
+
+965
+00:42:32,960 --> 00:42:35,839
+company, there's always going to be some
+
+966
+00:42:35,839 --> 00:42:39,200
+sort of work some sort of action that is
+
+967
+00:42:39,200 --> 00:42:40,800
+outside of the current workflow. So
+
+968
+00:42:40,800 --> 00:42:43,280
+they'll run books and so they have to
+
+969
+00:42:43,280 --> 00:42:46,800
+have a default action for that catches
+
+970
+00:42:46,800 --> 00:42:49,200
+all of that and sends it to a Slack
+
+971
+00:42:49,200 --> 00:42:50,720
+channel or something like that, some
+
+972
+00:42:50,720 --> 00:42:52,880
+some sort of notification for that,
+
+973
+00:42:52,880 --> 00:42:54,480
+right? the edge cases. Yeah, that's
+
+974
+00:42:54,480 --> 00:42:56,560
+good. Uh Carlton,
+
+975
+00:42:56,560 --> 00:42:58,400
+I'm not worried about edge cases so
+
+976
+00:42:58,400 --> 00:43:02,560
+much. I'm worried about known cases and
+
+977
+00:43:02,560 --> 00:43:04,800
+how they deal with them because they get
+
+978
+00:43:04,800 --> 00:43:09,440
+some [ __ ] going on. Okay.
+
+979
+00:43:09,440 --> 00:43:13,359
+All right. So again, very good book.
+
+980
+00:43:13,359 --> 00:43:15,520
+Recommend book.
+
+981
+00:43:15,520 --> 00:43:18,560
+Just so you know, uh, if if you guys go
+
+982
+00:43:18,560 --> 00:43:21,760
+to the enclave,
+
+983
+00:43:21,760 --> 00:43:23,200
+you see, you know, I have two copies of
+
+984
+00:43:23,200 --> 00:43:26,880
+this. So, I'm bringing one copy to the
+
+985
+00:43:26,880 --> 00:43:29,200
+to Vegas. So, I'll give it away
+
+986
+00:43:29,200 --> 00:43:33,040
+somebody, right? But, you know, don't
+
+987
+00:43:33,040 --> 00:43:34,880
+deny yourself a summer of learning just
+
+988
+00:43:34,880 --> 00:43:36,400
+to get it on the cheap from Theo to
+
+989
+00:43:36,400 --> 00:43:38,079
+Vegas.
+
+990
+00:43:38,079 --> 00:43:40,240
+It's only like 30 I think it's like $39,
+
+991
+00:43:40,240 --> 00:43:41,680
+something like that. That how much it
+
+992
+00:43:41,680 --> 00:43:46,400
+was? Not that much. 20 uh 20 with the 20
+
+993
+00:43:46,400 --> 00:43:48,319
+with Amazon Prime.
+
+994
+00:43:48,319 --> 00:43:50,480
+>> Okay, there you go. So, it's not that
+
+995
+00:43:50,480 --> 00:43:52,160
+it's not that bad. It's actually a very
+
+996
+00:43:52,160 --> 00:43:53,599
+So, we're going to get actual to the
+
+997
+00:43:53,599 --> 00:43:57,040
+lab, right? Okay, so
+
+998
+00:43:57,040 --> 00:44:01,200
+plus bedlock. Hold on. Another
+
+999
+00:44:01,200 --> 00:44:03,760
+Hold on. Let's see what this is. Oh,
+
+1000
+00:44:03,760 --> 00:44:05,920
+yeah. I got this artificial. Yeah, I got
+
+1001
+00:44:05,920 --> 00:44:10,119
+that book. That's nice.
+
+1002
+00:44:10,800 --> 00:44:14,160
+Okay, there's a lot of books.
+
+1003
+00:44:15,440 --> 00:44:19,240
+Are we okay? I'll take
+
+1004
+00:44:26,000 --> 00:44:28,960
+I got a Don't worry. I got Chewbacca. He
+
+1005
+00:44:28,960 --> 00:44:31,920
+has tea. He'll He'll deal with that. All
+
+1006
+00:44:31,920 --> 00:44:35,920
+right. All right. So, SOAR plus Bedrock
+
+1007
+00:44:35,920 --> 00:44:38,480
+AI instant response generator. Okay. Are
+
+1008
+00:44:38,480 --> 00:44:40,720
+you ready? Because so we have here
+
+1009
+00:44:40,720 --> 00:44:43,599
+unused token detected. So we have this
+
+1010
+00:44:43,599 --> 00:44:45,520
+is what we're using. You guys did the
+
+1011
+00:44:45,520 --> 00:44:48,240
+SNS last week. Good on you. I was
+
+1012
+00:44:48,240 --> 00:44:50,880
+impressed with that. Okay. So again,
+
+1013
+00:44:50,880 --> 00:44:53,760
+optional account disable, right? So AI
+
+1014
+00:44:53,760 --> 00:44:55,599
+incident respon summary generator
+
+1015
+00:44:55,599 --> 00:44:57,119
+workflow.
+
+1016
+00:44:57,119 --> 00:44:58,560
+This how it works. Unused token
+
+1017
+00:44:58,560 --> 00:45:00,560
+detected. You have event bridge lambda
+
+1018
+00:45:00,560 --> 00:45:03,599
+gathering details. Bedrock prompt
+
+1019
+00:45:03,599 --> 00:45:07,440
+generated AI creates crates security
+
+1020
+00:45:07,440 --> 00:45:10,880
+analysis. And then you send summary to
+
+1021
+00:45:10,880 --> 00:45:14,560
+uh Slack SNS. Okay. And this is an
+
+1022
+00:45:14,560 --> 00:45:18,000
+example basically uh for JSON. So it
+
+1023
+00:45:18,000 --> 00:45:21,119
+gets uh kind of input that's going to go
+
+1024
+00:45:21,119 --> 00:45:22,800
+into bedrock or actually it's going to
+
+1025
+00:45:22,800 --> 00:45:26,640
+go into event breaking. Okay. So this is
+
+1026
+00:45:26,640 --> 00:45:31,760
+your bedrock prompt. Um this we get
+
+1027
+00:45:31,760 --> 00:45:34,800
+bedrock enabled. We say you are a sock
+
+1028
+00:45:34,800 --> 00:45:37,760
+security anal assistant. This is what
+
+1029
+00:45:37,760 --> 00:45:40,560
+we're going to copy and put into bedrock
+
+1030
+00:45:40,560 --> 00:45:43,680
+in order to get it to work. All right.
+
+1031
+00:45:43,680 --> 00:45:45,280
+And this is going to be an example of
+
+1032
+00:45:45,280 --> 00:45:49,040
+this. So what we want the example output
+
+1033
+00:45:49,040 --> 00:45:50,400
+to be something like this. It says,
+
+1034
+00:45:50,400 --> 00:45:54,319
+"Hey, severity is low, medium, and this
+
+1035
+00:45:54,319 --> 00:45:56,160
+is probably why the token isn't being
+
+1036
+00:45:56,160 --> 00:45:59,599
+used." And then it gives you um a
+
+1037
+00:45:59,599 --> 00:46:02,800
+recommended action for this. All right.
+
+1038
+00:46:02,800 --> 00:46:07,200
+So just something very basic. All right.
+
+1039
+00:46:07,200 --> 00:46:09,040
+And here was what is your goal. You're
+
+1040
+00:46:09,040 --> 00:46:10,640
+going to demonstrate AI enrichment,
+
+1041
+00:46:10,640 --> 00:46:12,560
+prompt engineering, event summarization,
+
+1042
+00:46:12,560 --> 00:46:15,200
+and so augmentation.
+
+1043
+00:46:15,200 --> 00:46:17,359
+Now, this is just the beginning of this.
+
+1044
+00:46:17,359 --> 00:46:20,079
+We're going to be expanding this quite a
+
+1045
+00:46:20,079 --> 00:46:23,440
+lot with in a lot more areas. I'm just
+
+1046
+00:46:23,440 --> 00:46:25,680
+trying to create the initial framework
+
+1047
+00:46:25,680 --> 00:46:28,480
+so you guys can conceptually see this.
+
+1048
+00:46:28,480 --> 00:46:30,400
+If we get this with many more you know
+
+1049
+00:46:30,400 --> 00:46:32,960
+events, many more bridges, sorry um
+
+1050
+00:46:32,960 --> 00:46:35,599
+event bridges and proper structure, you
+
+1051
+00:46:35,599 --> 00:46:39,200
+can really automate this, you can really
+
+1052
+00:46:39,200 --> 00:46:41,839
+um operationalize this in a large
+
+1053
+00:46:41,839 --> 00:46:45,119
+setting and this is pretty valuable to a
+
+1054
+00:46:45,119 --> 00:46:47,359
+company like for especially for a large
+
+1055
+00:46:47,359 --> 00:46:50,720
+company. Okay, this is pretty good. So
+
+1056
+00:46:50,720 --> 00:46:52,640
+you want to have you know demonstrate
+
+1057
+00:46:52,640 --> 00:46:54,560
+all this but you don't want to have
+
+1058
+00:46:54,560 --> 00:46:57,359
+particularly hallucination.
+
+1059
+00:46:57,359 --> 00:46:59,680
+All right. And not just for dangerous
+
+1060
+00:46:59,680 --> 00:47:03,359
+automation, unwanted automation or
+
+1061
+00:47:03,359 --> 00:47:04,800
+automation you don't know what's you're
+
+1062
+00:47:04,800 --> 00:47:06,480
+what you're doing with. So you're using
+
+1063
+00:47:06,480 --> 00:47:08,960
+automation basically to ignore security
+
+1064
+00:47:08,960 --> 00:47:11,440
+events, which is what we don't want.
+
+1065
+00:47:11,440 --> 00:47:14,079
+Okay.
+
+1066
+00:47:14,079 --> 00:47:15,839
+So hey, isn't this why you're in the
+
+1067
+00:47:15,839 --> 00:47:17,040
+class in the first place? Besides
+
+1068
+00:47:17,040 --> 00:47:19,440
+wanting selfies with Chewbacca, who
+
+1069
+00:47:19,440 --> 00:47:21,119
+wants to selfie with Chewbacca? We all
+
+1070
+00:47:21,119 --> 00:47:23,200
+want selfies with Chewbacca, right?
+
+1071
+00:47:23,200 --> 00:47:26,400
+Okay. So here we go. Here. lab
+
+1072
+00:47:26,400 --> 00:47:30,640
+objective. Uh here we have the token is
+
+1073
+00:47:30,640 --> 00:47:33,440
+issued but never used. All right, this
+
+1074
+00:47:33,440 --> 00:47:34,720
+is what we're going to do here. Let me
+
+1075
+00:47:34,720 --> 00:47:37,359
+go down here.
+
+1076
+00:47:37,359 --> 00:47:41,040
+Um there's a lot here. So first what I
+
+1077
+00:47:41,040 --> 00:47:43,200
+need somebody to do is go into their
+
+1078
+00:47:43,200 --> 00:47:48,640
+console and I need you to um automate uh
+
+1079
+00:47:48,640 --> 00:47:51,280
+AWS. Sorry, I need you to go into
+
+1080
+00:47:51,280 --> 00:47:54,319
+bedrock and I need you to turn on cloud
+
+1081
+00:47:54,319 --> 00:47:57,359
+in particular. I want you to turn on
+
+1082
+00:47:57,359 --> 00:47:59,440
+cloud sonet
+
+1083
+00:47:59,440 --> 00:48:02,640
+and this is going to go down to here.
+
+1084
+00:48:02,640 --> 00:48:06,240
+Hold on. This is I actually have this in
+
+1085
+00:48:06,240 --> 00:48:08,000
+the lambda function. You have to change
+
+1086
+00:48:08,000 --> 00:48:09,760
+your lambda.
+
+1087
+00:48:09,760 --> 00:48:11,599
+This line is going to have to go in
+
+1088
+00:48:11,599 --> 00:48:13,440
+there. It says enthropic cloud version
+
+1089
+00:48:13,440 --> 00:48:16,560
+two. So I need you to turn on enthropic
+
+1090
+00:48:16,560 --> 00:48:18,800
+version two. Now, everybody who does
+
+1091
+00:48:18,800 --> 00:48:22,480
+this, if you don't have enthropic cloud
+
+1092
+00:48:22,480 --> 00:48:25,280
+version two turned on, you may not be
+
+1093
+00:48:25,280 --> 00:48:27,440
+able to do the lab today, which is fine.
+
+1094
+00:48:27,440 --> 00:48:30,559
+I kind of anticipated that. So, we might
+
+1095
+00:48:30,559 --> 00:48:32,720
+be doing the lab tomorrow. It might take
+
+1096
+00:48:32,720 --> 00:48:36,160
+24 hours to turn on cloud version two.
+
+1097
+00:48:36,160 --> 00:48:40,160
+Uh Rob, what's up? If if so thinking
+
+1098
+00:48:40,160 --> 00:48:43,520
+ahead, if you made made a change to one
+
+1099
+00:48:43,520 --> 00:48:46,160
+of the uh agents that you want to use or
+
+1100
+00:48:46,160 --> 00:48:47,599
+one of the models you want to use the
+
+1101
+00:48:47,599 --> 00:48:49,440
+foundational models, you would just
+
+1102
+00:48:49,440 --> 00:48:52,559
+change this parameter here. So model ID
+
+1103
+00:48:52,559 --> 00:48:56,559
+equals, you know, EMV var file or or
+
+1104
+00:48:56,559 --> 00:48:58,000
+whatever. Okay.
+
+1105
+00:48:58,000 --> 00:48:59,599
+>> Mhm.
+
+1106
+00:48:59,599 --> 00:49:01,040
+So this is what you do this. Okay. How
+
+1107
+00:49:01,040 --> 00:49:05,599
+it works. This line here tells you which
+
+1108
+00:49:05,599 --> 00:49:09,599
+model you're using in in bedrock. But
+
+1109
+00:49:09,599 --> 00:49:12,800
+this one right here,
+
+1110
+00:49:12,800 --> 00:49:14,559
+this you have to modify this for
+
+1111
+00:49:14,559 --> 00:49:17,119
+bedrock.
+
+1112
+00:49:17,119 --> 00:49:19,359
+>> So in this case, your lambda actually
+
+1113
+00:49:19,359 --> 00:49:22,480
+has the role to connect with buttrock.
+
+1114
+00:49:22,480 --> 00:49:25,119
+If you don't have this,
+
+1115
+00:49:25,119 --> 00:49:29,119
+this doesn't work. Yeah, that's the that
+
+1116
+00:49:29,119 --> 00:49:31,359
+that will be the same for when we did
+
+1117
+00:49:31,359 --> 00:49:33,920
+the Dynamo. You have to give we had that
+
+1118
+00:49:33,920 --> 00:49:35,760
+that that was a big hangup. We have to
+
+1119
+00:49:35,760 --> 00:49:38,720
+give Dynamo they have to give the Lambda
+
+1120
+00:49:38,720 --> 00:49:42,640
+IM role access to Dynamo in order to
+
+1121
+00:49:42,640 --> 00:49:46,319
+then allow the database rights.
+
+1122
+00:49:46,319 --> 00:49:49,839
+>> Right. Right. That's correct. Yeah.
+
+1123
+00:49:49,839 --> 00:49:51,119
+In fact, tape of truth. What I'm going
+
+1124
+00:49:51,119 --> 00:49:55,599
+to do is I'm going to
+
+1125
+00:49:55,599 --> 00:49:58,559
+in another section I'll just put one
+
+1126
+00:49:58,559 --> 00:50:00,480
+area like for IM and say your your
+
+1127
+00:50:00,480 --> 00:50:02,319
+lambda has to have this in the in the
+
+1128
+00:50:02,319 --> 00:50:04,880
+wall before we do the lab just to make
+
+1129
+00:50:04,880 --> 00:50:06,960
+life easier for this. I remember to do
+
+1130
+00:50:06,960 --> 00:50:09,760
+this because this was a pain in the ass
+
+1131
+00:50:09,760 --> 00:50:11,839
+to be honest because I was failing this
+
+1132
+00:50:11,839 --> 00:50:14,319
+and I was like what's going on? it it
+
+1133
+00:50:14,319 --> 00:50:16,160
+was this role it wasn't working
+
+1134
+00:50:16,160 --> 00:50:19,359
+correctly and I was trying to get an ARN
+
+1135
+00:50:19,359 --> 00:50:21,920
+to work cuz like I was trying to like
+
+1136
+00:50:21,920 --> 00:50:24,640
+how does the Lambda know where to go
+
+1137
+00:50:24,640 --> 00:50:26,880
+right it's like what the where where is
+
+1138
+00:50:26,880 --> 00:50:29,200
+it how does it know which model to use
+
+1139
+00:50:29,200 --> 00:50:31,280
+maybe I'm using multiple who how does it
+
+1140
+00:50:31,280 --> 00:50:32,880
+read it where's the ARN how does this
+
+1141
+00:50:32,880 --> 00:50:35,359
+work and I needed this that's just what
+
+1142
+00:50:35,359 --> 00:50:39,440
+I was looking for okay so everybody I
+
+1143
+00:50:39,440 --> 00:50:43,040
+need you to do is to go into bedrock
+
+1144
+00:50:43,040 --> 00:50:44,720
+This is how you get to the bedrock.
+
+1145
+00:50:44,720 --> 00:50:48,000
+Okay. Um, right. Where's where's my
+
+1146
+00:50:48,000 --> 00:50:50,800
+bedrock? Okay. Console bedrock model
+
+1147
+00:50:50,800 --> 00:50:52,800
+access. I need you to go into there
+
+1148
+00:50:52,800 --> 00:50:55,599
+right now. And then I need you to do is
+
+1149
+00:50:55,599 --> 00:50:59,599
+turn on uh go to claude and go to
+
+1150
+00:50:59,599 --> 00:51:02,720
+sonnet. Okay. And turn on cloud sonnet
+
+1151
+00:51:02,720 --> 00:51:06,079
+version two. The lab is built for that.
+
+1152
+00:51:06,079 --> 00:51:09,359
+If you wish to do llama, I don't have
+
+1153
+00:51:09,359 --> 00:51:12,480
+this set up for llama, just so you know,
+
+1154
+00:51:12,480 --> 00:51:14,000
+but
+
+1155
+00:51:14,000 --> 00:51:17,599
+I I may do this a little later on. And
+
+1156
+00:51:17,599 --> 00:51:20,640
+the reason why you would do Oyama
+
+1157
+00:51:20,640 --> 00:51:23,280
+basically, you can you can put Oyama to
+
+1158
+00:51:23,280 --> 00:51:26,000
+be honest, you can get uh EC2 and put
+
+1159
+00:51:26,000 --> 00:51:28,559
+Oyama on there. And the reason why you
+
+1160
+00:51:28,559 --> 00:51:31,440
+do that is to create your own llm or do
+
+1161
+00:51:31,440 --> 00:51:34,800
+a specialized llm and then you can just
+
+1162
+00:51:34,800 --> 00:51:38,559
+have uh the role pointing towards that
+
+1163
+00:51:38,559 --> 00:51:42,559
+EC2 and the oyama running there and then
+
+1164
+00:51:42,559 --> 00:51:45,280
+you would just tell it the model ID
+
+1165
+00:51:45,280 --> 00:51:48,000
+would be that EC2. So you'd point it in
+
+1166
+00:51:48,000 --> 00:51:50,480
+that direction. The way the reason why
+
+1167
+00:51:50,480 --> 00:51:52,160
+you would do that is you don't have any
+
+1168
+00:51:52,160 --> 00:51:55,359
+cost then for running your own model
+
+1169
+00:51:55,359 --> 00:51:57,839
+besides the cost of the EC2 which would
+
+1170
+00:51:57,839 --> 00:52:00,319
+be nice and then if you have proprietary
+
+1171
+00:52:00,319 --> 00:52:04,319
+information like my company has then
+
+1172
+00:52:04,319 --> 00:52:08,240
+it's yours it's not public at all nobody
+
+1173
+00:52:08,240 --> 00:52:11,280
+can take it it's only for you and this
+
+1174
+00:52:11,280 --> 00:52:12,960
+is where you can start being aggressive
+
+1175
+00:52:12,960 --> 00:52:16,720
+with AI you can this is where machine
+
+1176
+00:52:16,720 --> 00:52:18,000
+learning actually really starts
+
+1177
+00:52:18,000 --> 00:52:19,839
+happening
+
+1178
+00:52:19,839 --> 00:52:24,160
+Okay. Fun. Was that good? I learned a
+
+1179
+00:52:24,160 --> 00:52:26,880
+lot at the company.
+
+1180
+00:52:26,880 --> 00:52:30,640
+Okay. You certainly did.
+
+1181
+00:52:30,640 --> 00:52:33,640
+Model.
+
+1182
+00:52:34,480 --> 00:52:38,000
+Oh, you don't have to manually
+
+1183
+00:52:38,000 --> 00:52:40,079
+activate.
+
+1184
+00:52:40,079 --> 00:52:42,720
+Oh, we we had So we So we had to
+
+1185
+00:52:42,720 --> 00:52:46,160
+manually activate it for us doing this.
+
+1186
+00:52:46,160 --> 00:52:47,760
+Yeah, I was. That's how I was doing it
+
+1187
+00:52:47,760 --> 00:52:48,319
+before.
+
+1188
+00:52:48,319 --> 00:52:50,559
+>> But if you But if you don't But if you
+
+1189
+00:52:50,559 --> 00:52:53,520
+don't have to do that, Kevin, then
+
+1190
+00:52:53,520 --> 00:52:54,960
+>> Good.
+
+1191
+00:52:54,960 --> 00:52:56,960
+>> It makes it easy.
+
+1192
+00:52:56,960 --> 00:53:02,640
+>> Yep. Okay. So, just go to um the model
+
+1193
+00:53:02,640 --> 00:53:04,720
+then
+
+1194
+00:53:04,720 --> 00:53:08,240
+and uh go to Claude and make sure Well,
+
+1195
+00:53:08,240 --> 00:53:10,000
+it Okay. If it's turned on, it's turned
+
+1196
+00:53:10,000 --> 00:53:13,880
+on. Okay.
+
+1197
+00:53:16,640 --> 00:53:19,520
+Okay. And what I need you if you get
+
+1198
+00:53:19,520 --> 00:53:24,000
+that done, then what I need you to do
+
+1199
+00:53:24,000 --> 00:53:30,880
+is get this. Hold on. Wait, where's
+
+1200
+00:53:30,880 --> 00:53:32,960
+>> somebody share their screen?
+
+1201
+00:53:32,960 --> 00:53:34,960
+>> Yeah, somebody go and share your screen.
+
+1202
+00:53:34,960 --> 00:53:38,480
+Um, your IM rule rule has got to be
+
+1203
+00:53:38,480 --> 00:53:41,280
+modified. You you've got to do this with
+
+1204
+00:53:41,280 --> 00:53:44,319
+the Lambda. you just got to do it. So
+
+1205
+00:53:44,319 --> 00:53:47,040
+the lambda which is the unused token
+
+1206
+00:53:47,040 --> 00:53:48,800
+detector
+
+1207
+00:53:48,800 --> 00:53:51,760
+the role the IM role associated with the
+
+1208
+00:53:51,760 --> 00:53:55,359
+IM the lambda for unused token detector
+
+1209
+00:53:55,359 --> 00:53:58,319
+has got to have the bedrock allow in
+
+1210
+00:53:58,319 --> 00:54:01,520
+there or else this is a nogo.
+
+1211
+00:54:01,520 --> 00:54:03,359
+Wait.
+
+1212
+00:54:03,359 --> 00:54:05,119
+>> So you're saying that people can't skip
+
+1213
+00:54:05,119 --> 00:54:10,119
+over the bedrock web to do this web?
+
+1214
+00:54:11,119 --> 00:54:14,000
+No,
+
+1215
+00:54:14,000 --> 00:54:16,800
+no, you have this is the whole point.
+
+1216
+00:54:16,800 --> 00:54:19,599
+>> Oh, sorry. I mean I mean Dynamo DB web I
+
+1217
+00:54:19,599 --> 00:54:20,160
+misspoke.
+
+1218
+00:54:20,160 --> 00:54:24,000
+>> Oh, no. You got to have the Dynamo DB.
+
+1219
+00:54:24,000 --> 00:54:26,559
+This won't work without Dynamo DB. So,
+
+1220
+00:54:26,559 --> 00:54:29,440
+at least we're setting this up. Now, if
+
+1221
+00:54:29,440 --> 00:54:32,160
+you get the IM roll in, okay, and then
+
+1222
+00:54:32,160 --> 00:54:34,960
+you modify your Lambda, then at least
+
+1223
+00:54:34,960 --> 00:54:37,040
+you can go back and set up your Dynamo
+
+1224
+00:54:37,040 --> 00:54:40,800
+DB. Now, if you are in a situation where
+
+1225
+00:54:40,800 --> 00:54:44,480
+you do need to enable your
+
+1226
+00:54:44,480 --> 00:54:49,119
+um your claude, I had to enable mine. If
+
+1227
+00:54:49,119 --> 00:54:50,240
+that's the situation there, it's going
+
+1228
+00:54:50,240 --> 00:54:52,480
+to take a while. So, that means you're
+
+1229
+00:54:52,480 --> 00:54:54,640
+doing this lab tomorrow, which is a good
+
+1230
+00:54:54,640 --> 00:54:55,839
+we had a good prep today and then
+
+1231
+00:54:55,839 --> 00:54:58,079
+tomorrow we can actually
+
+1232
+00:54:58,079 --> 00:54:59,440
+that's what I'm actually um
+
+1233
+00:54:59,440 --> 00:55:01,760
+anticipating.
+
+1234
+00:55:01,760 --> 00:55:03,280
+Okay. So, let's just try to get this
+
+1235
+00:55:03,280 --> 00:55:05,119
+through get the infrastructure done now
+
+1236
+00:55:05,119 --> 00:55:08,000
+and today.
+
+1237
+00:55:08,000 --> 00:55:14,920
+Eva. Yo, Eva. Eva. Eva.
+
+1238
+00:55:16,000 --> 00:55:20,839
+I have psycho dogs. Just so you know.
+
+1239
+00:55:25,440 --> 00:55:28,160
+>> Well, a dog is representative of its
+
+1240
+00:55:28,160 --> 00:55:29,839
+owners.
+
+1241
+00:55:29,839 --> 00:55:31,680
+>> No.
+
+1242
+00:55:31,680 --> 00:55:36,640
+Not like then that you cutie was me.
+
+1243
+00:55:36,640 --> 00:55:38,720
+Judy,
+
+1244
+00:55:38,720 --> 00:55:40,160
+>> you can have you can have multiple
+
+1245
+00:55:40,160 --> 00:55:43,040
+parts, multiple facets, multiaceted,
+
+1246
+00:55:43,040 --> 00:55:45,040
+man. Theodore.
+
+1247
+00:55:45,040 --> 00:55:48,799
+>> No, cutie. That looking at somebody like
+
+1248
+00:55:48,799 --> 00:55:51,359
+f you. That's what that's how Kitty was.
+
+1249
+00:55:51,359 --> 00:55:56,720
+I liked her. He was great. I miss her
+
+1250
+00:55:56,720 --> 00:55:59,880
+little bit.
+
+1251
+00:56:03,040 --> 00:56:04,720
+Usually when I'm developing, I have her
+
+1252
+00:56:04,720 --> 00:56:06,559
+ashes next to me.
+
+1253
+00:56:06,559 --> 00:56:08,880
+and she's on the shelf and she's we'll
+
+1254
+00:56:08,880 --> 00:56:11,599
+look at her every once in a while.
+
+1255
+00:56:11,599 --> 00:56:15,520
+>> Oh, in the in the meantime, uh the bad
+
+1256
+00:56:15,520 --> 00:56:18,480
+mind's here. Shout out to uh Jay passing
+
+1257
+00:56:18,480 --> 00:56:21,359
+his security specialty.
+
+1258
+00:56:21,359 --> 00:56:22,960
+>> Jay,
+
+1259
+00:56:22,960 --> 00:56:26,960
+you've passed your security specialty.
+
+1260
+00:56:26,960 --> 00:56:29,280
+Like, you actually studied and you did
+
+1261
+00:56:29,280 --> 00:56:34,319
+it. I mean, am I are you at on an arc
+
+1262
+00:56:34,319 --> 00:56:36,240
+with us?
+
+1263
+00:56:36,240 --> 00:56:39,680
+Are you serious? You're on an arc? No
+
+1264
+00:56:39,680 --> 00:56:41,599
+way.
+
+1265
+00:56:41,599 --> 00:56:44,599
+>> Okay.
+
+1266
+00:56:45,040 --> 00:56:49,079
+I thought you were just Dusty.
+
+1267
+00:56:50,880 --> 00:56:54,720
+>> He's not He's not just Dusty. The bamboo
+
+1268
+00:56:54,720 --> 00:56:57,599
+boat was calling him. He was telling him
+
+1269
+00:56:57,599 --> 00:57:01,839
+to be a bamboo man first.
+
+1270
+00:57:06,720 --> 00:57:09,200
+He was being recruited. Yeah, he was
+
+1271
+00:57:09,200 --> 00:57:11,599
+being recruited to rub Kha down on the
+
+1272
+00:57:11,599 --> 00:57:15,160
+bamboo boat.
+
+1273
+00:57:15,280 --> 00:57:17,599
+>> I thought you were gonna be a Yeah.
+
+1274
+00:57:17,599 --> 00:57:21,680
+Bamboo boat massager. and his and on his
+
+1275
+00:57:21,680 --> 00:57:23,760
+birthday you see you saved him instead
+
+1276
+00:57:23,760 --> 00:57:27,200
+of him on his birthday going on another
+
+1277
+00:57:27,200 --> 00:57:31,119
+tour with with a 300lb w buffalo kha
+
+1278
+00:57:31,119 --> 00:57:35,119
+he's in class got a security specialty
+
+1279
+00:57:35,119 --> 00:57:38,760
+chat with us
+
+1280
+00:57:39,040 --> 00:57:40,880
+you mean I actually have to share my
+
+1281
+00:57:40,880 --> 00:57:44,400
+boat with you now you're on there so
+
+1282
+00:57:44,400 --> 00:57:46,799
+this is your new bamboo boat right
+
+1283
+00:57:46,799 --> 00:57:49,119
+you're actually on there with a with a
+
+1284
+00:57:49,119 --> 00:57:50,960
+normal like you know you're you're you
+
+1285
+00:57:50,960 --> 00:57:52,640
+actually earned your place. You're not
+
+1286
+00:57:52,640 --> 00:57:57,119
+doing anything. My god. Makes face says
+
+1287
+00:57:57,119 --> 00:58:01,040
+well congratulations Jay. Good for you
+
+1288
+00:58:01,040 --> 00:58:04,319
+and happy birthday. I hope you remember
+
+1289
+00:58:04,319 --> 00:58:06,319
+this day.
+
+1290
+00:58:06,319 --> 00:58:08,400
+Hope this is a special day for you. You
+
+1291
+00:58:08,400 --> 00:58:10,319
+look back and say, "Hey, this is what it
+
+1292
+00:58:10,319 --> 00:58:12,240
+started happening. I actually got on the
+
+1293
+00:58:12,240 --> 00:58:13,839
+boat."
+
+1294
+00:58:13,839 --> 00:58:16,240
+All right. You like that boat? Do you
+
+1295
+00:58:16,240 --> 00:58:19,599
+guys like the image?
+
+1296
+00:58:19,599 --> 00:58:21,520
+I like this image.
+
+1297
+00:58:21,520 --> 00:58:26,400
+>> It needs see I from last night you it
+
+1298
+00:58:26,400 --> 00:58:32,359
+needs more attack of the killer weave.
+
+1299
+00:58:36,400 --> 00:58:38,000
+They
+
+1300
+00:58:38,000 --> 00:58:40,000
+last night they were going wild man.
+
+1301
+00:58:40,000 --> 00:58:43,119
+They're wild
+
+1302
+00:58:43,119 --> 00:58:47,680
+comic book memes of of sentient weave
+
+1303
+00:58:47,680 --> 00:58:51,480
+like it was a symbio.
+
+1304
+00:58:54,720 --> 00:58:56,880
+I gota I haven't used it online yet. I'm
+
+1305
+00:58:56,880 --> 00:58:58,880
+gonna I'm gonna go attack people later
+
+1306
+00:58:58,880 --> 00:59:04,240
+on. Like oh yeah it's great.
+
+1307
+00:59:04,240 --> 00:59:06,960
+I'm back into Black IT Network with my
+
+1308
+00:59:06,960 --> 00:59:08,319
+other account now. somebody.
+
+1309
+00:59:08,319 --> 00:59:11,559
+>> Oh my god.
+
+1310
+00:59:16,000 --> 00:59:18,720
+>> Oh,
+
+1311
+00:59:18,720 --> 00:59:20,640
+call. That was a That was a 20 foot pack
+
+1312
+00:59:20,640 --> 00:59:25,079
+of water for all them weave pictures.
+
+1313
+00:59:26,400 --> 00:59:30,000
+>> Who did Who did the killer weave post?
+
+1314
+00:59:30,000 --> 00:59:32,240
+>> Uh forgot who was doing it like last
+
+1315
+00:59:32,240 --> 00:59:33,520
+night. Uh
+
+1316
+00:59:33,520 --> 00:59:35,200
+>> Yousef
+
+1317
+00:59:35,200 --> 00:59:39,040
+Sweeny. John Sweeny maybe.
+
+1318
+00:59:43,200 --> 00:59:45,599
+There were multiple contributors. It It
+
+1319
+00:59:45,599 --> 00:59:47,359
+was one of the more successful group
+
+1320
+00:59:47,359 --> 00:59:48,960
+projects.
+
+1321
+00:59:48,960 --> 00:59:52,400
+>> Yeah, that was
+
+1322
+00:59:52,400 --> 00:59:56,119
+it was pretty devastating.
+
+1323
+00:59:58,160 --> 01:00:01,520
+>> It was was horrible.
+
+1324
+01:00:01,520 --> 01:00:05,200
+I was just I was like,
+
+1325
+01:00:05,200 --> 01:00:07,200
+"God, yeah, other people can post them.
+
+1326
+01:00:07,200 --> 01:00:09,440
+I don't mind."
+
+1327
+01:00:09,440 --> 01:00:10,160
+>> Yeah,
+
+1328
+01:00:10,160 --> 01:00:15,880
+>> man. Super bad with lace satisfaction.
+
+1329
+01:00:17,920 --> 01:00:22,599
+>> Uh like are you really
+
+1330
+01:00:24,240 --> 01:00:28,440
+Yeah. There's another one.
+
+1331
+01:00:32,160 --> 01:00:34,079
+Oh my gosh,
+
+1332
+01:00:34,079 --> 01:00:36,000
+>> this one with the multiples. I like this
+
+1333
+01:00:36,000 --> 01:00:38,240
+one. This one I just posted. That was
+
+1334
+01:00:38,240 --> 01:00:42,240
+just so That was just I mean, this is
+
+1335
+01:00:42,240 --> 01:00:45,920
+Oh god. Oh my god. This
+
+1336
+01:00:45,920 --> 01:00:49,520
+dude, I'm about to go nuts using this. I
+
+1337
+01:00:49,520 --> 01:00:53,280
+am serious. like tonight later on if you
+
+1338
+01:00:53,280 --> 01:00:55,280
+start seeing certain chat groups going
+
+1339
+01:00:55,280 --> 01:00:57,280
+crazy, certain feminist groups going
+
+1340
+01:00:57,280 --> 01:00:59,599
+absolutely batch crazy, just look to see
+
+1341
+01:00:59,599 --> 01:01:01,839
+if I've been there. Cuz I looked at this
+
+1342
+01:01:01,839 --> 01:01:04,000
+and I was like, "Oh, this is a multiple
+
+1343
+01:01:04,000 --> 01:01:08,640
+target. Like this is mass chaos." I'm
+
+1344
+01:01:08,640 --> 01:01:10,319
+like, "Ladies, you got you have no idea
+
+1345
+01:01:10,319 --> 01:01:12,079
+what's about to come down the pipelines.
+
+1346
+01:01:12,079 --> 01:01:14,640
+We're going to destroy you and like
+
+1347
+01:01:14,640 --> 01:01:18,000
+ridicule you for the next 10 years,
+
+1348
+01:01:18,000 --> 01:01:19,359
+right?"
+
+1349
+01:01:19,359 --> 01:01:22,960
+So good. That was some good stuff. Um,
+
+1350
+01:01:22,960 --> 01:01:26,079
+please modify. Yeah, turn them into real
+
+1351
+01:01:26,079 --> 01:01:28,000
+posters and sell them. Actually,
+
+1352
+01:01:28,000 --> 01:01:31,119
+Simpkins, I was thinking about for for a
+
+1353
+01:01:31,119 --> 01:01:33,040
+lot of those just making them into
+
+1354
+01:01:33,040 --> 01:01:36,400
+posters and giving them away.
+
+1355
+01:01:36,400 --> 01:01:37,200
+I don't mind.
+
+1356
+01:01:37,200 --> 01:01:41,280
+>> That's really That's really cool.
+
+1357
+01:01:41,280 --> 01:01:44,240
+>> And then um some of them I want to put
+
+1358
+01:01:44,240 --> 01:01:48,160
+into t-shirts. So, you know, if I get a
+
+1359
+01:01:48,160 --> 01:01:50,400
+I could just get a spare $1,000 and get
+
+1360
+01:01:50,400 --> 01:01:52,240
+some t-shirts,
+
+1361
+01:01:52,240 --> 01:01:55,520
+right? Get some baller gym shirts and
+
+1362
+01:01:55,520 --> 01:01:58,240
+then put that in the back.
+
+1363
+01:01:58,240 --> 01:01:59,839
+Wouldn't Wouldn't that be bad if I did
+
+1364
+01:01:59,839 --> 01:02:02,559
+that? Berica gym in the front and then
+
+1365
+01:02:02,559 --> 01:02:06,000
+the back you have Wiki Beef.
+
+1366
+01:02:06,000 --> 01:02:08,640
+Would I go to hell for that? Would I
+
+1367
+01:02:08,640 --> 01:02:09,839
+enjoy it?
+
+1368
+01:02:09,839 --> 01:02:12,480
+>> No. You you need to have uh you need to
+
+1369
+01:02:12,480 --> 01:02:15,599
+have your uh you need to have that
+
+1370
+01:02:15,599 --> 01:02:19,520
+modeled for you by a uh by a whatever
+
+1371
+01:02:19,520 --> 01:02:20,880
+country you're going to land in.
+
+1372
+01:02:20,880 --> 01:02:22,400
+Whatever country the c the gym will be
+
+1373
+01:02:22,400 --> 01:02:25,359
+built in, you need to have like a 52,
+
+1374
+01:02:25,359 --> 01:02:27,119
+you know,
+
+1375
+01:02:27,119 --> 01:02:31,839
+caramel skin, blonde black hair, Latina
+
+1376
+01:02:31,839 --> 01:02:35,200
+or tie chick model that she and she
+
+1377
+01:02:35,200 --> 01:02:37,520
+can't be and like, you know, the shirt
+
+1378
+01:02:37,520 --> 01:02:40,559
+has to be has to be going past her hips
+
+1379
+01:02:40,559 --> 01:02:42,400
+so that she just wear it just looks like
+
+1380
+01:02:42,400 --> 01:02:45,880
+she's wearing that.
+
+1381
+01:02:47,280 --> 01:02:48,880
+>> Yeah,
+
+1382
+01:02:48,880 --> 01:02:52,559
+I'm I'm bad for it. I'm totally I
+
+1383
+01:02:52,559 --> 01:02:57,359
+I No [ __ ] left to give. None. I'm done.
+
+1384
+01:02:57,359 --> 01:02:59,680
+So, hold on. We look at this one,
+
+1385
+01:02:59,680 --> 01:03:01,760
+>> dude.
+
+1386
+01:03:01,760 --> 01:03:03,119
+>> Let's get in there,
+
+1387
+01:03:03,119 --> 01:03:06,240
+>> man. Put Put that Put that on Put that
+
+1388
+01:03:06,240 --> 01:03:11,520
+in Japan right now. Right now.
+
+1389
+01:03:11,520 --> 01:03:14,079
+Put that on a poster. Put that in
+
+1390
+01:03:14,079 --> 01:03:17,280
+Shinjuku right now.
+
+1391
+01:03:17,280 --> 01:03:20,920
+>> So, they like coming.
+
+1392
+01:03:21,440 --> 01:03:25,039
+Oh my god. It's the Japanese is correct.
+
+1393
+01:03:25,039 --> 01:03:26,960
+It's authentic.
+
+1394
+01:03:26,960 --> 01:03:30,920
+Oh my god.
+
+1395
+01:03:34,319 --> 01:03:40,599
+Oh, I like it. I like it. Au.
+
+1396
+01:03:41,359 --> 01:03:44,400
+Oh, it's correct. This is real. This is
+
+1397
+01:03:44,400 --> 01:03:46,880
+real. I like it.
+
+1398
+01:03:46,880 --> 01:03:49,359
+Uh
+
+1399
+01:03:49,359 --> 01:03:51,599
+This is good. Okay. See, we're we're
+
+1400
+01:03:51,599 --> 01:03:55,720
+just we're just bad now.
+
+1401
+01:03:57,280 --> 01:03:59,359
+>> Really?
+
+1402
+01:03:59,359 --> 01:04:01,280
+>> What? Of course, I use my account, which
+
+1403
+01:04:01,280 --> 01:04:04,240
+is does I know it's not free. Hold on.
+
+1404
+01:04:04,240 --> 01:04:07,280
+>> You just need the right ad blocker.
+
+1405
+01:04:07,280 --> 01:04:09,520
+>> No, my I actually have my paid account
+
+1406
+01:04:09,520 --> 01:04:12,000
+on this one. My
+
+1407
+01:04:12,000 --> 01:04:14,880
+no more stick. All right, I will listen
+
+1408
+01:04:14,880 --> 01:04:16,960
+to this later.
+
+1409
+01:04:16,960 --> 01:04:19,920
+Go back to here. Um, hold on.
+
+1410
+01:04:19,920 --> 01:04:22,640
+>> Oh, did I buy that one? I think I bought
+
+1411
+01:04:22,640 --> 01:04:25,880
+that one.
+
+1412
+01:04:27,599 --> 01:04:30,559
+>> Yeah, Carlton, you're correct.
+
+1413
+01:04:30,559 --> 01:04:34,799
+Uh, oh my go.
+
+1414
+01:04:34,799 --> 01:04:37,799
+So,
+
+1415
+01:04:37,839 --> 01:04:39,440
+if you guys really want you, how many of
+
+1416
+01:04:39,440 --> 01:04:40,960
+you guys have been in Asia? I mean, I'm
+
+1417
+01:04:40,960 --> 01:04:43,200
+sure you guys have been in Asia, right?
+
+1418
+01:04:43,200 --> 01:04:45,359
+Um, some of you guys have like TIQS
+
+1419
+01:04:45,359 --> 01:04:48,640
+have. Um,
+
+1420
+01:04:48,640 --> 01:04:52,720
+Asian girls a lot of times would just
+
+1421
+01:04:52,720 --> 01:04:54,240
+look at black women and say like, "I can
+
+1422
+01:04:54,240 --> 01:04:56,799
+straight out take your man."
+
+1423
+01:04:56,799 --> 01:04:58,480
+They did it with white guys, too. But
+
+1424
+01:04:58,480 --> 01:05:00,160
+with black guys, he was much more
+
+1425
+01:05:00,160 --> 01:05:02,240
+aggressive. And so if they like the
+
+1426
+01:05:02,240 --> 01:05:04,640
+black guy, they're like, "I'm taking
+
+1427
+01:05:04,640 --> 01:05:08,880
+your guy." And she would just boom, get
+
+1428
+01:05:08,880 --> 01:05:13,680
+him. And you'd have a very plain looking
+
+1429
+01:05:13,680 --> 01:05:18,400
+like a best B-cup girl.
+
+1430
+01:05:18,400 --> 01:05:20,960
+She just so feminine. Just go get the
+
+1431
+01:05:20,960 --> 01:05:23,839
+husband. Boom. Knock it out.
+
+1432
+01:05:23,839 --> 01:05:26,319
+Okay, Kevin. Oh god, Kevin, whatever you
+
+1433
+01:05:26,319 --> 01:05:29,319
+do.
+
+1434
+01:05:29,760 --> 01:05:33,480
+That hair is alive.
+
+1435
+01:05:34,480 --> 01:05:38,760
+Come out. You can do it.
+
+1436
+01:05:45,200 --> 01:05:47,760
+Oh my god. How did you get the Japanese
+
+1437
+01:05:47,760 --> 01:05:50,240
+to be this correct? It's totally
+
+1438
+01:05:50,240 --> 01:05:52,720
+accurate. What are you What did you do,
+
+1439
+01:05:52,720 --> 01:05:54,480
+Kevin?
+
+1440
+01:05:54,480 --> 01:05:55,039
+>> Nothing.
+
+1441
+01:05:55,039 --> 01:05:57,839
+>> Oh my. I don't know how you got this to
+
+1442
+01:05:57,839 --> 01:06:00,480
+be this correct.
+
+1443
+01:06:00,480 --> 01:06:02,960
+Only no com.
+
+1444
+01:06:02,960 --> 01:06:06,680
+This is demon hair.
+
+1445
+01:06:06,960 --> 01:06:10,000
+It actually means demon hair. Oh, this
+
+1446
+01:06:10,000 --> 01:06:14,559
+is good. I like it. Oh.
+
+1447
+01:06:14,559 --> 01:06:17,760
+Oh, God. Okay. So, yeah, we're all going
+
+1448
+01:06:17,760 --> 01:06:20,240
+to hell. Guys, were you able to modify
+
+1449
+01:06:20,240 --> 01:06:23,119
+your IM accounts? This is important. I
+
+1450
+01:06:23,119 --> 01:06:25,119
+need you to do your IM role. I need you
+
+1451
+01:06:25,119 --> 01:06:28,160
+to do that. I need you to turn on cloud
+
+1452
+01:06:28,160 --> 01:06:31,359
+and I need you to modify your lambdas.
+
+1453
+01:06:31,359 --> 01:06:33,760
+at least get that done and then we can
+
+1454
+01:06:33,760 --> 01:06:35,760
+run through the lab tomorrow because I
+
+1455
+01:06:35,760 --> 01:06:39,119
+have um sear one in
+
+1456
+01:06:39,119 --> 01:06:40,960
+nine minutes. All right, I need to get
+
+1457
+01:06:40,960 --> 01:06:42,799
+the infrastructure in so we can start
+
+1458
+01:06:42,799 --> 01:06:44,640
+playing around with this tomorrow,
+
+1459
+01:06:44,640 --> 01:06:46,160
+right? Because it's going to take too
+
+1460
+01:06:46,160 --> 01:06:49,760
+long to do the Dynam to set this up.
+
+1461
+01:06:49,760 --> 01:06:51,920
+>> We're just adding an inline policy to
+
+1462
+01:06:51,920 --> 01:06:54,079
+our current Lambda RO. Correct.
+
+1463
+01:06:54,079 --> 01:06:57,680
+>> Yeah. So your your current Lambda RO
+
+1464
+01:06:57,680 --> 01:07:00,240
+Yeah. So the inline policy had That's
+
+1465
+01:07:00,240 --> 01:07:04,400
+right. Just gonna do that here. Uh, make
+
+1466
+01:07:04,400 --> 01:07:06,480
+sure that's added in. And then for your
+
+1467
+01:07:06,480 --> 01:07:09,359
+use detector, use token detector. This
+
+1468
+01:07:09,359 --> 01:07:11,920
+has basically this should already be
+
+1469
+01:07:11,920 --> 01:07:17,200
+there. So it's this needs to be added.
+
+1470
+01:07:17,200 --> 01:07:20,200
+Right.
+
+1471
+01:07:22,319 --> 01:07:24,559
+Okay.
+
+1472
+01:07:24,559 --> 01:07:26,160
+So once that's in there, you can start
+
+1473
+01:07:26,160 --> 01:07:30,599
+actually using bedrock effectively.
+
+1474
+01:07:33,359 --> 01:07:35,680
+We can't kidnap you and have you wake up
+
+1475
+01:07:35,680 --> 01:07:39,559
+in Japan. Lick the handle.
+
+1476
+01:07:43,680 --> 01:07:46,079
+No, brother on my arm. No brother on
+
+1477
+01:07:46,079 --> 01:07:49,319
+your arm.
+
+1478
+01:07:52,720 --> 01:07:55,960
+Yeah. Um
+
+1479
+01:07:56,640 --> 01:08:00,559
+Jeff, I saw Again,
+
+1480
+01:08:00,559 --> 01:08:02,160
+horist.
+
+1481
+01:08:02,160 --> 01:08:04,720
+I saw one of the most devoted
+
+1482
+01:08:04,720 --> 01:08:07,440
+um like religious
+
+1483
+01:08:07,440 --> 01:08:12,160
+white guy couples in Japan.
+
+1484
+01:08:12,160 --> 01:08:13,599
+They they thought they thought they had
+
+1485
+01:08:13,599 --> 01:08:15,839
+a very strong marriage.
+
+1486
+01:08:15,839 --> 01:08:18,480
+Six months she was gone.
+
+1487
+01:08:18,480 --> 01:08:20,239
+Japanese woman took her place.
+
+1488
+01:08:20,239 --> 01:08:22,480
+>> He he brought his lady.
+
+1489
+01:08:22,480 --> 01:08:23,839
+>> Yeah.
+
+1490
+01:08:23,839 --> 01:08:27,440
+>> Gotcha. And I always tell people, I tell
+
+1491
+01:08:27,440 --> 01:08:29,679
+Westerners, if you're in a committed
+
+1492
+01:08:29,679 --> 01:08:33,799
+relationship, do not go to Japan.
+
+1493
+01:08:36,560 --> 01:08:40,719
+Japanese women will hunt you down just
+
+1494
+01:08:40,719 --> 01:08:43,279
+the way they are.
+
+1495
+01:08:43,279 --> 01:08:45,199
+They move like that in Japan. 100%
+
+1496
+01:08:45,199 --> 01:08:46,319
+they'll do.
+
+1497
+01:08:46,319 --> 01:08:49,679
+>> They move like that outside of the West.
+
+1498
+01:08:49,679 --> 01:08:51,199
+>> Yeah.
+
+1499
+01:08:51,199 --> 01:08:53,600
+You have to think about
+
+1500
+01:08:53,600 --> 01:08:55,679
+>> you have to think about it. There are
+
+1501
+01:08:55,679 --> 01:08:57,920
+okay, you have herbivore men, right? And
+
+1502
+01:08:57,920 --> 01:08:59,520
+then you have so many men who just
+
+1503
+01:08:59,520 --> 01:09:01,679
+aren't in relationships, even though
+
+1504
+01:09:01,679 --> 01:09:02,880
+they kind of want one, but they're just
+
+1505
+01:09:02,880 --> 01:09:05,920
+not in one at all. So, you have a lot of
+
+1506
+01:09:05,920 --> 01:09:09,279
+educated, sexy Japanese women who don't
+
+1507
+01:09:09,279 --> 01:09:11,359
+have boyfriends. Now, if you listen to
+
+1508
+01:09:11,359 --> 01:09:14,000
+IEP, he's in whack land thinking that
+
+1509
+01:09:14,000 --> 01:09:15,679
+they're all getting their freaks on. I'm
+
+1510
+01:09:15,679 --> 01:09:17,440
+like, no, they're not cuz you you don't
+
+1511
+01:09:17,440 --> 01:09:20,319
+have the population for it. So you got a
+
+1512
+01:09:20,319 --> 01:09:22,400
+lot of sexless women, educated
+
+1513
+01:09:22,400 --> 01:09:24,960
+professional women, right, who don't
+
+1514
+01:09:24,960 --> 01:09:27,120
+have a man or they have no access to
+
+1515
+01:09:27,120 --> 01:09:30,159
+getting a man. So
+
+1516
+01:09:30,159 --> 01:09:32,239
+if you're a married man in the West and
+
+1517
+01:09:32,239 --> 01:09:35,279
+you're stable and
+
+1518
+01:09:35,279 --> 01:09:38,000
+you're happy, a Japanese woman looks at
+
+1519
+01:09:38,000 --> 01:09:40,719
+you as a commodity.
+
+1520
+01:09:40,719 --> 01:09:42,239
+They're going to go after you
+
+1521
+01:09:42,239 --> 01:09:44,159
+immediately.
+
+1522
+01:09:44,159 --> 01:09:47,120
+The man is automatically verified. he's
+
+1523
+01:09:47,120 --> 01:09:48,719
+happy and she's going to be like, "I can
+
+1524
+01:09:48,719 --> 01:09:51,199
+make you happier." She's not playing
+
+1525
+01:09:51,199 --> 01:09:54,960
+around. She'll get him. She'll be like,
+
+1526
+01:09:54,960 --> 01:09:58,080
+"I don't care if you're married.
+
+1527
+01:09:58,080 --> 01:10:00,159
+You're banging me tonight." That's
+
+1528
+01:10:00,159 --> 01:10:03,640
+what's going to happen.
+
+1529
+01:10:04,000 --> 01:10:06,880
+Paying for boyfriend. Yep, that's right.
+
+1530
+01:10:06,880 --> 01:10:11,159
+Uh Charles, what you got?
+
+1531
+01:10:12,239 --> 01:10:14,560
+Do we need to add the inline policy to
+
+1532
+01:10:14,560 --> 01:10:17,520
+all the lambdas? No, no, no, no, hold
+
+1533
+01:10:17,520 --> 01:10:20,159
+on, no, no. The lambda, hold on. The
+
+1534
+01:10:20,159 --> 01:10:24,480
+lambda ro policy, whatever your lambda
+
+1535
+01:10:24,480 --> 01:10:26,320
+has a role, right? It needs to have this
+
+1536
+01:10:26,320 --> 01:10:28,480
+polic this
+
+1537
+01:10:28,480 --> 01:10:33,040
+added to the lambda role in the JSON.
+
+1538
+01:10:33,040 --> 01:10:38,000
+Okay. Then to the unused token detector
+
+1539
+01:10:38,000 --> 01:10:42,080
+lambda, you have got to add this code
+
+1540
+01:10:42,080 --> 01:10:45,320
+right here.
+
+1541
+01:10:46,560 --> 01:10:47,840
+That's how you do it. That's how the
+
+1542
+01:10:47,840 --> 01:10:50,320
+modification is. Got to have that or
+
+1543
+01:10:50,320 --> 01:10:52,719
+else this ain't going to work.
+
+1544
+01:10:52,719 --> 01:10:56,800
+>> And which one does the first one go on?
+
+1545
+01:10:56,800 --> 01:11:00,239
+>> Whatever role your role modify I am
+
+1546
+01:11:00,239 --> 01:11:02,000
+roll.
+
+1547
+01:11:02,000 --> 01:11:02,960
+>> Okay.
+
+1548
+01:11:02,960 --> 01:11:04,400
+>> So you have to go look at your lambda
+
+1549
+01:11:04,400 --> 01:11:07,520
+and say what role are you using for that
+
+1550
+01:11:07,520 --> 01:11:09,840
+lambda to function? Whatever role that
+
+1551
+01:11:09,840 --> 01:11:13,040
+is, it needs this to be added.
+
+1552
+01:11:13,040 --> 01:11:16,560
+>> Yeah. and and you if you have so I'm
+
+1553
+01:11:16,560 --> 01:11:18,560
+looking at prior labs we did we probably
+
+1554
+01:11:18,560 --> 01:11:21,760
+used the basic execution role for lambda
+
+1555
+01:11:21,760 --> 01:11:23,760
+you'll need to create a custom one so
+
+1556
+01:11:23,760 --> 01:11:26,880
+that you can add in the dov
+
+1557
+01:11:26,880 --> 01:11:31,280
+as well as now bedrock invoke model
+
+1558
+01:11:31,280 --> 01:11:34,280
+>> y
+
+1559
+01:11:36,480 --> 01:11:38,400
+>> are you kidding Carlton or you're a
+
+1560
+01:11:38,400 --> 01:11:39,840
+black American
+
+1561
+01:11:39,840 --> 01:11:42,840
+>> or
+
+1562
+01:11:43,600 --> 01:11:46,000
+black American man, non-married, crowd
+
+1563
+01:11:46,000 --> 01:11:49,520
+job, speak Japanese.
+
+1564
+01:11:49,520 --> 01:11:53,120
+>> I remember when I was at AWS Japan and I
+
+1565
+01:11:53,120 --> 01:11:55,360
+was doing that work, right? And one of
+
+1566
+01:11:55,360 --> 01:11:58,080
+the Japanese Brazilian women figured out
+
+1567
+01:11:58,080 --> 01:12:00,159
+that I actually wasn't married right
+
+1568
+01:12:00,159 --> 01:12:02,719
+now. And she started talking to me and I
+
+1569
+01:12:02,719 --> 01:12:04,159
+I actually told her what happened, you
+
+1570
+01:12:04,159 --> 01:12:06,159
+know, that my wife died. I I say that
+
+1571
+01:12:06,159 --> 01:12:08,800
+I'm still married to her, but and but
+
+1572
+01:12:08,800 --> 01:12:12,000
+she she died and she was so touched and
+
+1573
+01:12:12,000 --> 01:12:14,239
+she's like, "Go to Japan, please. I want
+
+1574
+01:12:14,239 --> 01:12:17,640
+to date you."
+
+1575
+01:12:18,880 --> 01:12:21,520
+Like, I'm not in dating form right now.
+
+1576
+01:12:21,520 --> 01:12:23,520
+Like, I'm not I can't
+
+1577
+01:12:23,520 --> 01:12:24,719
+>> Can I ask you a question about the
+
+1578
+01:12:24,719 --> 01:12:26,000
+culture?
+
+1579
+01:12:26,000 --> 01:12:27,440
+>> Yeah, go ahead.
+
+1580
+01:12:27,440 --> 01:12:30,000
+>> So, I've heard that like the men are
+
+1581
+01:12:30,000 --> 01:12:31,760
+expected to give their paycheck to the
+
+1582
+01:12:31,760 --> 01:12:33,760
+wives and then they give you an
+
+1583
+01:12:33,760 --> 01:12:36,400
+allowance back. Okay. But but you're an
+
+1584
+01:12:36,400 --> 01:12:38,560
+American that would go there. Are you
+
+1585
+01:12:38,560 --> 01:12:41,040
+expected to follow the same tradition or
+
+1586
+01:12:41,040 --> 01:12:44,960
+that's only for nativeborn Japanese men?
+
+1587
+01:12:44,960 --> 01:12:47,120
+>> It matters to what position you are,
+
+1588
+01:12:47,120 --> 01:12:49,040
+what's actually going on with the money,
+
+1589
+01:12:49,040 --> 01:12:50,239
+right? So,
+
+1590
+01:12:50,239 --> 01:12:51,120
+>> okay,
+
+1591
+01:12:51,120 --> 01:12:54,000
+>> if you if you're making quite a lot of
+
+1592
+01:12:54,000 --> 01:12:55,440
+money, which I would suspect you're
+
+1593
+01:12:55,440 --> 01:12:56,640
+going to be doing, you're not really
+
+1594
+01:12:56,640 --> 01:12:58,960
+going to be following that rule,
+
+1595
+01:12:58,960 --> 01:12:59,280
+>> right?
+
+1596
+01:12:59,280 --> 01:13:03,679
+>> Okay. So, but just so you understand, if
+
+1597
+01:13:03,679 --> 01:13:08,640
+you're in Japan, you're on her.
+
+1598
+01:13:08,640 --> 01:13:09,679
+>> Oh, okay.
+
+1599
+01:13:09,679 --> 01:13:13,120
+>> Okay. It's her hood.
+
+1600
+01:13:13,120 --> 01:13:15,280
+It's not your hood. You're a guest in
+
+1601
+01:13:15,280 --> 01:13:18,800
+that hood. So,
+
+1602
+01:13:18,800 --> 01:13:22,400
+>> if she wants to get your salary, she can
+
+1603
+01:13:22,400 --> 01:13:24,159
+get it.
+
+1604
+01:13:24,159 --> 01:13:25,360
+>> Are you serious?
+
+1605
+01:13:25,360 --> 01:13:28,960
+>> Yes. Do you know how she does it? Very
+
+1606
+01:13:28,960 --> 01:13:30,159
+simple.
+
+1607
+01:13:30,159 --> 01:13:32,080
+She just show gets her marriage
+
+1608
+01:13:32,080 --> 01:13:34,400
+contract, goes to your bank and says,
+
+1609
+01:13:34,400 --> 01:13:37,520
+"I'm the wife. I want access to the
+
+1610
+01:13:37,520 --> 01:13:41,560
+account." Done.
+
+1611
+01:13:42,000 --> 01:13:43,760
+She has full rights to your bank
+
+1612
+01:13:43,760 --> 01:13:46,000
+account.
+
+1613
+01:13:46,000 --> 01:13:49,760
+>> So, ju just understand
+
+1614
+01:13:49,760 --> 01:13:53,920
+you're on her turf. You need to
+
+1615
+01:13:53,920 --> 01:13:56,159
+negotiate with her. You're not going to
+
+1616
+01:13:56,159 --> 01:13:58,640
+be able to do something like I have this
+
+1617
+01:13:58,640 --> 01:14:02,080
+right or whatever blah blah blah in the
+
+1618
+01:14:02,080 --> 01:14:02,880
+west.
+
+1619
+01:14:02,880 --> 01:14:04,800
+>> You can't you can't bring American
+
+1620
+01:14:04,800 --> 01:14:07,199
+concepts. You're you're playing the way
+
+1621
+01:14:07,199 --> 01:14:08,239
+game.
+
+1622
+01:14:08,239 --> 01:14:12,000
+>> No, you you cannot. And I'm actually
+
+1623
+01:14:12,000 --> 01:14:15,199
+changing my view of like how how to do
+
+1624
+01:14:15,199 --> 01:14:17,040
+the game of theory with with Japanese
+
+1625
+01:14:17,040 --> 01:14:19,199
+women. I
+
+1626
+01:14:19,199 --> 01:14:22,560
+>> using more rent pill concepts.
+
+1627
+01:14:22,560 --> 01:14:25,440
+You can do it if you're making the
+
+1628
+01:14:25,440 --> 01:14:27,679
+money, but if you have to make sure that
+
+1629
+01:14:27,679 --> 01:14:31,560
+you're actually making the money.
+
+1630
+01:14:32,560 --> 01:14:34,320
+>> Thank you.
+
+1631
+01:14:34,320 --> 01:14:36,719
+Let me recover from this.
+
+1632
+01:14:36,719 --> 01:14:39,760
+>> How do you How do you recover?
+
+1633
+01:14:39,760 --> 01:14:41,840
+>> No, I said let me recover from your
+
+1634
+01:14:41,840 --> 01:14:44,000
+answer.
+
+1635
+01:14:44,000 --> 01:14:45,679
+you
+
+1636
+01:14:45,679 --> 01:14:48,679
+essentially
+
+1637
+01:14:50,560 --> 01:14:53,840
+how I say this otherwise if you're
+
+1638
+01:14:53,840 --> 01:14:56,840
+looking
+
+1639
+01:14:58,320 --> 01:15:01,199
+if you're using money at all in a
+
+1640
+01:15:01,199 --> 01:15:04,800
+relationship in terms of a power dynamic
+
+1641
+01:15:04,800 --> 01:15:10,000
+and if you're have any kind of
+
+1642
+01:15:10,000 --> 01:15:12,560
+like womanizer
+
+1643
+01:15:12,560 --> 01:15:14,560
+or you can get laid in this and that
+
+1644
+01:15:14,560 --> 01:15:17,360
+fashion at all in Japan and you're in
+
+1645
+01:15:17,360 --> 01:15:20,239
+relationship with a like any kind of
+
+1646
+01:15:20,239 --> 01:15:23,440
+standard Japanese woman,
+
+1647
+01:15:23,440 --> 01:15:25,920
+you all I can say to you is you're on
+
+1648
+01:15:25,920 --> 01:15:28,640
+her turf.
+
+1649
+01:15:28,640 --> 01:15:31,840
+Always remember that
+
+1650
+01:15:31,840 --> 01:15:33,760
+you're not you are outside of your
+
+1651
+01:15:33,760 --> 01:15:35,600
+element.
+
+1652
+01:15:35,600 --> 01:15:38,000
+She is by far more powerful than you
+
+1653
+01:15:38,000 --> 01:15:39,600
+are.
+
+1654
+01:15:39,600 --> 01:15:41,600
+Never forget it. doesn't matter how much
+
+1655
+01:15:41,600 --> 01:15:43,760
+money you have. Um,
+
+1656
+01:15:43,760 --> 01:15:45,600
+>> that's devastating, Theo, to have
+
+1657
+01:15:45,600 --> 01:15:47,520
+somebody take your check and give you an
+
+1658
+01:15:47,520 --> 01:15:49,760
+allowance. That's devastating.
+
+1659
+01:15:49,760 --> 01:15:52,159
+>> That that was Japanese culture from like
+
+1660
+01:15:52,159 --> 01:15:53,600
+the 80s.
+
+1661
+01:15:53,600 --> 01:15:54,719
+>> Yeah.
+
+1662
+01:15:54,719 --> 01:15:57,280
+>> It's not just take your paycheck. She
+
+1663
+01:15:57,280 --> 01:15:59,760
+can go in there and get every single yen
+
+1664
+01:15:59,760 --> 01:16:01,760
+that you have that you've saved. No
+
+1665
+01:16:01,760 --> 01:16:03,920
+during the entire time that you there.
+
+1666
+01:16:03,920 --> 01:16:06,080
+>> Yeah. Because it's the remnants of the
+
+1667
+01:16:06,080 --> 01:16:09,040
+high trust society. We trust a woman to
+
+1668
+01:16:09,040 --> 01:16:11,120
+take care of the family, take care of
+
+1669
+01:16:11,120 --> 01:16:13,920
+the house. That was her domain. That was
+
+1670
+01:16:13,920 --> 01:16:17,600
+her job. So [ __ ] was baked into the
+
+1671
+01:16:17,600 --> 01:16:22,560
+culture. And it worked until the ladies
+
+1672
+01:16:22,560 --> 01:16:25,199
+didn't want to stay at home anymore.
+
+1673
+01:16:25,199 --> 01:16:27,760
+They wanted, you know, Japanese style
+
+1674
+01:16:27,760 --> 01:16:31,360
+feminism. But regardless,
+
+1675
+01:16:31,360 --> 01:16:33,679
+>> it's just that's just the game. So
+
+1676
+01:16:33,679 --> 01:16:35,840
+that's why they always said Japanese
+
+1677
+01:16:35,840 --> 01:16:37,920
+chicks are pretty much some of the best
+
+1678
+01:16:37,920 --> 01:16:40,480
+girlfriends, but if it's a wife, it's a
+
+1679
+01:16:40,480 --> 01:16:43,800
+coin flip.
+
+1680
+01:16:44,960 --> 01:16:49,360
+>> Um, they're they're not
+
+1681
+01:16:49,360 --> 01:16:51,120
+you have to be very aware of what you're
+
+1682
+01:16:51,120 --> 01:16:55,040
+dealing with. Just be just
+
+1683
+01:16:55,040 --> 01:16:58,040
+not
+
+1684
+01:16:59,360 --> 01:17:02,480
+know what you're know where you are.
+
+1685
+01:17:02,480 --> 01:17:06,520
+That's the thing. It's just
+
+1686
+01:17:08,719 --> 01:17:12,159
+Anyway, guys, I got to drop. I've got um
+
+1687
+01:17:12,159 --> 01:17:15,760
+next class to do. Had fun. Please do the
+
+1688
+01:17:15,760 --> 01:17:17,440
+modifications. We're going to run the
+
+1689
+01:17:17,440 --> 01:17:19,600
+labs tomorrow. Uh if you want to come
+
+1690
+01:17:19,600 --> 01:17:22,000
+prepared tomorrow, uh make sure that you
+
+1691
+01:17:22,000 --> 01:17:24,000
+have your Dynamo DB up and that you've
+
+1692
+01:17:24,000 --> 01:17:26,400
+actually issued the token. Then we can
+
+1693
+01:17:26,400 --> 01:17:28,159
+go ahead and do this. Okay, good
+
+1694
+01:17:28,159 --> 01:17:31,040
+introduction to sword. Uh, I I won't do
+
+1695
+01:17:31,040 --> 01:17:32,320
+the introduction of the sword tomorrow.
+
+1696
+01:17:32,320 --> 01:17:35,040
+I'll just go straight to lab. Okay. See
+
+1697
+01:17:35,040 --> 01:17:38,880
+you tomorrow. Had a great time. Jenny
+
+1698
+01:17:38,880 --> 01:17:42,199
+paintball boy.

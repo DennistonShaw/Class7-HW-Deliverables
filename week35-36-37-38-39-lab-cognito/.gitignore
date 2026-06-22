@@ -50,6 +50,10 @@ venv/
 # Local scratch files just something with sensitive data that should not be committed
 scratch-pad.txt
 
+# Local environment variables / secrets
+.env.local
+.env
+
 # local-only token/curl output, never pushed to GitHub, safe to delete anytime
 token-output-local.txt
 *token-output*.txt
