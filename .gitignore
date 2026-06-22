@@ -46,6 +46,10 @@ scratch-pad.txt
 token-output-local.txt
 *token-output*.txt
 
+# Local environment variables / secrets
+.env.local
+.env
+
 # draw.io backup/temp files
 *.drawio.bkp
 *.drawio.tmp
